@@ -1,0 +1,413 @@
+﻿[TYPE  Case Report](https://www.frontiersin.org/journals/psychiatry#editorial-board)![](2oakjqcn.001.png)![](2oakjqcn.002.png)![](2oakjqcn.003.png)![](2oakjqcn.004.png)
+
+[PUBLISHED  07 August 2023](https://www.frontiersin.org/journals/psychiatry#editorial-board)
+
+[DOI  10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry) 1 frontiersin.org
+
+![](2oakjqcn.005.png)
+
+OPEN ACCESS
+
+EDITED BY
+
+Salman Zubedat,  
+
+Technion Israel Institute of Technology, Israel
+
+REVIEWED BY
+
+Tsuyoshi Sasaki,  
+
+Chiba University, Japan
+
+Liu Yueying,  
+
+Affiliated Hospital of Jiangnan University, China
+
+\*CORRESPONDENCE
+
+Satoshi Kasahara  
+
+![](2oakjqcn.006.png)[ namahagenator@gmail.com](mailto:namahagenator@gmail.com)
+
+RECEIVED 12 May 2023 ACCEPTED 24 July 2023 PUBLISHED 07 August 2023
+
+CITATION
+
+Kasahara S, Takahashi M, Morita T, Matsudaira K, Sato N, Momose T, Niwa S-I and Uchida K (2023) Case report: Atomoxetine improves chronic pain with comorbid post- traumatic stress disorder and attention deficit hyperactivity disorder.
+
+*Front. Psychiatry* 14:1221694.
+
+[doi: 10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+COPYRIGHT
+
+' 2023 Kasahara, Takahashi, Morita, Matsudaira, Sato, Momose, Niwa and Uchida. This is an open-access article distributed under the terms of the Cr[eative Commons Attribution License (CC BY).](http://creativecommons.org/licenses/by/4.0/) The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+[Case report: Atomoxetine improves chronic pain with comorbid post-traumatic stress disorder and attention deficit hyperactivity disorder](https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1221694/full)
+
+Satoshi Kasahara 1,2\*, Miwako Takahashi 3, Taito Morita 1, Ko Matsudaira 2, Naoko Sato 4, Toshimitsu Momose 5, Shin-Ichi Niwa 6 and Kanji Uchida 1
+
+1 Department of Anesthesiology and Pain Relief Center, The University of Tokyo Hospital, Tokyo, Japan, 2 Department of Pain Medicine, Fukushima Medical University School of Medicine, Fukushima, Japan, 
+
+3 Institute for Quantum Medical Science, National Institutes for Quantum Science and Technology (QST), Chiba, Japan, 4 Nursing Department, The University of Tokyo Hospital, Tokyo, Japan, 5 Institute of Engineering Innovation, School of Engineering, The University of Tokyo, Tokyo, Japan, 6 Department of Psychiatry, Aizu Medical Center, Fukushima Medical University, Fukushima, Japan
+
+Background: It is known that patients reporting chronic pain often experience trauma or post-traumatic stress disorder (PTSD) and tend to be more difficult to treat. Attention deficit hyperactivity disorder (ADHD), a neurodevelopmental disorder,  is  frequently  associated  with  chronic  pain.  Furthermore,  patients diagnosed with ADHD are more likely to encounter trauma and develop PTSD because of their inattentive and impulsive tendencies. There are reports stating that atomoxetine (ATX), a selective noradrenaline reuptake inhibitor for ADHD, is effective in patients diagnosed with PTSD and ADHD. However, there have been no reports on cases of comorbid PTSD and ADHD with chronic pain, and ATX s potential in improving chronic pain coexisting PTSD. Furthermore, no reports have evaluated patient cerebral blood flow in conjunction with the course of treatment with ATX for chronic pain.
+
+Case report:  In  this  study,  we  reported  a  case  where  ATX  improved  chronic pain with PTSD and improved cerebral blood flow. The patient was a 56-year- old woman exhibiting chronic pain with PTSD, resulting from 6 years of severe domestic violence from her common-law husband. She had no history of ADHD diagnosis, but through aggressive screening, comorbid ADHD was diagnosed. When treated with ATX, there were significant improvements in her pain, quality of life, anxiety, depression, catastrophic thoughts, and cerebral blood flow. As a result, she could resume work after 11 years.
+
+Conclusion: The study showed that chronic pain with PTSD may be comorbid with ADHD. Moreover, we found that ATX can improve chronic pain with PTSD and cerebral blood flow. Aggressive screening of ADHD is important because once the diagnosis of comorbidity is confirmed, an ideal ADHD treatment can be selected. Therefore, based on the results of this study, ATX may be a candidate for treatment for cases of chronic pain with PTSD and ADHD.
+
+KEYWORDS
+
+atomoxetine, attention deficit hyperactivity disorder, cerebral blood flow, chronic pain, post-traumatic stress disorder, single-photon emission computed tomography
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry)  frontiersin.org
+
+Kasahara et al. 
+
+1. Introduction
+
+Patients experiencing chronic pain are known to have encountered traumatic experiences and/or have developed post-traumatic stress disorder (PTSD).  e treatment of such patients tends to be difficult because they usually exhibit severe pain, PTSD symptoms, anxiety, depression,  functional  impairment,  and  greater  opioid  use  ([1)](#_page6_x61.00_y301.89). Attention  deficit  hyperactivity  disorder  (ADHD),  a neurodevelopmental disorder, is frequently associated with chronic pain, and the two are closely related ([2](#_page6_x61.00_y321.89) [8)](#_page6_x61.00_y505.89). Furthermore, ADHD increases  the  chances  of  developing  PTSD  a er  experiencing  a traumatic  event  because  the  individual  exhibits  inattentive  and impulsive tendencies ([9](#_page6_x61.00_y533.89)).
+
+Of note, patients diagnosed with PTSD and ADHD are more likely to show cognitive dysfunctions in attention, working memory, executive function, and impulse control ([10,](#_page6_x61.00_y569.89) [11)](#_page6_x61.00_y597.89), and present with functional somatic syndromes ([9](#_page6_x61.00_y533.89)).  e publication   e Body Keeps 
+
+the Score,  reported that almost all of the 12 children who had suffered domestic abuse and visited the children s clinic at the Massachusetts Mental Health Center had a previous diagnosis of ADHD ([12](#_page6_x61.00_y633.89)). A meta-analysis between ADHD and PTSD showed that an ADHD diagnosis was associated with a four-fold increase in the risk of developing PTSD. Conversely, encountering traumatic experiences culminating in the development of PTSD was associated with a two-fold increase in risk of having comorbid ADHD ([9](#_page6_x61.00_y533.89)). A recent genome-wide association study of 11 major psychiatric disorders, including ADHD, autism spectrum disorder, schizophrenia, mood disorders, and obsessive compulsive disorder, showed that ADHD and PTSD were the most closely genetically correlated [(13](#_page6_x61.00_y653.89)).  erefore, 
+
+it  has  been  suggested  that  ADHD  and  PTSD  share  a  common neurobiological pathology ([9](#_page6_x61.00_y533.89)). While patients with PTSD and ADHD are more difficult to treat, more likely to drop out of treatment, and tend to exhibit severe cognitive dysfunction, it was shown that the ADHD drug, atomoxetine (ATX), is effective in patients diagnosed with both disorders ([10](#_page6_x61.00_y569.89)).
+
+To our knowledge, there are no previous reports on comorbidity of chronic pain with PTSD and ADHD, therapeutic potential of ATX in  improving  cases  of  chronic  pain  with  coexisting  PTSD,  and evaluation of cerebral blood flow in conjunction with the course of treatment for chronic pain with ATX. However, if chronic pain with PTSD is associated with ADHD, and if that pain and brain function can be improved with ADHD medications, it could provide an entirely novel solution against pain, thus, helping patients who are refractory to treatment. In this study, we present a case, in which ATX improved chronic pain with PTSD and improved cerebral blood flow.
+
+2. Case description
+
+` `e patient was a 56-year-old woman (height, 157 cm; weight,     45 kg); she had no childhood experiences of abuse or trauma and was an active girl with many friends. She graduated from high school and worked in an office until she married at the age of 22 years. No relevant medical  history  was  reported  in  her  family.  She  had  a  caring personality  and  took  pleasure  in  helping  others.  She  was  in  an adulterous relationship with her common-law husband, Mr. A, since 1995; she divorced her legal husband in 1998 because of being a victim of domestic violence (DV) and his relationships with other women.
+
+[10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+` `e patient s chief complaints were facial pain, headache between the eyebrows, and pain in the right upper extremity, which occurred at the site of another DV beating by Mr. A over a 6-year period from 1996 to 2002. Mr. A s DV was severe, and approximately every 3 days he would repeatedly hit the patient all over her body with an iron pipe or strike her in the face with his fists.  e patient could not leave him because of her responsibilities for debts of the company she ran with Mr. A. In January 2002, Mr. A was arrested and sentenced to 10 years in prison for repeated and prolonged sexual assaults on the patient s daughter (who lived with them), and for confinement and attempting poisoning of the patient s mother. On March 7, 2002, the patient s mother was admitted to another hospital for treatment.  e patient and her daughter were taken into custody and visited our hospital for physical and mental medical care.
+
+2\.1. Diagnostic assessments
+
+` `is study was conducted in accordance with the World Medical Association s  Declaration  of  Helsinki  and  was  approved  by  the Research Ethics Committee of Tokyo University Hospital (approval no. 3678). Written informed consent was obtained from the individual for the publication of any potentially identifiable data included in this article.
+
+` `e patient was observed by a general internal medicine specialist, neurosurgeon,  ophthalmologist,  orthopedist,  and  psychosomatic physician. She was diagnosed with generalized bruising, le  periretinal degeneration due to eye contusion, PTSD, psychosomatic headache, and insomnia; weekly counseling and regular psychosomatic treatment were prescribed. She received treatment at our hospital for 7 years. However, the pain in her face and right upper extremity persisted with no identifiable root cause. Hence, she was referred to our pain clinic in 2009. She was treated with trigger point injections and amitriptyline with no signs of improvement. For a prolonged period, she experienced catastrophic thoughts of being unable to bear the pain when she went out, supplemented with flashbacks and fears of her husband tracking her when he would be released from prison a er serving his sentence. Hence, she was unemployed, stayed at home, receiving welfare benefits. Her 7-year treatment in our clinic included pregabalin, nortriptyline, paroxetine, fluvoxamine, sertraline, milnacipran, sulpiride, quetiapine, perospirone, chlorpromazine, and levomepromazine administration, but did not exhibit any improvement.  erefore, she was referred to SK, 
+
+a psychiatrist in the pain clinic on April 27, 2016.
+
+Patient visited the pain clinic once a month, completed the questionnaires described below each time, and received feedback from SK on the results. Subjective pain intensity was assessed using the numerical  rating  scale  (NRS)  ([14](#_page6_x61.00_y689.89)).  For  the  minimum  clinically important differences (MCID), a decrease of  2 points in the NRS was considered either substantial or optimal ([15)](#_page6_x61.00_y717.89). Health-related aspects of  quality  of  life  (QoL)  were  evaluated  using  the  EuroQoL-5 Dimension  (EQ-5D)  ([16](#_page6_x61.00_y745.89),  [17](#_page6_x316.00_y301.89));  scores  of  0,  1.0,  and  0.08  points indicated death, perfect health, and MCID, respectively [(18](#_page6_x316.00_y321.89)). Anxiety and depression symptoms were assessed using the Hospital Anxiety and Depression Scale-Anxiety/Depression (HADS-A/D) ([19](#_page6_x316.00_y358.89)); a score of  11 points was considered clinical level (2[0),](#_page6_x316.00_y378.89) and MCID on the HADS was 1.5 points [(21](#_page6_x316.00_y406.89)). Pain-related catastrophizing thoughts were assessed using the Pain Catastrophizing Scale (PCS) [(22](#_page6_x316.00_y434.89)); a score of  30 points represented the 75th percentile or higher in distribution 
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry) 2 frontiersin.org
+Kasahara et al.  [10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+of scores in chronic pain patients, with an MCID of 6.48 points [(18](#_page6_x316.00_y321.89)).  scores exceeded by 65 points and her ADHD symptoms were assessed Each symptom of PTSD (Intrusion, Avoidance, Hyperarousal) was  as being at the clinical psychiatric level [(Figure 3](#_page4_x39.00_y73.89)). Since childhood, assessed using the Impact of Event Scale-Revised (IES-R)[ (23](#_page6_x316.00_y455.89)) and  she had been easily distracted, had difficulty in reading, and was the severity was assessed using the Post-traumatic Diagnostic Scale (PDS)  most forgetful in class. She was o en bullied for forgetting and failing ([24](#_page6_x316.00_y491.89)). For the IES-R, a total score of   25 points was considered as  to follow rules when playing with friends. She was diagnosed with positive PTSD screening score, and for the PDS, a score of   36 points  combined type ADHD and she satisfied six out of nine DSM-5 ADHD indicated severe PTSD. diagnostic criteria for inattention and five out of nine criteria for 
+
+` `e patient s average NRS for facial pain, headache, and right  hyperactivity-impulsivity.
+
+upper extremity pain at the first visit was 6/10, with an EQ-5D score 
+
+of 0.612, HADS-A score of 17/21, HADS-D score of 15/21, PCS score 
+
+of 48/52, and IES-R and PDS scores of 68 and 43 points, respectively  2.2. Therapeutic interventions and 
+
+([Figures 1](#_page2_x39.00_y469.89),[ 2](#_page3_x39.00_y73.89)). outcomes
+
+A structured interview-the Mini-International Neuropsychiatric 
+
+Interview ([25](#_page6_x316.00_y519.89)), was conducted to differentiate between comorbid  On  Day  74,  single-photon  emission  computed  tomography psychiatric disorders. She did not experience a major depressive  (SPECT) was performed prior to treatment initiation. 99mTc-ethyl episode  with  melancholy-type  features  such  as  hypochondriac  cysteinate dimer (ECD; Fujifilm RI Pharma, Tokyo, Japan) at a dose delusions, manic episodes, obsessive compulsive disorder, or psychotic  of 740 MBq was administered to the patient resting in a supine disorder. Based on the DSM-5 [(26](#_page6_x316.00_y555.89)) criteria, the patient was diagnosed  position in a quiet room with her eyes closed. At 10 min post-injection, with somatic symptom disorder (pain as the primary symptom). SPECT was performed for 30 min with a triple-head gamma camera 
+
+During the examination, the patient talked a lot. However, her  (GCA-9300R; Canon Medical Systems Corp, Tochigi, Japan).  e attention  was  easily  diverted,  topic  was  easily  sidetracked,  and  results showed hypoperfusion in the bilateral prefrontal and temporal consultation exceeded the scheduled time. A er the consultation, she  cortex ([Figure 4](#_page5_x39.00_y73.89)).
+
+le  her insurance card and prescriptions behind. Additionally, she  On Day 74, administration of methylphenidate 18 mg/day was used to fiddle with her hair and fidget with her hands as she spoke. As  discontinued owing to adverse side effects. Day 96 involved switching ADHD has been reported to coexist frequently with chronic pain ([2](#_page6_x61.00_y321.89)),  from methylphenidate to ATX (40 mg/day). On Day 124, she could go SK suspected ADHD co-morbidity in this patient, and conducted  out only when invited by friends. On Day 145, ATX increased to ADHD symptom assessment and diagnosis confirmation from Day 1  60 mg/day, rendering her able to tidy the house for the first time in to Day 74. ADHD symptoms were assessed using the Conners  Adult  several years. On Day 166, ATX further increased (80 mg/day). On Day ADHD Rating Scale (CAARS); self-report (CAARS-S) and observer  245, she started socializing more and called her friends for the first time forms  (CAARS-O)  [(27](#_page6_x316.00_y584.89))  were  completed  by  the  patient  and  her  in 15 years and chatted happily, researched qualification exams, and daughter, respectively. According to the CAARS results, her subscale  searched for part-time work. She stated that she cried a er watching 
+
+![](2oakjqcn.007.jpeg)
+
+<a name="_page2_x39.00_y469.89"></a>FIGURE 1![](2oakjqcn.008.png)
+
+Course of treatment and objective/subjective parameters. (A) Pain NRS average; (B) EQ-5D; (C) HADS; and (D) PCS. ATX, atomoxetine; D, day; EQ-5D, euro QoL 5 Dimension; GF, guanfacine; HADS-A/D, Hospital Anxiety and Depression Scale-Anxiety/Depression; IES-R, Impact of Event Scale-Revised; MP, methylphenidate; NRS, numerical rating scale; PCS, Pain Catastrophizing Scale; PDS, Posttraumatic Diagnostic Scale; SPECT, single-photon emission computed tomography.
+
+![](2oakjqcn.009.jpeg)
+
+<a name="_page3_x39.00_y73.89"></a>FIGURE 2![](2oakjqcn.010.png)
+
+Changes in the IES-R and PDS scores along the course of treatment. IES-R, Impact of Event Scale-Revised; PDS, Posttraumatic Diagnostic Scale, PTSD, post-traumatic stress disorder.
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry) 4 frontiersin.org
+Kasahara et al.  [10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+TV dramas and revealed the return of real emotions. Her ATX dose increased to 90 mg/day, while on Day 273, the dose further increased (100 mg/day) as she stated that although her brother was hospitalized in critical condition, she no longer felt so depressed and could go visit him even though her face hurt. On Days 329 and 357, ATX further increased to 110 mg/day and 120 mg/day, respectively. She stated that she could move around despite the pain, concentrate on reading, and perform things as planned.  erea er, ATX was maintained at a high dose (approximately 90 120 mg/day) until Day 1,288, with gradual improvement in each pain-related scale score reported.
+
+On Day 894, the NRS, EQ-5D, HADS and PCS scores showed clinically significant improvements beyond MCID.  e CAARS was performed for a second time, and we found that the scores on all subscales had improved to the normal range. On Day 959 she could return to work for the first time in 11 years. However, during the period of high ATX doses (Day 329 Day 1,288), she o en took ATX intermittently due to experiencing side effects of nausea, weight loss, and hyperhidrosis. When she stopped taking ATX, her conversations during consultations were again derailed and diffused. Results of each pain-related scale worsened, and the progress graphs o en showed large, repeated waves of fluctuation.
+
+On Day 1,288, she wanted to switch medicines due to ATX painful nausea side effects. Hence, 2 mg/day of guanfacine was added to 110 mg/day of ATX. However, the experience of various side effects, including low blood pressure, dizziness, and weight gain, resulted in the self-discontinuation of ATX with guanfacine.  erea er, each pain-related scale score worsened. When ATX was resumed at 40 mg/ day  on  Day  1,470,  each  scale s  scores  were  improved.  ATX administration was maintained at a low dose of 40 mg/day from Day 1,470 to Day 2,336, which resulted in sustained improvement in pain- related symptoms. On Day 1727, the CAARS was performed a third time and the IES-R, PDS, and SPECT were performed for a second time; on Day 2,289, the results of fourth CAARS and third IES-R, PDS, and SPECT showed improvement from the previous ones.
+
+2\.3. Patient perspective
+
+She stated that she had felt a strong sense of guilt regarding receiving unemployment benefits for many years. Now she could 
+
+work, contribute to society, and regain her self-confidence. She also expressed gratitude, saying,   e diagnosis of ADHD in the course of pain treatment was unexpected but very helpful in getting to know myself better. 
+
+3. Discussion
+
+To the best of our knowledge, this is the first reported case of ADHD coexisting with chronic pain accompanied by PTSD. It is reported that in psychiatric practices, the diagnosis of more than 80% of adult ADHD cases is missed [(28](#_page6_x316.00_y604.89)). As cases of chronic pain with PTSD are o en assigned to pain clinicians or orthopedic surgeons who are unfamiliar with ADHD treatment, ADHD comorbid with chronic pain is more likely to be overlooked. Hence, in cases of chronic pain with comorbid PTSD, aggressive screening for ADHD should be considered. In the present case, ADHD comorbidity was highly suspected by screening using CAARS, although there was no previous diagnosis of ADHD.
+
+` `e  patient s  tendency  to  be  caring  and  over-indulgent  corresponds  to  the  hyperactivity  and  impulsivity  component  of ADHD, and her  inability to organize her thoughts quickly and cause an argument to defend herself against an attack  corresponds to the inattentiveness symptoms of ADHD.  ese symptoms of ADHD accompanied by low self-esteem (CAARS-S/O subscale D. Problems with Self-Concept) were presumed to have triggered DV both from her legal husband and Mr. A. It is known that at the site of a DV-related injury, excessive muscle tension can occur in anticipation to reduce the impact of the next violence, resulting in pain ([29](#_page6_x316.00_y632.89)). In this case, the patient developed chronic pain in the face, head, and right upper limb, consistent with the DV injury sites.
+
+In this case, ATX, an ADHD treatment, improved chronic pain with PTSD.  e relationship between prefrontal cortex performance and  noradrenaline  (NA)  and  dopamine  (DA)  levels  follows  an  Inverted U-shaped  function. Maximal performance is achieved when both neurotransmitters are in moderation (3[0).](#_page6_x316.00_y652.89) ATX inhibits NA transporters in the prefrontal cortex and moderates NA and DA transmission, thereby enhancing the prefrontal cortex performance and improving ADHD symptoms ([30)](#_page6_x316.00_y652.89). Furthermore, the prefrontal cortex is also functionally coupled with the descending pain inhibitory 
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry) 5 frontiersin.org
+Kasahara et al.  [10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+![](2oakjqcn.011.jpeg)
+
+<a name="_page4_x39.00_y73.89"></a>FIGURE 3![](2oakjqcn.012.png)
+
+Changes in the CAARS scores along the course of treatment. (A) CAARS-S; (B) CAARS-O. ADHD, Attention-Deficit/Hyperactivity Disorder; CAARS-S/O, Conners  Adult ADHD Rating Scale Self-report/Observer rated; and DSM-IV, Diagnostic and Statistical Manual of Mental Disorders, fourth edition.
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry) 6 frontiersin.org
+Kasahara et al.  [10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+system, acting as a virtual filter to reduce unpleasant sensations like pain and itching ([31,](#_page6_x316.00_y673.89) [32)](#_page6_x316.00_y709.89).  erefore, ATX has been reported to improve chronic pain associated with ADHD ([7](#_page6_x61.00_y469.89),[ 33](#_page6_x316.00_y737.89)).
+
+Exposure to intense chronic stress, such as PTSD, causes phasic over-firing of NA and DA in the prefrontal cortex, exacerbating anxiety, and inattention due to hyperarousal. However,  long-term treatment  with ATX restores tonic neurotransmission of NA and DA in the prefrontal cortex, down-regulates phasic over-transmission of NA and DA, and desensitizes postsynaptic NA and DA receptors. As a result, the prefrontal cortex performance is increased, hyperarousal- generated  anxiety  is  reduced,  and  ADHD-related  symptoms  are improved ([30](#_page6_x316.00_y652.89)). In addition to improvements in CAARS, in our case, the ATX also improved scores on the IES-R sub-scales  Intrusion,  
+
+reflecting excessive attention to repetitive and intrusive trauma-related thoughts, and  Hyperarousal,  reflecting over-arousal. Our findings suggest that the improvement of chronic pain with PTSD with ATX is consistent with the theoretical pharmacological effects of ATX as described above.
+
+` `e improvement in pain scores reported by the NRS and HADS was associated with higher ATX doses (90 120 mg/day). However, ATX administration was intermittent because of side effects and fluctuations recorded on each scale. When ATX was re-entered at a lower dose of 40 mg/day from Day 1,470 to Day 2,336, the degree of improvement was more modest than that at higher doses. Treatment was not interrupted and was maintained for longer periods, which resulted  in  improvements  in  pain-related  measures,  ADHD 
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry)  frontiersin.org
+Kasahara et al. 
+
+[10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+![](2oakjqcn.013.jpeg)
+
+FIGURE 4![](2oakjqcn.014.png)
+
+Representative images of cerebral blood flow (CBF) SPECT. The voxel values are normalized by the average counts-per-voxel in the cerebellum being 50, then the color ranges from 0 to 60. The left image is a coronal view, indicating the slice levels of the right three axial images by dashed lines. CBF-SPECT on day 74 before treatment (A) shows bilateral frontal hypoperfusion (dashed curves), which is improved on day 1727 (B) and on day 2289 (C) during low-dose atomoxetine administration. SPECT, single-photon emission computed tomography.
+
+symptoms, and PTSD symptoms.  e recommended ATX dose for adults is 80 120 mg/day ([34](#_page7_x61.00_y74.89)), but when significant side effects emerge, a  lower  dose  (e.g.,  40 mg/day)  with  emphasis  on  long-term maintenance  may lead to more stable improvements.
+
+In the present case, along with the improvement in chronic pain with PTSD by ATX, there was also an improvement in cerebral blood flow, which, to our knowledge, is an insight that is firstly described. Functional brain imaging studies of patients with PTSD have reported hypo-reactivity of the medial prefrontal cortex,  hyper-reactivity  of  the  amygdala,  and  abnormal hippocampal  responses  ([35)](#_page7_x61.00_y102.89).  As  impaired  prefrontal  cortex performance in patients with PTSD is regulated via NA and DA balance, it was thought that ATX may be successful in treating chronic  pain  associated  with  PTSD.  Evidence  for  this  was observed in the improvement of blood flow in the prefrontal cortex in three SPECT sessions conducted in our case, following ATX treatment. Previous studies using SPECT of ATX have reported that ATX reduced the bioavailability of DAT in the striatum in adolescents with ADHD ([36](#_page7_x61.00_y122.89)) and increased cortical blood flow in the affected area in aphasia after stroke [(37](#_page7_x61.00_y158.89)). In the present case, SPECT showed blood flow improvement in both striatum and cortex, which was consistent with previous studies. Changes in SPECT images observed in parallel with the course of treatment in the present case suggest that SPECT could be an objective  measure  of  the  effectiveness  of  chronic  pain treatment ([38](#_page7_x316.00_y74.89)).
+
+` `ere are three limitations to this study. First, the improvement in       cerebral blood flow in this case may not only reflect the effect of ATX, but  also  be  attributed  to  the  patient s  resumption  of  work  and 
+
+<a name="_page5_x39.00_y73.89"></a>reintegration into society. Second, as the course of treatment in this case was 6.5 years, the idea that the long passage of time since the onset of DV may have naturally reduced PTSD symptoms, which in turn may have improved pain, ADHD symptoms, and cerebral blood flow,  should  not  be  fully  ruled  out.  ird,  prolonged  exposure, cognitive processing therapy, eye movement desensitization, and reprocessing therapy are usually recommended as treatments for PTSD [(39](#_page7_x316.00_y102.89)). However, it has been noted that patients with PTSD tend to be less focused to receive these therapies in the first place, are less likely to benefit from them, and are more likely to drop out of treatment  ([9](#_page6_x61.00_y533.89),  [10](#_page6_x61.00_y569.89)).  Moreover,  because  this  tendency  is  more pronounced in cases of PTSD with ADHD, it has been suggested that ADHD medications should be used prior to receiving PTSD-specific treatment. In addition, as comorbid PTSD and ADHD can mutually exacerbate each other s symptoms, it can be expected that medication for ADHD will also reduce PTSD symptoms [(10](#_page6_x61.00_y569.89),[ 40](#_page7_x316.00_y130.89)). Furthermore, it has been noted that there is a lack of psychologists in chronic pain healthcare settings, such as outpatient pain clinics, who are able to provide specialized treatment for PTSD ([41](#_page7_x316.00_y158.89)).  erefore, medication for cases of PTSD with comorbid ADHD, as that presented in this report, could be an important treatment approach.
+
+4. Conclusion
+
+` `is study showed that chronic pain with PTSD may be comorbid      with ADHD, and that ATX can improve cerebral blood flow and chronic pain associated with PTSD. Although the diagnosis of ADHD comorbid with chronic pain is easily missed, aggressive screening is important because once the diagnosis of comorbidity is confirmed, the option of an ADHD treatment, such as ATX, can be selected. Based on our results, ATX may be an ideal candidate for treatment for chronic pain a er PTSD with ADHD. However, to our knowledge, this is the only case report reporting an association between chronic pain a er PTSD and ADHD. Further research is needed to establish the inter-relationship between these disorders and their treatment.
+
+Data availability statement
+
+` `e original contributions presented in the study are included in the  article,  further  inquiries  can  be  directed  to  the corresponding author.
+
+Ethics statement
+
+` `is study was approved by the Research Ethics Committee of Tokyo University Hospital (approval no. 3678).  Written informed consent was obtained from the patient for the publication of this case report.
+
+Author contributions
+
+SK, S-IN, and KM conceived the work and interpreted the data. SK, MT, and NS collected the data. SK, MT, and ToM managed the data. SK, 
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry) 7 frontiersin.org
+Kasahara et al. 
+
+[10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+MT, and TaM dra ed the manuscript. SK, TaM, S-IN, and KU prepared the final manuscript. All authors approved the final manuscript.
+
+Funding
+
+` `is  study  was  supported  by  a  Grant-in-Aid  for  Scientific Research (C) from the Japan Society for the Promotion of Science (grant number JP20K07755).
+
+Acknowledgments
+
+We would like to thank Editage ([www.editage.com](https://www.editage.com/)) for English language editing.
+
+Conflict of interest
+
+` `e authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher s note
+
+All claims expressed in this article are solely those of the authors and  do  not  necessarily  represent  those  of  their  affiliated organizations,  or  those  of  the  publisher,  the  editors  and  the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry) 8 frontiersin.org
+Kasahara et al. 
+
+[10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+References
+
+1. Kind<a name="_page6_x61.00_y301.89"></a> S, Otis JD.  e interaction between chronic pain and PTSD.  Curr Pain  17<a name="_page6_x316.00_y301.89"></a>. Balestroni G, Bertolotti G. EuroQol-5D (EQ-5D): an instrument for measuring 
+
+Headache Rep. (2019) 23:91. doi:[ 10.1007/s11916-019-0828-3](https://doi.org/10.1007/s11916-019-0828-3) quality of life. Monaldi Arch Chest Dis. (2012) 78:155 9. doi:[ 10.4081/monaldi.2012.121](https://doi.org/10.4081/monaldi.2012.121)
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry)  frontiersin.org
+Kasahara et al. 
+
+[10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+2. Kasahara<a name="_page6_x61.00_y321.89"></a> S, Niwa SI, Matsudaira K, Sato N, Oka H, Yamada Y. Attention-deficit/
+
+<a name="_page6_x316.00_y321.89"></a>hyperactivity disorder and chronic pain. Psychosom Med. (2020) 82:346 7. doi:[ 10.1097/ PSY.0000000000000789](https://doi.org/10.1097/PSY.0000000000000789)
+
+3. Kasahara S, Matsudaira K, Sato N, Niwa SI. Pain and attention-deficit/hyperactivity 
+
+<a name="_page6_x316.00_y358.89"></a>disorder: the case of Margaret Mitchell. Psychosom Med. (2021) 83:492 3. doi:[ 10.1097/ PSY.0000000000000947](https://doi.org/10.1097/PSY.0000000000000947)
+
+4. Kasahara S, Takahashi K, Matsudaira K, Sato N, Fukuda KI, Toyofuku A, et al. 
+
+<a name="_page6_x316.00_y378.89"></a>Diagnosis and treatment of intractable idiopathic orofacial pain with attention-deficit/ hyperactivity disorder. Sci Rep. (2023) 13:1678. do[i: 10.1038/s41598-023-28931-3](https://doi.org/10.1038/s41598-023-28931-3)
+
+5. Kasahara S, Matsudaira K, Sato N, Niwa SI. Attention-deficit/hyperactivity disorder 
+
+<a name="_page6_x316.00_y406.89"></a>and centralized pain: a review of the case of John F Kennedy. Clin Case Rep. (2022) 10:e6422. doi:[ 10.1002/ccr3.6422](https://doi.org/10.1002/ccr3.6422)
+
+6. Kasahara S, Niwa SI, Matsudaira K, Sato N, Oka H, Fujii T, et al. High attention-
+
+<a name="_page6_x316.00_y434.89"></a>deficit/hyperactivity disorder scale scores among patients with persistent chronic nonspecific low back pain. Pain Phys. (2021) 24:E299 307. doi:[ 10.36076/ppj.2021/24/ E299](https://doi.org/10.36076/ppj.2021/24/E299)
+
+7. Kasahara S, Takao C, Matsudaira K, Sato N, Tu TTH, Niwa SI, et al. Case report: 
+
+treatment of persistent atypical odontalgia with attention deficit hyperactivity disorder and autism spectrum disorder with risperidone and atomoxetine. Front Pain Res. (2022) <a name="_page6_x316.00_y491.89"></a>3:926946. doi:[ 10.3389/fpain.2022.926946](https://doi.org/10.3389/fpain.2022.926946)
+
+8. Zain E, Sugimoto A, Egawa J, Someya T. Case report: methylphenidate improved 
+
+chronic pain in an adult patient with attention deficit hyperactivity disorder.  Front Psych. <a name="_page6_x316.00_y519.89"></a>(2023) 14:1091399. do[i: 10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+9. Spencer AE, Faraone SV, Bogucki OE, Pope AL, Uchida M, Milad MR, et al. 
+
+Examining the association between posttraumatic stress disorder and attention-deficit/ hyperactivity disorder: a systematic review and meta-analysis. J Clin Psychiatry. (2016) <a name="_page6_x316.00_y555.89"></a>77:72 83. doi: [10.4088/JCP.14r09479](https://doi.org/10.4088/JCP.14r09479)
+
+10. Wang Z, Zuschlag ZD, Myers US, Hamner M. Atomoxetine in comorbid ADHD/
+
+PTSD: a randomized, placebo controlled, pilot, and feasibility study. Depress Anxiety. <a name="_page6_x316.00_y584.89"></a>(2022) 39:286 95. doi:[ 10.1002/da.23248](https://doi.org/10.1002/da.23248)
+
+11. Rehman Y, Zhang C, Ye H, Fernandes L, Marek M, Cretu A, et al.  e extent of the 
+
+<a name="_page6_x316.00_y604.89"></a>neurocognitive impairment in elderly survivors of war suffering from PTSD: meta- analysis  and  literature  review.  AIMS  Neurosci.  (2021)  8:47 73.  doi:  [10.3934/ Neuroscience.2021003](https://doi.org/10.3934/Neuroscience.2021003)
+
+12. van der Kolk B. e body keeps the score: mind, brain and body in the transformation 
+
+of trauma. London: Penguin (2014).
+
+13. <a name="_page6_x316.00_y652.89"></a>Grotzinger AD, Mallard TT, Akingbuwa WA, Ip HF, Adams MJ, Lewis CM, et al. 
+
+Genetic architecture of 11 major psychiatric disorders at biobehavioral, functional genomic and molecular genetic levels of analysis. Nat Genet. (2022) 54:548 59. doi: <a name="_page6_x316.00_y673.89"></a>[10.1038/s41588-022-01057-4](https://doi.org/10.1038/s41588-022-01057-4)
+
+14. Jensen MP, Karoly P. Self-report scales and procedures for assessing pain in adults 
+
+In: DC Turk and R Melzack, editors. Handbook of pain assessment, vol. 3. 3rd ed. New York: Guilford Press (2011). 19 44.
+
+15. <a name="_page6_x316.00_y709.89"></a>Salaffi  F,  Stancati  A,  Silvestri  CA,  Ciapetti  A,  Grassi  W.  Minimal  clinically 
+
+important changes in chronic musculoskeletal pain intensity measured on a numerical rating scale. Eur J Pain. (2004) 8:283 91. doi:[ 10.1016/j.ejpain.2003.09.004](https://doi.org/10.1016/j.ejpain.2003.09.004)
+
+16. <a name="_page6_x316.00_y737.89"></a>Dolan  P.  Modeling  valuations  for  EuroQol  health  states.  Med  Care.  (1997) 
+
+35:1095 108. doi: [10.1097/00005650-199711000-00002](https://doi.org/10.1097/00005650-199711000-00002)
+
+18. Suzuki H, Aono S, Inoue S, Imajo Y, Nishida N, Funaba M, et al. Clinically 
+
+significant changes in pain along the pain intensity numerical rating scale in patients with chronic low back pain. PLoS One. (2020) 15:e0229228. doi:[ 10.1371/journal. pone.0229228](https://doi.org/10.1371/journal.pone.0229228)
+
+19. Zigmond AS, Snaith RP.  e hospital anxiety and depression scale. Acta Psychiatr 
+
+Scand. (1983) 67:361 70. doi:[ 10.1111/j.1600-0447.1983.tb09716.x](https://doi.org/10.1111/j.1600-0447.1983.tb09716.x)
+
+20. Bjelland I, Dahl AA, Haug TT, Neckelmann D.  e validity of the hospital anxiety 
+
+and depression scale. An updated literature review. J Psychosom Res. (2002) 52:69 77. doi: [10.1016/s0022-3999(01)00296-3](https://doi.org/10.1016/s0022-3999\(01\)00296-3)
+
+21. Puhan MA, Frey M, B chi S, Sch nemann HJ.  e minimal important difference 
+
+of the hospital anxiety and depression scale in patients with chronic obstructive pulmonary disease. Health Qual Life Outcomes. (2008) 6:46. do[i: 10.1186/1477-7525-6-46](https://doi.org/10.1186/1477-7525-6-46)
+
+22. Sullivan MJL, Bishop SR, Pivik J.  e pain catastrophizing scale: development and 
+
+validation. Psychol Assess. (1995) 7:524 32. doi:[ 10.1037/1040-3590.7.4.524](https://doi.org/10.1037/1040-3590.7.4.524)
+
+23. Asukai<a name="_page6_x316.00_y455.89"></a> N, Kato H, Kawamura N, Kim Y, Yamamoto K, Kishimoto J, et al. 
+
+<a name="_page6_x61.00_y469.89"></a>Reliability and validity of the Japanese-language version of the impact of event scale- revised (IES-R-J): four studies of different traumatic events. J Nerv Ment Dis. (2002) 190:175 82. doi: [10.1097/00005053-200203000-00006](https://doi.org/10.1097/00005053-200203000-00006)
+
+24. Itoh M, Ujiie Y, Nagae N, Niwa M, Kamo T, Lin M, et al.  e. Japanese version of 
+
+<a name="_page6_x61.00_y505.89"></a>the posttraumatic diagnostic scale: validity in participants with and without traumatic experiences. Asian J Psychiatr. (2017) 25:1 5. doi:[ 10.1016/j.ajp.2016.09.006](https://doi.org/10.1016/j.ajp.2016.09.006)
+
+25. Sheehan DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J, Weiller E, et al.  e 
+
+<a name="_page6_x61.00_y533.89"></a>mini-international  neuropsychiatric  interview  (M.I.N.I.):  the  development  and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10. J Clin Psychiatry. (1998) 59:22 33.
+
+26. American  Psychiatric  Association.  Section  II:  diagnostic  criteria  and  codes. 
+
+<a name="_page6_x61.00_y569.89"></a>Diagnostic and statistical manual of mental disorders. 5th ed. Arlington, VA: American Psychiatric Publishing (2013).
+
+27. Conners CK, Erhardt D, Sparrow EP. Conners  adult ADHD rating scales (CAARS) 
+
+<a name="_page6_x61.00_y597.89"></a>[Technical manual]. North Tonawanda, NY: Multi-Health Systems (1999).
+
+28. Ginsberg Y, Quintero J, Anand E, Casillas M, Upadhyaya HP. Underdiagnosis of 
+
+attention-deficit/hyperactivity disorder in adult patients: a review of the literature. Prim Care Companion CNS Disord. (2014) 16:PCC.13r01600. do[i: 10.4088/PCC.13r01600](https://doi.org/10.4088/PCC.13r01600)
+
+29. Harvey<a name="_page6_x61.00_y633.89"></a><a name="_page6_x316.00_y632.89"></a> N, Greer KK. Force and stiffness: further considerations. Behav Brain Sci. 
+
+(1982) 5:547 8. doi: [10.1017/S0140525X00013443](https://doi.org/10.1017/S0140525X00013443)
+
+30. Stahl SM. Stahl s essential psychopharmacology: neuroscientific basis and practical 
+
+applications. Cambridge: Cambridge University Press (2021).
+
+31. Matsuo Y, Kurata J, Sekiguchi M, Yoshida K, Nikaido T, Konno SI. Attenuation of 
+
+<a name="_page6_x61.00_y689.89"></a>cortical activity triggering descending pain inhibition in chronic low back pain patients: a functional magnetic resonance imaging study.  J Anesth. (2017) 31:523 30. doi: [10.1007/s00540-017-2343-1](https://doi.org/10.1007/s00540-017-2343-1)
+
+32. Sikstr<a name="_page6_x61.00_y717.89"></a> m S, S derlund G. Stimulus-dependent dopamine release in attention-
+
+deficit/hyperactivity  disorder.  Psychol  Rev.  (2007)  114:1047 75.  doi: [10.1037/0033-295X.114.4.1047](https://doi.org/10.1037/0033-295X.114.4.1047)
+
+33. Vorobeychik<a name="_page6_x61.00_y745.89"></a> Y, Acquadro MA. Use of atomoxetine in a patient with fibromyalgia 
+
+syndrome and attention-deficit hyperactivity disorder.  J Musculoskelet Pain. (2008) 16:189 92. doi: [10.1080/10582450802161960](https://doi.org/10.1080/10582450802161960)
+
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry)  frontiersin.org
+Kasahara et al. 
+
+[10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+34. Simpson<a name="_page7_x61.00_y74.89"></a> D, Plosker GL. Atomoxetine: a review of its use in adults with attention 
+
+<a name="_page7_x316.00_y74.89"></a>deficit  hyperactivity  disorder.  Drugs.  (2004)  64:205 22.  doi:  [10.2165/00003495-](https://doi.org/10.2165/00003495-200464020-00005) [200464020-00005](https://doi.org/10.2165/00003495-200464020-00005)
+
+35. Hughes<a name="_page7_x61.00_y102.89"></a> KC, Shin LM. Functional neuroimaging studies of post-traumatic stress 
+
+<a name="_page7_x316.00_y102.89"></a>disorder. Expert Rev Neurother. (2011) 11:275 85. doi:[ 10.1586/ern.10.198](https://doi.org/10.1586/ern.10.198)
+
+36. Akay AP, Kaya GC, Baykara B, Demir Y,  zek H, Alsen S, et al. Atomoxetine 
+
+<a name="_page7_x316.00_y130.89"></a>treatment may decrease striatal dopaminergic transporter availability a er 8 weeks: pilot SPECT report of three cases. Neuropsychiatr Dis Treat. (2015) 11:2909 12. doi:[ 10.2147/ NDT.S87359](https://doi.org/10.2147/NDT.S87359)
+
+37. Yamada<a name="_page7_x61.00_y158.89"></a>  N,  Kakuda  W,  Yamamoto  K,  Momosaki  R,  Abo  M.  Atomoxetine 
+
+<a name="_page7_x316.00_y158.89"></a>administration  combined  with  intensive  speech  therapy  for  post-stroke  aphasia: evaluation  by  a  novel  SPECT  method.  Int  J  Neurosci.  (2016)  126:829 38.  doi: [10.3109/00207454.2015.1074226](https://doi.org/10.3109/00207454.2015.1074226)
+
+38. Umezaki Y, Uezato A, Toriihara A, Nishikawa T, Toyofuku A. Two cases of oral 
+
+somatic delusions ameliorated with brain perfusion asymmetry: a case report.  Clin Neuropharmacol. (2017) 40:97 9. doi:[ 10.1097/WNF.0000000000000207](https://doi.org/10.1097/WNF.0000000000000207)
+
+39. Forbes D, Bisson JI, Monson CM, Berliner L. Effective treatments for PTSD: practice 
+
+guidelines from the international society for traumatic stress studies. New York: Guilford <a name="_page7_x61.00_y122.89"></a>Publications (2020).
+
+40. Connor DF, Grasso DJ, Slivinsky MD, Pearson GS, Banga A. An open-label study of 
+
+guanfacine  extended  release  for  traumatic  stress  related  symptoms  in  children  and adolescents. J Child Adolesc Psychopharmacol. (2013) 23:244 51. doi:[ 10.1089/cap.2012.0119](https://doi.org/10.1089/cap.2012.0119)
+
+41. Harrison LE, Webster SN, Van Orden AR, Choate E, Jehl N, Stinson J, et al. Agile 
+
+development of a digital exposure treatment for youth with chronic musculoskeletal pain: protocol of a user-centred design approach and examination of feasibility and preliminary efficacy. BMJ Open. (2022) 12:e065997. do[i: 10.1136/bmjopen-2022-065997](https://doi.org/10.1136/bmjopen-2022-065997)
+[Frontiers in  Psychiatry](https://www.frontiersin.org/journals/psychiatry) 9 frontiersin.org

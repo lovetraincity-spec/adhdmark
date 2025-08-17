@@ -1,0 +1,549 @@
+﻿
+RESEARCH Open Access![](itdegoch.001.png)
+
+Motor regulation problems and pain in adults diagnosed with ADHD
+
+Liv Larsen Stray1,2\*, istein Kristensen1, Martha Lomeland1, Mette Skorstad1, Torstein Stray2,3 and Finn Egil Tłnnessen3
+
+Abstract![](itdegoch.002.png)
+
+Background: Most children who are diagnosed with attention deficit-hyperactivity disorder (ADHD) have moderate-to-severe motor problems using the Motor Function Neurological Assessment battery (MFNU). The MFNU focuses on specific muscle adjustment problems associated with ADHD, especially motor inhibition problems and high muscle tone. Here we investigated whether adults with ADHD/hyperkinetic disorder (HKD) have similar motor problems. In our clinical experience, adults with ADHD often complain about back, shoulder, hip, and leg pain.
+
+We also investigate reported pain in adults with ADHD.
+
+Methods: Twenty-five adult outpatients diagnosed with ADHD/HKD who were responders to methylphenidate (MPH) were compared to 23 non-ADHD controls on 16 MFNU subtests and using a total score  ( TS ) parameter. The MFNU test leader was blinded to group identity. The two groups were also compared using the Pain Drawing and Numerical Pain Rating Scale.
+
+Results: The adult ADHD group had significantly (p<.001) more motor problems (higher TS) than controls. On the muscle regulation subtests, 36  96% of the ADHD group showed moderate  to severe  problems compared to
+
+13  52% of the control group, and 80% of the ADHD group reported widespread pain. Highly significant differences were found between the ADHD and control groups for the variables pain level  (p<.001) and pain location (p<.001). Significant correlations were found between TS and pain location  and between TS and pain level .
+
+Conclusions: These findings suggest that similar to children with ADHD, adults diagnosed with ADHD also have motor inhibition problems and heightened muscle tone. The presence of significantly higher pain levels and more widespread pain in the ADHD group compared to non-ADHD controls might indicate that pain is a long-term secondary effect of heightened muscle tone and restricted movement that can be demonstrated in children and adults by the MFNU battery.
+
+Keywords: ADHD, Motor problems, MFNU, Muscular regulation, Tonus, Inhibition, Pain, Adult
+
+Background symptoms such as hyperactivity are thought to diminish ADHD in Adults from childhood/adolescence to adulthood, whereas Prevalence of ADHD among children and adolescents is symptoms of inattention persist or even worsen with age estimated to 5,3% worldwide [[1-5\]](#_page7_x0.00_y793.70). Sixty per cent of [[8](#_page7_x0.00_y793.70)]. In the context of the WHO World Mental Health children diagnosed with ADHD in early childhood Survey Initiative, researchers screened more than 11,000 continue to demonstrate ADHD symptoms as adults [[6\]. ](#_page7_x0.00_y793.70)people aged 18 to 44 years old in ten countries in the Although some have argued that the severity of ADHD Americas, Europe, and the Middle East [[1\]](#_page7_x0.00_y793.70). The data diminishes with age [\[7\],](#_page7_x0.00_y793.70) others assert that the symptoms suggested that an average of 3.5% (range 1.2  7.3%) met of ADHD simply change over time [[8\].](#_page7_x0.00_y793.70) Specifically, the ADHD criteria. A significantly lower prevalence of ![](itdegoch.003.png) ADHD was shown in low-income countries (1.9%) com-
+
+\* Correspondence:<liv.l.stray@sshf.no> pared to high-income countries (4.2%). The researchers 12AddicDepartmtionentUnit,of ChildSłrlandetand AdolescentHospital, KristiansanHealth, Słrlandetd, NorwayHospital, concluded that adult ADHD often co-occurs with other
+
+Kristiansand, Norway disorders and that it is associated with substantial Full list of author information is available at the end of the article
+
+' 2013 Stray et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons![](itdegoch.004.png) Attribution License [(http://creativecommons.org/licenses/by/2.0),](http://creativecommons.org/licenses/by/2.0) which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+impairment in adult role functioning. Although they found that few adults are treated for ADHD itself, in many instances treatment is given for co-occurring disorders. For example, up to 80% of adults with ADHD have some form of psychiatric comorbidity [\[9\].](#_page7_x0.00_y793.70) Less is known about somatic problems associated with the condition.
+
+ADHD and motor problems as assessed with the MFNU Using the Motor Function Neurological Assessment (MFNU) [[10\]](#_page8_x0.00_y793.70) moderate to severe motor problems were found on all 16 subtests in 80  96% of boys with ADHD- combined [\[11\].](#_page8_x0.00_y793.70) Motor problems in children with ADHD are often diagnosed as the DSM-IV diagnosis Develop- mental Coordination Disorder (DCD) [[12\].](#_page8_x0.00_y793.70) They are seen in 40-60% of these children, and typically interpreted as comorbid to the ADHD condition [1[3-17\].](#_page8_x0.00_y793.70) The MFNU was developed because clinical observed motor problems were not detected by standard motor test batteries like the Movement ABC-test [[18\]](#_page8_x0.00_y793.70) nor by the Halstead-Reitan neuropsychological test battery [[10,19\]](#_page8_x0.00_y793.70). In our prior re- search, the MFNU revealed marked heightened muscle tone in gross movement muscles like the latissimus dorsi, sacrospinalis, iliopsoas, and calf muscles in children with ADHD [[11](#_page8_x0.00_y793.70)]. High muscle tone in these muscles, which are used in a compensatory manner for stabilizing the torso, may restrict the movement of the shoulders, hips, vertebral column, and thorax. In the study by Stray et al. [[11](#_page8_x0.00_y793.70)], 80% of the ADHD group and none of the control group showed highly restricted hip movement. In adoles- cents, lower back pain is associated with reduced hip mo- bility [[20](#_page8_x0.00_y793.70)]. Reduced movement of the thorax may result in restriction of respiration and lead to shortness of breath [[21,22\]](#_page8_x0.00_y793.70). The calf muscles (the gastrocnemius and the soleus) are active in maintaining and adjusting body alignment [[23,24\]](#_page8_x0.00_y793.70). High tone in these muscles may reduce the flexibility of the foot and have a negative affect on balance. Balance problems are well known in ADHD [[25](#_page8_x0.00_y793.70)-[27](#_page8_x0.00_y793.70)].
+
+Disinhibition in children with ADHD is present not only in higher order executive functions like motor plan- ning, timing, and evaluation, but also seems to be in- volved in more basic motor functions. Stray et al. [\[10\] ](#_page8_x0.00_y793.70)demonstrated that children with ADHD typically exhibit a gradual increase in muscle tone when flexion-extension movements are repeated several times in succession, as in several of the MFNU subtests. This pattern, which is not seen in normal control subjects, results in a restricted movement range and in jerkiness [see videofilms in the DVD following the manual and the electronic Paper 10, 11]. These findings may explain why children with ADHD often appear clumsy and uncoordinated in daily activities [[10](#_page8_x0.00_y793.70),[11](#_page8_x0.00_y793.70)], even though some of them are described by
+
+Page 2 of 10
+
+parents and teachers as being very skilled athletes. In another study, Stray et al. [[28\]](#_page8_x0.00_y793.70) demonstrated that a single dose of methylphenidate (MPH, Ritalin') improved the motor inhibition problems and muscle tone in boys with ADHD and had a corresponding weaning effect after the MPH was metabolized, very similar to what is seen in the behavioural symptoms of ADHD [see videofilms 10, 28]. In a retrospective study of 73 children with ADHD symp- toms (62 boys and 11 girls aged 5  17 years) the motor problems identified by the MFNU were present more often as part of the core behavioural problems of ADHD in MPH-responders than in non-responders [29[\]. ](#_page8_x0.00_y793.70)No significant gender or age differences were found in either of the groups on any of the MFNU subtests used in that study.
+
+These results challenge the current belief that motor problems in ADHD are either side effects or symptoms of inattention [the differential section for DCD 12, [30\] ](#_page8_x0.00_y793.70)or a separate (comorbid) condition [\[31\].](#_page8_x0.00_y793.70) The close link between positive behavioural and motor responses to MPH suggests that further research is needed to investi- gate the role of muscular regulation as an integrative as- pect of ADHD and possibly as a physical marker of the condition. In our clinical work, we have observed that adults diagnosed with ADHD display similar patterns of motor inhibition problems and heightened muscle tone as children with ADHD [\[32\].](#_page8_x0.00_y793.70) Despite the high preva- lence of motor problems in children with ADHD [[33](#_page8_x0.00_y793.70)-[37](#_page8_x0.00_y793.70)], there has been little research into whether adults with ADHD have similar problems [[38\]](#_page8_x0.00_y793.70).
+
+ADHD and musculoskeletal pain
+
+In our clinical practice, adult patients with ADHD often report skeletal muscle pain and physical discomfort [\[39\]. ](#_page8_x0.00_y793.70)As a permanent condition, the muscular state that is associated with ADHD may elicit muscular pain and other secondary somatic effects, such as fatigue and restricted movement and respiration [\[40\].](#_page8_x0.00_y793.70) Kessler et al. [\[41\]](#_page8_x0.00_y793.70) found that workers with ADHD reported signifi- cantly more chronic pain than other workers. Young and Redmond [[42\]](#_page8_x0.00_y793.70) found that a number of adult patients with core symptoms of ADHD also reported unex- plained fatigue, widespread musculoskeletal pain, or a pre-existing diagnosis of fibromyalgia or chronic fatigue; in addition, some patients reported amelioration of pain and fatigue symptoms when medicated with ADHD medicine. In a Norwegian study, 22% of patients who were diagnosed with ADHD as adults had a history of substance abuse disease (SUD) [\[43\].](#_page8_x0.00_y793.70) Clinically, some reported that the SUD started after discomfort and pain that was often attributed to the negative effects of a par- ticular lifestyle or career. One might ask if some of this discomfort and pain was also attributable to side effects of chronic muscular dysregulation that is associated with
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+the ADHD condition itself. Little research has been done in this area.
+
+Aims of the present study
+
+The aims of the present study were to investigate whether adults with ADHD exhibit the motor function problems demonstrated in children with ADHD and to investigate whether such motor problems were related to the presence of reported pain.
+
+Our research questions and hypotheses were as follows:
+
+1. What are the differences in motor problems in adults with ADHD as compared to non-ADHD controls as measured by the MFNU?
+1. Do adults with ADHD report a) more widespread pain or b) higher levels of pain than non-ADHD controls?
+
+We hypothesized that adults with ADHD would display consistently higher scores and show significantly more motor problems on all of the MNFU subtests used in this study as compared to non-ADHD controls. We also hypothesized that adults with ADHD would report more widespread pain and higher levels of pain than adults in the non-ADHD control group.
+
+Methods
+
+Sample
+
+Verbal and written information about the project was given to outpatients at the Addiction Unit, Słrlandet Hospital, who were diagnosed with HKD F90.0/ADHD, had no active substance abuse, and who were positive responders to MPH. Affirmative written replies were received from 28 patients. Three of these were excluded, one for medical reasons, one who could not be taken off MPH medication due to work, and one for substance abuse. Thus the ADHD group consisted of 25 subjects with a mean age of 33 years (SD 8.9), range 20  51 years. The group included 14 men with a mean age of 34 years (SD 9.5), range 20  51 years, and 11 women with a mean age of 32 years (SD 8.3), range 20  47 years. Three subjects were university students, 12 had regular work, and 10 received social security. The patients medicated with MPH were taken off medication a least one day before the motor assessment.
+
+The non-ADHD controls group consisted of students from the University of Agder, employees from a rehabili- tation department at Słrlandet Hospital HF, and em- ployees from a care home for the intellectually challenged in Kristiansand. Non-ADHD controls were recruited by posting flyers on bulletin boards and by study personnel and student leaders through verbal communication and written information about the project. Written affirmative
+
+Page 3 of 10
+
+answers were received from 29 subjects. To exclude possible ADHD problems in the control group, the participants were rated using the M.I.N.I. Plus  module W interview [[44\]](#_page8_x0.00_y793.70). People with rheumatic diseases or with physical or medical conditions precluding participation in all of the 16 subtests of the MFNU were excluded. No precautions were taken to exclude other clinical groups. The final non-ADHD control group consisted of 23 adults without ADHD with a mean age of 41 years (SD 14.1), range 24  64 years. This group included 8 men with a mean age of 44 years (SD 14.1), range 26  64 years, and 15 women with a mean age of 40 years (SD 14.2), range 24  61 years.
+
+Instruments
+
+MFNU
+
+The current version of the MFNU consists of 16 subtests that are described briefly in Table [1.](#_page3_x0.00_y793.70) The tester continu- ally monitors and guides the participant through each subtest. There is a detailed video presentation of all sub- tests in the DVD accompanying the Norwegian MFNU manual [[10\].](#_page8_x0.00_y793.70) In an earlier study an Intraclass Correlation (ICC) of consistency, using the two-way mixed Cronbach s model, was calculated to measure rater agreement. An average ICC of .99 (95% confidence inter- val, 0.98-1.00) was found, p < .001[\[21](#_page8_x0.00_y793.70)].
+
+All 16 subtests were scored by the tester or by an in- dependent observer according to three scoring categor- ies as described in Table [2.](#_page4_x0.00_y793.70) The scoring criteria for each scoring category on each subtest are described in greater detail in the MFNU manual.
+
+Subtests 1  10 are performance tests in which the person who is being tested is instructed to perform a particular task. Subtest 16: Synkinesis  evaluates the presence of overflow movements during the MFNU as- sessment. Four subtests (12  15) are subtests of passive movements of the hips and feet in which the tester evaluates muscular resistance. Subtest 11: Palpation provides important physical/proprioceptive information about muscular consistency and possible high muscle tone in muscles such as the sacrospinalis and the latissimus dorsi and about restricted movements of the thorax [[10\].](#_page8_x0.00_y793.70)
+
+A reliability study of the MFNU showed high internal consistency within the total set of 17 subtests (Cronbach’s alpha of .97) and a high rater agreement with an average ICC of .99 (95% confidence interval, 0.98  1.00; p<.001) [[45](#_page8_x0.00_y793.70)]. Subtest 11, Palpation  was not included in this study due to problems with scoring non-visual information from the video recordings used in the evaluation proce- dures. The total score of the MFNU, termed the TS , can range from 0 (no problems) to 32 (severe problems, i.e. scores of 2, on all 16 subtests).
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 Page 6 of 15
+
+http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+Table 1 The MFNU subtests used in this study [for videos see 25]
+
+Name of subtest Description![ref1]
+
+1. Dynamic balance-2 legs Three sideway jumps within marked squares (back and forth). The![](itdegoch.006.png)![](itdegoch.007.png) entire process is repeated three times without stopping.
+1. Dynamic balance-1 leg Three sideway jumps on one leg within marked squares (back and forth).
+
+The entire process is repeated three times without stopping. Both legs are tested.
+
+3. Diadochokinesis-right Pronation-supination of one hand with the elbow flexed 90 degrees.
+
+The hand is held as an extension  of the lower arm. The exercise is
+
+performed for approximately 15  20 seconds.
+
+4. Diadochokinesis-left
+4. Reciprocal coordination Alternate clenching of one fist while stretching the other in a rhythmic manner for about 15 seconds. Fingers should be almost completely extended after the hand has been clenched. Elbows are at a 90-degree angle with palms facing upwards.
+4. Thumb movement The tips of the fingers other than the thumb are successively touched with the palmar surface of the tip of the thumb. After each opposition, the subject extends and abducts the thumb. Both hands are tested for approximately 20 seconds.
+4. Walking Walking with toes alternately pointing outwards ( Chaplin ) and inwards followed by walking on the outer foot rend (Fog s test) and inner foot rend.
+4. Lifting arm Lies prone with arms at a 45 degree angle from midline; lifts one arm with the palm of the hand facing the floor.
+4. Lifting leg Lies prone with the anterior superior iliac spine touching the floor while lifting one stretched leg at a time.
+4. Flying  Lies prone, the arm in a 45 degree angle from midline, lifting head, arms and legs.
+4. Palpation Lies prone. The test leader palpates the back, especially the longissimus
+
+and latissimus dorsi. The test leader assesses the mobility of the thorax.
+
+12. Passive abduction-right hip Lies supine. Tester holds the subject s knee and hip in a flexed position.
+12. Passive abduction-left hip The tester stretches and flexes the leg to elicit relaxation of the hip muscles and abducts the leg. The sides are evaluated separately.
+12. Passive movement-right foot Lies supine. Tester examines passive movement with dorsal flexion and eversion/plantar flexion of the right and the left feet.
+12. Passive movement-left foot
+12. Synkinesis Synkinesis  is not a separate test but is an item for evaluating the synkinetic movements registered in one or more subtests. When synkinesis is observed, the tester tries to correct it. The synkinesis remaining
+
+after correction is scored.![](itdegoch.008.png)
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 Page 7 of 7
+
+Pain drawing
+
+The Pain Drawing procedure, which is commonly used in studies of pain [\[46-48\],](#_page8_x0.00_y793.70) was chosen to categorize the patients into 4 pain groups, including a group with no pain. Areas of the body that were painful during the previous 14 days are marked on a drawing by each participant. Participants with pain localized only above a horizontal line in the thoracolumbar region (T12) were categorized into Pain group 1. Participants with pain localized only below the horizontal line were categorized into Pain group 2. Pain localized both above and below the line was defined as widespread, and subjects with widespread pain were categorized into Pain group 3. Those with no pain were categorized into Pain group 0.
+
+Numerical pain rating scale
+
+The intensity of the pain experienced during the previ- <a name="_page3_x0.00_y793.70"></a>ous two weeks was rated by each participant on an
+
+11-point Numerical Pain Scale (NRS) that ranged from 0 ( No pain ) to 10 ( Pain as bad as it could be ) [[49](#_page8_x0.00_y793.70)]. The NRS has been shown to be an appropriate measurement of pain in patients with chronic pain [5[0\].](#_page8_x0.00_y793.70)
+
+M.I.N.I. Plus
+
+This study used the Mini-International Neuropsychiatric Interview (M.I.N.I.) version 5.0.0 with the attention deficit/hyperactivity disorder module W in the M.I.N.I.- Plus. The M.I.N.I. is an short psychiatric interview for assessing psychiatric disorders according to the DSM-IV and ICD-10 classification systems [[44\].](#_page8_x0.00_y793.70) The M.I.N.I. is widely accepted and has high validity [[51,52\]](#_page8_x0.00_y793.70).
+
+Assessment
+
+Each participant was assessed using the MFNU, Pain Drawing, and NRS. Possible ADHD symptoms in the control group were addressed by a M.I.N.I plus interview
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 Page 7 of 15
+
+http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+Table 2 Scoring criteria for the MFNU subtests
+
+Score: Criteria![ref1]
+
+Subtests 01  10 Subtests 12  15 Subtest 16 Subtest 11![](itdegoch.009.png)![](itdegoch.010.png)![](itdegoch.011.png)
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 Page  of 
+
+0 No The task is performed
+
+problems with no problems and little effort
+
+1 Moderate The task is performed according problems to instructions but requires a lot
+
+of attention and effort or performance quality is below what is expected according to age
+
+2 Severe The subject cannot perform the
+
+problems task according to the instructions![](itdegoch.012.png)
+
+Normal resistance against the movement is registered
+
+Resistance against the movement is registered
+
+Strong resistance against the movement is registered
+
+Only sporadic synkinetic movements are registered
+
+Moderate synkinetic movements are registered in one or more subtest
+
+Pronounced synkinetic movements are registered in one or more subtest
+
+Normal muscle tone,
+
+good mobility in the thorax
+
+Slightly greater muscle tone, some resistance against movement of the thorax
+
+High muscle tone, strong resistance against movement of the thorax
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 Page 8 of 8
+
+conducted by a physician or a social educator with many years of clinical and research experience in psychiatric assessment of patients with ADHD. The MNFU test leader, an experienced physiotherapist with no prior per- sonal or professional knowledge of the subjects in either of the groups, was blinded to which group the partici- pant was in. The assessments of the Pain Drawing, NRS, and the M.I.N.I. interview were performed prior to the MFNU assessment. The MFNU test leader did not know the results of these assessments.
+
+Statistical analyses
+
+The statistical analyses were carried out using PASW (SPSS) Statistics, version 18 for Windows (SPSS Inc., Chicago, IL, USA). Descriptive statistical analyses were performed on data from each subtest in order to view the distribution of the participants (%) in the scoring categor- ies (0, 1, or 2) and for the TS variable. As the samples and the measurements did not satisfy the conditions for para- metric tests, the non-parametric Mann  Whitney U-test was used to compare the ranked scores of the ADHD group and control group on each of the 16 subtests. The Mann  Whitney U-test was used to compare the TS and the Pain level  of the ADHD group and control group for the same reason. Pearson s Chi-square test was used to compare frequencies in the groups for the categorical variable Pain location . Spearman s rho was run for all participants as a whole for finding the correlation between the TS of the MFNU and the Pain level  and between the TS and Pain location .
+
+Approval
+
+The study was approved by The Norwegian Data Inspectorate, The National Committee for Medical Research Ethics in Norway, 2011/1947 D.
+
+Results
+
+Group differences on the MFNU
+
+The ADHD group showed a high percentage of severe <a name="_page4_x0.00_y793.70"></a>problems  (a score of 2) on many of the subtests:
+
+ Palpation , Passive abduction of the hip  and Passive movement of the feet , Lifting arm , Lifting leg ,  Diadochokinesis of the left arm , and Reciprocal coord- ination . The control group typically had few problems on any of the subtests (Table [3).](#_page5_x0.00_y793.70) There were significant differences between the ADHD group and the control group for all subtests except for Flying  (Table [3).](#_page5_x0.00_y793.70)
+
+The Mann  Whitney U-tests (Table [3)](#_page5_x0.00_y793.70) showed that the ADHD group had significantly more motor problems (higher TS; median=25) than the control group (me- dian=2) (U=485.00, p<.001). The mean TS of the ADHD group was 21.20, SD=9.5, and the mean TS of the control group was 6.30, SD=9.9, Cohen’s d of the TS between the groups was 1.52, indicating a large effect size [\[53\].](#_page8_x0.00_y793.70) There were no significant gender differences in either of the groups as shown by Mann  Whitney U-test analysis of the TS. Most subjects in the control group had no problems on the MFNU. Three subjects had high TS, and all three showed both inattention and impulsive ADHD problems on the M.I.N.I. Plus, although they did not fulfil the ADHD diagnostic criteria.
+
+Group differences in pain location  and pain level 
+
+The Pearson s Chi-Square test showed significant differ- ences between the ADHD group and the control group for the variable Pain location  (P<.001). Widespread pain was reported by 80% of the ADHD group compared to 17.4% of the control group. Only 8% of the ADHD group reported having no pain in the previous two weeks compared to 34.8% of the controls. There were no significant gender differences regarding pain level or pain location in either of the groups (Table [4).](#_page5_x0.00_y793.70)
+
+The Mann  Whitney U-tests showed a significant difference in self-reported pain ( Pain level ) between the ADHD group (mean rank=31.76, median =5) and the control group (mean rank=16.61, median=1) (U=469.00, p<.001). The mean Pain level  for the ADHD group was 4.76, SD=2.16, and the mean Pain level  for the control group was 1.96, SD=2.27. The Cohen s d for Pain level  was 1.26, which is a large effect
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 Page 8 of 15
+
+http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+Table 3 Percentages of the ADHD group (N=25) and control group (N=23) with the indicated motor problems on the MFNU subtests and comparison of the two groups
+
+Motor problem scores of 1 or 2![](itdegoch.013.png)
+
+MFNU subtests ADHD Control p value Mann  Whitney U![](itdegoch.014.png)
+
+% Median % Median
+
+1. Dynamic balance-2 legs 56.0 1 13.0 0 .004 407.5
+1. Dynamic balance-1 leg 76.0 2 37.4 0 .000 440.5
+1. Diadochokinesis-right 68.0 2 17.3 0 .000 452.5
+1. Diadochokinesis-left 80.0 2 34.7 0 .000 459.5
+1. Reciprocal coordination 76.0 2 17.3 0 .000 478.5
+1. Thumb movement 72.0 2 26.1 0 .002 422.5
+1. Walking 56.0 1 17.4 0 .005 404.5
+1. Lifting the arms 88.0 2 39.1 0 .000 443.0
+1. Lifting the legs 84.0 2 21.7 0 .000 462.0
+1. Flying  36.0 0 13.0 0 .102 347.5
+1. Palpation 96.0 1 52.2 0 .000 473.5
+1. Passive abduction-r. hip 84.0 2 26.1 1 .000 458.5
+1. Passive abduction-l. hip 84.0 2 25.7 0 .000 464.0
+1. Passive movement-r. foot 84.0 2 17.2 0 .000 481.0
+1. Passive movement-l. foot 84.0 2 17.4 0 .000 471.0
+1. Synkinesis 60.0 2 26.0 0 .027 383.5
+
+Scoring: 0, No problems ; 1, Moderate problems ; 2, Severe problems .![](itdegoch.015.png)
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 Page  of 
+
+size. There was a significant correlation (p<.01) between the TS on the MFNU and Pain level  and between the TS and Pain location  (p<.05) (Spearman’s rho).
+
+Discussion
+
+Motor problems
+
+We hypothesised that adults with ADHD would have more problems than controls in regulating movement and muscle tone as assessed by the MFNU. This hypoth- esis was supported by the results on all subtests except the Flying  subtest. These results strongly suggest that muscle regulation problems are very similar in adults with ADHD as in children with ADHD. Most of the ADHD subjects had a moderate to severe TS, indicating that just as in children, the adults had motor problems that affected many facets of movement and muscle control. Comparison of the results for the adult ADHD
+
+Table 4 Percentages of the ADHD group and control group with pain at the indicated location![](itdegoch.016.png)
+
+Pain location Group![](itdegoch.017.png)
+
+Control (N=23) ADHD (N=25) No pain 34.8% 8.0% Localized![](itdegoch.018.png) pain (only in upper body) 34.8% 8.0% Localized pain (only in lower body) 13.0% 4.0% Widespread pain 17.4% 80.0% <a name="_page5_x0.00_y793.70"></a>Total 100% 100%![](itdegoch.019.png)
+
+group to results for 8  12-year-old boys showed minor differences in two subtests. The results on subtest 16,
+
+` `Synkinesis , and subtest 07, Walking  indicated that adults with ADHD may be less affected by overflow movement (synkinesis) than children (see [\[11\]).](#_page8_x0.00_y793.70) Over- flow movements reflect immaturity of the cortical sys- tems involved in automatic inhibition [\[54\] ](#_page8_x0.00_y793.70)and are also present in many children without ADHD. Overflow movements are normally less apparent in adolescence and adulthood than in childhood, which is the natural consequence of more mature nervous systems [5[5,56\]. ](#_page8_x0.00_y793.70)Thus, it is likely that the low scores on the Synkinesis subtest in adults with ADHD compared to children with ADHD are due to maturation. Even so, our results indi- cated that adults with ADHD have more problems with overflow movement than non-ADHD adults. Similarly, for subtest 10, Flying , more subjects in the ADHD group had problems compared to the control group, but a high percentage of the ADHD group showed normal per- formance on this subtest.
+
+Motor problems in ADHD have been seen as being co-effects or a motor consequence of inattention and impulsivity [[12](#_page8_x0.00_y793.70)]. This view has been challenged by sev- eral researchers. In fact, some of these have noted that the poor fine motor abilities of children with ADHD cannot be attributed to deficits in attention or concen- tration but rather are due to factors related to motor ability [[14,15](#_page8_x0.00_y793.70)]. ADHD and motor problems may have a
+
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+common basis that may be due to genetic factors and/or shared environmental factors [[57\].](#_page8_x0.00_y793.70) Few of the subtests of the MFNU require focused attention for more than half
+
+a minute, and the subject is continually monitored and guided throughout each subtest, thus preventing distrac- tion. As in children with ADHD [[11,29\],](#_page8_x0.00_y793.70) motor inhibition problems were highly present in the adult ADHD group as demonstrated by subtests 03 and 04, Diadochokinesis , subtest 06, Thumb movement , and subtest 05, Reciprocal inhibition . Similar to findings in children in our previous study [[11](#_page8_x0.00_y793.70)], a very high percentage of the adult ADHD group showed problems on subtests that reveal height- ened muscle tone in the latissimus dorsi, iliopsoas, and the gastrocnemius-soleus (calf) muscles (subtest 08,  Lifting arm , subtests 12 and 13, Passive abduction of the hips , subtest 09, Lifting leg , and subtests 14 and 15,  Passive movement of the feet ). Heightened muscle tone was also demonstrated in the sacrospinalis by subtest 11,
+
+` `Palpation . None of these subtests are likely to be influenced by inattention or impulsivity since they are ei- ther closely monitored by the tester or are performed by the tester.
+
+It is often argued that motor problems in ADHD that are not explained by inattention are comorbid symptoms of Developmental Coordination Disorder (DCD) [3[0,58\], ](#_page8_x0.00_y793.70)which is a motor skills disorder. While many people with ADHD may have a DCD condition, as measured by standardised motor test batteries, the motor and muscu- lar patterns assessed by the MFNU are not necessarily associated with DCD. Many years of clinical experience using the MFNU has shown that people with ADHD may demonstrate above-average motor skills and be skil- ful athletes but still have a high MFNU problem score. Our findings in children, which are corroborated by the present study in adults with ADHD, suggest that the motor problems revealed by the MFNU are different in nature from deficits in motor skills (see [3[4\]](#_page8_x0.00_y793.70)). Stray [[21\] ](#_page8_x0.00_y793.70)argues that the motor disinhibition and heightened muscle tone of people with ADHD may be directly related to neurofunctional processes associated with dysregulation of the dopamine system and possibly also the noradrenaline system, which are currently thought to be central to the ADHD condition [5[9\].](#_page8_x0.00_y793.70)
+
+Recent research has focused on the frontostriatal sys- tem and basal ganglia [[60,61\]](#_page9_x0.00_y793.70). Not only the mesocortical and mesolimbic systems, but also the nigrostriatal path- ways [\[62](#_page9_x0.00_y793.70)], the cerebellum [[63\]](#_page9_x0.00_y793.70) and the reticular forma- tion [[64-66\]](#_page9_x0.00_y793.70) are affected in ADHD. These pathways play important roles in regulating fine motor control and in whole body stabilisation. It is well known that reticular formation is involved in regulation of arousal [\[67\],](#_page9_x0.00_y793.70) which is thought by many to be important for understanding the ADHD condition [[68-70\]](#_page9_x0.00_y793.70). In this context, it is inter- esting that the reticulospinal systems are important in
+
+Page 7 of 10
+
+the regulation of postural control [\[71\],](#_page9_x0.00_y793.70) in the regulation of movements [[72,73\]](#_page9_x0.00_y793.70), and in reducing muscle activity in rapid-eye-movement (REM) sleep [[73\]](#_page9_x0.00_y793.70). The reticular sys- tem has an important regulatory role in the maintenance of muscle tone based on the balanced influence of the inhibitory and facilitating regions of the reticular forma- tion [\[74\].](#_page9_x0.00_y793.70) Neurons from the reticular formation can activate a whole set of muscles at the same time, pos- sibly modulating adjustments in body position that are needed to maintain balance and affecting the stabilizing muscles (the proximal extremity muscles and muscles that stabilize the vertebral column) [[75\].](#_page9_x0.00_y793.70) Our findings might suggest a functional link between these two func- tions of the reticular system, i.e. maintenance of muscle tone and stabilization of motor control, and the regula- tion of arousal. The findings might further suggest that both processes are concurrently influenced by the cen- tral stimulating effect of MPH. It is still unclear, how- ever, why people with ADHD would have higher muscle tone than normal and why MPH helps normalize muscle tone [[28\]](#_page8_x0.00_y793.70). Problems with motor inhibition in ADHD are well known [[76](#_page9_x0.00_y793.70),[77](#_page9_x0.00_y793.70)]. As mentioned, many of these prob- lems may be bodily expressions of inattention and im- pulsivity rather than specific motor problems. However, many of the MFNU subtests reflect motor inhibition problems that seem to be related to dysregulation of the release of, or inhibition of, active muscles. This is demonstrated by tasks that involve rapid repetition of a simple movement (e.g. Thumb movement  and  Diadochokinesis ). Most often, people with ADHD have no initial problems performing such tasks. However, the movements typically become increasingly jerky and un- coordinated with repetition and involve great effort. MPH has an immediate effect on these release problems (see videos in [[10](#_page8_x0.00_y793.70),[28](#_page8_x0.00_y793.70)]), and there is a gradual decrease of the effect as MPH is metabolized [\[28\].](#_page8_x0.00_y793.70) This further sug- gests a functional connection between the demonstrated problems in regulating muscle activity and dysregulation of higher executive functions thought to be involved in ADHD. In light of these findings, one might ask if muscle release problems are involved in gross move- ments such as walking and running as well as in fine motor skills such as handwriting. Fliers et al. [\[78\]](#_page9_x0.00_y793.70) found an association between motor problems in ADHD and genes involved in muscles function.
+
+Pain
+
+As we hypothesized, the ADHD group reported signifi- cantly more widespread pain (both in the upper and lower body) and a higher pain level than the control group. To our knowledge this has not been assessed be- fore. The highly significant correlation between the TS and the pain level score might suggest that the pain reported in the ADHD group is directly linked to motor
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+problem severity and that such pain might be an indirect long-term consequence of the muscle tone dysregulation and motor inhibition that is associated with the ADHD condition. A history of childhood ADHD, assessed with the DSM-IV criteria, has been shown to be more com- mon in the patients diagnosed with Fibromyalgia com- pared to normal controls (32.3% vs. 2.52%) [\[79\].](#_page9_x0.00_y793.70) Such a relationship has to be addressed in a future study. Per- sistent pain may negatively affect attention [\[80\],](#_page9_x0.00_y793.70) daily living [[81](#_page9_x0.00_y793.70)], and quality of life [\[82](#_page9_x0.00_y793.70)]. There is a well known dilemma between the use of painkillers and abuse or addiction [\[83\].](#_page9_x0.00_y793.70) In the future, it would be interesting to look at the consumption of painkillers, especially opioids, among patients with adult ADHD.
+
+Limitations
+
+In this study, the control group had a higher mean age (41 years) than the ADHD group (32 years). This might have influenced the results, although it seems unlikely that there is an inherent reason why older people would be expected to perform better on the MFNU or have less pain than the younger people in the ADHD group. Sig- nificant differences were found on the same subtests using age matched participants. The subjects diagnosed with ADHD who were included in this study were all responders to MPH for their ADHD symptoms. This implies that our conclusions cannot be generalized to the broader ADHD population. The individuals in the ADHD group had an earlier history of addiction prob- lems. Even if substance abuse was controlled for in this study, the confounding effects of residual pain or sec- ondary health problems due to prior substance abuse cannot be ruled out. Further research involving a sample of adults without prior substance abuse is needed to clarify this issue.
+
+Conclusions
+
+This study demonstrated that MPH-responsive adults with ADHD show the same functional motor problems as children with ADHD as measured with the MFNU. The motor problems were associated with heightened muscle tone in gross movement muscles and with specific motor inhibition problems that resulted in re- stricted movement and instability. The MFNU was able to effectively discriminate between adults with ADHD and non-ADHD controls. The ADHD group also dif- fered significantly from the control group in terms of reported pain in that the ADHD subjects reported more widespread pain and higher levels of pain than the con- trols. The ADHD group showed high correspondence between reported muscular pain and TS on the MFNU. These findings suggest that the demonstrated functional motor problems are important contributors to the very <a name="_page7_x0.00_y793.70"></a>high incidence of reported pain in the ADHD group and
+
+Page 8 of 10
+
+possibly to the substance abuse and addiction problems that are common in people with ADHD. Further research validation with different methods is needed to confirm these conclusions.
+
+Consent
+
+Written informed consent was obtained from the patient for publication of this report.
+
+Competing interests
+
+The MFNU manual is sold by the Reading Centre, University of Stavanger, for NOK 700 (about  85). LLS receives 9% royalties and TS receives 3% royalties from the sale of the MFNU.
+
+Authors  contributions
+
+LLS was the primary contributor to the study conception and design and was mainly responsible for data acquisition, analysis, and interpretation. LLS was the main contributor to drafting of the manuscript. K contributed to
+
+the study conception and design, helped interpret the data, and helped
+
+draft the manuscript. ML contributed to the study conception and design
+
+and helped acquire the data. MS helped acquire the data. TS contributed to data analysis and helped draft the manuscript. FET contributed to data analysis and helped draft the manuscript. All authors read and approved the final manuscript.
+
+Acknowledgement
+
+We are grateful to the Regionalt fagmiljł for autisme, ADHD, Tourettes syndrom og narkolepsi Helse Słr- st and to Słrlandet Hospital, Norway for funding the study. We thank the subjects for their participation.
+
+Author details
+
+1Addiction Unit, Słrlandet Hospital, Kristiansand, Norway.2Department of Child and Adolescent Health, Słrlandet Hospital, Kristiansand, Norway.3The Reading Centre, Faculty of Education and Arts, University of Stavanger, Stavanger, Norway.
+
+Received: 16 November 2012 Accepted: 23 April 2013 Published: 3 May 2013
+
+References
+
+1. Fayyad J, De Graaf R, Kessler R, Alonso J, Angermeyer M, Demyttenaere K, De Girolamo G, Haro JM, Karam EG, Lara C,et al:Cross-national prevalence
+
+   and correlates of adult attention-deficit hyperactivity disorder.
+
+   Br J Psychiatry2007,190:402  409.
+
+2. Pliszka SR:The Neuropsychopharmacology of Attention-Deficit
+
+   /Hyperactivity Disorder  REVIEW ARTICLE.Biol Psychiatry2005,
+
+   57(11):1385  1390.
+
+3. Simon V, Czobor P, Balint S, Meszaros A, Bitter I:Prevalence and correlates
+
+   of adult attention-deficit hyperactivity disorder: meta-analysis.
+
+   Br J Psychiatry2009,194(3):204  211.
+
+4. Kessler RC, Adler L, Ames M, Barkley RA, Birnbaum H, Greenberg P, Johnston JA, Spencer T, Bedirhan T:The Prevalence and Effects of Adult Attention Deficit/Hyperactivity Disorder on Work Performance in a Nationally Representative Sample of Workers. J Occup Environ Med2005,
+
+   47(6):565  572.
+
+5. Polanczyk G, de Lima MS, Horta BL, Biederman J, Rohde LA:The worldwide prevalence of ADHD: a systematic review and metaregression analysis.
+
+   Am J Psychiatry2007,164(6):942  948.
+
+6. Davidson MA:ADHD in adults: a review of the literature. J Atten Disord 2008,11(6):628  641.
+6. Faraone SV, Biederman J, Mick E:The age-dependent decline of attention
+
+   deficit hyperactivity disorder: A meta-analysis of follow-up studies.
+
+   Psychol Med2006,36(2):159  116.
+
+8. Stahl SM, Mignon L:Stahl s Illustrated Attention Deficit Hyperactivity Disorder. Cambridge: Cambridge University press; 2009.
+8. Katragadda S, Schubiner H:ADHD in children, adolescents, and adults.
+
+   Prim Care2007,34(2):317  341.
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+10. Stray LL, Iversen S, Stray T, Ellertsen B, Ruud A:MFNU - the motor function neurological assessment user manual.Stavanger: University of Stavanger; 2006.
+10. Stray L, Stray T, Iversen S, Ruud A, Ellertsen B, Tonnessen F:The Motor Function Neurological Assessment (MFNU) as an indicator of motor function problems in boys with ADHD. Behav Brain Funct2009,5:22.
+10. APA:Diagnostic and statistical manual of mental disorders: DSM-IV-TR. Washington, DC: American Psychiatric Association; 2000.
+10. Watemberg N, Waiserberg N, Zuk L, Lerman-Sagie T:Developmental coordination disorder in children with attention-deficit-hyperactivity disorder and physical therapy intervention. Dev Med Child Neurol2007, 49(12):920.
+10. Pitcher TM, Piek JP, Hay DA:Fine and gross motor ability in males with ADHD.Dev Med Child Neurol2003,45(8):525  535.
+10. Miyahara M, Piek JP, Barrett N:Accuracy of drawing in a dual-task and resistance-to-distraction study: motor or attention deficit? Hum Mov Sci 2006,25(1):100  109.
+10. Pereira H, Eliasson A, Forssberg H:Detrimental neural control of precision grip lifts in children with ADHD.Dev Med Child Neurol2000,42(8):545  553.
+10. Miyahara M, Mobs I, Doll-Tepper G:Severity of hyperactivity and the comorbidity of hyperactivity with clumsiness in three sample sources: school, support group and hospital. Child Care Health Dev2001,
+
+    27(5):413  424.
+
+18. Henderson SE, Sugden DA:Movement assessment battery for children. London: UK The Psychological Corporation; 1992.
+18. Reitan RM, Wolfson D:The Halstead-Reitan neuropsychological test battery : theory and clinical interpretation.2nd edition. Tucson, Ariz: Neuropsychology Press; 1993.
+18. Sjolie AN:Low-back pain in adolescents is associated with poor hip
+
+    mobility and high body mass index. Scand J Med Sci Sports2004, 14(3):168  175.
+
+21. Stray LL:Motor problems in Children with ADHD and clinical effects of Methylphenidate as assessed with the MFNU.Stavanger: University of Stavanger; 2009.
+21. vreberg G, Andersen T:Aadel B low-Hansen s fysioterapi: en metode til omstilling av anspent muskulatur og hemmet respirasjon.Skarnes: Compendius; 2002.
+21. Cailliet R:Low back pain syndrome.Philadelphia: Davis; 1968.
+21. Loram ID, Maganaris CN, Lakie M:Human postural sway results from frequent, ballistic bias impulses by soleus and gastrocnemius. J Physiol 2005,564(1):295  311.
+21. Stray LL, Stray T, Iversen S, Ellertsen B, Ruud A, Tłnnessen FE:The Motor Function Neurological Assessment (MFNU) as an indicator of motor function problems in boys with ADHD. Behav Brain Funct2009,5(1):22.
+21. Raberger T, Wimmer H:On the automaticity/cerebellar deficit hypothesis
+
+    of dyslexia: balancing and continuous rapid naming in dyslexic and
+
+    ADHD children.Neuropsychologia2003,41(11):1493  1497.
+
+27. Udal A, Malt U, Lovdahl H, Gjaerum B, Pripp A, Groholt B:Motor function may differentiate attention deficit hyperactivity disorder from early
+
+    onset bipolar disorder. Behav Brain Funct2009,5(1):47.
+
+28. Stray LL, Stray T, Iversen S, Ellertsen B, Ruud A:Methylphenidate improves motor functions in children diagnosed with Hyperkinetic Disorder.
+
+    Behav Brain Funct2009,5(1):21.
+
+29. Stray LL, Ellertsen B, Stray T:Motor function and methylphenidate effect
+
+    in children with attention deficit hyperactivity disorder. Acta Paediatr 2010,99(8):1199  1204.
+
+30. Brossard-Racine M, Shevell M, Snider L, BØlanger SA, Majnemer A:Motor skills of children newly diagnosed with Attention Deficit Hyperactivity Disorder prior to and following treatment with stimulant medication.
+
+    Res Dev Disabil2012,33(6):2080  2087.
+
+31. Dewey D, Wilson B, Crawford S, Kaplan B:Comorbidity of developmental coordination disorder with ADHD and reading disability.
+
+    J Int Neuropsychol Soc2000,6:152.
+
+32. Stray LL:Personer med oppmerksomhetsvansker og hyperaktivitet
+
+    (ADHD) har ofte problemer med motorisk inhibisjon og regulering av muskeltonus. Spenningsnytt2010,1:15  18.
+
+33. Denckla M, Rudel R:Anomalies of motor development in hyperactive
+
+    boys. Ann Neurol1978,3:231  233.
+
+34. Harvey WJ, Reid G:Attention deficit/hyperactivity disorder: a review of research on movement skill performance of and physical fitness.
+
+    Adapt Phys Activ Q2003,20:1  25.
+
+Page 9 of 10
+
+35. Gillberg C, Carlstr m G, Rasmussen P, Waldenstr m E:Perceptual, motor and attentional deficits in seven-year-old children. Neurological screening aspects. Acta Paediatr Scand1983,72(1):119  124.
+35. Eliasson A-C, R sblad B, Forssberg H:Disturbances in programming goal- directed arm movements in children with ADHD. Dev Med Child Neurol 2004,46:19  27.
+35. Sergeant JA, Piek JP, Oosterlaan J:ADHD and DCD: A relationship in need of research. Hum Mov Sci2006,25(1):76  89.
+35. McIlveen-Brown E:Motor performance in adolescents with.ADHD Toronto: University of Toronto; 2010.
+35. Ellertsen B, Stray LL, Johnsen IMB:ADHD hos voksne. InKlinisk nevropsykologi Undersłkelse av voksne pasienter.Edited by Hestad K, Egeland
+
+    10. Trondheim: Tapir Akademisk Forlag; 2011:282  306.
+35. Ianssen B, Andersen T, vreberg G, Hanssen I, Kveb k I, Ottesen A, Rongved E:Movements of life : Norwegian psychomotor physiotherapy. [Levanger]: Berit Ianssen; 2012.
+35. Kessler RC, Lane M, Stang PE, Van Brunt DL:The prevalence and workplace costs of adult attention deficit hyperactivity disorder in a large manufacturing firm. Psychol Med2009,39(1):137  147.
+35. Young JL, Redmond JC:Fibromylagia, chronic fatigue, and adult attention deficit hyperactivity disorder in the adult: a case study. Psychopharmacol Bull2007,40(1):118  126.
+35. Blikł IKK:ADHD hos voksne: En undersłkelse av diagnostikk, komorbiditet og problembelastning. Tidsskrift for Norsk Psykologforening 2008,45(5):536  544.
+35. Sheehan DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J, Weiller E, Hergueta T, Baker R, Dunbar GC:The Mini-International Neuropsychiatric Interview (M.I.N.I.): the development and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10.J Clin Psychiatry 1998,59(Suppl 20):22  33.
+35. Stray LL:Motor problems in children with ADHD and clinical effects of Methylphenidate as assessed with the MFNU.UiS: Stavanger; 2009.
+35. Kv le A, Skouen JS, Ljunggren AE:Sensitivity to Change and Responsiveness of the Global Physiotherapy Examination (GPE-52) in Patients With Long-Lasting Musculoskeletal Pain. Phys Ther2005, 85(8):712  726.
+35. Smertem ling. Smertetegning.[http://www.formi.no/helsepersonell/mer/ smertemaling.](http://www.formi.no/helsepersonell/mer/smertemaling)
+35. Kv le A, Ellertsen B, Skouen JS:Relationships between physical
+
+    findings (GPE-78) and psychological profiles (MMPI-2) in patients
+
+    with long-lasting musculoskeletal pain. Nord J Psychiatry2001,
+
+    55(3):177  184.
+
+49. Smertem ling. Numerisk smerteskala.[http://www.formi.no/helsepersonell/ mer/smertemaling.](http://www.formi.no/helsepersonell/mer/smertemaling)
+49. Grotle M, Brox JI, Vłllestad NK:Concurrent comparison of responsiveness
+
+    in pain and functional status measurements used for patients with low
+
+    back pain. Spine2004,29(21):E492  501.
+
+51. Pinninti NR, Madison H, Musser E, Rissmiller D:MINI International Neuropsychiatric Schedule: clinical utility and patient acceptance. Eur Psychiatry2003,18:361  364.
+51. Mordal J, Gundersen , Bramness JG:Norwegian version of the MINI-International Neuropsychiatric interview: feasibility, acceptability and test-retes reliability. Europ Psychiatry2010,25:172  177.
+51. Cohen J:A power primer. Psychol Bull1992,112(1):155  159.
+51. Mostofsky S, Newschaffer C, Denckla M:Overflow movements predict impaired response inhibition in children with ADHD. Percept Mot Skills 2003,97(3 pt 2):1315  1331.
+51. Connolly K, Stratton P:Developmental Changes in Associated Movements. Dev Med Child Neurol1968,10(1):49  56.
+51. Lazarus J-AC, Todor JI:Age Differences In The Magnitude Of Associated Movement. Dev Med Child Neurol1987,29(6):726  733.
+51. Fliers E, Vermeulen S, Rijsdijk F, Altink M, Buschgens C, Rommelse N, Faraone S, Sergeant J, Buitelaar JAN, Franke B:ADHD and Poor Motor Performance From a Family Genetic Perspective. Journal of Amer Academy of Child & Adolescent Psychiatry2009,48(1):25  34.
+51. Fliers EA, Franke B, Lambregts-Rommelse NN, Altink ME, Buschgens CJ, der Sanden MW N-v, Sergeant JA, Faraone SV, Buitelaar JK:Undertreatment of Motor Problems in Children with ADHD.Child and Adolescent Mental Health2009,15(2):85  90.
+51. Biederman J:Attention-deficit/hyperactivity disorder. a selective
+
+    <a name="_page8_x0.00_y793.70"></a>overview. Biol Psychiatry2005,163(4):716  723.
+
+Stray et al. Behavioral and Brain Functions2013, 9:18 http://www.behavioralandbrainfunctions.com/content/9/1/18
+
+60. Carrey NJ, MacMaster FP, Gaudet L, Schmidt MH:Striatal Creatine and Glutamate/Glutamine in Attention-Deficit/Hyperactivity Disorder. J Child Adolesc Psychopharmacol2007,17(1):11  17.
+60. Castellanos FX, Swanson J:Biological underpinnings of ADHD. In Hyperactivity and Attention-Deficit Disorders.2nd edition. Edited by Sandberg
+
+    19. Cambridge: Cambridge University Press; 2002.
+60. Sagvolden T, Johansen E, Aase H, Russell V:A dynamic developmental theory of attention-deficit/hyperactivity disorder (ADHD) predominantly hyperactive/impulsive and combined subtypes. Behav Brain Sci2005, 28(3):397  419.
+60. Berquin PC, Giedd JN, Jacobsen LK, Hamburger SD, Krain AL, Rapoport JL, Castellanos FX:Cerebellum in attention-deficit hyperactivity disorder: a morphometric MRI study. Neurology1998,50(4):1087  1093.
+60. Barkley RA:Attention-deficit hyperactivity disorder: a handbook for diagnosis and treatment. New York: Guilford Press; 1998.
+60. Bradshaw JL:Developmental disorders of the frontostriatal system: neuropsychological, neuropsychiatric, and evolutionary perspectives.Hove: Psychological Press; 2001.
+60. Barrot M, Thome J:Discovering a new anatomical structure in the brain: implications for neuropsychiatry and therapy. World J Biol Psychiatry2011, 1:19  22.
+60. Luria AR:Hjernen - En introduksjon til neuropsykologien.Nyt Nordisk Forlag, Arnold Busck.: Viborg; 1989.
+60. Brown TE, McMullen WJ:Attention deficit disorders and sleep/arousal disturbance. Ann NY Acad Sci2001,931:271  286.
+60. Sergeant J:The cognitive-energetic model: an empirical approach to attention-deficit hyperactivity disorder. Neurosci Biobehav Rev2000, 24(1):7  12.
+60. Egeland J, Ueland T, Johansen S:Central Processing Energetic Factors Mediate Impaired Motor Control in ADHD Combined Subtype But Not in ADHD Inattentive Subtype. J Learn Disabil2012,45(4):361  370.
+60. Mori S, Iwakiri H, Homma Y, Yokoyama T, Matsuyama K:Neuroanatomical
+
+    and neurophysiological bases of postural control. Adv Neurol1995,
+
+    67:289  303.
+
+72. Cabaj A, Stecina K, Jankowska E:Same Spinal Interneurons Mediate Reflex Actions of Group Ib and Group II Afferents and Crossed Reticulospinal Actions. J Neurophysiol2006,95(6):3911  3922.
+72. Kohyama J, Lai Y-Y, Siegel JM:Reticulospinal Systems Mediate Atonia With Short and Long Latencies. J Neurophysiol1998,80(4):1839  1851.
+72. Brodal P:Sentralnervesystemet.3rd edition. Oslo: Universitetsforlaget; 2001.
+72. Brodal P, Brodal A:Sentralnervesystemet: bygning og funksjon.Oslo: TANO; 1990.
+72. Barkley RA, Murphy KR:Attention-deficit hyperactivity disorder : a clinical workbook.New York: Guilford Press; 2006.
+72. van der Meere J:Sleep and Attention Deficit Hyperactivity Disorder . In Attention Deficit Hyperactivity Disorder : From Genes to Patients.Edited by Gozal D, Molfese DL. Totowa, NJ: Humana Press; 2005.
+72. Fliers EA, Vasquez AA, Poelmans G, Rommelse N, Altink M, Buschgens C, Asherson P, Banaschewski T, Ebstein R, Gill M,et al:Genome-wide
+
+    association study of motor coordination problems in ADHD identifies
+
+    genes for brain and muscle function. World J Biol Psychiatry2012,
+
+    13(3):211  222.
+
+79. Reyero F, Ponce G, Rodriguez-Jimenez R, Fernandez-Dapica P, Taboada D, Martin V, Navio M, Jimenez-Arriero MA, Hoenicka J, Palomo T:High
+
+    frequency of childhood ADHD history in women with fibromyalgia.
+
+    Eur Psychiatry2011,26(8):482  483.
+
+80. Moore DJ, Keogh E, Eccleston C:The interruptive effect of pain on attention. Q J Exp Psychol2012,65(3):565  586.
+80. Gureje O, Von Korff M, Simon GE,et al:Persistent pain and well-being: A World Health Organization study in primary care. JAMA1998, 280:147  151.
+80. Katz N:The Impact of Pain Management on Quality of Life. J Pain Symptom Manage2002,24(1):S38  S47.
+80. Katz WA, Barkin RL:Dilemmas in Chronic/Persistent Pain Management.
+
+    Dis Mon2010,56(4):233  250.
+
+doi:10.1186/1744-9081-9-18![](itdegoch.020.png)
+
+Cite this article as: Strayet al.:Motor regulation problems and pain in adults diagnosed with ADHD. Behavioral and Brain Functions2013 9:18.
+
+Page 10 of 10
+
+**Submit your next manuscript to BioMed Central and take full advantage of: ![](itdegoch.021.png)**
+
+- **Convenient online submission**
+- **Thorough peer review**
+- **No space constraints or color figure charges**
+- **Immediate publication on acceptance**
+- **Inclusion in PubMed, CAS, Scopus and Google Scholar**
+- **Research which is freely available for redistribution**
+
+Submit your manuscript at <a name="_page9_x0.00_y793.70"></a>www.biomedcentral.com/submit
+
+[ref1]: itdegoch.005.png

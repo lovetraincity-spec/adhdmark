@@ -1,0 +1,440 @@
+﻿![](5rm4isrz.001.png)
+
+**ORIGINAL ARTICLE** Print ISSN 1738-3684 / On-line ISSN 1976-3026 https://doi.org/10.30773/pi.2022.0117 **OPEN ACCESS**
+
+**Effectiveness of Clonidine in Child and Adolescent Sleep Disorders**
+
+Young-Jin Jang1, Haemi Choi2, Tae Sun Han3, Dajung Sung2,  Jae Yeon Woo4, Tae-Hyeong Kim2, and Min-Hyeon Park2 *
+
+1Department of Psychiatry, College of Medicine, The Catholic University of Korea, Seoul, Republic of Korea
+
+2Department of Psychiatry, Eunpyeong St. Mary’s Hospital, College of Medicine, The Catholic University of Korea, Seoul, Republic of Korea 3Department of Psychiatry, Wonju Severance Christian Hospital, Wonju, Republic of Korea
+
+4Department of Psychiatry, Kyung Hee University Hospital at Gangdong, Seoul, Republic of Korea
+
+**Objective** We aimed to investigate the improvement in sleep quantity and quality when clonidine was used in children and adolescents with insomnia. We also examined how sociodemographic characteristics such as age, sex, underlying psychological problems, and levels of depression and anxiety affected the effect of clonidine.
+
+**Methods** We retrospectively reviewed outpatients aged 6 to 24 who took clonidine due to insomnia from September 2019 to Septem- ber 2021 at the Department of Psychiatry at Eunpyeong St. Mary s Hospital of Catholic University. We used the Pittsburgh Sleep Quality Index (PSQI), Children s Depression Inventory (CDI), and State-Trait Anxiety Inventory (STAI) for our study.
+
+**Results** A total of 62 participants were included in our study (34 females, mean age 13.94–4.94 years). A er using clonidine, there was a significant decrease in PSQI components 1, 2, and 5, especially PSQI component 2.  ere was a greater decrease in sleep latency when clonidine was used in females, those aged between 13 and 24, those with mood/anxiety disorder or attention-deficit/hyperactivity disor- der, those whose sleep latency exceeded 60 minutes at baseline, and those who used clonidine for more than 14 days.  ose with higher STAI-Trait scores and CDI scores at baseline showed less improvement in total PSQI scores.
+
+**Conclusion** Considering that there are currently no Food and Drug Administration-approved sleep drugs for children and adolescents and no apparent difference in efficacy and safety among sleep drugs, we demonstrated that treatment with clonidine might be a good approach to improve sleep quality and quantity for children and adolescents.  **Psychiatry Investig 2022;19(9):738-747**
+
+**Keywords**   Child; Adolescent; Sleep latency; Sleep quality; Clonidine.
+
+**INTRODUCTION**
+
+Sleep problems are very common among children and ad- olescents worldwide, and it seems that approximately 25% of all children experience several types of sleep problems during childhood.1 In the LIFE Child study, 22.6% of the 4- to 9-year- old children and 20.0% of the 10- to 17-year-old adolescents showed significant amounts of sleep-related problems.2 A re- cent study assessing sleep-related problems in 7.3  14.9-year- old children reported that 72.7% of the children had sleep dis-![](5rm4isrz.002.png)
+
+**Received:** April 25, 2022    **Revised:** June 27, 2022 **Accepted:** July 20, 2022
+
+\* **Correspondence:** Min-Hyeon Park, MD, PhD
+
+Department of Psychiatry, Eunpyeong St. Mary s Hospital, College of Medi- cine,  e Catholic University of Korea, 1021 Tongil-ro, Eunpyeong-gu, Seoul 03312, Republic of Korea
+
+**Tel:** +82-2-2030-2722, **Fax:** +82-2-2030-2720
+
+**E-mail:** neominnie00@hanmail.net
+
+cc  is is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (https://creativecommons.org/licenses/by- nc/4.0) which permits unrestricted non-commercial use, distribution, and reproduc![](5rm4isrz.003.png) - tion in any medium, provided the original work is properly cited.
+
+orders.3,4 Although behavioral therapy is preferred as the initial treatment for sleep disorders in children and adolescents, phar- macologic interventions also play a considerable role for them.5,6 However, there are currently no Food and Drug Administra- tion (FDA)-approved sleep medications for children and ad- olescents; thus, many clinicians have prescribed medications for  off-label  indications.7
+
+Among the  off-label  sleep medications for children and adolescents, there has been increasing interest in the use of clonidine as a sleep medication, especially for patients with at- tention-deficit/hyperactivity disorder (ADHD), developmen - tal delays, autism spectrum disorders (ASD), and genetic syn- dromes.8,9 In 2006, Schnoes et al.10 presented the results of a survey of sleep aid prescriptions for children by 222 pediatri- cians in 4 states, and clonidine was the second most prescribed sleep medication a er antihistamines. Additionally, among 79 children who were prescribed clonidine for sleep disturbances, sleep onset difficulties (86.1%) were the most common indi- cation and were substantially more common than other sleep 
+
+**738****  *Copyright © 2022 Korean Neuropsychiatric Association*
+
+Clonidine for Child and Adolescent Insomnia
+
+problems (24.1%).
+
+Clonidine is an imidazoline derivative that acts centrally on alpha-2 adrenergic receptors. Clonidine stimulates alpha-adre- noreceptors in the brainstem, which results in decreased sym- pathetic outflow from the central nervous system (CNS).  is inhibition of sympathetic activity results in a decrease in pe- ripheral resistance, renal vascular resistance, heart rate, and blood pressure, by which clonidine has been approved as an antihypertensive drug by the FDA. Clonidine also has other FDA-approved indications, such as ADHD in children, tics and cancer-related pain. Clonidine is used for a variety of  off- label  indications, including the treatment of anxiety, insom - nia, and posttraumatic stress disorder, as well as the treatment of withdrawal symptoms from opioids, alcohol, and benzodi- azepines. In particular, clonidine is also well known for being prescribed in children as a sleep medication. Although the ex- act mechanism has not been established, it has been hypothe- sized that clonidine induces somnolescence by decreasing nor- epinephrine (NE) release through the activation of α-adrenergic receptors in the CNS.8,11
+
+Although clonidine has been widely used as a sleeping med- ication in children and adolescents, there are only a few stud- ies on how it affects sleep patterns in children and adolescents. While previous studies mostly focused on the association be- tween clonidine and rapid eye movement (REM) sleep or the efficiency of clonidine as a sleep medication in children with or without ADHD, developmental delays, ASD, and genetic syndrome,8 the goal of this study was to investigate the effect of clonidine on sleep patterns in children and adolescents. Ad- ditionally, we examined whether clonidine has a better effect on patients with certain characteristics, such as age, sex, un- derlying psychiatric disorders, duration of clonidine use, etc. In addition, as sleep disorders are common comorbidities in patients with depression and anxiety, we attempted to con- firm whether underlying depression or anxiety affects the ef- fect of clonidine on sleep.
+
+**METHODS**
+
+**Participants and procedures**
+
+` `is was a retrospective medical record review study con - ducted by the Catholic University of Korea, Eunpyeong St. Mary s Hospital. A total of 71 children and adolescents aged 6 and 24 years who were prescribed clonidine as a sleep aid from the outpatient clinic of the Catholic University of Korea, Eunpyeong St. Mary s Hospital between September 2019 and September 2021 were included in this study.  e participants completed the Pittsburgh Sleep Quality Index (PSQI) before and 1 month a er clonidine treatment for a retrospective chart review study. We reviewed the medical records of our partic-
+
+ipants to identify the principal diagnosis, concurrent medica- tions, sleep complaints, and the response to clonidine treatment and to determine whether there were adverse effects a er us - ing clonidine.  eir principal diagnoses were classified based on their diagnostic chart using International Classification of Diseases 10th Revision codes at the time of clonidine initia- tion for sleep purposes.  e side effect profiles of the patients included in this study were recorded in the medical charts through the patients  self-reports.  is study was approved by the Institutional Review Board of Eunpyeong St. Mary s Hos- pital, Seoul, Korea (IRB No. PC22RISI0009). Consent from individual subjects was not needed since it was a retrospec- tive study.
+
+**Measures**
+
+**Pittsburgh Sleep Quality Index** 
+
+` `e PSQI is a self-report questionnaire that measures sub - jective sleep quality over the last 4 weeks with 18 items.12  e first 4 items ask about times such as bedtime, the number of minutes it took for the participant to fall asleep, waking time, and hours of sleep per night.  e next 10 items enquire how o en the participant had trouble sleeping for different rea - sons.13 It has 7 components, including subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleeping medication, and daytime dys- function.  e score of each question is 0 (no difficulties) to 3 (serious difficulties), and the total score of the 7 components is from 0 to 21.  e higher the score of the tool is, the worse the quality of sleep. Buysse et al.12 classified the total score as in- dicating a  good sleeper  if the total score was below 5 points and  poor sleeper  if the total score was more than 5 points. Cronbach s α for the scale was 0.788 in the current study. How- ever, the Korean version of the PSQI (PSQI-K) developed by Sohn et al.14 presented 8.5 points as a cutoff value. Cronbach s α for the scale was 0.84 and 0.85 at the time of translation.
+
+**Children s Depression Inventory** 
+
+` `e Children s Depression Inventory (CDI) is a self-report scale and is a modified version of Beck s Depression Inventory that assesses depression in children and adolescents.15 It con- tains 27 self-rated questions that reflect depressive symptoms, and participants are asked to select one of three alternative statements that best described their symptoms during the past 2 weeks. Each item earns either 0, 1, or 2 points, and higher scores indicate higher levels of depression.16 For the present study, we used the Korean version of the CDI, which was de- veloped by Cho and Lee,17 to measure levels of depression in children and adolescents. Scores using this scale were mea- sured only at baseline in this study.
+
+739** Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+**State-Trait Anxiety Inventory** 
+
+` `e State-Trait Anxiety Inventory (STAI) is a self-report scale that measures the presence and severity of current symptoms of anxiety and a generalized propensity to be anxious with 40 items.18  e State Anxiety Scale evaluates the current state of anxiety, including subjective feelings of tension, nervousness, worry, and arousal of the autonomic nervous system, by ask- ing participants how they feel  right now.  It contains 20 items, with numerical values from 0 to 2.  e Trait Anxiety Scale evaluates relatively stable aspects of anxiety proneness, such as general states of calmness, confidence, and security.19 It con- tains 20 items, with numerical values from 0 to 2. Higher rat- ings indicate greater anxiety severity. Cronbach s α for the scale was 0.853 in the current study. Scores using this scale were measured only at baseline in this study.
+
+**Statistics**
+
+Paired t tests were conducted to compare the sleep quality of the participants before and a er clonidine treatment. Reli - ability analyses were performed to obtain Cronbach s α for the questionnaires. Statistical significance for all tests was set at p<0.05. We conducted all statistical analyses using SPSS 21.0 for Windows (IBM Corp., Armonk, NY, USA).
+
+**RESULTS**
+
+Of the 71 participants, 38 were female (53.5%), and the mean age was 13.48 years (standard deviation [SD]=4.88 years). Of them, 9 were excluded from the analysis because of incomplete responses, which resulted in a total of 62 participants for the final analysis. Of these participants, 34 were female (54.8%), and the mean age was 13.94 years (SD=4.94 years). In the group with ADHD and disturbance of activity and attention as the principal diagnosis, 2 participants had tic disorders, 11 had depression disorders, 3 had anxiety disorders, 1 had obsessive- compulsive disorder (OCD), 2 had mental retardation, and 1 had borderline intellectual functioning disorder, which were confirmed as comorbidities. In the group with tic disorders and motor disorders as the principal diagnosis, 6 participants had ADHD, 2 had depressive disorders, and 3 had anxiety disor- ders, which were confirmed as comorbidities. In the group with depressive disorders and anxiety disorders as the principal di- agnosis, 3 participants had ADHD, 1 had OCD, and 2 had eat- ing disorders, which were confirmed as comorbidities. In the group with mental retardation as the principal diagnosis, 1 par- ticipant had ADHD and 1 participant had a depressive disor- der, which were confirmed as comorbidities. In the group with borderline intellectual functioning as the principal diagnosis, one participant had ADHD, which was confirmed as a comor- bidity, and in the group with ASD as the principal diagnosis, 
+
+two participants had ADHD, which was confirmed as a co- morbidity.
+
+Of the patients who used clonidine, 16 of 62 reported ad- verse side effects. Reported side effects included worsening of sleep disturbance (n=4), dizziness (n=4), dry mouth (n=3), oversedation (n=3), nausea (n=2), headache (n=2), irritability (n=1), numbness (n=1), skin rash (n=1), diplopia (n=1), tin - nitus (n=1), lethargy (n=1), and general ache (n=1).  e side 
+
+**Table 1.** Clinical characteristics of participants![](5rm4isrz.004.png)
+
+Characteristics Value Sex
+
+Female 34 (54.8)
+
+Male 28 (45.2) Age (yr) 13.94–4.94
+
+Minimum  6
+
+Maximum 24 STAI-Trait (N=47) 20.49–8.30
+
+Minimum  0
+
+Maximum 40 STAI-State (N=47) 29.83–4.69
+
+Minimum 19
+
+Maximum 38 CDI (N=46) 19.74–12.22
+
+Minimum  0
+
+Maximum 46 Principal diagnosis
+
+ADHD, disturbance of activity and attention 24 (38.7)
+
+Tic disorders, motor disorders 9 (14.5)
+
+Depressive disorders, anxiety disorders 23 (37.1)
+
+Mental retardation 2 (3.2)
+
+Borderline intellectual functioning 2 (3.2)
+
+Autism spectrum disorder 2 (3.2) Number of concurrent psychotropic medication at baseline
+
+1 21 2 9 3 0 4 12 5 24 6 40 7 5 8 1 9 6 10 7 11 5 12 1
+
+Values are presented as mean–standard deviation, N (%), or N. STAI, State-Trait Anxiety Inventory; CDI, Children s Depression Inventory; ADHD, attention-deficit hyperactivity disorder
+
+741** Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+effects were usually mild, and no serious side effects, such as  as well as commonly frequented websites.20  e 13 24-year- angioedema, hypersensitivity, atrioventricular block, bradycar- old group showed significantly decreased mean scores of com- dia, severe hypertension, or REM rebound, were found.  ere- ponent 2 of PSQI compared with the 6 12-year-old group fore, we concluded that the patients tolerated clonidine.  e  (mean–SD; 13 24 year group: 2.59–0.64 to 2.05–0.82, p= demographic and clinical characteristics of the patients in our  0.002 vs. 6  12 year group: 2.16–0.85 to 1.60–1.04, p=0.016) study are presented in Table 1. (Table 4).
+
+Among the patients diagnosed with a variety of psychiatric **Association between clonidine use and Pittsburgh**  disorders, patients with a principal diagnosis of ADHD or a **Sleep Quality Index component scores** mood disorder showed significant improvements in the mean 
+
+Most PSQI component scores decreased a er clonidine ad- scores of component 2 of the PSQI (mean–SD; ADHD: 2.29– ministration, but only component 1, 2, and 5 subjective sleep  0.75 to 1.63–0.77, p=0.003, mood disorders: 2.61–0.66 to 2.00– quality, sleep latency, and sleep disturbance were significantly 
+
+reduced, as shown in Table 2. Specifically, we found that pa- ![](5rm4isrz.005.png)
+
+100 Pretest
+
+tients reported a more than 30 minutes shortening in mean  92.47 Posttest scores of sleep latency time a er using clonidine, as depicted  80
+
+in Figure 1 (mean–SD, 92.47–74.19 to 60.81–58.28 min).  e  60.81
+
+60
+
+mean scores of total sleep time increased by 12 minutes a er 
+
+using clonidine (mean–SD, 430.06–147.58 to 442.56–148.37  40
+
+min). In addition, we discovered that component 6 use of 
+
+sleeping medication significantly increased, showing im- 20
+
+provements in sleep quality and difficulties. By using clonidine,  0
+
+the patients reported that they could reach sleep more easily,  PSQI componet 2
+
+sleep better, and be satisfied with their sleep. **Figure 1.** Changes in sleep latency as assessed by component 2 
+
+of the PSQI before and after treatment with clonidine. PSQI, Pitts- burgh Sleep Quality Index. 
+
+**Characteristics affecting the association between** 
+
+**clonidine and sleep latency**
+
+**Table 3.** Changes in sleep latency according to sex differences  e administration of clonidine significantly decreased the  before and after treatment with clonidine
+
+mean scores of component 2 of the PSQI in the female group 
+
+|Sex|Mean–SD|T|p|
+| - | - | - | - |
+|Male (N=28)||2\.55|0\.017\*|
+|Pretest|2\.46–0.79|||
+|Posttest|1\.96–0.96|||
+|Female (N=34)||3\.47|<0.001\*\*\*|
+|Pretest|2\.38–0.74|||
+|Posttest|1\.79–0.91|||
+but not in the male group (mean–SD; female: 2.38–0.74 to 
+
+1\.79–0.91, p<0.001 vs. male: 2.46–0.79 to 1.96–0.96, p=0.017) 
+
+(Table 3).
+
+We divided the sample into two age groups: the 6 12-year-
+
+old group and the 13 24-year-old group.  e criteria for clas -
+
+sifying the two age groups were based on previous Centers for 
+
+Disease Control and Prevention, American Academy of Sleep 
+
+\*p<0.05; \*\*\*p<0.001. SD, standard deviation 
+
+Medicine, and National Sleep Foundation recommendations, 
+
+**Table 2.** Changes in PSQI component scores after using clonidine![](5rm4isrz.006.png)
+
+Component scores  Pretest Posttest
+
+PSQI component T p
+
+range Mean–SD![](5rm4isrz.007.png)![](5rm4isrz.008.png)
+
+1 (Subjective sleep quality) 0 3 1.82–0.59 1.42–0.78 3.88 <0.001\*\*\* 2 (Sleep latency) 0 3 2.42–0.76 1.87–0.93 4.31 <0.001\*\*\* 3 (Sleep duration) 0 3 0.89–1.26 0.71–1.10 1.28 0.207
+
+4 (Habitual sleep efficiency) 0 3 0.76–1.13 0.81–1.24 -0.29 0.770
+
+5 (Sleep disturbances) 0 3 1.73–0.63 1.50–0.62 3.04 0.003\*\* 6 (Use of sleep medication) 0 3 1.02–1.36 1.94–1.39 -4.38 <0.001\*\*\* 7 (Daytime dysfunction) 0 3 1.92–0.95 1.82–1.14 0.61 0.545 Total  0 21 10.55–3.78 9.98–4.49 1.20 0.234 \*\*p<0.01; \*\*\*p<0.001. PSQI, Pittsburgh Sleep Quality Index; SD, standard deviation 
+
+743** Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+0\.91, p=0.001) (Table 5).
+
+We divided the sleep latency of the participants at baseline into two groups: less than 60 minutes and more than 60 min- utes.  e more than 60 minute sleep latency group showed sig - nificantly decreased mean scores of component 2 of the PSQI compared with the less than 60 minute sleep latency group (mean–SD; above 60 min: 2.83–0.38 to 1.93–0.87, p<0.001 vs. less than 60 min: 2.03–0.82 to 1.81–1.00, p=0.229). We di- vided the duration of clonidine use into two groups: less than 14 days and more than 14 days.  e group taking clonidine for more than 14 days showed significantly decreased mean scores on component 2 of the PSQI compared with the group taking clonidine for less than 14 days (mean–SD; more than 14 days: 2.47–0.77 to 1.78–1.02, p=0.001 vs. less than 14 days: 2.35–0.75 to 2.00–0.80, p=0.017) (Table 6).
+
+**Association between sleep improvement and underlying depression or anxiety a er using clonidine**
+
+In this study, based on the cutoff value of 8.5 points on the total PSQI, the patients were divided into a good sleeper group (PSQI≥8.5) and a poor sleeper group (PSQI<8.5). Of the 62 pa- tients, the number of good sleepers a er using clonidine was 26, and the number of poor sleepers was 36. As shown in Ta- ble 7, the two groups showed no significant difference in diag- nosis at baseline. However, the mean scores of STAI-Trait, STAI-State, and CDI of the poor sleeper group at baseline were higher than those of the good sleeper group, and only STAI- Trait and CDI mean scores were statistically significant (mean– SD; STAI-Trait of poor sleeper and good sleeper: 23.13–7.15 vs. 17.74–8.66, p=0.024, CDI of poor sleeper and good sleep- er: 24.91–12.47 vs. 14.57–9.68, p=0.003) (Table 8).
+
+**Table 4.** Changes in sleep latency according to age differences before and after treatment with clonidine
+
+|Age (yr)|Mean–SD|T|p|
+| - | - | - | - |
+|6 12 (N=25)||2\.59|0\.016\*|
+|Pretest|2\.16–0.85|||
+|Posttest|1\.60–1.04|||
+|13 24 (N=37)||3\.42|0\.002\*\*|
+|Pretest|2\.59–0.64|||
+|Posttest|2\.05–0.82|||
+\*p<0.05; \*\*p<0.01. SD, standard deviation
+
+**DISCUSSION**
+
+Although clonidine has commonly been prescribed as a sleep medication for children and adolescents due to its sedative ef- fects, neither well-randomized and controlled trials nor sys- tematic studies of clonidine in sleep management exist.21 To fill the gap in evidence, we investigated how clonidine affects the quality and quantity of sleep in children and adolescents by us- ing a self-reported measure called the PSQI.
+
+Interestingly, we found that most of the mean scores of PSQI components decreased a er clonidine treatment, and specific components such as subjective sleep quality, sleep latency, and sleep disturbance significantly decreased. Specifically, clonidine was more effective in reducing sleep latency, showing more than 30 minutes shortening in mean scores of sleep latency.  ese results are consistent with those of previous studies showing that clonidine reduced sleep latency. Ming et al.22 showed that clonidine was effective in reducing sleep latency and night awakening in children with ASD. Ingrassia and Turk23 described the benefit of clonidine on sleep initiation, night-time waken- ing and early morning awakening in 6 children with intellec- tual disabilities.  ese findings suggest that clonidine is effica -
+
+cious in managing sleep disturbances, especially in sleep latency disorders of children and adolescents, by improving the qual-
+
+**Table 6.** Changes in sleep latency according to sleep latency at baseline and the duration of clonidine use before and after treat- ment with clonidine
+
+Mean–SD T p ![](5rm4isrz.009.png)![](5rm4isrz.010.png)Sleep latency ≤60 min (N=32) 1.23 0.229 Pretest 2.03–0.82
+
+Posttest 1.81–1.00
+
+Sleep latency >60 min (N=30) 5.57 <0.001\*\*\*
+
+Pretest 2.83–0.38
+
+Posttest 1.93–0.87
+
+Duration <14 days (N=26) 2.56 0.017\*\*
+
+Pretest 2.35–0.75
+
+Posttest 2.00–0.80
+
+Duration ≥14 days (N=36) 3.57 0.001\*\*\*
+
+Pretest 2.47–0.77
+
+Posttest 1.78–1.02
+
+\*\*p<0.01; \*\*\*p<0.001. SD, standard deviation ![](5rm4isrz.011.png)
+
+` `Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+**Table 5.** Changes in sleep latency according to principal diagnosis at baseline and before and after treatment with clonidine![](5rm4isrz.012.png)
+
+Pretest Posttest
+
+Principal diagnosis T p
+
+Mean–SD![](5rm4isrz.013.png)![](5rm4isrz.014.png)
+
+ADHD, disturbance of activity and attention (N=24) 2.29–0.75 1.63–0.77 3.39 0.003\*\* Depression, anxiety, other single mood (affective) disorders, panic disorder (N=23) 2.61–0.66 2.00–0.91 4.04 0.001\*\*\* \*\*p<0.01; \*\*\*p<0.001. ADHD, attention-deficit hyperactivity disorder; SD, standard deviation 
+
+**Table 7.** Comparison of principal diagnosis at baseline between the good sleeper group and the poor sleeper group
+
+|Principal diagnosis|Good sleeper group (N=26)|Poor sleeper group (N=36)|
+| - | - | - |
+|ADHD, disturbance of activity and attention|14 (53.8)|10 (27.8)|
+|Tic disorder, combined vocal and multiple motor tics|4 (15.4)|5 (13.9)|
+|Depression, anxiety, other single mood (affective) disorders, panic disorder|6 (23.1)|17 (47.2)|
+|Mental retardation|0 |2 (5.6)|
+|Borderline intellectual functioning|0 |2 (5.6)|
+|Autism|2 (7.7)|0 |
+
+Values are presented as N (%). Good sleepers: total PSQI <8.5, poor sleepers: total PSQI ≥8.5. ADHD, attention-deficit hyperactivity disorder; PSQI, Pittsburgh Sleep Quality Index 
+
+` `Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+**Table 8.** Comparison of STAI-Trait, STAI-State, and CDI score at baseline between the good sleeper group and the poor sleeper group
+
+|Group|Mean–SD|T|p|
+| - | - | - | - |
+|STAI-Trait||-2.33|0\.024\*|
+|Good sleeper (N=23)|17\.74–8.66|||
+|Poor sleeper (N=24)|23\.13–7.15|||
+|STAI-State||-1.72|0\.092|
+|Good sleeper (N=23)|28\.65–5.13|||
+|Poor sleeper (N=24)|30\.96–4.02|||
+|CDI||-3.14|0\.003\*\*|
+|Good sleeper (N=23)|14\.57–9.68|||
+|Poor sleeper (N=23)|24\.91–12.47|||
+Good sleepers: total PSQI <8.5, poor sleepers: total PSQI ≥8.5. \*p<0.05; \*\* p<0.01. STAI, State-Trait Anxiety Inventory; CDI, Children s Depression Inventory; SD, standard deviation
+
+ity and quantity of sleep.
+
+In addition, we examined whether the effectiveness of cloni- dine on sleep latency differs depending on certain factors, in- cluding sex, age, psychiatric comorbidities, and sleep latency time at baseline. Compared to the other groups, it was partic- ularly significant that the sleep latency was more shortened in the female group, 13 24-year-old group, group with a princi- pal diagnosis of ADHD or a mood disorder, and group with a sleep latency of more than 60 minutes at baseline.
+
+Both the male and female groups exhibited a reduction in sleep latency a er clonidine treatment, but the difference was more pronounced in the female group. In a previous study com- paring sex differences in catecholamine secretion a er cloni - dine, NE plasma levels were significantly decreased more in women than in men.  is finding supports the results of our study that clonidine treatment shows sexual dimorphism when used as a sleep aid, regarding the most likely hypothesis that clonidine induces sleep by decreasing NE secretion with ago- nism of α 2-adrenergic receptors.24
+
+In this study, sleep latency was more significantly reduced in the 13 24-year-old group than in the 6 12-year-old group. In- dividually, the sleep habits of children undergo changes through 
+
+childhood and adolescence, and aging may lead to a late bed- time and short sleep duration. Furthermore, specific sleep-re- lated difficulty areas may correspond to specific age groups. For instance, bedtime resistance and difficulty sleeping through the night are o en reported in younger people, while difficulty falling asleep and daytime sleepiness become more common in older people.2,25 Usually, it is known that adolescents are accompanied by a delay in nocturnal melatonin secretion and altered  sleep impulse,  in which the pressure to fall asleep ac- cumulates more slowly than in adults. In addition to the sleep- wake changes from this biological maturation, adolescents un- dergo increased academic demands and occasionally deal with part-time jobs, extracurricular and social activities and a high use of electronic devices.26-28 For the preceding reasons, prob- lems in sleep latency at baseline are more likely to occur in the 13 24-year-old group than in the 6 12-year-old group, which was found in this study (M–SD; 13  24-year-old, 2.59–0.64 vs. 2.16–0.85) (Table 4). Although the clear mechanism by which clonidine reduces sleep latency has not yet been elucidated, several studies, including this study, have shown that clonidine is significantly efficacious in reducing sleep latency, suggest- ing that clonidine may be more effective in the 13  24-year- old group, who suffer more from subjective difficulty in sleep onset than the 6 12-year-old group. To prove that there is a difference in the effect of clonidine according to age, further studies on the mechanism by which clonidine affects sleep la- tency should be prioritized.
+
+For the patients with a principal diagnosis of ADHD or a mood disorder, the study showed a significant reduction in sleep latency a er using clonidine.  e mean scores of PSQI component 2 decreased from 2.29 (SD=0.75) to 1.63 (SD=0.77) in the ADHD group and from 2.61 (SD=0.66) to 2.00 (SD=0.91) in the mood disorder group. According to parents  reports, 25% to 50% of children and adolescents with ADHD are known to have sleep disturbances.29 Another study reported that 73.3% of 239 children diagnosed with ADHD had mild to severe sleep disorders.30 Sleep disorders commonly reported by children and parents include difficulties initiating sleep, maintaining sleep, tiredness upon waking and daytime sleepiness.30,31 It has 
+
+745** Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+been hypothesized that the sleep problems seen in ADHD chil- dren or adolescents are associated with either adverse effects of stimulant usage, core ADHD symptoms, a psychiatric co- morbidity, or a combination of them. 9 Despite differences based on the type, dose, and duration of drug sue, it has been report- ed that the sleep onset latency is longer than 30 minutes when using stimulants.32 Additionally, ADHD has a variety of comor- bid psychiatric diseases, and comorbidities such as mood dis- orders, anxiety disorders, and tic disorders have all been asso- ciated with significant sleep disturbances.33,34 Our study showed a significant sleep latency reduction in children and adoles- cents diagnosed with ADHD or diagnosed with mood disor- ders/anxiety disorders, which are commonly comorbid with ADHD.  is is consistent with the results of previous studies. In a more recent study, more than 85% of children and ado- lescents with anxiety disorders reported sleep disturbances, and the most common sleep disorders in children with anxi- ety disorders are sleep initiation and maintenance difficulties, frequent nocturnal awakening, bedtime refusal, co sleeping, nightmares, and nocturnal fear. 34,35 Forbes et al.36 conducted a large, controlled study using both subjective sleep reports and polysomnography (PSG) in children and adolescents with anx- iety disorder and major depression. Adolescents with anxiety disorders showed more sleep disruption on the PSG with an increased number of awakenings and fewer slow waves and had longer sleep latency than children with major depression and controls.34 In an initial study of prepubertal children diag- nosed with major depressive disorder, approximately 66% re- ported sleep onset difficulties and sleep maintenance problems. Early studies identified considerably shorter REM latency and greater REM density in depressed adolescents than in con- trols.34,37 Although sleep disturbance is o en comorbid with depression, sleep disturbance is also known to be a common risk factor for subsequent clinical depression.38 According to the above study results, patients diagnosed with anxiety disor- der showed lower slow wave sleep, whereas patients diagnosed with depressive disorder showed shortened REM latency and increased REM density. Because clonidine may affect REM la- tency and slow wave sleep, it could be inferred to be a reason clonidine shows more improvement in sleep latency in patients diagnosed with mood disorders/anxiety disorders.
+
+Furthermore, we found that the mean scores of PSQI com- ponent 2 decreased from 2.35 (SD=0.75) to 2.00 (SD=0.80) in patients who took clonidine for less than 2 weeks, whereas the mean scores of PSQI component 2 decreased significantly from 2.47 (SD=0.77) to 1.78 (SD=1.02) in patients who took cloni- dine for more than 2 weeks. Because clonidine is known to produce dose-related sedation, it may be that more improve- ment was shown in sleep latency a er using clonidine for more than 2 weeks than when using it for less than 2 weeks.11,39
+
+Moreover, this study found that poor sleepers, who had total scores above 8.5 on the PSQI a er clonidine administration, had higher scores on the STAI-Trait and CDI at baseline than good sleepers, who had total scores below 8.5 on the PSQI. Contrary to the results of this study, which showed a signifi- cant decrease in PSQI component 2 a er using clonidine in the group with comorbid mood disorder/anxiety disorder, it was confirmed that the total PSQI score a er using clonidine was higher as the underlying depression and anxiety increased.  is result might be explained by the fact that the mood disorder/ anxiety disorder group already had high total scores, not only for the baseline PSQI component but also for other PSQI com- ponents. However, the STAI and CDI scores a er using cloni- dine were not evaluated in this study.  erefore, our results could hardly jump to the conclusion that the levels of depres- sion and anxiety are negatively correlated with the effective- ness of clonidine on sleep. Considering this, we recommend future studies to use a scale that has objective evaluations of experts along with STAI and CDI.  is might support our re - sults that levels of depression and anxiety at baseline could af- fect the effectiveness of clonidine in sleep.
+
+Currently, there is no FDA-approved medication for sleep disorders in children and adolescents, but clinically, various medications are being used. Antihistamine especially di - phenhydramine and hydroxyzine are the most frequently prescribed drugs for insomnia alone, followed by α2-adrenergic agonists, melatonin, tricyclic antidepressant, and other anti- depressants.10 Although antihistamines are known to be the most prescribed agents for insomnia, there are not enough randomized controlled studies in the pediatric population.  eir sedative effects are due to its lipid solubility and resul - tant ability to penetrate the blood brain barrier to block the H1-receptor. It is also known to reduce sleep latency and in- crease sleep continuity.10,40-43 However, as an antihistamine is also a multifunctional drug that blocks muscarinic choliner- gic and adrenergic receptors, it may lead to fever, mydriasis, blurred vision, dry mouth, urinary retention, constipation, tachycardia, dystonia, and confusion as side effects. Five cas- es of fatal diphenhydramine toxicity have also been reported in case series for newborns at 6  12 weeks.42,44,45 Another of the most prescribed sleep medications, melatonin, activates MT1 and MT receptors by modulating the sleep/wake cycle. Addi- tionally, previous studies have found that melatonin is effica- cious in enhancing total sleep time, sleep latency, and number of waking incidents.46,47 According to a recent meta-analysis, 9 previous studies found that melatonin enhanced total sleep time compared to placebo (mean difference [MD]=48.26 min; 95% confidence interval [CI], 36.78 to 59.73). Similarly, sleep latency was reduced in the groups that used melatonin in 11 previous studies (MD=-28.97; 95% CI, -39.78 to -18.17). Al-
+
+747** Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+though drug-related serious adverse events were not report- ed, there was no difference in nocturnal awakenings a er us - ing melatonin (MD=-0.49; 95% CI, -1.71 to 0.73).48
+
+A clear primary mechanism of how clonidine produces sleep has not been identified, and the most widely known hypoth- esis is that clonidine produces somnolence by decreasing NE via negative feedback by agonism of the alpha 2-adrenergic re- ceptors, which would increase REM sleep.49 However, several studies, including this study, have confirmed that clonidine is effective in reducing sleep latency.  e fact that clonidine takes within 1 to 3 hours to reach peak plasma concentration by oral dosing may explain the significant reduction in sleep la- tency a er using clonidine. Additionally, clonidine has the ad - vantage of being used as an adjuvant therapy for children and adolescents not only with sleep disorders but also with ADHD, behavior problems, hypertension, Tourette disorder, tic disor- der, and ASD. However, since clonidine was originally approved as an antihypertensive drug, some side effects have been re- ported a er its use.  e most common side effects included headache, abdominal pain, nausea and fatigue, and in relation to anticholinergic effects, they also included constipation, sex- ual dysfunction and xerostomia. Additionally, serious side ef- fects included angioedema, hypersensitivity, atrioventricular block, bradycardia and severe hypotension. Furthermore, because of REM suppression action, rapid discontinuation may be accompanied by hypertension and REM rebound, so caution is required when using it.11,42 A study of 1,060 children under the age of 19 reported that compared to that in 1993, the use of clonidine medication in 1999 increased from 2.6% to 13.1% under the age of 6, from 22.1% to 40.4% between the ages of 6 and 12, and from 16.7% to 25.5% between the ages of 13 and 18. As the use of clonidine increases, there is some evidence that the trend of overdose of clonidine may be on the rise. However, a small number of clonidine overdoses result in fatality. Of these, 78.7% of exposures showed no ef- fect or minor effect, and only 1 fatality was reported. In addi- tion, the side effects of clonidine subside or decrease over time and are dose dependent.8,50,51 Similarly, although our study was preliminary and retrospective, we found that 50 of 62 patients (80.6%) using clonidine were well-treated without even mild side effects. Although clonidine has not shown better effects or higher safety than other common sleeping drugs (i.e., anti- histamine, melatonin) in children and adolescents, there are no FDA-approved sleeping drugs for children and adolescents at present.  erefore, it is important to note that using cloni - dine could be a more appropriate approach, as there are no sleeping drugs that show superiority over other drugs.
+
+` `is study should be considered in the context of its strengths and limitations. Most importantly, we highlight the effective- ness of clonidine as a sleep medication for children and ado-
+
+lescents. In addition to the findings that clonidine may improve the quality and quantity of sleep in children and adolescents, our study suggests that the patient s specific characteristics at baseline may impact the effectiveness of clonidine on sleep latency.  is study will be useful as basic data for future re - search exploring the mechanism by which clonidine produces sleep. Additionally, by confirming its clinical effect, it can be expected that clonidine can be more actively used to treat in- somnia and improve sleep quality in children and adolescents. However, our study has several limitations. First, as we con- ducted a retrospective study, we used the medical charts of our sample, which may have resulted in the possibility of interpret- ing our study results with expectancy bias. Second, this study had a limitation in that it did not correct for the confounding effect of the use of concurrent psychotropic drugs that may af- fect sleep while using clonidine.  ird, this study focused on self-reported measures of sleep, and objective measures such as PSG or actigraphy were not available. Fourth, the relatively small sample size and the lack of a control group limited the power to demonstrate the effects of clonidine. Fi h, this study was conducted by an institution in South Korea, so it is difficult to generalize the results across the country or to other races. Sixth, because this study was conducted over a short period of time, further long-term studies on clonidine use and sleep latency should be performed to understand the durability of the clinical results of this study. In addition, this study broadly divided the participants into two groups: children aged 6 12 years and adolescents aged 13 24 years. In children and ado- lescents, changes in sleep architecture may occur according to developmental changes.  erefore, to compare the effects of clonidine on sleep latency according to age, we suggest that fur- ther research including a more subdivided comparison of age groups according to the developmental stage of children and adolescents is needed. Last, considering that the aforementioned side effects might occur in a dose-dependent manner, we rec- ommend that future studies establish safety when clonidine is used in children and adolescents for long-term sleep purposes.
+
+In conclusion, this study examined the effectiveness of cloni- dine as a sleep medication for children and adolescents through the PSQI of 62 children and adolescents with sleep difficul- ties. We established that clonidine significantly improved sub- jective sleep quality, sleep latency and sleep disturbance a er treatment. It is particularly significant that the female group, 13 24-year-old group, group with a principal diagnosis of ADHD or a mood disorder, and group with a sleep latency time of more than 60 minutes at baseline reported a greater reduction in their sleep latency according to component 2 of the PSQI. In addition, clonidine was verified to be more effec- tive when consistently administered for more than 2 weeks. However, the higher the levels of depressive symptoms and 
+
+` `Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+anxious symptoms at baseline were, the lower the improve- ment in sleep after using clonidine. These findings suggest that clonidine is a viable option for clinicians treating children and adolescents with sleep disorders, while there are no FDA- approved medications for insomnia in the child and adoles- cent population.
+
+Availability of Data and Material
+
+` `e datasets generated or analyzed during the study are available from the corresponding author upon reasonable request.
+
+Conflicts of Interest
+
+Min-Hyeon Park, a contributing editor of the Psychiatry Investigation, was not involved in the editorial evaluation or decision to publish this arti- cle. All remaining authors have declared no conflicts of interest.
+
+Author Contributions
+
+Conceptualization: Min-Hyeon Park. Data curation: Jae Yeon Woo, Tae- Hyeong Kim, Min-Hyeon Park. Formal analysis: Haemi Choi, Jae Yeon Woo. Investigation: Haemi Choi, Tae-Hyeong Kim. Methodology: Dajung Sung, Min-Hyeon Park. Project administration: Min-Hyeon Park. Re- source: Min-Hyeon Park. So ware: Haemi Choi, Jae Yeon Woo. Supervi- sion: Min-Hyeon Park. Validation: Young-Jin Jang, Tae Sun Han, Min-Hyeon Park. Visualization: Haemi Choi, Jae Yeon Woo. Writing original dra : Young-Jin Jang. Writing review & editing: Haemi Choi, Tae Sun Han, Dajung Sung, Min-Hyeon Park.
+
+ORCID iDs
+
+Young-Jin Jang   https://orcid.org/0000-0001-8141-8668 Haemi Choi   https://orcid.org/0000-0002-8946-4666 Tae Sun Han   https://orcid.org/0000-0002-6205-5344 Dajung Sung   https://orcid.org/0000-0002-6631-8762 Jae Yeon Woo   https://orcid.org/0000-0002-6455-5158 Tae-Hyeong Kim   https://orcid.org/0000-0003-0208-8264 Min-Hyeon Park   https://orcid.org/0000-0002-1731-1388
+
+Funding Statement
+
+None REFERENCES
+
+1. Owens J. Classification and epidemiology of childhood sleep disor- ders. Sleep Med Clin 2007;2:353-361.
+1. Lewien C, Genuneit J, Meigen C, Kiess W, Poulain T. Sleep-related dif- ficulties in healthy children and adolescents. BMC Pediatr 2021;21:82.
+1. Liu X, Buysse DJ, Gentzler AL, Kiss E, Mayer L, Kapornai K, et al. In- somnia and hypersomnia associated with depressive phenomenology and comorbidity in childhood depression. Sleep 2007;30:83-90.
+1. Puig-Antich J, Goetz R, Hanlon C, Davies M,  ompson J, Chambers WJ, et al. Sleep architecture and REM sleep measures in prepubertal children with major depression: a controlled study. Arch Gen Psychia- try 1982;39:932-939.
+1. Tikotzky L, Sadeh A.  e role of cognitive-behavioral therapy in be- havioral childhood insomnia. Sleep Med 2010;11:686-691.
+1. Owens JA, Mindell JA. Pediatric insomnia. Pediatr Clin North Am 2011;58:555-569.
+1. Owens JA, Rosen CL, Mindell JA, Kirchner HL. Use of pharmacother- apy for insomnia in child psychiatry practice: a national survey. Sleep Med 2010;11:692-700.
+1. Nguyen M,  arani S, Rahmani M, Shapiro M. A review of the use of clonidine as a sleep aid in the child and adolescent population. Clin Pediatr (Phila) 2014;53:211-216.
+9. Barrett JR, Tracy DK, Giaroli G. To sleep or not to sleep: a systematic review of the literature of pharmacological treatments of insomnia in children and adolescents with attention-deficit/hyperactivity disorder. 
+
+   J Child Adolesc Psychopharmacol 2013;23:640-647.
+
+10. Schnoes CJ, Kuhn BR, Workman EF, Ellis CR. Pediatric prescribing practices for clonidine and other pharmacologic agents for children with sleep disturbance. Clin Pediatr (Phila) 2006;45:229-238.
+10. Yasaei R, Saadabadi A. Clonidine. Treasure Island, FL: StatPearls Pub- lishing; 2022.
+10. Buysse DJ, Reynolds CF 3rd, Monk TH, Berman SR, Kupfer DJ.  e Pittsburgh Sleep Quality Index: a new instrument for psychiatric prac- tice and research. Psychiatry Res 1989;28:193-213.
+10. Pilz LK, Keller LK, Lenssen D, Roenneberg T. Time to rethink sleep quality: PSQI scores reflect sleep quality on workdays. Sleep 2018;41: zsy029.
+10. Sohn SI, Kim DH, Lee MY, Cho YW.  e reliability and validity of the Korean version of the Pittsburgh Sleep Quality Index. Sleep Breath 2012;16:803-812.
+10. Kovacs M. Children s depression inventory manual. North Tonawan- da, NY: Multi-Health Systems Inc.; 1992.
+10. Ozono S, Nagamitsu S, Matsuishi T, Yamashita Y, Ogata A, Suzuki S, et al. Reliability and validity of the children s depression inventory-Japa- nese version. Pediatr Int 2019;61:1159-1167.
+10. Cho SC, Lee YS. Development of the Korean form of the Kovacs  Chil- dren s Depression Inventory. J Korean Neuropsychiatr Assoc 1990;29: 943-56.
+10. Spielberger CD. Manual for the state-trait anxietry, inventory. Palo Alto, CA: Consulting Psychologist; 1970. 
+10. Julian LJ. Measures of anxiety. Arthritis Care Res (Hoboken) 2011;63 Suppl 11:S467-S472.
+10. Paruthi S, Brooks LJ, D Ambrosio C, Hall WA, Kotagal S, Lloyd RM, et al. Consensus statement of the American Academy of Sleep Medicine on the recommended amount of sleep for healthy children: methodol- ogy and discussion. J Clin Sleep Med 2016;12:1549-1561.
+10. MacLeod RL, Keen DV. Innovations in practice:  off-label  clonidine: UK paediatric and child and adolescent psychiatry prescribing prac- tice for sleep problems. Child Adolesc Ment Health 2014;19:147-150.
+10. Ming X, Gordon E, Kang N, Wagner GC. Use of clonidine in children with autism spectrum disorders. Brain Dev 2008;30:454-460.
+10. Ingrassia A, Turk J. The use of clonidine for severe and intractable sleep problems in children with neurodevelopmental disorders--a case series. Eur Child Adolesc Psychiatry 2005;14:34-40.
+10. Del Rio G, Verlardo A, Zizzo G, Marrama P, Della Casa L. Sex differ- ences in catecholamine response to clonidine. Int J Obes Relat Metab Disord 1993;17:465-469.
+10. Schlarb AA, Gulewitsch MD, Weltzer V, Ellert U, Enck P. Sleep dura- tion and sleep problems in a representative sample of German children and adolescents. Health 2015;7:1397-1408.
+10. Carskadon MA, Acebo C, Jenni OG. Regulation of adolescent sleep: implications for behavior. Ann N Y Acad Sci 2004;1021:276-291.
+10. Au R, Carskadon M, Millman R, Wolfson A, Braverman PK, Adelman WP, et al. School start times for adolescents. Pediatrics 2014;134:642- 649.
+10. Almondes KMD, Araœjo JFD. Sleep/wake cycle pattern and its relation- ship with anxiety in college students. Estud Psicol (Natal) 2003;8:37-43.
+10. Corkum P, Tannock R, Moldofsky H. Sleep disturbances in children with attention-deficit/hyperactivity disorder. J Am Acad Child Adolesc Psychiatry 1998;37:637-646.
+10. Sung V, Hiscock H, Sciberras E, Efron D. Sleep problems in children with attention-deficit/hyperactivity disorder: prevalence and the effect on the child and family. Arch Pediatr Adolesc Med 2008;162:336-342.
+10. Lecendreux M, Cortese S. Sleep problems associated with ADHD: a review of current therapeutic options and recommendations for the future. Expert Rev Neurother 2007;7:1799-1806.
+10. Stein MA, Weiss M, Leventhal BL. ADHD by night: sleep problems and 
+
+749** Psychiatry Investig  2022;19(9):738-747
+Clonidine for Child and Adolescent Insomnia
+
+ADHD medications. Child Adolesc Psychopharmacol News 2007;12:1-5.
+
+33. Committee on Quality Improvement, Subcommittee on Attention- Deficit/Hyperactivity Disorder. Clinical practice guideline: diagnosis and evaluation of the child with attention-deficit/hyperactivity disor- der. Pediatrics 2000;105:1158-1170.
+33. Ivanenko A, Johnson K. Sleep disturbances in children with psychiat- ric disorders. Semin Pediatr Neurol 2008;15:70-78.
+33. Alfano CA, Ginsburg GS, Kingery JN. Sleep-related problems among children and adolescents with anxiety disorders. J Am Acad Child Ad- olesc Psychiatry 2007;46:224-232.
+33. Forbes EE, Bertocci MA, Gregory AM, Ryan ND, Axelson DA, Birma- her B, et al. Objective sleep in pediatric anxiety disorders and major depressive disorder. J Am Acad Child Adolesc Psychiatry 2008;47:148- 155.
+33. Lahmeyer HW, Poznanski EO, Bellur SN. EEG sleep in depressed ado- lescents. Am J Psychiatry 1983;140:1150-1153.
+33. Jindal RD,  ase ME. Treatment of insomnia associated with clinical depression. Sleep Med Rev 2004;8:19-30.
+33. Croxtall JD. Clonidine extended-release: in attention-deficit hyperac- tivity disorder. Paediatr Drugs 2011;13:329-336.
+33. Haydon RC 3rd. Are second-generation antihistamines appropriate for most children and adults? Arch Otolaryngol Head Neck Surg 2001; 127:1510-1514.
+33. Meltzer EO. Comparative safety of H1 antihistamines. Ann Allergy 1991;67:625-633.
+33. Troester MM, Pelayo R. Pediatric sleep pharmacology: a primer. Se- min Pediatr Neurol 2015;22:135-147.
+43. Merenstein D, Diener-West M, Halbower AC, Krist A, Rubin HR.  e trial of infant response to diphenhydramine: the TIRED study--a ran- domized, controlled, patient-oriented trial. Arch Pediatr Adolesc Med 2006;160:707-712.
+43. Baker AM, Johnson DG, Levisky JA, Hearn WL, Moore KA, Levine B, et al. Fatal diphenhydramine intoxication in infants. J Forensic Sci 2003;48:425-428.
+43. Goodman LS. Goodman and Gilman s the pharmacological basis of therapeutics. New York: McGraw-Hill; 1996.
+43. Camfield P, Gordon K, Dooley J, Camfield C. Melatonin appears inef- fective in children with intellectual deficits and fragmented sleep: six  N of 1  trials. J Child Neurol 1996;11:341-343.
+43. Bendz LM, Scates AC. Melatonin treatment for insomnia in pediatric patients with attention-deficit/hyperactivity disorder. Ann Pharmaco- ther 2010;44:185-191.
+43. Abdelgadir IS, Gordon MA, Akobeng AK. Melatonin for the manage- ment of sleep problems in children with neurodevelopmental disorders: 
+
+    a systematic review and meta-analysis. Arch Dis Child 2018;103:1155- 1162.
+
+49. Delbarre B, Schmitt H. Sedative effects of alpha-sympathomimetic drugs and their antagonism by adrenergic and cholinergic blocking drugs. Eur J Pharmacol 1971;13:356-363.
+49. Boehringer Ingelheim International GmbH. Clonidine hydrochloride label. Available at: https://www.accessdata.fda.gov/drugsatfda\_docs/ label/2010/017407s036lbl.pdf. Accessed April 5, 2022.
+49. Klein-Schwartz W. Trends and toxic effects from pediatric clonidine exposures. Arch Pediatr Adolesc Med 2002;156:392-396.
+` `Psychiatry Investig  2022;19(9):738-747

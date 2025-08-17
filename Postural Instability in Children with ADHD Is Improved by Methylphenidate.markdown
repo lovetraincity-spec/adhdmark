@@ -1,0 +1,493 @@
+﻿[ORIGINAL RESEARCH](http://www.frontiersin.org/Neuroscience/editorialboard)![](lsyhus2n.001.png)
+
+[published: 04 May 2016 ](http://www.frontiersin.org/Neuroscience/editorialboard)[doi: 10.3389/fnins.2016.00163](http://dx.doi.org/10.3389/fnins.2016.00163)![](lsyhus2n.002.png)
+
+![](lsyhus2n.003.png)
+
+[Postural Instability in Children with ADHD Is Improved by Methylphenidate](http://journal.frontiersin.org/article/10.3389/fnins.2016.00163/abstract)
+
+[Maria P. Bucci ](http://loop.frontiersin.org/people/129390/overview)1\*, Coline Stordeur 2, Eric Acquaviva 2, Hugo Peyre 2 and Richard Delorme 2,3
+
+1 UMR 1141 Institut National de la Santé et de la Recherche Médicale—Université Paris Diderot, Robert Debré Hospital, Paris, France,2 Child and Adolescent Psychiatry Department, Robert Debré Hospital, Paris, France,3 Université Paris Diderot, Paris, France
+
+HIGHLIGHTS
+
+- BothspatialandtemporalanalysesoftheCenterofPressuredemonstratethatchildren with ADHD have poorer postural control than typically developing sex-, age-, and IQ-matched children.
+- Poor sensory integration in postural control could partially explained the deficits in
+
+![](lsyhus2n.004.png) postural stability in children with ADHD.
+
+- MPH treatment improves postural performance in both spatial and temporal domains
+
+Venkata BharadwajEditedKolli,by: in children with ADHD.
+
+Creighton University, USA • MPH improves postural control specifically when visual and proprioceptive inputs are
+
+Reviewed by: misleading.
+
+University of LouisianaKarenat Lafayette,M. Smith, • Such improvement could be due to MPH effects on neurons, facilitating cerebellar
+
+USA processing of postural control.
+
+José A. Barela,
+
+Universidade Cruzeiro do Sul, Brazil The aim of this study was to examine postural control in children with ADHD and explore \*Correspondence: the effect of methylphenidate (MPH), using spatial and temporal analyses of the center
+
+Maria P. Bucci
+
+<maria-pia.bucci@inserm.fr> of pressure (CoP). Thirty-eight children with ADHD (mean age 9.82± 0.37 years) and 38 sex- age- and IQ-matched children with typically development were examined. Postural
+
+Specialty section: stability was evaluated using the Multitest Equilibre machine (Framiral®) at inclusion and ChildThisandarticleAdolescentwas submPsychiatritted toy, after1monthofMPHinchildrenwithADHD.Posturalstabilitywasassessedbyrecording
+
+a section of the journal under several conditions: with eyes open and fixed on a target, with eyes closed and
+
+Frontiers in Neuroscience with vision perturbed by optokinetic stimulation, on stable and unstable platforms. At RAccepeceivedted: 06: 31OctoberMarch 20152016 inclusion,weobservedpoorspatialandtemporalposturalstabilityinchildrenwithADHD.
+
+Published: 04 May 2016 The spectral power index was higher in children with ADHD than in controls. Canceling
+
+Citation: time was shorter at low and medium frequencies of oscillation and longer at higher Bucci MP, Stordeur C, Acquaviva E, frequencies in children with ADHD. After 1 month of MPH, the surface area and mean
+
+PosturalPeyreInstabilityH and Delormin Childrene R (2016)with velocity of the CoP decreased significantly under the most complex conditions (unstable ADHD Is Improved by platform in the absence of proprioceptive and visual inputs). The spectral power index
+
+Front. NMethylphenidate.eurosci. 10:163. decreasedsignificantlyafterMPHwhilethecancelingtimedidnotchange.Poorpostural doi:[ 10.3389/fnins.2016.00163](http://dx.doi.org/10.3389/fnins.2016.00163) control in children with ADHD supports the hypothesis of cerebellar dysfunction in this![](lsyhus2n.005.png)
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.org](http://www.frontiersin.org) 11 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)11
+
+Bucci et al. Methylphenidate Affects Posture in Children Q12![](lsyhus2n.006.png)![](lsyhus2n.007.png)
+
+disorder. Postural control could be improved by a more efficient processing of sensory inputs (a high-level process), as suggested by the decrease in spectral power index after MPH without changes in the canceling time (a low-level process).
+
+Keywords: ADHD, children, postural control, cerebellum, sensorimotor integration
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.org](http://www.frontiersin.org) 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+
+INTRODUCTION
+
+Attention deficithyperactivity disorder (ADHD) is characterized by abnormal behavioral patterns, including inattention, hyperactivity, and impulsivity. ADHD affects ∼5% of children in Western countries ([ American Psychiatric Association, 2013](#_page9_x39.73_y230.05)). Associated with these main clinical features, children with ADHD perform worse than typical developing (TD) children in gross and finemotor control tasks as well as in the adaptation of motor control to changes in the environment ([Piek et al., 1999; ](#_page10_x39.73_y290.18)[Wang et al., 2011;](#_page10_x300.99_y119.18)[ Papadopoulos et al., 2014](#_page10_x39.73_y233.19)). Similarly, poor control of balance has been reported in children with ADHD [(Shum and Pang,](#_page10_x39.73_y328.19) [2009](#_page10_x39.73_y328.19)).
+
+The motor control deficit in ADHD may be related to a deficitintheintegrationandprocessingofvarioussensoryinputs i.e., visual and vestibular inputs [(Zang et al., 2002;](#_page10_x300.99_y223.69)[ Wang et al., 2003](#_page10_x300.99_y147.68)). The cerebellar vermis, which plays an important role in the processing of sensory information, has a major function in postural control ([Timmann and Diener, 2003).](#_page10_x300.99_y90.69) ADHD has been consistently reported to be associated with a smaller cerebellar vermis [(Castellanos et al., 1996](#_page9_x39.73_y477.05)). A recent study comparing postural abilities in children with ADHD or with cerebellar lesions(astrocytomaresection)tocontrols([Buderathetal.,2009) ](#_page9_x39.73_y439.05)revealed significantly poor postural performance in both groups of patients compared to TD controls (but this effect was milder in children with ADHD). Among children with ADHD, these deficits were most obvious under the most stringent conditions, in which proprioceptive and/or visual information was reduced or not available to stabilize posture. These findings support the hypothesis that cerebellar dysfunction could participate in the postural deficitsin ADHD.
+
+Methylphenidate (MPH) is commonly used to treat patients with ADHD ([Wilens et al., 2002](#_page10_x300.99_y176.19)). Specifically, MPH increases the inhibitory ability of the prefrontal cortex, thus allowing for improved control of hyperactive and impulsive symptoms. For example, chronic MPH significantly improves performance on aspects of the Go/NoGo test, and these improvements are associated with improvements in clinical response ([Coghill et al., 2007](#_page9_x39.73_y543.55)). Moreover, prefrontal cortex activation might be affected by MPH, depending on the degree of difficulty of the task [(Matsuura et al.,](#_page10_x39.73_y119.18) [2014](#_page10_x39.73_y119.18)). However, in addition to the prefrontal cortex, MPH also increases the activity of basal ganglia and the cerebellum in children with ADHD ([Czerniak et al.,](#_page9_x39.73_y610.05) [2013). ](#_page9_x39.73_y610.05)For example, after MPH treatment, the neural activity of the cerebellum reaches values similar to those observed in TD children ([Czerniak et al.,](#_page9_x39.73_y610.05) [2013](#_page9_x39.73_y610.05)). Recently,[Ivanov et al.](#_page9_x300.99_y486.55) [(2014)](#_page9_x300.99_y486.55), investigated differences in the surface morphometry of the cerebellum in children with ADHD compared to TD children. This study showed that in children with ADHD, the volumes of the left anterior and the right posterior cerebellar hemispheres,![](lsyhus2n.008.png)
+
+in particular lobules IV, V, and VI, the left crus I and right crus II were significantly smaller with respect to controls. Interestingly, children with ADHD who were taking MPH at the time of the study showed significantly larger volumes of the left cerebellar surface(leftlobulesIV,V,VI,X,andrightcrusIandII)compared to non-treated children with ADHD. Thus, MPH could facilitate neural plasticity at the cerebellar level.
+
+The effect of MPH in motor control in children with ADHD remains controversial. Using the Movement Assessment Battery, [Flapper et al.](#_page9_x300.99_y268.05) [(2006)](#_page9_x300.99_y268.05) reported an improvement in the motor abilities of children with ADHD after MPH treatment. Leitner et al. [(2007)](#_page9_x300.99_y657.55) explored the quality of walking when children with ADHD were engaged on a dual task (listening to a text using a Walkman-like device), before and after MPH treatment. AfterMPHtreatment,childrenwithADHDshowedsignificantly reduced stride-time variability, suggesting that MPH could improve the function of dopaminergic networks, thus improving rhythmicity, attention, and motor control in children with ADHD.[Buderathetal.(2009)](#_page9_x39.73_y439.05)alsoreportedminorimprovements in motor control in children with ADHD after MPH treatment. [Jacobi-Polishook et al.](#_page9_x300.99_y524.55) [(2009)](#_page9_x300.99_y524.55) explored postural stability under single- and dual-task conditions (while performing a memory- attention demanding task such as memorizing children’s songs while listening to music) in children with ADHD after MPH treatment. Children showed a significant improvement in postural stability after MPH treatment only under the dual-task conditions, butnot when performing asingle task.Theseauthors hypothesizedthatMPHtreatmentcouldimproveattentiontothe secondarytaskinchildrenwithADHD,leadingtobetterpostural stability, given that motor control became more automatic. Our group ([Bucci et al., 2014](#_page9_x39.73_y401.05)) previously explored postural stability during a dual task in two independent groups of children with ADHD, with or without MPH treatment, compared to age- matched TD control children. The surface area covered by the centerofpressure(CoP)wassimilarinthegroupofchildrenwith ADHD treated with MPH and in the group of TD children, but larger in children with ADHD who were not treated. Our results suggest poor stability control in children with ADHD.
+
+However, our exploration was limited by the spatial assessment of the CoP and the inability to test postural performance in children with ADHD before and after MPH. The measurement of the CoP under dynamic postural conditions can provide insight into physiological and pathological mechanisms [(Yelnik and Bonan, 2008](#_page10_x300.99_y204.69)). Also, relevant information on the dynamics of the CoP can be obtained by applying nonlinear analysis methods. The wavelet transformation method reveals deficits or changes in the dynamics of the postural control system [(Bernard-Demanze et al.,](#_page9_x39.73_y315.55) [2009](#_page9_x39.73_y315.55)), and could contribute to identifying which sensory systems are implicated or altered during a given postural task.
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.org](http://www.frontiersin.org)  [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)
+
+Bucci et al.![ref1]
+
+In the present study, we used both static and dynamic analyses of the CoP in order to gain insight into the characteristics and mechanisms involved in postural deficiency in children with ADHD. Next, we examined postural stability in these children after 1 month of MPH treatment. We hypothesized that children with ADHD would be globally less stable than TD children, especially in the dynamic situation when vision is perturbed and more attention is needed to reduce the postural deficit. Moreover, weexpectedthatMPHwouldimproveposturalstability,withthis effect being more significant under more complex investigative conditions.
+
+MATERIALS AND METHODS Subjects
+
+Thirty-eight children with ADHD (mean age 9.82 ± 0.37 years) and 38 IQ-, sex-, and age-matched TD children were enrolled in the study at the Child and Adolescent Psychiatry Department, Robert DebrØ Hospital, (Paris, France). Trained child psychiatrists assessed all subjects. The diagnosis ofADHD according to DSM-5 criteria ([American Psychiatric Association, 2013)](#_page9_x39.73_y230.05)wascarriedoutusingtheKiddie-SADS-EP[(Goldmanetal., 1998)](#_page9_x300.99_y372.55). Psychiatric comorbidities were systematically screened for during the interview. ADHD symptom severity was assessed using the ADHD Rating Scale-parental report (ADHD-RS). This scale is based on a large collection of normative data and has demonstrated reliability and discriminant validity in children and adolescents ([Du Paul et al., 1998](#_page9_x300.99_y239.55);[ Collett et al.](#_page9_x39.73_y581.55), [2003)](#_page9_x39.73_y581.55). Children with ADHD were also assessed using the Wechsler scale (Wechsler Intelligence Scale for Children fourth edition), the Beery-Buktenica Developmental Test of Visual- Motor Integration (VMI,[ Beery, 1997)](#_page9_x39.73_y277.54) and the Motor Assessment Battery for Children (MABC) [(Henderson and Sugden,](#_page9_x300.99_y429.55) [1992)](#_page9_x300.99_y429.55).
+
+Controls were directly interviewed to confirm the absence of ADHD. To be included in our study, controls also needed to have a total score ≤ 10 on the ADHD-RS [(Dickson et al., 2011)](#_page9_x39.73_y648.05) and a neurological examination in the normal range. IQ in controls was estimated in two subtests, assessing verbal ability (the similarities test) and performance ability (matrix reasoning test). The score on these two tests was not significantly different between the two groups of children [F(1, 74) = 1.02,p= 0.3 and F(1, 74) = 1.45,p=
+
+0\.10 for the similarities and matrix reasoning tests, respectively]. The clinical characteristics of children with ADHD and controls are summarized in[` `**Table 1**.](#_page3_x44.73_y63.38)
+
+Twenty-six of the ADHD children (mean age 9.87 ± 0.48 years) were also examined 1 month after MPH treatment was started.
+
+The investigation adhered to the principles of the Declaration of Helsinki and was approved by our Institutional Human Experimentation Committee (Comite de Protection des Personnes CPP, Ile de France V, H pital Saint-Antoine). Written informed consent was obtained from the participants’ parents after the nature of the procedure had been explained.
+
+Postural Recording
+
+Postural performance was evaluated using the Multitest Equilibre, also called Balance Quest, from FramiralR , with![ref2]
+
+Methylphenidate Affects Posture in Children
+
+a static/dynamic platform by Micromedical Technologies [(www.framiral.fr](http://www.framiral.fr)). The platform consists in a force plate mounted on a translator, which allows a translation of the subject in the antero-posterior (y) or the medio-lateral direction (x). A computer-controlled mechanism allows sinusoidal displacements of 62 mm amplitude with adjustable velocities and frequencies. In our experimental conditions, the ramp mode allowed forward and backward translations of the force plate, with constant linear velocities of 0.03 and 0.07 m/s. For the sinusoidal mode, the frequency was 0.25 Hz. The displacement of the CoP was sampled at 40 and 100 Hz under static and dynamic conditions, respectively, and digitized with 16-bit precision [(Ghulyan et al., 2005](#_page9_x300.99_y334.55);[ Bernard-Demanze et al.](#_page9_x39.73_y315.55),[ 2009)](#_page9_x39.73_y315.55).
+
+Postural Recording Procedure
+
+The child was placed on the Framiral R platform in a dark room (see for details[ Gouleme et al., 2014)](#_page9_x300.99_y401.05). The child was positioned with the feet aligned in parallel on the footprints, and arms hangingalongthebody.Theplatformwaslocatedinaroomlarge enough to prevent acoustic and spatial orientation.
+
+Postural recording was performed on both a stable (S) and an unstable (U) platform, under three different visual conditions: eyes open and fixed on a target (EO), eyes closed (EC), and eyes open but with perturbed vision (optokinetic stimulation, OPTO). The child was asked to stay as stable as possible. During the EO condition, the child had to focus on a small red light at a distance of 2.5 m. The optokinetic stimulation was performed using an optokinetic ball. The ball was projected on a wall at a distance of 2.5m from the child’s eyes and turned at an angular speed of 158◦ per second ([Ionescu et al., 2006)](#_page9_x300.99_y448.54). The duration of each postural recording was 30 s, with a 15-s rest period between conditions to reduce the possible effects of tiredness. The order of the conditions varied randomly across children.
+
+Data Processing
+
+During upright standing condition, normal subjects produced smaller displacement of the CoP than subjects with poor postural control ([Brandt,](#_page9_x39.73_y391.55) [2003)](#_page9_x39.73_y391.55). For example, subjects with Parkinson’s disease have high displacement of the CoP, leading to instability, and falls during daily living. In our study, groups were age- matched to compare postural capabilities since postural stability improves with age during childhood ([Assaiante and Amblard, 1995)](#_page9_x39.73_y249.05). Analysis in both spatial and temporal domain is described below.
+
+Classical Analysis in Spatial Domain
+
+The surface area covered by the displacement of the CoP (cm2) and its mean velocity (mm/s) were analyzed in order to
+
+quantify postural performance. The surface area is an efficient measure of CoP spatial variability, corresponding to an ellipse including 90% of CoP excursions [(Chiari et al., 2009)](#_page9_x39.73_y515.05). The mean velocity of the CoP is a good index of the amount of neuromuscular activity required to achieve postural control [(Maki et al.](#_page10_x39.73_y90.69),[ 1990](#_page10_x39.73_y90.69);[ Geurts et al.](#_page9_x300.99_y306.05),[ 1993)](#_page9_x300.99_y306.05). The mean velocity of the CoP is the mean velocity of CoP displacements over the sampled period, i.e., the sum of displacement scalars over the sampling period divided by the sampling time. **[Figure 1**](#_page4_x50.18_y393.85)** shows
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+Bucci et al. Methylphenidate Affects Posture in Children
+|<a name="_page3_x44.73_y63.38"></a>TABLE 1 | Clinical characteristics of ADHD children and cont|rol children tested.||||
+| - | - | :- | :- | :- |
+||TD|ADHD|Subsample of children with||
+||||ADHD treated with MPH||
+||N = 38|N = 38|N = 26||
+|CLINICAL DATA|||||
+|Age (years), mean± SEM|9\.70 ± 0.43|9\.82 ± 0.37|9\.87 ± 0.48||
+|Height (cm), mean± SEM|133 ± 40|135 ± 31|||
+|Weight (Kg), mean± SEM|34\.2 ± 2.5|33\.3 ± 3.3|||
+|Gender (male/female)|30/8|34/4|24/2||
+|ADHD-RS|||||
+|ADHD-RS total score, mean± SEM|4 ± 0.8|31\.8 ± 1.1|38\.2 ± 1.1 28.2 ± 2.1#||
+|ADHD-RS Inattention subscore, mean± SEM|–|20\.0± 0.6|19\.5 ± 0.8 14.3 ± 1.0#||
+|ADHD-RS Hyperactivity/Impulsivity subscore, mean± SEM|–|18\.8± 0.8|18\.7 ± 1.0 13.9 ± 1.1#||
+|MPH Dose in mg/kg, mean± SEM|–|–|0\.60± 0.04||
+|WECHSLER scale (WISC-IV) scores, mean± sem|||||
+|Verbal comprehension subscale|–|100\.1 ± 2.8|99\.8 ± 3.9||
+|Perceptual reasoning subscale|–|94\.8 ± 3.0|95\.0 ± 4.1||
+|Working memory subscale|–|84\.1 ± 3.3|85\.5 ± 3.2||
+|Processing speed subscale|–|89\.8 ± 2.4|90\.2 ± 3.1||
+|Similarities test|10\.36 ± 0.4|10\.18 ± 0.5|10\.1 ± 0.7||
+|Matrix reasoning test|10\.54 ± 0.5|9\.81 ± 0.4|10\.2 ± 0.5||
+|#ADHD-RS scores after MPH treatment.|||||
+|an example of the surface area of the CoP recorded from both|in the context of postural disorders or in dynamic postural||||
+|children with ADHD and typically developing ([**Figures 1A,D**,](#_page4_x50.18_y393.85)|conditions ([Bernard-Demanze et al.,](#_page9_x39.73_y315.55) [2009)](#_page9_x39.73_y315.55). The longer the CT||||
+|respectively).|of a given frequency band, the better the postural control||||
+|<p>Temporal Analysis, Wavelet Transformation</p><p>We applied wavelet analysis to study the frequency of CoP displacements. A wavelet non-linear analysis using Morlet waves was applied to CoP displacements in order to elaborate a time- frequency chart of body sways [(Dumistrescu and Lacour,](#_page9_x300.99_y211.05) [2006; ](#_page9_x300.99_y211.05)[Bernard-Demanze et al.,](#_page9_x39.73_y315.55) [2009)](#_page9_x39.73_y315.55). Such analysis allows revealing temporal fluctuations in the body sway spectrum. The time- frequency plane’s principle advantage is its double resolution (time and frequency). The wavelet analysis was applied on the anteroposterior sway data. From this analysis, the spectral power index (PI) and the canceling time (CT) were extracted for anteroposterior body sway and for three frequency bands (low: 0.05 0.5 Hz; medium: 0.5 1.5 Hz; high: > than 1.5 Hz). The analysis of displacements (and of associated parameters) was obtained with the software PosturoPro (Framiral, Cannes, France). The Power Indice represents the amount of energy spent during a condition and is the integral of the surface of the CoP oscillations. The canceling time is the total time during which the spectral power of the body sway (for a specific frequency band) is canceled by the postural control mechanisms. The hypothetical physiological significance of the different bands is as follows. 0 0.5 Hz: visual-vestibular [(Naschner,](#_page10_x39.73_y166.68) [1979;](#_page10_x39.73_y166.68)[ Kohen-Raz et al.](#_page9_x300.99_y572.04),[ 1996)](#_page9_x300.99_y572.04); 0.5 1.5 Hz: cerebellar [(Paillard et al., 2002)](#_page10_x39.73_y195.18); and 1.5 Hz: reflexive loops (Lacour et al.,[ 2008](#_page9_x300.99_y610.05);[ Bernard-Demanze et al.](#_page9_x39.73_y315.55),[ 2009)](#_page9_x39.73_y315.55). Power in the higher band is generally minimal in healthy subjects during quiet standing. It can nevertheless be non-negligible in elderly,</p>|<p>[(Dumistrescu and Lacour,](#_page9_x300.99_y211.05) [2006;](#_page9_x300.99_y211.05)[ Bernard-Demanze et al., 2009) ](#_page9_x39.73_y315.55)When the postural control system is successfully engaged, th overall entropy of the sway is reduced and the frequency’ power is reduced to zero. Mechanisms involved in the canceled frequencies are not known, but the minimization of muscular effort required for controlling the sway seems one of the system’ main factors.[` `**Figure 1**](#_page4_x50.18_y393.85)shows an example of PI and CT recorded from a TD child ([**Figures 1B,C**)](#_page4_x50.18_y393.85) and a child with ADHD [(**Figures 1E,F**)](#_page4_x50.18_y393.85).</p><p>Note that when the CoP is analyzed spatially only the behavior of the CoP over time is thus unknown and the respective role of the different sensory systems also stil remains unclear. In contrast, important information on the dynamic of the CoP may be reached by applying the wavele transformation method. Indeed, a study from [Ghulyan et al (2005](#_page9_x300.99_y334.55)) have demonstrated that a dynamic analysis of posture allows a better discrimination of the pathological effects on postural control. [Yelnik and Bonan](#_page10_x300.99_y204.69) [(2008](#_page10_x300.99_y204.69)) reported that temporal analysis allows us to gain insight into the physiologica and pathological mechanisms underlying postural stability impairment in patients suffering from a balance disorder. According to these previous works, we made the hypothesis that longer power index associated with a shorter canceling time at a given frequency band could suggest poor postural stability most likely due to a low use of sensorial information which are believed to be associated to low, medium, and highfrequencies(visuo-vestibular,cerebellar,andproprioceptive respectively).</p>||||
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+Bucci et al. Methylphenidate Affects Posture in Children![ref1]
+
+![](lsyhus2n.011.jpeg)
+
+<a name="_page4_x50.18_y393.85"></a>FIGURE 1 | Surface area of the CoP (cm2), spectral power indices (log), and canceling time (s), respectively for low (L), medium (M), and high (H) frequency![](lsyhus2n.012.png) recorded in a typically developing child (A–C) and in a child with ADHD (D–F) during the eyes open condition on stable platform.
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+Bucci et al. Methylphenidate Affects Posture in Children![ref1]
+
+Statistical Analysis
+
+Statistical analysis using two-way ANOVA was carried out in order to compare the postural control of the two groups of children under the different visual and postural conditions (EO, EC, and OPTO on static -S- and unstable supports -U-, respectively).Post-hoccomparisons were made with the Fischer’s least significant difference test (LSD). Individual Student’s t-tests were used to compare postural values obtained before and 1 monthafterMPHtreatment.Theeffectofafactorwasconsidered significant when the p-value was below 0.05.
+
+RESULTS
+
+Children with ADHD vs. TD Children
+
+Static Postural Exploration
+
+The surface area of the CoP ([**Figure 2A**)](#_page5_x50.18_y339.64) and its mean velocity [(**Figure 2B**)](#_page5_x50.18_y339.64) are reported in[` `**Figure 2**.](#_page5_x50.18_y339.64) Independent of conditions, the surface area of the CoP in children with ADHD was systematically significantly larger than that observed in controls. ANOVA showed a significant group effect [F(1, 74) = 31.9, p < 0.001], a significant postural condition effect [F(1, 74) = 34.5, p < 0.001] (in both groups of children, the surface area was larger in the unstable postural condition) and a significant visual![ref2]
+
+condition effect [F(2, 148) = 16.23,p < 0.001].Post-hocanalysis revealed that the smallest value of the surface area of the CoP was reported in the EO condition while the largest was observed in the OPTO condition (p < 0.001 for all).
+
+ANOVA also showed significant differences in the mean velocity of the CoP between groups and experimental conditions [(**Figure 1B**)](#_page4_x50.18_y393.85). Independent of condition, the mean velocity in children with ADHD was significantly higher than in TD children [F(1, 74) = 35.33,p < 0.001]. There was also a significant postural condition effect [F(1, 74) = 36.1, p < 0.001] (in both groups of children, the mean velocity was greater in the unstable postural condition), and a significant visual condition effect [F(2, 148) = 17.45,p < 0.001].Post-hoccomparisons revealed that the mean velocity of the CoP in the EO condition was lower than that reported in the EC and OPTO conditions (p < 0.001 for both).
+
+To summarize, children with ADHD have poor postural control that is worsened in a dynamic environment and when visual information is perturbed or absent.
+
+Temporal Postural Exploration
+
+Using wavelet transformation, the spectral power index was significantly larger in children with ADHD, independent
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g  [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)
+Bucci et al. Methylphenidate Affects Posture in Children![ref1]
+
+
+
+|FIGURE 2 | Means and standard deviations of the surface area co vered by t|<a name="_page5_x50.18_y339.64"></a>he CoP (in cm2) (A) and the mean velocity of the CoP (mm/s) (B) in the||
+| - | - | :- |
+|three visual conditions (eyes open: EO; eyes closed: EC; and with vision pert|urbed by optokinetic stimulation: OPTO) on a stable -S- or unstable -U-||
+|platform in ADHD and control children.|||
+|of experimental conditions ([**Figure 3A**)](#_page6_x50.18_y316.56). ANOVA revealed a|canceling times than TD children for low and medium frequenc||
+|significant group effect [F(1, 74) = 37.16,p < 0.001], a significant postural condition effect [F(1, 74) = 6.12, p < 0.01; the spectral power index was significantly higher in the unstable|<p>bands (both p < 0.001) but longer canceling times for the high frequency band (p < 0.001).</p><p>In conclusion, both static and dynamic analyses of CoP</p>||
+|postural condition], and a significant visual condition effect|displacement reveal differences in postural control between||
+|[F(2, 148) = 16.33, p < 0.001]. Post-hoc comparisons showed that the spectral power index in the EO condition was smaller|children with ADHD and TD children: postural stability in children with ADHD is deficient with respect to control children.||
+|than that reported in the EC and OPTO conditions (p < 0.001 for both). ANOVA also revealed a significant frequency effect [F(2, 148) = 1362,p < 0.001].Post-hoccomparisons showed that thehighestspectralpowerindexwasrecordedforlowfrequencies|<p>Impact of MPH on Postural Stability in Children with ADHD</p><p>[**Figure 4**](#_page6_x50.18_y545.22)summarizeschangesinthesurfacearea([**Figure 4A**)](#_page6_x50.18_y545.22)and</p>||
+|while the lowest was recorded for high frequencies (p < 0.001 for|mean velocity [(**Figure 4B**)](#_page6_x50.18_y545.22) of the CoP after 4 weeks of treatment||
+|all).|with MPH under all six experimental conditions tested. Both th||
+|The canceling time in the anteroposterior direction was|mean surface area and the mean velocity of the CoP decreased||
+|not different between the two groups of children examined|after 1 month of treatment under all six conditions. The t-test||
+|[(**Figure 3B**)](#_page6_x50.18_y316.56). ANOVA showed a significant frequency effect|revealed that the decrease in the surface area of the CoP after||
+|[F(2, 148) = 247, p < 0.001]. The canceling time recorded for medium frequencies was significantly higher than those reported|MPH treatment was significant in all but one condition (EO\_S); the mean velocity of the CoP also decreased significantly i||
+|for lower and higher frequencies (post-hoc analysis, p < 0.001|the majority of conditions tested (OPTO\_S, EO\_U, EC\_U, and||
+|for all). Interestingly, there was a significant interaction between|OPTO\_U, respectively).||
+|postural and visual conditions [F(2, 148) = 4.72, p < 0.001] and between groups and frequency [F(2, 148) = 9.96,p < 0.001].Post- hoc comparisons revealed that the canceling time was longer|[**Figure 5A**](#_page7_x50.18_y424.97) reports post-treatment changes in the spectral power index for postural sway in the anteroposterior direction in all six conditions and for the three frequency bands||
+|in the stable EO condition than in the other conditions (all|examined. After MPH treatment, the spectral power index||
+|p < 0.001). In contrast, the canceling time recorded with visual|decreased in all conditions and for all frequency bands recorded.||
+|perturbation was similar in both stable and unstable conditions.|A t-test showed that the decrease in the spectral power||
+|Furthermore, children with ADHD showed significantly shorter|index after MPH treatment was significant for the EC\_S||
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+Bucci et al. Methylphenidate Affects Posture in Children![ref1]
+
+![](lsyhus2n.013.jpeg)
+
+<a name="_page6_x50.18_y316.56"></a>FIGURE 3 | Spectral power index (A) and canceling time (B) in the anteroposterior direction for each frequency band (L, low; M, medium; H, high) in the three![](lsyhus2n.014.png) visual conditions (eyes open: EO; eyes closed: EC; and with perturbed vision: OPTO) on a stable -S- or unstable -U- platform, in ADHD and control children.
+
+![](lsyhus2n.015.jpeg)
+
+<a name="_page6_x50.18_y545.22"></a>FIGURE 4 | Pre-post changes of the surface area of the CoP (in cm2) (A) and of the mean velocity (mm/s) (B) in the three visual conditions (eyes open: EO; eyes closed: EC; and with perturbed![](lsyhus2n.016.png) vision: OPTO) on a stable -S- or unstable -U- platform in ADHD children. Vertical bars indicate the standard error. \*p < 0.05, \*\*p < 0.001.
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+Bucci et al. Methylphenidate Affects Posture in Children![ref1]
+
+condition for the low frequency band and for the majority of conditions on the unstable platform (EO\_U for low and medium frequencies; EC\_U and OPTO\_U for all three frequency bands).
+
+After 4 weeks of MPH treatment, children with ADHD increased their canceling time (negative values in **[Figure 5B**) ](#_page7_x50.18_y424.97)**under a few conditions and for low and medium frequency bands only; however these increases failed to reach statistical significance (t-test).![ref2]
+
+DISCUSSION
+
+Although deficits in postural control in children with ADHD have been suggested by previous studies, methodological limitationshaveledtoinconsistentresults.Thetemporalanalyses performed in our study further strengthened the hypothesis that: (i) postural control is weak in ADHD children compared sex-, age-, and IQ-matched TD children. The deficit occurred mainly for medium frequencies, pointing to a cerebellar dysfunction
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g  [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)
+Bucci et al. Methylphenidate Affects Posture in Children![ref1]
+
+![](lsyhus2n.017.jpeg)
+
+<a name="_page7_x50.18_y424.97"></a>FIGURE 5 | Pre-post changes of the spectral power index (A) and canceling time (B) in the anteroposterior direction for each frequency band (L, low; M, medium;![](lsyhus2n.018.png) H, high) in the three visual conditions (eyes open: EO; eyes closed: EC; and with perturbed vision: OPTO) on a stable -S- or unstable -U- platform in ADHD children. Verticals bars indicate the standard error.\*p < 0.05, \*\*p < 0.001.
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+Bucci et al. Methylphenidate Affects Posture in Children![ref1]
+
+in ADHD. (ii) MPH significantly improved postural control, especially in unstable conditions, apparently by the more efficient processing of sensory inputs (a high-level process), as suggested by the decrease in the spectral power index, but induced no significant changes in canceling time (a low-level process).
+
+Poor Postural Control in Children with ADHD
+
+The present study confirms and expands previous findings showing poor postural control in children with ADHD. Indeed, thespatialanalysisofposturalmeasuresrevealedagreatersurface area and velocity of the CoP in ADHD children, in line with previous studies summarized in the Introduction. The stability of the body appeared to depend on somatosensory as well as visual inputs. In our study, whatever the status of the children, stability was better on a stable platform with eyes open, while it was worse on an unstable platform when vision was perturbed by optokinetic stimulation. This finding paralleled previous observations by our group showing that healthy 4-year-old![ref2]
+
+children already use both visual and somatosensory information to control their postural stability ([ Gouleme et al., 2014)](#_page9_x300.99_y401.05).
+
+Thedeficitinposturalstabilitywascorrelatedwiththeseverity of ADHD. Specifically, we observed that the surface area covered by the CoP was significantly correlated with the inattention sub-score on the ADHD-RS, on an unstable platform in both EO (p < 0.029) and EC conditions (p < 0.025). Temporal analysis of the CoP confirmed results from the static spatial analysis, but provided new and relevant information concerning the mechanisms used to compensate for the postural deficit. The frequency of body sway was significantly higher in children with ADHD. These children spent more muscular energy in controlling their stability, independently of the postural and visual conditions tested.
+
+Different Postural Strategies Used by Children with ADHD
+
+Wavelet analysis of the canceling time for each frequency band provided new insights into the sensory inputs used by children with ADHD to control body sway. Our study
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g  [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)
+Bucci et al.![ref1]
+
+Methylphenidate Affects Posture in Children
+
+showed that canceling time was significantly shorter in children with ADHD for low and medium frequencies, revealing a short quest time for visuovestibular and cerebellar inputs, in accordance with the hypothetical physiological significance of the different bands ([Naschner,](#_page10_x39.73_y166.68) [1979;](#_page10_x39.73_y166.68)[ Kohen-Raz et al.](#_page9_x300.99_y572.04),[ 1996](#_page9_x300.99_y572.04); [Paillard et al., 2002)](#_page10_x39.73_y195.18). These visuovestibular and cerebellar inputs did not counteract the postural control deficit observed in our patients. In contrast, for the high-frequency band, children with ADHD showed significantly longer canceling times than controls, most likely because they tried to compensate for the deficit in visuovestibular and cerebellar inputs using proprioceptive information. However, the impairment in body stability did not improve in our groups of children with ADHD, considering that these inputs were very small in amplitude.
+
+The involment of the cerebellum in motor control has been initially suggested in patients carrying cerebellar damages displaying impairments in motor control and posture. Anatomic studies also observed that the majority of the cerebellum’s outputs are in relationship with the motor system. Actually, it is well known that motor commands are not initiated in the cerebellum but this latter modifies the motor commands of the descending pathways to make movements more accurate [(Leigh and Zee](#_page9_x300.99_y638.55),[ 2006)](#_page9_x300.99_y638.55). The cerebellum is involved in postural adjustments in order to maintain balance. Levinson suggested 25 years ago that cerebellar-vestibular testing could potentially be relevant in ADHD ([Levinson](#_page10_x39.73_y62.19),[ 1990)](#_page10_x39.73_y62.19). There have been strong reports of smaller cerebellar volume in children with ADHD, specifically pointing to an impairment of the cerebellar vermis. The cerebellar region identified in ADHD forms part of the dorsal and ventral attention networks (see [Stoodley](#_page10_x300.99_y62.19),[ 2014](#_page10_x300.99_y62.19) for review). These works and the present behavioral study are in line with the hypothesis that children with ADHD have a dysfunctional cerebellum with poor adaptive capability (Leigh and Zee,[ 2006)](#_page9_x300.99_y638.55).
+
+Improvement of Postural Control after MPH Treatment
+
+The present study shows that MPH significantly improved postural stability by reducing both the surface area and the mean velocity of the CoP. Notably, we report that such changes are more relevant for postural conditions in which children have to integrate all sensory information (visual, vestibular, and somatosensory) to obtain postural stability, particularly when they are on an unstable platform, when somatosensory inputs are missing or when visual inputs are absent and/or disturbed by optokinetic stimulation. Under such conditions, cerebellar processing is needed to compensate for all these deficits and to provide efficient postural control. [Peterka ](#_page10_x39.73_y271.18)([2002](#_page10_x39.73_y271.18)) have also previously suggested that when sensory inputs are defective, other sub-systems compensate for the impairment by playing a more important role i.e., the sensory system is reweighted via cerebellar activity. The results of the wavelet analysis allowed us to further understand the physiological significance of the spectral power of the different frequency bands in children with ADHD before and after MPH treatment.![ref2]
+
+In our study, MPH significantly improved postural control mainly under unstable conditions (decrease in the spectral power index, suggesting less consuming of body’s energy), although it induced no significant changes in canceling time indicating that sensorial information via cerebellar integration are still not working correctly. These observations suggest that postural control is improved by a more efficient processing of sensory inputs (a high-level process), that could be controlled by cortical and central structures rather than a low-level process, that is controlled by more automatic systems and/or open loops which would have led to changes in canceling time. Similarly, [Czerniak et al. (2013](#_page9_x39.73_y610.05)) and[ Ivanov et al.](#_page9_x300.99_y486.55) [(2014](#_page9_x300.99_y486.55)) have suggested that the improvement of cerebellar processing in children with ADHD after MPH treatment might be the basis for their clinical recovery. ADHD children treated with MPH display larger regional volumes over the left cerebellar surface (Ivanov et al.,[ 2014)](#_page9_x300.99_y486.55) and larger vermis sizes [(Bledsoe et al.](#_page9_x39.73_y353.55),[ 2009)](#_page9_x39.73_y353.55) than non-treated ADHD children. Thus, MPH could help recover the integrative functions of the cerebellum and could improve postural stability. In addition, the improvement of attentional capacity after MPH treatment (clinically assessed by the ADHD- RS) was not significantly correlated to the improvement of posturalparameters(seeSupplementaryData).Thus,MPHcould act on postural stability through indirect processes unrelated to attention. The pivotal role of the cerebellum in ADHD needs further consideration.
+
+LIMITATIONS
+
+The present finding suggesting a deficiency in sensory processing by the cerebellum in children with ADHD is based on behavioral study in whichcerebellaractivityisindirectly observed.However, postural measures could be a promising opportunity for easily testing cerebellar performance in children with ADHD with a good acceptability. This study was conducted on a limited number of patients, and further research on a larger number of ADHD children with different doses of MPH would be useful in order to improve our understanding.
+
+CONCLUSION
+
+In the present study, we show that postural measures could be a promising method with which to indirectly observe cerebellar performance in ADHD children. The results of this study suggest that the deficit in postural stability in children with ADHD compared to normally developing age-matched children could be due to a deficit in sensory processing by the cerebellum. MPH treatment improves postural control through adaptive strategies involving the cerebellum.
+
+AUTHOR CONTRIBUTIONS
+
+MB conceptualized and designed the study. CS, EA, HP, RD selected patients. MB coordinated and supervised data collection. MB drafted the initial manuscript. MB, CS, EA, HP, RD reviewed
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+Bucci et al.![ref1]
+
+Methylphenidate Affects Posture in Children
+
+and revised the manuscript, and approved the final manuscript as submitted.
+
+FUNDING
+
+The authors thank the eyeBRAIN society for promoting the study. MB was supported by the AcadØmie des Sciences, Fondation NRJ - Institut de France. The authors are also grateful to the Fondation Yves Cotrel - Institut de France for the financial support.
+
+REFERENCES
+
+<a name="_page9_x300.99_y211.05"></a>American Psychiatric Association (ed.). (2013).Diagnostic and Statistical Manual
+
+of Mental Disorders, 5th Edn.
+
+Assaiante, C., and Amblard, B. (1995). An ontogenetic model for the sensorimotor
+
+organization of balance control in humans. Hum. Mov. Sci.14, 13 43. doi: 10.1016/0167-9457(94)00048-J
+
+Beery, K. (1997). The Beery-Buktenica Developmental Test of Visual-Motor
+
+Integration: VMI with Supplemental Developmental Tests ofVisual Perception and Motor Coordination: Administration, Scoring and Teaching Manual. Parsippany, NJ: Modern Curriculum Press.
+
+Bernard-Demanze, L., Dumitrescu, M., Jimeno, P., Borel, L., and Lacour, M.
+
+(2009). Age-related changes in posture control are differentially affected by postural and cognitive task complexity. Curr. Aging Sci. 2, 139 149. doi: 10.2174/1874609810902020135
+
+Bledsoe, J., Semrud-Clikeman, M., and Pliszka, S. R. (2009). A magnetic resonance
+
+imaging study of the cerebellar vermis in chronically treated and treatment- na ve children with attention-deficit/hyperactivity disorder combined type. Biol. Psychiatry65, 620 624. doi: 10.1016/j.biopsych.2008.11.030
+
+Brandt, T. (2003).Vertigo. Its Multisensory Syndromes, 2nd Edn.London: Springer. Bucci, M. P., Seassau, M., Larger, S., Bui-Quoc, E., and Gerard, C. L.
+
+(2014). Effect of visual attention on postural control in children with attention-deficit/hyperactivity disorder. Res. Dev. Disabil.35, 1292 1300. doi: 10.1016/j.ridd.2014.03.029
+
+Buderath, P., Gartner, K., Frings, M., Christiansen, H., Schoch, B., Konczak,
+
+J., et al. (2009). Postural and gait performance in children with attention deficit/hyperactivity disorder. Gait Posture 29, 249 254. doi: 10.1016/j.gaitpost.2008.08.016
+
+Castellanos, F. X., Giedd, J. N., Marsh, W. L., Hamburger, S. D., Vaituzis, A. C.,
+
+Dickstein, D. P., et al. (1996). Quantitative brain magnetic resonance imaging in attention-deficit hyperactivity disorder. Arch. Gen. Psychiatry53, 607 616. doi: 10.1001/archpsyc.1996.01830070053009
+
+Chiari, L., Rocchi, L., and Capello, A. (2009). Stabilometric parameters are
+
+affected by anthropometry and foot placement. Clin. Biomech.17, 666 677. doi: 10.1016/S0268-0033(02)00107-9
+
+Coghill, D. R., Rhodes, S. M., and Matthews, K. (2007). The neuropsychological
+
+effects of chronic methylphenidate on drug-naive boys with attention- deficit/hyperactivity disorder. Biol. Psychiatry 62, 954 962. doi: 10.1016/j.biopsych.2006.12.030
+
+Collett, B. R., Ohan, J. L., and Myers, K. M. (2003). Ten-year review of rating scales.
+
+V: scales assessing attention-deficit/hyperactivity disorder. J. Am. Acad. Child
+
+Adolesc. Psychiatry42, 1015 1037. doi: 10.1097/01.CHI.0000070245.24125.B6 Czerniak, S. M., Sikoglu, E. M., King, J. A., Kennedy, D. N., Mick, E., Frazier, J.,
+
+et al. (2013). Areas of the brain modulated by single-dose methylphenidate
+
+treatment in youth with ADHD during task-based fMRI: a systematic review.
+
+Harv. Rev. Psychiatry21, 151 162. doi: 10.1097/HRP.0b013e318293749e         Dickson, R. A., Maki, E., Gibbins, C., Gutkin, S. W., Turgay,A., and Weiss, M.
+
+D. (2011). Time courses of improvement and symptom remission in children treated with atomoxetine for attention-deficit/hyperactivity disorder: analysis of Canadian open-label studies. Child Adolesc. Psychiatry Ment. Health5:14. doi: 10.1186/1753-2000-5-14![ref2]
+
+ACKNOWLEDGMENTS
+
+The authors thank the children who participated in the study and S. Rasika for revising the English version of the manuscript.
+
+SUPPLEMENTARY MATERIAL
+
+The Supplementary Material for this article can be found [online at: http://journal.frontiersin.org/article/10.3389/fnins. 2016.00163](http://journal.frontiersin.org/article/10.3389/fnins.2016.00163)
+
+Dumistrescu, M., and Lacour, M. (2006). Nouveaux critŁres quantitatifs d’analyse
+
+du contr le postural,  in Efficience et DØficiences du Contr le Postural,eds D. <a name="_page9_x39.73_y230.05"></a>PØrennou and M. Lacour (Marseille: Solal Øditeur), 65 75.
+
+<a name="_page9_x300.99_y239.55"></a>Du Paul, G. J., Power, T. J., Anastopoulos, A. D., and Reid, R. (1998). ADHD
+
+<a name="_page9_x39.73_y249.05"></a>Rating Scale-IV: Checklists, Norms and Clinical Interpretation. New York, NY: Guilford.
+
+<a name="_page9_x300.99_y268.05"></a>Flapper, B. C., Houwen, S., and Schoemaker, M. M. (2006). Fine motor skills
+
+<a name="_page9_x39.73_y277.54"></a>and effects of methylphenidate in children with attention-deficit-hyperactivity disorder and developmental coordination disorder. Dev. Med. Child Neurol.48, 165 169. doi: 10.1017/S0012162206000375
+
+<a name="_page9_x300.99_y306.05"></a>Geurts, A. C., Nienhuis, B., and Mulder, T. W. (1993). Intrasubject variability of
+
+<a name="_page9_x39.73_y315.55"></a>selected force-platform parameters in the quantification of postural control. Arch. Phys. Med. Rehabil.74, 1144 1150.
+
+<a name="_page9_x300.99_y334.55"></a>Ghulyan, V., Paolino, M., Lopez, C., Dumitrescu, M., and Lacour, M. (2005).
+
+A new translational platform for evaluating aging or pathology-related <a name="_page9_x39.73_y353.55"></a>postural disorders. Acta Otolaryngol.125, 607 617. doi: 10.1080/000164805100 26908
+
+<a name="_page9_x300.99_y372.55"></a>Goldman, L. S., Genel, M., Bezman, R. J., and Slanets, P. J. (1998).Diagnosis
+
+and treatment of attention-deficit/hyperactivity disorder in children and <a name="_page9_x39.73_y391.55"></a>adolescents.JAMA279, 1100 1107. doi: 10.1001/jama.279.14.1100
+
+<a name="_page9_x39.73_y401.05"></a><a name="_page9_x300.99_y401.05"></a>Gouleme, N., Ezane, M. D., Wiener-Vacher, S., and Bucci, M. P. (2014). Spatial and
+
+temporal postural analysis: a developmetal study in healthy children. Int. J. Dev. Neurosci.38, 168 177. doi: 10.1016/j.ijdevneu.2014.08.011
+
+<a name="_page9_x300.99_y429.55"></a>Henderson, S. E., and Sugden, D. A. (1992).The Movement Assessment Battery for
+
+<a name="_page9_x39.73_y439.05"></a>Children. San Antonio, TX: The Psychological Corporation.
+
+<a name="_page9_x300.99_y448.54"></a>Ionescu, E., Morlet, T., Froehlich, P., and Ferber-Viart, C. (2006).
+
+Vestibular assessment with balance quest normative data for children and young adults. Int. J. Pediatr. Otorhinolaryngol. 70, 1457 1465. doi: <a name="_page9_x39.73_y477.05"></a>10.1016/j.ijporl.2006.03.012
+
+<a name="_page9_x300.99_y486.55"></a>Ivanov, I., Murrough, J. W., Bansal, R., Hao, X., and Peterson, B.S. (2014).
+
+Cerebellar morphology and the effects of stimulant medications in youths with attention deficit-hyperactivity disorder. Neuropsychopharmacology39, <a name="_page9_x39.73_y515.05"></a>718 726. doi: 10.1038/npp.2013.257
+
+<a name="_page9_x300.99_y524.55"></a>Jacobi-Polishook, T., Shorer, Z., and Melzer, I. (2009). The effect of
+
+methylphenidate on postural stability under single and dual task <a name="_page9_x39.73_y543.55"></a>conditions in children with attention deficit hyperactivity disorder - a double blind randomized control trial. J. Neurol. Sci. 280, 15 21. doi: 10.1016/j.jns.2009.01.007
+
+<a name="_page9_x300.99_y572.04"></a>Kohen-Raz, R., Himmelfarb, M., Tzur, S., Kohen-Raz, A., and Shub, Y.
+
+<a name="_page9_x39.73_y581.55"></a>(1996). An initial evaluation of work fatigue and circadian changes as assessed by multiplate posturography. Percept. Mot. Skills82, 547 557. doi: 10.2466/pms.1996.82.2.547
+
+<a name="_page9_x39.73_y610.05"></a><a name="_page9_x300.99_y610.05"></a>Lacour, M., Bernard-Demanze, L., and Dumitrescu, M. (2008). Posture control,
+
+aging, and attention resources: models and posture analysis methods. Clin. Neurophysiol.38, 411 421. doi: 10.1016/j.neucli.2008.09.005
+
+<a name="_page9_x300.99_y638.55"></a>Leigh, R. J., and Zee, D. S. (2006).The Neurology of Eye Movement, 4th Edn. New
+
+<a name="_page9_x39.73_y648.05"></a>York, NY: Oxford University Press.
+
+<a name="_page9_x300.99_y657.55"></a>Leitner, Y., Barak, R., Giladi, N., Peretz, C., Eshel, R., Gruendlinger, L., et al. (2007).
+
+Gait in attention deficit hyperactivity disorder: effects of methylphenidate and dual tasking. J. Neurol. 254, 1330 1338. doi: 10.1007/s00415-006- 0522-3
+
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+Bucci et al.![ref1]
+
+Methylphenidate Affects Posture in Children
+
+<a name="_page10_x39.73_y62.19"></a>Levinson, H. N. (1990). The diagnostic value of cerebellar-vestibular tests in
+
+<a name="_page10_x300.99_y62.19"></a>detecting learning disabilities, dyslexia, and attention deficit disorder. Percept. Mot. Skills71, 67 82. doi: 10.2466/pms.1990.71.1.67
+
+<a name="_page10_x39.73_y90.69"></a>Maki, B., Holliday, P., and Fernie, G. (1990). Aging and postural control: a
+
+<a name="_page10_x300.99_y90.69"></a>comparison of spontaneous and induced way balance tests. J. Am. Soc. Geriatr. Dens.38, 1 9. doi: 10.1111/j.1532-5415.1990.tb01588.x
+
+<a name="_page10_x39.73_y119.18"></a>Matsuura, N., Ishitobi, M., Arai, S., Kawamura, K., Asano, M., Inohara, K.,
+
+<a name="_page10_x300.99_y119.18"></a>et al. (2014). Effects of methylphenidate in children with attention deficit hyperactivity disorder: a near-infrared spectroscopy study with CANTAB R . Child Adolesc. Psychiatry Ment. Health8, 273 284. doi: 10.1186/s13034-014-<a name="_page10_x300.99_y147.68"></a>0032-5
+
+<a name="_page10_x39.73_y166.68"></a>Naschner, L. M. (1979). Organization and programming of motor activity
+
+during posture control. Prog. Brain Res. 50, 177 184. doi: 10.1016/S0079-<a name="_page10_x300.99_y176.19"></a>6123(08)60818-3
+
+<a name="_page10_x39.73_y195.18"></a>Paillard, T., Costes-Salon, C., Lafont, C., and Dupui, P. (2002). Are there
+
+differences in postural regulation according to the level of competition<a name="_page10_x300.99_y204.69"></a>in judoists? Br. J. Sports Med. 36, 304 305. doi: 10.1136/bjsm.36. 4.304
+
+<a name="_page10_x300.99_y223.69"></a><a name="_page10_x39.73_y233.19"></a>Papadopoulos, N., McGinley, J. L., Bradshaw, J. L., and Rinehart, N. J. (2014).
+
+An investigation of gait in children with Attention Deficit Hypera ctivity Disorder: a case controlled study. Psychiatry Res. 218, 319 323. doi: 10.1016/j.psychres.2014.04.037
+
+Peterka, R. J. (2002). Sensorimotor integration in human postural control. J.
+
+Neurophysiol.88, 1097 1118. doi: 10.1152/jn.00605.2001
+
+Piek, J. P., Pitcher, T. M., and Hay, D. A. (1999). Motor coordination
+
+and kinaesthesis in boys with attention deficit-hyperactivity disorder. Dev. Med. Child Neurol. 41, 159 165. doi: 10.1017/S00121622990 00341
+
+Shum, S. B., and Pang, M. Y. (2009). Children with attention deficit
+
+hyperactivity disorder have impaired balance function: involvement of somatosensory, visual, and vestibular systems. J. Pediatr. 155, 245 249. doi: 10.1016/j.jpeds.2009.02.032![ref2]
+
+Stoodley, C. J. (2014). Distinct regions of the cerebellum show gray matter
+
+decreases in autism, ADHD, and developmental dyslexia. Front. Syst. Neurosci. 8:92. doi: 10.3389/fnsys.2014.00092
+
+Timmann, D., and Diener, H. C. (2003). Coordination and ataxia,  in Textbook of
+
+Clinical Neurology,eds C. G. Goetz and E. J. Pappert (Orlando, FL: Sanders), 299 315.
+
+Wang, H. Y., Huang, T. H., and Lo, S. K. (2011). Motor ability and adaptive
+
+function in children with attention deficit hyperactivity disorder. Kaohsiung J. Med. Sci.27, 446 452. doi: 10.1016/j.kjms.2011.06.004
+
+Wang, J., Wang, Y., and Ren, Y. (2003). A case control study on balance function
+
+of attention deficit hyperactivity disorder (ADHD) children. J. Peking Univ. Health Sci.35, 280 283.
+
+Wilens, T. E., Spencer, T. J., and Biederman, J. (2002). A review ofthe
+
+pharmacotherapy of adults with attention-deficit/hyperactivity disorder. J. Atten. Disord.5, 189 202. doi: 10.1177/108705470100500401
+
+Yelnik, A., and Bonan, J. (2008). Clinical tool for assessing balance disorders. Clin.
+
+Neurophysiol.38, 439 445. doi: 10.1016/j.neucli.2008.09.008
+
+Zang, Y., Gu, B., Qian, Q., and Wang, Y. (2002). Objective measurement of the
+
+balance dysfunction in attention deficit hyperactivity disorder children. Chin. J. Clin. Med.6, 1372 1374.
+
+**Conflict of Interest Statement:** The authors declare that the research was <a name="_page10_x39.73_y271.18"></a>conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+<a name="_page10_x39.73_y290.18"></a>Copyright ' 2016 Bucci, Stordeur, Acquaviva, Peyre and Delorme. This is an open- access article distributed under the terms of the[ Creative Commons Attribution License (CC BY](http://creativecommons.org/licenses/by/4.0/)). The use, distribution or reproduction in other forums is permitted, <a name="_page10_x39.73_y328.19"></a>provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+[Frontiers in Neuroscience](http://www.frontiersin.org/Neuroscience)[ | www.frontiersin.or](http://www.frontiersin.org)g 10 [May 2016 | Volume  | Article 163](http://www.frontiersin.org/Neuroscience/archive)10
+
+[ref1]: lsyhus2n.009.png
+[ref2]: lsyhus2n.010.png

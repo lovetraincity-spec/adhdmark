@@ -1,0 +1,404 @@
+﻿US 2005.0049289A1 
+
+(19) United States 
+
+(12) Patent Application Publication (10) Pub. No.: US 2005/0049289 A1 Reess et al.  (43) Pub. Date:  Mar. 3, 2005 
+
+(54) PRAMIPEXOLE FOR THE TREATMENT  (60) Provisional application No. 60/312,241, filed on Aug. ADHD  14, 2001. 
+
+(75) Inventors: Juergen Reess, Ulm (DE); Franco 
+
+Borsini, Bad Waldsee (DE)  (30)  Foreign Application Priority Data Correspondence Address: 
+
+MICHAEL P. MORRIS  Aug. 3, 2001  (DE)..................................... 10137 633.2 BOEHRINGER INGELHEM CORPORATION 
+
+900 RIDGEBURY ROAD 
+
+P. O. BOX 368  Publication Classification 
+
+RIDGEFIELD, CT 06877-0368 (US) 
+
+(51) Int. Cl. ................................................ A61K 31/428 
+
+(73) Assignee: Boehringer Ingelheim Pharma GmbH  (52) U.S. Cl. .............................................................. 514/367 
+
+& Co. KG, Ingelheim (DE) 
+
+21) Appl. No.:  10/958,156 
+21) Filed:  Oct. 4, 2004 
+
+Related U.S. Application Data 
+
+(63) Continuation of application No. 10/198,480, filed on Jul. 18, 2002, now abandoned. 
+
+(57)  ABSTRACT 
+
+A method for prevention and/or treatment of ADHD in a patient in need thereof, the method comprising administer ing to the patient an effective amount of 2-amino-4,5,6,7- tetrahydro-6-n-propylaminobenzothiazole or a pharmaco logically acceptable acid addition Salt, hydrate, or Solvate 
+
+thereof 
+
+US 2005/0049289 A1 
+
+Mar. 3, 2005 
+
+PRAMPEXOLE  FOR THE TREATMENT ADHD RELATED APPLICATIONS 
+
+0001\. This application is a continuation of U.S. Ser. No. 10/198,480 filed Jul. 18, 2002, which claims benefit under 
+
+35 U.S.C. S 119(e) of prior provisional application Ser. No. 60/312,241, filed Aug. 14, 2001. 
+
+FIELD OF THE INVENTION 
+
+0002  The invention relates to the use of 2-amino-4,5,6, 7-tetrahydro-6-n-propylaminobenzothiazole, the (+) or (-) 
+
+enantiomer thereof, the pharmacologically acceptable acid addition Salts thereof, as well as hydrates and Solvates, for 
+
+preparing a pharmaceutical composition for the prevention and/or treatment of ADHD. 
+
+BACKGROUND OF THE INVENTION 
+
+0\.003  2-Amino-6-n-propylamino-4,5,6,7-tetrahydroben 
+
+Zothiazole is a dopamine agonist which is also known in the art by the name pramipexole. Pramipexole and processes for 
+
+preparing it are known for example from EP-A-186 087 and U.S. Pat. No. 4,886,812. It is known in particular for the treatment of Schizophrenia and particularly for the treatment of Parkinson's disease. The prior art further discloses, for example, that pramipexole lowers the prolactin Serum level (DE 38 43 227). 
+
+DESCRIPTION OF THE INVENTION 
+
+0004  Surprisingly, it has been found that pramipexole can be used in therapeutically effective doses for the pre vention and/or treatment of ADHD. 
+
+0005  Accordingly, the present invention relates to the use of 2-amino-4,5,6,7-tetrahydro-6-n-propylaminoben 
+
+Zothiazole, optionally in the form of its (+) or (-) enanti omer, optionally in the form of the pharmacologically acceptable acid addition Salts, as well as hydrates and Solvates, for preparing a pharmaceutical composition for the prevention and/or treatment of ADHD. 
+
+0006\. The abbreviation ADHD stands for “attention defi cit hyperactivity disorder'. It denotes a disorder which affects both children and adults in the form of an attention deficit. ADHD also refers to a hyperactivity disorder which is also observed both in children and adults. Depending on which of the above disorders predominates, ADHD may be observed in different degrees. There is the combined type in which both an attention deficit and a hyperactivity disorder can be observed, the predominantly inattentive type and the predominantly hyperactive-impulsive type. 
+
+0007\. The combined type is present when at least six out of nine Symptoms of the attention disorder and hyperactiv ity/impulsivity persist for at least six months. If at least Six symptoms of attention deficit but fewer than six of hyper activity/impulsivity have persisted for at least Six months it is the predominantly inattentive type. The predominantly hyperactive-impulsive type is present when at least Six symptoms of hyperactivity/impulsivity but fewer than six of attention deficit have persisted for a period of at least Six months. 
+
+0008\. The following criteria of assessment are symptoms of inattentiveness and hyperactivity, which form the basis for classifying the abovementioned types of ADHD (accord 
+
+ing to the Diagnostic and Statistical Manual of Psychic Disorders, Version IV (DSM IV): 
+
+\0009)  Inattentiveness 
+
+0010  frequently takes no notice of details or makes 
+
+errors of haste in Schoolwork, at work or in other activities, 
+
+\0011) often has difficulty maintaining concentration for lengthy periods during tasks or when playing, 
+
+0012  frequently appears not to be listening when 
+
+spoken to by other people; 
+
+0013  often does not filly carry out instructions from 
+
+other people and cannot complete Schoolwork, other work or duties in the workplace; 
+
+0014  frequently has problems organizing tasks and 
+
+activities, 
+
+0015  frequently avoids, is disinclined to do or often 
+
+only undertakes under protest tasks which require Sustained mental effort; 
+
+0016  frequently loses objects that he/she needs for 
+
+tasks or activities, 
+
+\0017) is often easily distracted by external Stimuli; 
+
+\0018) is often forgetful during everyday activities, 0019  Hyperactivity 
+
+0020  frequently fidgets with hands or feet or shifts 
+
+around on the chair; 
+
+0021  often stands up in class or in other situations 
+
+where people are expected to stay Seated; 
+
+0022  frequently runs around or climbs up exces 
+
+Sively in situations where this is inappropriate (in young people or adults this may be restricted to a Subjective feeling of restlessness); 
+
+0023  often has trouble playing quietly or occupying 
+
+him/herself quietly with leisure activities; is often “on the go” or frequently acts as if he/she were “driven'; 
+
+0024  often talks excessively; impulsiveness; 
+
+0025  often bursts out with the answers before the 
+
+question is finished; 
+
+0026  has trouble waiting his/her turn; 
+
+0\.027  often interrupts p  and disturbs other people peop (e.g., interrupts conversations or breaks into other people's games). 
+
+0028\. Accordingly, the present invention relates to the use of 2-amino-4,5,6,7-tetrahydro-6-n-propylaminoben 
+
+Zothiazole, optionally in the form of the (+) or (-) enanti omer thereof, optionally in the form of the pharmacologi cally acceptable acid addition Salts thereof, as well as hydrates and Solvates, for preparing a pharmaceutical com position for the prevention and/or treatment of attention 
+
+deficits. 
+
+0029  Moreover, the present invention relates to the use of 2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiaz 
+
+ole, optionally in the form of the (+) or (-) enantiomer thereof, optionally in the form of the pharmacologically 
+
+acceptable acid addition Salts thereof, as well as hydrates and Solvates, for preparing a pharmaceutical composition for the prevention and/or treatment of hyperactivity disorders. 
+
+0\.030. In another aspect the present invention relates to 
+
+the use of 2-amino-4,5,6,7-tetrahydro-6-n-propylaminoben Zothiazole, optionally in the form of the (+) or (-) enanti omer thereof, optionally in the form of the pharmacologi cally acceptable acid addition Salts thereof, as well as hydrates and Solvates, for preparing a pharmaceutical com position for the prevention and/or treatment of hyperactivity disorders accompanied by attention deficit. 
+
+0\.031)  For treatment and/or prevention of the medical 
+
+indications described above, in addition to monotherapy using pramipexole it is also possible, as an alternative, to carry out a combined therapy using pramipexole with one or more, preferably one other pharmaceutically active com pound. It may prove effective, for example, to use a com bination with active Substances Selected from among the C-Sympathomimetics and antidepressants, preferably tricy clic antidepressants, antidepressants of the SSRI, or antide pressants of the MAO type. 
+
+0032\. In the case of a combined therapy, pramipexole may preferably be used to treat the abovementioned condi tions with one or more, preferably one of the following Substances: methylphenidate, amphetamine, amphetaminil, methamphetamine, pemoline, tomoxetin, desipramine, imi pramine, bupropion, and modafmil, of which methylpheni date, amphetamine, pemoline, tomoxetin, and modafinil are particularly preferred. 
+
+0\.033  Pramipexole may be used within the scope of the 
+
+present invention as a racemate or in the form of its (+) or (-) enantiomer. Moreover, pramipexole may be used in the form of the pharmaceutically acceptable acid addition Salts thereof as well as optionally in the form of its hydrates and/or Solvates. By pharmaceutically acceptable acid addi tion Salts are meant according to the invention the Salts selected from the salts of hydrochloric acid, hydrobromic acid, Sulfuric acid, phosphoric acid, methaneSulfonic acid, acetic acid, fumaric acid, Succinic acid, lactic acid, citric acid, tartaric acid, and maleic acid, of which the Salts of hydrochloric acid, hydrobromic acid, Sulfuric acid, phos phoric acid, and acetic acid are particularly preferred. The Salts of hydrochloric acid are particularly important. Most preferably, within the Scope of the present invention, there fore, the hydrochlorides of pramipexole are used, pramipex ole dihydrochloride being of particular Significance. Of the hydrates of pramipexole, pramipexole dihydrochloride monohydrate is particularly preferred. 
+
+0034\.  The dosage of pramipexole naturally depends to a great extent on the clinical picture. For example, without restricting the present invention thereto, pramipexole may be used in doses of about 0.05 mg to 7.5 mg, preferably 0.1 mg to 5 mg per day. These doses are based on pramipexole in the form of its free base. Based on the salt form prami 
+
+pexole dihydrochloride monohydrate which is preferably used, the doses mentioned above correspond to about 0.07 
+
+mg to 10.65 mg, preferably 0.14 mg to 7.1 mg of prami pexole dihydrochloride monohydrate per day. 
+
+0035\. One possible dosing method, which is to be under stood as being merely an illustrative example, is described below, based on pramipexole in the form of its free base: individual dosage titration at weekly intervals depending on activity and acceptability. 
+
+0036) 1st week: 1 tablet containing 0.088 mg of 
+
+pramipexole 3 times a day; 
+
+0037  2nd week: 1 tablet containing 0.18 mg of 
+
+pramipexole 3 times a day; and 
+
+0038  3rd week and thereafter: % tablet containing 
+
+0\.7 mg of pramipexole 3 times a day. 
+
+0039\. Within the scope of the use according to the invention pramipexole may be administered orally, trans dermally, intrathecally, by inhalation or parenterally. Suit able preparations include for example tablets, capsules, Suppositories, Solutions, Syrups, emulsions, dispersible pow ders, or patches. Regarding possible embodiments of a transdermal preparation which may be used according to the invention, we now refer to the embodiments described by way of example in U.S. Pat. No. 5,112,842, which is hereby incorporated by reference in its entirety. Suitable tablets may be produced, for example, by mixing the active Substance or Substances with known excipients, for example, inert dilu ents, Such as calcium carbonate, calcium phosphate, or lactose, disintegrants Such as corn Starch or alginic acid, binderS Such as Starch or gelatine, lubricants Such as mag nesium Stearate or talc, and/or agents for achieving delayed release Such as carboxymethylcellulose, cellulose acetate phthalate, or polyvinyl acetate. The tablets may also consist of Several layers. 
+
+0040\. The following are some examples of pharmaceu tical preparations which may be used according to the invention. These are intended Solely as an illustration with out restricting the Subject matter of the invention thereto. 
+
+Tablet 1 
+
+Ingredient  Amount (mg) pramipexole dihydrochloride monohydrate  1.OO 
+
+mannitol  121.50 maize starch  79.85 highly dispersed silicon dioxide, anhydrous  2.30 Polyvidone K25  2.35 magnesium stearate  3.00 
+
+Total  21O.OO 
+
+\0041) 
+
+Tablet 2 
+
+Ingredient  Amount (mg) 
+
+pramipexole  0.5 mannitol  122.O maize starch, dried  618 maize starch  18.0 
+
+highly dispersed silicon dioxide, anhydrous  2.4 Polyvidone K25  2.3 magnesium stearate  3.0 
+
+Total  21O.O 
+
+0042 
+
+Tablet 3 
+
+Ingredient  Amount (mg) 
+
+pramipexole  0.25 mannitol  61.O maize starch  39.90 
+
+highly dispersed silicon dioxide, anhydrous  1.2O Polyvidone K25  1.15 magnesium stearate  1.5 
+
+Total  105.OO 
+
+\0043) 
+
+Tablet 4 
+
+Ingredient  Amount (mg) 
+
+pramipexole  O.125 mannitol  49.455 maize starch, dried  25.010 maize starch  7.300 
+
+highly dispersed silicon dioxide, anhydrous  O.940 Polyvidone K25  O.940 magnesium stearate  1.230 
+
+Total  85.OOO 
+
+Formulation Suitable for Injection 
+
+Ingredient  Amount pramipexole dihydrochloride monohydrate  0.3 mg 
+
+sodium chloride  0.8 mg benzalkonium chloride  0.01 mg water for injection  ad 100 mL 
+
+We claim: 
+
+1. A method for prevention and/or treatment of ADHD in 
+
+a patient in need thereof, the method comprising adminis tering to the patient an effective amount of 2-amino-4,5,6, 7-tetrahydro-6-n-propylaminobenzothiazole or a pharmaco logically acceptable acid addition Salt, hydrate, or Solvate thereof. 
+
+2. The method of claim 1, wherein the 2-amino-4,5,6,7- 
+
+tetrahydro-6-n-propylaminobenzothiazole is the (+) or (-) enantiomer thereof. 
+
+3. A method for prevention and/or treatment of attention 
+
+deficits in a patient in need thereof, the method comprising administering to the patient an effective amount of 2-amino 4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole or a phar macologically acceptable acid addition Salt, hydrate, or Solvate thereof. 
+
+4. The method of claim 3, wherein the 2-amino-4,5,6,7- 
+
+tetrahydro-6-n-propylaminobenzothiazole is the (+) or (-) enantiomer thereof. 
+
+5. A method for prevention and/or treatment of hyperac 
+
+tivity disorders in a patient in need thereof, the method comprising administering to the patient an effective amount of 2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiaz ole or a pharmacologically acceptable acid addition Salt, hydrate, or Solvate thereof. 
+
+6. The method of claim 5, wherein the 2-amino-4,5,6,7- 
+
+tetrahydro-6-n-propylaminobenzothiazole is the (+) or (-) enantiomer thereof. 
+
+7. A method for prevention and/or treatment of hyperac 
+
+tivity disorders accompanied by attention deficits in a patient in need thereof, the method comprising administering to the patient an effective amount of 2-amino-4,5,6,7-tetrahydro 6-n-propylaminobenzothiazole or a pharmacologically acceptable acid addition Salt, hydrate, or Solvate thereof. 
+
+8. The method of claim 7, wherein the 2-amino-4,5,6,7- 
+
+tetrahydro-6-n-propylaminobenzothiazole is the (+) or (-) enantiomer thereof. 
+
+9. A method for prevention and/or treatment of ADHD in 
+
+a patient in need thereof, the method comprising adminis tering to the patient an effective amount of 
+
+1) 2-amino-4,5,6,7-tetrahydro-6-n-propylaminoben Zothiazole or a pharmacologically acceptable acid addi tion Salt, hydrate, or Solvate thereof, and 
+1) a Second pharmaceutical Substance. 
+10. The method of claim 9, wherein the 2-amino-4,5,6, 
+
+7-tetrahydro-6-n-propylaminobenzothiazole is the (+) or (-) enantiomer thereof. 
+
+11. The method of claim 10, wherein the second pharma 
+
+ceutical Substance is an C-Sympathomimetic or antidepres Sant. 
+
+12. The method of claim 10, wherein the second phar 
+
+maceutical Substance is selected from methylphenidate, amphetamine, amphetaminil, methamphetamine, pemoline, 
+
+tomoxetin, desipramine, imipramine, bupropion, and modafinil. 
+
+13. A method for prevention and/or treatment of attention 
+
+deficits in a patient in need thereof, the method comprising administering to the patient an effective amount of: 
+
+1) 2-amino-4,5,6,7-tetrahydro-6-n-propylaminoben Zothiazole or a pharmacologically acceptable acid addi tion Salt, hydrate, or Solvate thereof, and 
+1) a Second pharmaceutical Substance. 
+14. The method of claim 13, wherein the 2-amino-4,5,6, 
+
+7-tetrahydro-6-n-propylaminobenzothiazole is the (+) or (-) enantiomer thereof. 
+
+15. The method of claim 14, wherein the second phar 
+
+maceutical Substance is an O-Sympathomimetic or antide preSSant. 
+
+16. The method of claim 14, wherein the second phar 
+
+maceutical Substance is Selected from methylphenidate, amphetamine, amphetaminil, methamphetamine, pemoline, 
+
+tomoxetin, desipramine, imipramine, bupropion, and modafinil. 
+
+17. A method for prevention and/or treatment of hyper 
+
+activity disorders in a patient in need thereof, the method comprising administering to the patient an effective amount 
+
+of: 
+
+1) 2-amino-4,5,6,7-tetrahydro-6-n-propylaminoben Zothiazole or a pharmacologically acceptable acid addi tion Salt, hydrate, or Solvate thereof, and 
+1) a Second pharmaceutical Substance. 
+18. The method of claim 17, wherein the 2-amino-4,5,6, 
+
+7-tetrahydro-6-n-propylaminobenzothiazole is the (+) or (-) enantiomer thereof. 
+
+19. The method of claim 17, wherein the second phar 
+
+maceutical Substance is an O-Sympathomimetic or antide preSSant. 
+
+20. The method of claim 17, wherein the second phar 
+
+maceutical Substance is Selected from methylphenidate, amphetamine, amphetaminil, methamphetamine, pemoline, 
+
+tomoxetin, desipramine, imipramine, bupropion, and modafinil. 
+
+21. A method for prevention and/or treatment of hyper 
+
+activity disorders accompanied by attention deficits in a patient in need thereof, the method comprising administer ing to the patient an effective amount of: 
+
+1) 2-amino-4,5,6,7-tetrahydro-6-n-propylaminoben Zothiazole or a pharmacologically acceptable acid addi tion Salt, hydrate, or Solvate thereof, and 
+1) a Second pharmaceutical Substance. 
+22. The method of claim 21, wherein the 2-amino-4,5,6, 
+
+7-tetrahydro-6-n-propylaminobenzothiazole is the (+) or (-) enantiomer thereof. 
+
+23. The method of claim 22, wherein the second phar 
+
+maceutical Substance is an O-Sympathomimetic or antide preSSant. 
+
+24. The method of claim 22, wherein the second phar 
+
+maceutical Substance is Selected from methylphenidate, amphetamine, amphetaminil, methamphetamine, pemoline, 
+
+tomoxetin, desipramine, imipramine, bupropion, and modafinil. 
+
+25. The method according to claim 1, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in the form of a pharmacologically acceptable acid addition Salt Selected from the Salts of hydrochloric acid, hydrobromic acid, Sulfuric acid, phosphoric acid, methane Sulfonic acid, acetic acid, fumaric acid, Succinic acid, lactic acid, citric acid, tartaric acid, and maleic acid. 
+
+26. The method according to claim 1, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in a dose of about 0.05 mg to 7.5 mg per day. 
+
+27. The method according to claim 1, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in a dose of about 0.1 mg to 5.0 mg per day. 
+
+28. The method according to claim 3, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in the form of a pharmacologically acceptable acid addition Salt Selected from the Salts of hydrochloric acid, hydrobromic acid, Sulfuric acid, phosphoric acid, methane Sulfonic acid, acetic acid, fumaric acid, Succinic acid, lactic acid, citric acid, tartaric acid, and maleic acid. 
+
+29. The method according to claim 3, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in a dose of about 0.05 mg to 7.5 mg per day. 
+
+30. The method according to claim 3, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in a dose of about 0.1 mg to 5.0 mg per day. 
+
+31. The method according to claim 5, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in the form of a pharmacologically acceptable acid addition Salt Selected from the Salts of hydrochloric acid, hydrobromic acid, Sulfuric acid, phosphoric acid, methane Sulfonic acid, acetic acid, fumaric acid, Succinic acid, lactic acid, citric acid, tartaric acid, and maleic acid. 
+
+32. The method according to claim 5, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in a dose of about 0.05 mg to 7.5 mg per day. 
+
+33. The method according to claim 5, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in a dose of about 0.1 mg to 5.0 mg per day. 
+
+34. The method according to claim 7, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in the form of a pharmacologically acceptable acid addition Salt Selected from the Salts of hydrochloric acid, hydrobromic acid, Sulfuric acid, phosphoric acid, methane Sulfonic acid, acetic acid, fumaric acid, Succinic acid, lactic acid, citric acid, tartaric acid, and maleic acid. 
+
+35. The method according to claim 7, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in a dose of about 0.05 mg to 7.5 mg per day. 
+
+36. The method according to claim 7, wherein the 
+
+2-amino-4,5,6,7-tetrahydro-6-n-propylaminobenzothiazole is used in a dose of about 0.1 mg to 5.0 mg per day. 
+
+k  k  k  k  k 

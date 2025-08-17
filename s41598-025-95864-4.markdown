@@ -1,0 +1,387 @@
+﻿[www.nature.com/scientificreports/](http://www.nature.com/scientificreports)![](mdpqkf3q.001.png)
+
+[www.nature.com/scientificreports](http://www.nature.com/scientificreports)![](mdpqkf3q.002.png)
+
+` `![](mdpqkf3q.003.png)![](mdpqkf3q.004.png)
+
+![](mdpqkf3q.005.png)
+
+**OPEN Correlation between attention ![](mdpqkf3q.006.png)**
+
+**deficit/hyperactivity disorder and chronic pain: a survey of adults in Japan**
+
+**Satoshi Kasahara1,2*****, Takahiko Yoshimoto3, Hiroyuki Oka4, Naoko Sato5, Taito Morita1, Shin-Ichi Niwa6, Kanji Uchida1 & Ko Matsudaira2,7**
+
+**This cross-sectional epidemiological internet survey assessed whether attention deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD) symptoms are associated with pain chronicity and intensity and explored the relationship between developmental disorder symptoms and pain. Participants were 4028 adults aged 20–64 years who experienced pain, assessed using an 11-point numerical rating scale (NRS), in any body part in the previous 4 weeks. ADHD and ASD symptoms were assessed using the Adult ADHD Self-Report Scale (ASRS) and autism spectrum quotient, respectively. Problems with mental health (PMH) were assessed using the shortened Profile of Mood States. Pathway analyses were performed to examine the association between ADHD symptoms and pain. The chronic pain symptoms (CP) group (*N* = 1465) scored higher than the non-CP group (*N* = 2563) for all ASRS variables. ASRS positivity was associated with CP symptoms and increased with increasing NRS score; the CP group showed particularly high positivity (38.3%) with extreme pain. ADHD symptoms were more strongly associated with CP symptoms and intensity than was PMH (0.26 vs. 0.09). ADHD symptoms, but not ASD symptoms, were associated with CP symptoms. ADHD medications reportedly improve coexisting CP; therefore, ADHD screening and treatment may be important for patients with CP, especially those with extreme pain.**
+
+**Keywords**  Attention deficit/hyperactivity disorder, Autism spectrum disorder, Chronic pain, Epidemiological internet survey, Extreme pain, Pathway analyses
+
+In 2022, chronic pain (CP) based on the International Association for the Study of Pain definition was first coded as a disease in the International Classification of Diseases (11th edition) (I[CD-11)1](#_page10_x155.00_y58.36),[2](#_page10_x155.00_y75.36). CP was defined 
+
+as  pain that persists or recurs for > 3 months,  while pain lasting < 3 months was classified as acute pain. A key feature of the ICD-11 CP classification is the introduction of two subcategories: chronic primary pain and chronic secondary pain. Chronic primary pain includes conditions such as fibromyalgia and nonspecific chronic low back pain, where the pain cannot be fully explained by an underlying pathological condition alone. Chronic primary pain refers to pain that persists for > 3 months with significant emotional distress, such as anxiety, depression, or anger, and impairment of daily and social functioning, without apparent tissue damage causing pain[3](#_page10_x155.00_y83.36). In contrast, chronic secondary pain is attributed to an identifiable organic cause.  is classification is aimed at standardizing the diagnosis of CP, which used to be categorized under mental disorders in earlier versions of the ICD, and to clarify treatment strategies, promote research advancements, and ultimately improve patient care. CP can also be influenced by psychosocial factors and has a low improvement rate with the use of usual analgesics, making it an important and challenging issue for society and clinician[s4](#_page10_x155.00_y92.36).
+
+Recently, studies have focused on the association between attention deficit/hyperactivity disorder (ADHD) and CP classified as chronic primary pain in the ICD-11[5](#_page10_x155.00_y100.36), such as migraine[6](#_page10_x155.00_y109.36), fibromyalgi[a6](#_page10_x155.00_y109.36),[7](#_page10_x155.00_y125.36), irritable bowel 
+
+1Department of Anesthesiology and Pain Relief Center, The University of Tokyo Hospital, 7-3-1 Hongo, Bunkyo- ku, Tokyo 113-8655, Japan.  2Department of Pain Medicine, Fukushima Medical University School of Medicine, Fukushima, Japan. 3Department of Hygiene, Public Health and Preventive Medicine, Showa University School of Medicine, Tokyo, Japan. 4Division of Musculoskeletal AI System Development, Faculty of Medicine, The University of Tokyo, Tokyo, Japan.  5Nursing Department, The University of Tokyo Hospital, Tokyo, Japan.  6Department of Psychiatry, Aizu Medical Center, Fukushima Medical University, Aizuwakamatsu, Japan.  7Tailor Made Backpain Clinic, Tokyo, Japan. *email: namahagenator@gmail.com
+
+syndrome[6](#_page10_x155.00_y109.36), chronic low back pain[8](#_page10_x155.00_y142.36) [11,](#_page10_x155.00_y193.36) and idiopathic orofacial pain[12 ](#_page10_x155.00_y218.36)[14. ](#_page10_x155.00_y251.36)ADHD is a neurodevelopmental disorder characterized by inattention and/or hyperactivity-impulsivity[15,](#_page10_x155.00_y268.36) which is assumed to be due to dopaminergic and noradrenergic nervous system dysfunction[16.](#_page10_x155.00_y285.36) ADHD symptoms are present from childhood, before 12 years of age, and 40 70% of these symptoms persist to various degrees into adulthood[17](#_page10_x155.00_y302.36). As dopamine and noradrenaline are important for pain perception and control[18, ](#_page10_x155.00_y319.36)individuals with ADHD may be more vulnerable to pain[19](#_page10_x155.00_y327.36). Basic research has also revealed that in rodent models of ADHD, brain abnormalities associated with ADHD lead to central sensitization and hyperalgesia through several neurobiological mechanisms[19](#_page10_x155.00_y327.36) [23.](#_page10_x155.00_y394.36)  ese include increased spontaneous activity in the anterior cingulate cortex posterior insular cortex pathway due to neuroinflammation, alterations in action potential firing and transmission pathways in the spinal dorsal horn, as well as upregulated norepinephrine synthesis and reduced transmission efficiency.  ese changes are thought 
+
+to amplify nociceptive input from the periphery, which ultimately contributes to heightened pain sensitivity.
+
+Studies on pain and ADHD in humans have mostly been conducted in clinical settings. To the best of our knowledge, a study by Stickley et al. is the only epidemiological study conducted in a more general, non-clinical setting.  ey showed that ADHD symptoms are associated with pain in a general population of 7403 individuals 
+
+in England[24](#_page10_x155.00_y411.36). In this study, pain intensity was assessed by asking participants,  During the past 4 weeks, how much did pain interfere with your normal work?   e response options were  not at all,   a little bit,   moderately,  
+
+` `quite a bit,  and  extremely.  For the analysis, the responses were treated as a binary variable, with responses of  extremely  categorized as extreme pain and all other responses categorized as non-extreme pain. Logistic regression analysis revealed ADHD as a significant predictor of extreme pain. However, a er adjusting for common mental disorders (CMDs), the association with CMDs was stronger, reducing the effect of ADHD.  e authors suggest that CMDs can mediate this relationship, highlighting the importance of CMD screening and treatment in ADHD patients with pain.
+
+However, this study had three key limitations. First, individuals were categorized as having  ADHD symptoms  on the basis of a cutoff score of 14 or higher out of 24 on the Adult ADHD Self-Report Scale (AS[RS)25](#_page10_x155.00_y428.36), rather 
+
+than on the basis of the screener score that is specifically designed for ADHD screening.  e ASRS screener score (ranging from 0 to 6) has established sensitivity and specificity based on the probability of a clinical ADHD diagnosis at each score level. By utilizing this screener score, it would be possible to estimate the proportion of participants who might meet the criteria for an ADHD diagnosis. Hence, the findings of this study do not allow for an examination of the association between pain and the likelihood of an ADHD diagnosis. Second, the researchers assessed pain by asking about its interference with work, rather than evaluating actual pain occurrence using a validated pain scale. In addition, the authors highlighted the need for more data on pain duration, chronicity, and location, suggesting that future studies collecting such details would provide a clearer understanding of the relationship between pain and ADHD.  ird, the need for additional research to determine whether a causal relationship exists between ADHD and pain was emphasized.
+
+Furthermore, ADHD frequently coexists with autism spectrum disorder (ASD)[26](#_page10_x155.00_y445.36). ASD is characterized by persistent deficits in social interaction and communication, in addition to limited and repetitive patterns of behavior and interest[15](#_page10_x155.00_y268.36); ASD also has symptoms of sensory hypersensitivity and is reportedly associated with CP[27](#_page10_x155.00_y461.36). However, in no epidemiological studies have the authors reported on the association between pain and adult developmental disorders, including ADHD and ASD. Furthermore, a potential causal link between ADHD and CP has not been thoroughly examined.
+
+` `erefore, we raised two clinical questions: (1) Are ADHD and ASD associated with pain chronicity and intensity, and if so, which has the stronger influence? (2) If developmental disorders and pain are associated, what potential pathways can be explored to understand their relationship? By addressing these questions and bridging the gaps in the literature, we aimed to clarify how symptoms of developmental disorders influence CP. With this objective in mind, we conducted a cross-sectional epidemiological internet survey using large population-based data.
+
+**Results**
+
+**Sample characteristics**
+
+Data from all 4028 participants in this study were analyzed; their characteristics are presented in Table[ 1](#_page2_x118.00_y47.36). Overall, 50.3% of the participants were male, and the median age of all participants was 45 (34 54) years.  ere were 1465 (36.4%) participants in the CP symptoms group and 2563 (63.6%) in the non-CP symptoms group.  e pain intensity in the CP symptoms group was significantly higher [6 (5,7)] than that in the non-CP symptoms group [4 (3,6)]. More participants were married, divorced, or widowed in the CP symptoms group than in the non-CP symptoms group. Problems with physical health (PPH) and problems with mental health (PMH) were significantly more common in the CP symptoms group than in the non-CP symptoms group.  e distributions 
+
+of the most troublesome areas of pain in the last 4 weeks and that of the areas where the pain became chronic are shown in Fig.[ 1](#_page2_x155.00_y386.36).  e top 3 sites for both the most troubling pain areas in the last 4 weeks and the sites where pain became chronic included the back, neck, and shoulders.
+
+**Association between ADHD and ASD symptoms and pain**
+
+` `e CP symptoms group had significantly higher ASRS scores than the non-CP symptoms group did for all variables, although no significant differences were noted in autism spectrum quotient (AQ) scores between the groups (Table [2](#_page3_x135.00_y47.36)). Significantly fewer participants with CP symptoms were categorized as ADHD and ASD symptom-negative, and significantly more participants with CP symptoms were categorized as only ADHD symptom-positive, according to the adjusted residuals; that is, screening positive for only ADHD symptoms was significantly associated with CP symptoms. Regarding the ASRS score, ADHD symptom positivity increased significantly with increasing pain stage in the entire cohort, non-CP symptoms group, and CP symptoms group (Fig.[ 2](#_page4_x71.00_y47.36)). In the CP symptoms group, 38.3% of respondents with pain reported as numerical rating scale (NRS) 
+
+
+
+<table><tr><th colspan="1" rowspan="2" valign="bottom"><b>Characteristics</b></th><th colspan="1" rowspan="2" valign="bottom"><b>Category</b></th><th colspan="1" rowspan="2"></th><th colspan="1" rowspan="2" valign="bottom"><p><b>All</b></p><p><b>(N = 4028)</b></p></th><th colspan="2" valign="top"><a name="_page2_x118.00_y47.36"></a><b>Pain symptoms</b></th><th colspan="1" rowspan="1" valign="bottom"><b>P-value</b></th><th colspan="1" rowspan="2" valign="bottom"><b>Significance</b></th></tr>
+<tr><td colspan="1" valign="top"><b>Chronic (N = 1465)</b></td><td colspan="1" valign="top"><b>Non-chronic (N = 2563)</b></td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Sex, n (%)</td><td colspan="1" valign="top">Male</td><td colspan="1"></td><td colspan="1" valign="top">2026 (50.3)</td><td colspan="1" valign="top">767 (52.4)</td><td colspan="1" valign="top">1259 (49.1)</td><td colspan="1" valign="top">0\.05</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Female</td><td colspan="1"></td><td colspan="1" valign="top">2002 (49.7)</td><td colspan="1" valign="top">698 (47.6)</td><td colspan="1" valign="top">1304 (50.9)</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Age, years</td><td colspan="1"></td><td colspan="1"></td><td colspan="1" valign="top">45 (34, 54)</td><td colspan="1" valign="top">48 (38, 56)</td><td colspan="1" valign="top">42 (32, 52)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">BMI, kg/m2</td><td colspan="1"></td><td colspan="1"></td><td colspan="1" valign="top">22\.4 (19.5, 24.4)</td><td colspan="1" valign="top">22\.0 (19.7, 24.9)</td><td colspan="1" valign="top">21\.5 (19.5, 24.1)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" rowspan="6" valign="top">Marital status, n (%)</td><td colspan="1" rowspan="2" valign="top">Married</td><td colspan="1" valign="top">Count</td><td colspan="1" valign="top">2175 (54.0)</td><td colspan="1" valign="top">823 (56.2)</td><td colspan="1" valign="top">1352 (52.8)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">Residual</td><td colspan="1"></td><td colspan="1" valign="top">2\.1*</td><td colspan="1" valign="top">− 2.1*</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Unmarried</td><td colspan="1" valign="top">Count</td><td colspan="1" valign="top">1609 (39.9)</td><td colspan="1" valign="top">533 (36.4)</td><td colspan="1" valign="top">1076 (42.0)</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Residual</td><td colspan="1"></td><td colspan="1" valign="top">− 3.5**</td><td colspan="1" valign="top">3\.5**</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Divorced or widowed</td><td colspan="1" valign="top">Count</td><td colspan="1" valign="top">244 (6.1)</td><td colspan="1" valign="top">109 (7.4)</td><td colspan="1" valign="top">135 (5.3)</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Residual</td><td colspan="1"></td><td colspan="1" valign="top">2\.8**</td><td colspan="1" valign="top">− 2.8**</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Education level, n (%)</td><td colspan="1" valign="top">No college</td><td colspan="1"></td><td colspan="1" valign="top">1441</td><td colspan="1" valign="top">938 (64.0)</td><td colspan="1" valign="top">1649 (64.3)</td><td colspan="1" valign="top">0\.843</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">College</td><td colspan="1"></td><td colspan="1" valign="top">2587</td><td colspan="1" valign="top">527 (36.0)</td><td colspan="1" valign="top">914 (35.7)</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">Employment type, n (%)</td><td colspan="1" valign="top">Regular</td><td colspan="1"></td><td colspan="1" valign="top">1203</td><td colspan="1" valign="top">419 (28.6)</td><td colspan="1" valign="top">784 (30.6)</td><td colspan="1" valign="top">0\.413</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Non-regular</td><td colspan="1"></td><td colspan="1" valign="top">796</td><td colspan="1" valign="top">295 (20.1)</td><td colspan="1" valign="top">501 (19.5)</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Non-worker</td><td colspan="1"></td><td colspan="1" valign="top">2029</td><td colspan="1" valign="top">751 (51.3)</td><td colspan="1" valign="top">1278 (49.9)</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Problems with physical health, n (%)</td><td colspan="1" valign="top">Yes</td><td colspan="1"></td><td colspan="1" valign="top">1510</td><td colspan="1" valign="top">625 (42.7)</td><td colspan="1" valign="top">885 (34.5)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">No</td><td colspan="1"></td><td colspan="1" valign="top">2518</td><td colspan="1" valign="top">840 (57.3)</td><td colspan="1" valign="top">1678 (65.5)</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Problems with mental health, n (%)</td><td colspan="1" valign="top">Yes</td><td colspan="1"></td><td colspan="1" valign="top">543</td><td colspan="1" valign="top">242 (16.5)</td><td colspan="1" valign="top">301 (11.7)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">No</td><td colspan="1"></td><td colspan="1" valign="top">3485</td><td colspan="1" valign="top">1223 (83.5)</td><td colspan="1" valign="top">2262 (88.3)</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Pain NRS</td><td colspan="1"></td><td colspan="1"></td><td colspan="1" valign="top">5 (3, 6)</td><td colspan="1" valign="top">6 (5, 7)</td><td colspan="1" valign="top">4 (3, 6)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+</table>
+
+**Table 1**.  Characteristics of the study participants. Variables are shown as medians (25th and 75th percentiles), except where indicated as n (%). \*P < 0.05, \*\*P < 0.01, \*\*\*P < 0.001. BMI, body mass index; NRS, numerical rating scale.![](mdpqkf3q.007.png)
+
+![](mdpqkf3q.008.jpeg)
+
+<a name="_page2_x155.00_y386.36"></a>**Fig. 1**.  Distribution of participants  pain areas and chronicity.  e blue bars indicate the distribution of the most troublesome body parts among the areas of pain in the last 4 weeks. Among the body sites, the areas in which pain persisted for more than 3 months and became chronic are indicated by orange bars.![](mdpqkf3q.009.png)
+
+
+
+<table><tr><th colspan="1" rowspan="2" valign="bottom"><b>Rating scale</b></th><th colspan="1" rowspan="2" valign="bottom"><b>Category</b></th><th colspan="1" rowspan="2"></th><th colspan="1" rowspan="2" valign="bottom"><p><b>All</b></p><p><b>(N = 4028)</b></p></th><th colspan="2" valign="top"><a name="_page3_x135.00_y47.36"></a><b>Pain symptoms</b></th><th colspan="1" rowspan="1" valign="bottom"><b>P-value</b></th><th colspan="1" rowspan="2" valign="bottom"><b>Bonferroni correction (P)</b></th><th colspan="1" rowspan="2" valign="bottom"><b>Significance</b></th></tr>
+<tr><td colspan="1" valign="top"><b>Chronic (N = 1465)</b></td><td colspan="1" valign="top"><b>Non-chronic (N = 2563)</b></td></tr>
+<tr><td colspan="1" rowspan="5" valign="top">ASRS</td><td colspan="1" valign="top">Screening positive, n (%)</td><td colspan="1"></td><td colspan="1" valign="top">398 (9.9)</td><td colspan="1" valign="top">191 (13.0)</td><td colspan="1" valign="top">207 (8.1)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">Q6 total (0 24)</td><td colspan="1"></td><td colspan="1" valign="top">7 (5, 10)</td><td colspan="1" valign="top">8 (5, 11)</td><td colspan="1" valign="top">7 (4, 10)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">Q18 total (0 72)</td><td colspan="1"></td><td colspan="1" valign="top">19 (12, 27)</td><td colspan="1" valign="top">20 (13, 29)</td><td colspan="1" valign="top">19 (11, 26)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">Inattention (0 36)</td><td colspan="1"></td><td colspan="1" valign="top">11 (7, 15)</td><td colspan="1" valign="top">12 (8, 16)</td><td colspan="1" valign="top">11 (7, 15)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">Hyperactivity-impulsivity (0 36)</td><td colspan="1"></td><td colspan="1" valign="top">8 (4, 12)</td><td colspan="1" valign="top">9 (4, 13)</td><td colspan="1" valign="top">8 (4, 11)</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">***</td></tr>
+<tr><td colspan="1" rowspan="7" valign="top">AQ</td><td colspan="1" valign="top">Screening positive, n (%)</td><td colspan="1"></td><td colspan="1" valign="top">356 (8.8)</td><td colspan="1" valign="top">136 (9.3)</td><td colspan="1" valign="top">220 (8.6)</td><td colspan="1" valign="top">0\.45</td><td colspan="1" valign="top">1\.00</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Q50 total (0 50)</td><td colspan="1"></td><td colspan="1" valign="top">24 (19, 28)</td><td colspan="1" valign="top">24 (18, 28)</td><td colspan="1" valign="top">24 (19, 28)</td><td colspan="1" valign="top">0\.40</td><td colspan="1" valign="top">1\.00</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Communication (0 10)</td><td colspan="1"></td><td colspan="1" valign="top">4 (2, 6)</td><td colspan="1" valign="top">4 (2, 6)</td><td colspan="1" valign="top">4 (2, 6)</td><td colspan="1" valign="top">0\.50</td><td colspan="1" valign="top">1\.00</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Social skills (0 10)</td><td colspan="1"></td><td colspan="1" valign="top">6 (4, 8)</td><td colspan="1" valign="top">6 (4, 8)</td><td colspan="1" valign="top">6 (4, 8)</td><td colspan="1" valign="top">0\.05</td><td colspan="1" valign="top">0\.80</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Imagination (0 10)</td><td colspan="1"></td><td colspan="1" valign="top">4 (3, 6)</td><td colspan="1" valign="top">4 (3, 6)</td><td colspan="1" valign="top">4 (3, 6)</td><td colspan="1" valign="top">0\.29</td><td colspan="1" valign="top">1\.00</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Attention to detail (0 10)</td><td colspan="1"></td><td colspan="1" valign="top">4 (3, 6)</td><td colspan="1" valign="top">4 (3, 6)</td><td colspan="1" valign="top">4 (3, 6)</td><td colspan="1" valign="top">0\.81</td><td colspan="1" valign="top">1\.00</td><td colspan="1"></td></tr>
+<tr><td colspan="1" valign="top">Attention switching (0 10)</td><td colspan="1"></td><td colspan="1" valign="top">5 (4, 6)</td><td colspan="1" valign="top">5 (3, 6)</td><td colspan="1" valign="top">5 (4, 6)</td><td colspan="1" valign="top">0\.54</td><td colspan="1" valign="top">1\.00</td><td colspan="1"></td></tr>
+<tr><td colspan="1" rowspan="9" valign="top">ADHD/ASD symptom screening</td><td colspan="1" rowspan="2" valign="top">Both ADHD and ASD symptom-negative</td><td colspan="1" valign="top">Count</td><td colspan="1" valign="top">3366</td><td colspan="1" valign="top">1181 (35.1%)</td><td colspan="1" valign="top">2185 (64.9%)</td><td colspan="1" rowspan="2" valign="top">< 0.001</td><td colspan="1" rowspan="2" valign="top">< 0.01</td><td colspan="1" rowspan="2" valign="top">**</td></tr>
+<tr><td colspan="1" valign="top">Residual</td><td colspan="1"></td><td colspan="1" valign="top">− 3.82</td><td colspan="1" valign="top">3\.82</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Only ADHD symptom-positive</td><td colspan="1" valign="top">Count</td><td colspan="1" valign="top">306</td><td colspan="1" valign="top">148 (48.4%)</td><td colspan="1" valign="top">158 (51.6%)</td><td colspan="1" rowspan="2" valign="top">< 0.001</td><td colspan="1" rowspan="2" valign="top">< 0.001</td><td colspan="1" rowspan="2" valign="top">***</td></tr>
+<tr><td colspan="1" valign="top">Residual</td><td colspan="1"></td><td colspan="1" valign="top">4\.54</td><td colspan="1" valign="top">− 4.54</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Only ASD symptom-positive</td><td colspan="1" valign="top">Count</td><td colspan="1" valign="top">264</td><td colspan="1" valign="top">93 (35.2%)</td><td colspan="1" valign="top">171 (64.8%)</td><td colspan="1" rowspan="2" valign="top">0\.69</td><td colspan="1" rowspan="2" valign="top">1\.00</td><td colspan="1" rowspan="2"></td></tr>
+<tr><td colspan="1" valign="top">Residual</td><td colspan="1"></td><td colspan="1" valign="top">− 0.40</td><td colspan="1" valign="top">0\.40</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Both ADHD and ASD symptom-positive</td><td colspan="1" valign="top">Count</td><td colspan="1" valign="top">92</td><td colspan="1" valign="top">43 (46.7%)</td><td colspan="1" valign="top">49 (53.3%)</td><td colspan="1" rowspan="2" valign="top"><0.05</td><td colspan="1" rowspan="2" valign="top">0\.60</td><td colspan="1" rowspan="2"></td></tr>
+<tr><td colspan="1" valign="top">Residual</td><td colspan="1"></td><td colspan="1" valign="top">2\.08</td><td colspan="1" valign="top">− 2.08</td></tr>
+<tr><td colspan="1"></td><td colspan="1"></td><td colspan="1" valign="top">4028</td><td colspan="1" valign="top">1465 (36.4%)</td><td colspan="1" valign="top">2563 (63.6%)</td><td colspan="1"></td><td colspan="1"></td><td colspan="1"></td></tr>
+</table>
+
+**Table 2**.  Detailed results of the developmental disabilities scale. Variables are shown as medians (25th 
+
+and 75th percentiles), except where indicated as n (%). \*\*P < 0.01, \*\*\*P < 0.001. ADHD, attention deficit/ hyperactivity disorder; AQ, autism spectrum quotient; ASD, autism spectrum disorder; ASRS, adult ADHD self-report scale.![](mdpqkf3q.010.png)
+
+grade 5 (NRS score = 9 10) screened positive for ADHD symptoms. Conversely, no significant association was noted between pain grade and screening positive for ASD symptoms in the entire cohort, non-CP symptoms group, and CP symptoms group.
+
+Multivariate logistic regression analysis using the binary pain variable (having extreme pain or not) as the outcome revealed a significant association between ADHD symptom positivity and extreme pain (Table [3](#_page6_x155.00_y47.36)). In an unadjusted model where the covariate was ADHD symptoms only (Model 1), the odds of having extreme pain were over threefold higher for those who were ADHD symptom-positive than for those who were ADHD symptom-negative (OR: 3.68, 95% confidence interval [CI] 2.43 5.58). In the unadjusted model with ASD symptoms as the only covariate (Model 2), there was no association between extreme pain and ASD symptoms (OR: 1.38, 95% CI 0.78 2.43). In the model with ADHD and ASD symptoms as covariates (Model 3), the odds of having extreme pain were significant only for ADHD symptom-positive participants (OR: 3.68, 95% CI 2.40 5.63). Even a er adjusting for all the demographic variables (Model 4) and including PPH (Model 5), the odds of ADHD symptoms being associated with extreme pain remained at or above 3.0. However, when PMH was included in the analysis, the odds of ADHD symptom-positive individuals reporting extreme pain was significantly attenuated (Models 6 and 7). In the fully adjusted model (Model 7), the OR decreased to 2.73 (1.73 4.31). Hence, ADHD symptoms were significantly associated with having extreme pain in all models that included it as a variable (Models 1, 2 7), although the association was significantly attenuated when PMH was included (Models 6 and 7).
+
+**Association between ADHD symptoms and CP symptoms and intensity**
+
+ADHD symptoms were associated with both PMH and CP symptoms and intensity.  e overall association between ADHD symptoms and CP symptoms and intensity (0.26; indirect effect 0.04 + direct effect 0.23) was stronger than the association between PMH and pain (0.09) (Fig. 3; Tables[ 4](#_page7_x155.00_y47.36) and [5](#_page7_x155.00_y167.36)).
+
+**Discussion**
+
+Herein, we found that ADHD symptoms were associated with pain chronicity and intensity, and we formulated a statistical model to examine the potential relationship between ADHD symptoms and CP symptoms and intensity.
+
+First, the screening positivity rates for both the AQ and ASRS among participants with pain (ASD symptoms, 8.8%; ADHD symptoms, 9.9%) were higher than those in the general population found in a previous internet study  (ASD  symptoms,  4.3%;  ADHD  symptoms,  [7.2%)28](#_page10_x155.00_y470.36).  Moreover,  contrary  to  ASD  symptoms,  ADHD symptoms were associated with pain chronicity and intensity (especially extreme pain). As noted previousl[y27](#_page10_x155.00_y461.36), people with ASD symptoms may be less sensitive to pain.
+
+![](mdpqkf3q.011.jpeg)
+
+<a name="_page4_x71.00_y47.36"></a>**Fig. 2**.  Association between the pain NRS scores and ASRS or AQ screening positivity rates in the entire cohort, non-CP symptoms group, and CP symptoms group.  e width of each pain NRS grade on the 
+
+horizontal axis represents the proportion of individuals who reported that grade of pain.  e ASRS screening positivity rate increases significantly with increasing pain NRS score, especially for grade 5 in the CP group, with a positivity rate of 38.3%. ADHD, attention deficit/hyperactivity disorder; AQ, autism spectrum quotient; ASD, autism spectrum disorder; ASRS, adult ADHD self-report scale; NRS, numerical rating scale; CP, chronic pain.![](mdpqkf3q.012.png)
+
+Patients with extreme pain are known to have a longer history of pain, longer functional disability, more surgical procedures and hospitalizations, higher rates of drug dependence, more pronounced pain behaviors, and less responsiveness to treatment than do those with mild pain [29](#_page10_x155.00_y487.36). Recent epidemiological studies on the economic cost of CP have revealed that the direct cost of healthcare utilization is 1.78 4.45 times higher, the indirect cost of lost productivity 34.62 times higher, and the total cost 15.96 times higher for people with extreme pain than for those with mild pain[30,](#_page10_x155.00_y495.36)[31.](#_page10_x155.00_y512.36)  e excess annual cost would be  308.88 for mild pain and  4928.70 for extreme pain per case, making this an important social issue[31](#_page10_x155.00_y512.36).  e finding of an association between extreme pain and ADHD symptoms is important from both medical and economic perspectives and useful for the future development of new approaches.
+
+Furthermore, herein, the association between ADHD symptoms and pain was mediated by PMH, which is consistent with the findings of a previous study[24](#_page10_x155.00_y411.36). Adults with ADHD are more likely to have comorbid psychiatric disorders, including depression and anxiety disorders and PMH [32](#_page10_x155.00_y529.36), which could exacerbate pain.
+
+Second, a significant statistical model was identified, which suggested a potential association between ADHD symptoms and pain, with ADHD symptoms accounting for approximately 26% of the variance in CP symptoms and intensity. Traditionally, it has been assumed that CP is caused by the presence of PMH, such as anxiety or depression[33](#_page10_x155.00_y545.36), as ADHD has not been included in the discussion of the association between CP and mental illness. However, the consideration of ADHD symptoms in the present study revealed that its association with CP symptoms and intensity (0.26) was stronger than that of PMH (0.09).  is finding is consistent with our multivariate logistic regression analysis results, which showed a significant association of ADHD symptoms with extreme pain a er adjusting for PMH, although it was attenuated by PMH.  e authors of previous studies have stated that screening and intervention for CMDs are important because such disorders mediate the association between pain and ADHD symptoms[24.](#_page10_x155.00_y411.36) Our results suggest that screening and intervention for ADHD symptoms should also be considered.
+
+
+
+|**Characteristics**|**Model 1**|**Model 2**|**Model 3**|**Model 4**|**Model 5**|**Model 6**|**Model 7**|
+| - | - | - | - | - | - | - | - |
+|ADHD symptomsa|3\.68\*\*\*||3\.68\*\*\*|3\.49\*\*\*|3\.44\*\*\*|2\.66\*\*\*|2\.73\*\*\*|
+||[2.43, 5.58]||[2.40, 5.63]|[2.27, 5.37]|[2.24, 5.30]|[1.70, 4.17]|[1.73, 4.31]|
+|ASD symptomsa||1\.38|1\.00||||0\.81|
+|||[0.78, 2.43]|[0.56, 1.81]||||[0.44, 1.51]|
+|Age||||0\.98|0\.98|0\.98|0\.98|
+|||||[0.96, 1.00]|[0.96, 1.00]|[0.96, 1.00]|[0.96, 1.00]|
+|Sex||||||||
+|` `Male||||ref.|ref.|ref.|ref.|
+|` `Female||||1\.26|1\.27|1\.25|1\.25|
+|||||[0.81, 1.96]|[0.82, 1.98]|[0.80, 1.95]|[0.80, 1.95]|
+|BMI||||1\.74\*\*||1\.66\*|1\.64\*|
+|||||[1.14, 2.65]||[1.09, 2.54]|[1.06, 2.54]|
+|Marital status||||||||
+|` `Unmarried||||ref.|ref.|ref.|ref.|
+|` `Married||||1\.65\*|1\.65\*|1\.80\*|1\.77\*|
+|||||[1.05, 2.61]|[1.05, 2.61]|[1.13, 2.87]|[1.11, 2.82]|
+|` `Divorced or widowed||||1\.57|1\.55|1\.64|1\.62|
+|||||[0.69, 3.58]|[0.68, 3.53]|[0.72, 3.77]|[0.70, 3.71]|
+|Educational backgroundb||||||||
+|` `College||||ref.|ref.|ref.|ref.|
+|` `No college||||1\.51\*|1\.51\*|1\.49\*|1\.49\*|
+|||||[1.03, 2.21]|[1.03, 2.21]|[1.02, 2.19]|[1.02, 2.19]|
+|Employment typec||||||||
+|` `Regular||||ref.|ref.|ref.|ref.|
+|` `Non-regular||||1\.32|1\.32|1\.31|1\.33|
+|||||[0.75, 2.31]|[0.76, 2.32]|[0.75, 2.31]|[0.76, 2.34]|
+|` `Non-worker||||1\.10|1\.11|1\.09|1\.11|
+|||||[0.66, 1.83]|[0.67, 1.85]|[0.66, 1.83]|[0.67, 1.86]|
+|Problems with physical healthd|||||1\.16||1\.06|
+||||||[0.78, 1.73]||[0.71, 1.59]|
+|Problems with mental healthe||||||2\.85\*\*\*|2\.90\*\*\*|
+|||||||[1.88, 4.32]|[1.90, 4.42]|
+
+<a name="_page6_x155.00_y47.36"></a>**Table 3**.  Association between ADHD and extreme pain, as estimated using binary logistic regression. Data are presented as odds ratios (ORs) and 95% confidence intervals (CIs). \*P < 0.05, \*\*P < 0.01, \*\*\*P < 0.001. Each model was adjusted for all covariates in each column. Seven models were constructed: Model 1: univariate analysis of ADHD symptoms (unadjusted); Model 2: univariate analysis of ASD symptoms (unadjusted); Model 3: adjusted for ASD symptoms; Model 4: adjusted for age, sex, BMI, marital status, educational background, and employment status; Model 5: adjusted for the covariates in Model 4 and problems with physical health; Model 6: adjusted for the covariates in Model 4 and problems with mental health; Model 
+
+7: adjusted for the covariates in Model 4 and ASD symptoms, problems with physical health, and problems with mental health (fully adjusted model). Responses with an average NRS score of 9 10 for the pain area that was most troubling within 4 weeks were considered  extreme pain,  and other responses were considered 
+
+` `no extreme pain  and were the dependent variables in the binary logistic regression analysis. a e presence 
+
+of ADHD and ASD symptoms corresponded to positive and negative ASRS and AQ screening, respectively. bResponses of graduation from junior high school, high school, or vocational high school were considered 
+
+` `non-college,  while those of graduation from vocational school, university, or postgraduate school were considered  college.  c ose who answered that they were regular employees were classified as  regular ; those who answered that they were part-timers, temporary workers, running a business, helping out in the family business, or working at home as an in-house worker or a freelancer were classified as  non-regular ; and those who answered that they were students, housewives/househusbands, unemployed (including retired and job- seeking), and others (none of the above) were considered  non-workers.  dA person was considered to have a physical health problem if they had been diagnosed by a doctor in the past with 1 12 diseases (hypertension, hyperlipidemia, diabetes, obesity, rheumatoid arthritis, liver dysfunction, renal dysfunction, atopic dermatitis, bronchial asthma, postherpetic neuralgia, malignancy, and others).  eParticipants who scored 75 (clinical psychiatric level) or higher on any one of the five subscales of the POMS (tension-anxiety (T A), depression dejection (D), anger hostility (A H), fatigue (F), and confusion (C)) were considered to have mental health problems. ADHD, attention deficit/hyperactivity disorder; AQ, autism spectrum quotient; ASD, autism spectrum disorder; ASRS, Adult ADHD Self-Report Scale; BMI, body mass index; POMS, Profile of Mood States; ref., reference category; NRS, numerical rating scale.![](mdpqkf3q.013.png)
+
+![](mdpqkf3q.014.jpeg)
+
+**Fig. 3**.  Pathway diagram showing the relationship between ADHD symptoms and PMH and CP symptoms and intensity.  e potential variable, CP symptoms and intensity, was defined as pain chronicity and pain intensity. In the pathway, the starting factor affects the factors indicated by the arrows. Error variables are not shown. Pathway coefficients are shown as standardized coefficients; all coefficients are significant at P < 0.001.  e goodness-of-fit of the model was impeccable, with χ 2 = 0.135, df = 1, P = 0.244, GFI = 1.000, CFI = 1.000, TLI = 0.999, and RMSEA = 0.009 for all indicators.  e diagram shows the direct effect of ADHD symptoms on CP symptoms and intensity, with a pathway coefficient of 0.23.  e pathway coefficients for the direct effect of ADHD symptoms on PMH and of PMH on CP symptoms and intensity were 0.44 and 0.09, respectively.  e pathway coefficient for the indirect effect of ADHD symptoms on CP symptoms and intensity was 0.04, and the pathway coefficient for the overall effect of ADHD symptoms on CP symptoms and intensity, including the direct and indirect effects, was 0.26. ADHD, attention deficit/hyperactivity disorder; NRS, numerical rating scale; PMH, problems with mental health; CP, chronic pain; GFI, goodness-of-fit index; CFI, comparable fit index; RMSEA, root mean square error of approximation; TLI, Tucker Lewis Index.![](mdpqkf3q.015.png)
+
+
+
+<table><tr><th colspan="2" valign="top"><a name="_page7_x155.00_y47.36"></a><b>Path</b></th><th colspan="1" valign="top"><b>β</b></th><th colspan="1" valign="top"><b>B</b></th><th colspan="1" valign="top"><b>SE</b></th><th colspan="1" valign="top"><b>P-value</b></th></tr>
+<tr><td colspan="1" rowspan="3" valign="top">Direct effect</td><td colspan="1" valign="top">ADHD symptoms   Chronic pain symptoms and intensity</td><td colspan="1" valign="top">0\.225</td><td colspan="1" valign="top">0\.003</td><td colspan="1" valign="top">0\.001</td><td colspan="1" valign="top">< 0.001</td></tr>
+<tr><td colspan="1" valign="top">ADHD symptoms   Problems with mental health</td><td colspan="1" valign="top">0\.439</td><td colspan="1" valign="top">0\.823</td><td colspan="1" valign="top">0\.027</td><td colspan="1" valign="top">< 0.001</td></tr>
+<tr><td colspan="1" valign="top">Problems with mental health   Chronic pain symptoms and intensity</td><td colspan="1" valign="top">0\.090</td><td colspan="1" valign="top">0\.001</td><td colspan="1" valign="top">< 0.001</td><td colspan="1" valign="top">< 0.001</td></tr>
+<tr><td colspan="1" valign="top">Indirect effect</td><td colspan="1" valign="top">ADHD symptoms   Problems with mental health   Chronic pain symptoms and intensity</td><td colspan="1" valign="top">0\.039</td><td colspan="1" valign="top">0\.001</td><td colspan="1"></td><td colspan="1"></td></tr>
+</table>
+
+**Table 4**.  Path analysis results. ADHD, attention deficit/hyperactivity disorder; β, standardized path coefficient; B, unstandardized path coefficient; SE, standard error.![](mdpqkf3q.016.png)
+
+
+
+|<a name="_page7_x155.00_y167.36"></a>**Fit index**|**Value**|**Recommended criteria**|
+| - | - | - |
+|χ2 (df)|1\.35 (1), p = 0.244|p > 0.05|
+|GFI|1\.000|≥ 0.90|
+|CFI|1\.000|≥ 0.90|
+|TLI|0\.999|≥ 0.90|
+|RMSEA (90% CI)|0\.009 (0.001, 0.044)|≤ 0.08|
+
+**Table 5**.  Model fit indices. χ2, chi-square values; df, degree of freedom; CI, confidence interval; CFI, comparative fit index; GFI, goodness-of-fit index; RMSEA, root mean square error of approximation; TLI, Tucker Lewis Index.![](mdpqkf3q.017.png)
+
+` `e ASRS scores were significantly higher in the CP symptoms group than in the non-CP symptoms group,      particularly among those who reported extreme pain, with a positive ADHD symptom screening rate of 38.3%.  e ASRS has a sensitivity and specificity of 68.7% and 99.5%, respectively, indicating relatively low sensitivity and a high false-negative rat[e25](#_page10_x155.00_y428.36). If the participants  ADHD symptoms had been clinically assessed, an estimated 57.45% of those with extreme pain in the CP symptoms group might have met the criteria for a theoretical diagnosis of adult ADHD. Although the theoretical ADHD diagnostic rate of 57.45% among those with extreme pain may appear high, it could be considered plausible given that the comorbidity of ADHD in individuals with refractory chronic primary pain in clinical settings has been reported to be 72.5%[5](#_page10_x155.00_y100.36). CP and ADHD are similar in terms of dysfunction of the dopaminergic and noradrenergic nervous systems[16,](#_page10_x155.00_y285.36)[18.](#_page10_x155.00_y319.36) ADHD medications    activate the dopaminergic and noradrenergic nerves in the brain[34,](#_page10_x155.00_y562.36) and recent human studies have revealed that     ADHD medications improve CP comorbid with ADHD[5,](#_page10_x155.00_y100.36)[10 ](#_page10_x155.00_y176.36)[14,](#_page10_x155.00_y251.36)[35. ](#_page10_x155.00_y579.36)Additionally, it has been shown that ADHD    medications improve the increased blood flow in the precuneus of individuals with CP comorbid with ADHD, which may consequently lead to the improvement of reduced blood flow in the prefrontal cortex[36](#_page10_x155.00_y596.36). It has also been demonstrated in rodent models of ADHD that hyperalgesia due to central sensitization, along with ADHD symptoms such as hyperactivity and inattention, can be improved by atomoxetine, a selective norepinephrine reuptake inhibitor used for ADHD treatment [20](#_page10_x155.00_y344.36),[23](#_page10_x155.00_y394.36). Currently, however, 80% of adult ADHD cases are missed, even in psychiatric practice[37](#_page10_x155.00_y613.36).  erefore, proactive ADHD screening and treatment could be beneficial for patients      with CP, especially those who experience extreme pain; this may also contribute to reducing economic costs.
+
+Furthermore, the association between ADHD and pain can be considered from an evolutionary and genetic perspective.  e seven-repeat subclass (DRD4-7R) of the dopamine receptor DRD4, one of the genes responsible for ADHD, is associated with novelty-seeking and is known to correlate with the distance of human migration from Africa[38](#_page10_x155.00_y629.36). Perhaps because ADHD is characterized by risk-taking and venturing into uncharted territory, patients with the condition may be acutely sensitive to pain, a signal indicating potential injury, illness, or physical discomfort.
+
+` `is study has four limitations.  e first is the potential sampling bias in participant recruitment through web-
+
+based surveys, such as in this study, wherein individuals without internet access cannot participate. Registrants interested in their health may have been more likely to respond to our survey.  erefore, participants may have overestimated their pain and ADHD symptoms, leading to exaggerated effects of ADHD symptoms on CP symptoms. Furthermore, it should be noted that the registered participants were limited to those who reported pain in the 4 weeks before the time of the survey, and individuals who did not report pain were not included. Second, ADHD symptoms in this study may have been non-clinical, as they were self-reported rather than based on a clinical diagnosis. Moreover, the ADHD and ASD symptoms assessed in this study using standardized scales reflect current symptoms only and do not confirm their presence since childhood.  e diagnosis of developmental disorders requires verification that symptoms have been present since early childhood.  erefore, the ADHD and ASD symptoms identified in this study cannot be equated with a clinical diagnosis of ADHD or ASD.  ird, the inattention and hyperactivity/impulsivity classified as ADHD symptoms in this study, as well as the communication difficulties and restricted/repetitive behaviors classified as ASD symptoms, are not exclusively observed in individuals with ADHD or ASD.  ese symptoms could result from other conditions, such as mood disorders, anxiety disorders, schizophrenia spectrum disorders, intellectual disabilities, or language disorders, which could contribute to difficulties in social situations[39](#_page10_x155.00_y646.36). Fourth, as this study had a cross-sectional design, the temporal order of factors in the path analysis remains unclear, and unmeasured confounding factors cannot be ruled out. Additionally, bidirectional causal relationships between factors are conceivable.  erefore, definitive 
+
+conclusions about causality cannot be drawn solely based on the findings of this study.  ese points should be considered when generalizing our findings.
+
+In conclusion, although previous studies on the association between ADHD, ASD, and CP are limited, this study provides a detailed analysis of the relationship between ADHD symptoms and CP symptoms, demonstrating that ADHD symptoms are particularly associated with pain severity. In contrast, ASD symptoms did not show a clear association with CP symptoms.  is study was conducted using a large-scale internet survey and a sample of 4028 adults, incorporating a relatively diverse population.  is aspect suggests that the findings of this study are not restricted to a specific group but may be generalizable to a broader population. Furthermore, given previous reports that ADHD treatment may influence CP management, our study provides empirical evidence supporting the potential utility of ADHD screening and treatment considerations in the clinical management of CP and relevant policymaking. Psychiatrists, pain physicians, orthopedic specialists, and professionals who are involved in occupational health, welfare, and policy may benefit from these findings. Screening and intervention for PMH and ADHD could play a role in managing CP. Future research on the relationship between ADHD and CP is required, including clinical longitudinal studies and research on the biological mechanisms of pain from the perspective of ADHD.
+
+**Methods**
+
+**Study population**
+
+We conducted a cross-sectional web-based epidemiological study among Japanese adults from July 29, 2020, to August 19, 2020.  e participants were recruited through internet research agency Hamon Co. (Kanagawa, Japan) using the JAPAN Cloud Panel [(https://gmo-research.ai/service/panel/jcp](https://gmo-research.ai/service/panel/jcp)), a large-scale online research panel operated by GMO Research, Inc.  is panel consists of approximately 23.94 million registered monitors as of August 2023, covering a diverse range of demographic backgrounds.  e sample included individuals aged 20 64 years, with a balanced distribution of sex (male and female) and geographic regions across Japan.  e panel members have provided detailed demographic information, including occupation, household income, educational background, and lifestyle habits. Furthermore, periodic updates and screening surveys ensure that the registered data remain current and reliable.
+
+` `e participants were selected based on predefined inclusion criteria: (1) age 20 64 years and (2) experience 
+
+of pain in any body part in the previous 4 weeks.  e inclusion age is based on the Japanese age standards (adults = 20 years; older adults = 65 years) given that the study population included working adults. Pain in any body part was considered, as CP can occur in various body parts[40](#_page10_x155.00_y663.36). In studies assessing pain prevalence[41](#_page10_x155.00_y680.36), the customary timepoints used are  at the time of the survey,   a er 4 weeks,  or  a er 1 year  we employed the 
+
+most universally used period (4 weeks).  e exclusion criteria were (1) inability to provide consent, (2) age < 20 years or ≥ 65 years, and (3) absence of physical pain in the previous 4 weeks.  is recruitment method, conducted in collaboration with Hamon Co., ensures a broad representation of the Japanese population while maintaining high data reliability through rigorous quality control measures implemented by the research panel provider.
+
+Recruitment emails were sent to 103,556 panelists who were stratified according to sex and age. Questionnaires were accessible to those who consented to participate. Missing or incomplete responses were automatically rejected, generating no missing data. Participants who completed the questionnaire were awarded reward points worth 0.52 USD as an incentive.  e reported prevalence of high-impact CP (HICP) is 4.8%[40; ](#_page10_x155.00_y663.36)the sample size was set at 4000 to ensure 200 HICP events, allowing for multivariate analysis.  e survey was closed a er reaching 4028 respondents, determined broadly according to the Japanese population distribution (sex and age).
+
+` `is study was approved by the Institutional Review Board of  e University of Tokyo (No. 2019296NI), and informed consent for participation in this study was obtained from all the study participants.
+
+**Measurements**
+
+Pain
+
+Participants were asked about their pain, the areas where they had experienced pain in the last 4 weeks (using manikin drawings, with each of the 11 body parts assigned a color; multiple areas could be selected), and the area of pain that troubled them most. For the most troublesome area, the average pain intensity was assessed using an 11-point NRS[42](#_page10_x155.00_y697.36) (0 = no pain, 10 = most extreme pain).
+
+Pain chronicity
+
+Participants were asked how o en over the last 3 months they experienced pain at any site where they had pain in the last 4 weeks.  e possible responses were: (1) never, (2) for a few days, (3) almost every day, and (4) every day. Based on the ICD-11 definition of CP mentioned earlier, participants who answered with responses (3) and (4) were included in the CP symptoms group, and those who answered with responses (1) and (2) were included in the non-CP symptoms group. Additionally, participants were asked to indicate, using the 11 color-coded areas on the manikin diagrams, areas where they experienced persistent pain for > 3 months.
+
+ADHD symptoms
+
+ADHD symptoms were assessed using the AS[RS25](#_page10_x155.00_y428.36), which was developed by the World Health Organization and is freely available.  e ASRS comprises 9 inattentive and 9 hyperactive-impulsive questions corresponding to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision ADHD diagnostic criteria. Each question is scored on a 5-point scale ranging from 0 for  never  to 4 for  very o en,  and an inattention score (0 36), hyperactivity-impulsivity score (0 36), and Q18 total score (0 72) are derived. In the screener consisting of 6 (4 inattentive and 2 hyperactive-impulsive) of these questions, a positive result was obtained if four or more answers were within the set score range and a diagnosis of adult ADHD was highly possible.  e reported sensitivity and specificity of the ASRS screener are 68.7% and 99.5%, respective[ly25](#_page10_x155.00_y428.36).
+
+ASD symptoms
+
+ASD symptoms were assessed using the A[Q43](#_page10_x155.00_y713.36), which comprises 50 questions and a score range of 0 50.  e AQ has five subscales: social skills, attention switching, attention to detail, communication, and imagination. A score of ≥ 33 is considered a positive screening score and a likely diagnosis of ASD.  e Japanese version has a reported sensitivity and specificity of 87.8% and 97.4%, respective[ly43](#_page10_x155.00_y713.36).
+
+Problems with physical health
+
+Information on the following physician-diagnosed medical problems was collected: hypertension, hyperlipidemia, diabetes, obesity, rheumatoid arthritis, liver dysfunction, renal dysfunction, atopic dermatitis, bronchial asthma, postherpetic neuralgia, malignancy, and others. Participants who selected any of these items were judged to have PPH.
+
+Problems with mental health
+
+Mood states were assessed using the short version of the Profile of Mood States (PO[MS)44](#_page11_x155.00_y47.36), which comprises 30 questions and has 6 subscales (Tension-Anxiety, Depression-Dejection, Anger-Hostility, Vigor, Fatigue, and Confusion). Participants with a T-score of ≥ 75 on any of the five negative subscales Tension-Anxiety, Depression-Dejection,  Anger-Hostility,  Fatigue,  or  Confusion indicating  a  clinical  psychiatric  level,  were judged to have PMH. Additionally, in the path analysis, we calculated the Total Mood Disturbance (TMD) score, a comprehensive indicator of mood disorders, based on the scores of each POMS subsca[le45](#_page11_x155.00_y64.36).  e TMD score was computed as follows: TMD = (Tension-Anxiety + Depression-Dejection + Anger-Hostility + Fatigue + Confusion)   Vigor.
+
+**Statistical analyses**
+
+Data  normality  was  assessed  using  the  Kolmogorov Smirnov Lilliefors  test;  no  variables  were  normally distributed. Hence, all continuous variables are presented as medians (25th percentile, 75th percentile).  e participant characteristics were compared between the CP symptoms and non-CP symptoms groups using the Wilcoxon rank-sum test for continuous variables and chi-square or Fisher exact tests for categorical variables. Additionally, because ADHD symptoms and ASD symptoms can coexist, a chi-square test was conducted on the association between the combination of ADHD and ASD symptom screening results and CP symptoms. For marital status and combined ADHD and ASD symptom screening results, adjusted residuals were calculated, and significant differences were found.
+
+To examine the association between pain intensity stages and the percentage of positive screening for ADHD and ASD symptoms, the chi-square test was conducted; the NRS score was categorized as follows: 0 for grade 0, 1 2 for grade 1, 3 4 for grade 2, 5 6 for grade 3, 7 8 for grade 4, and 9 10 for grade 5.
+
+To examine the association between pain intensity and ADHD and ASD symptoms, ORs and 95% CIs were calculated using multivariate logistic regression analysis. Previous epidemiological studies have shown that extreme pain has a significant impact on the economic cost of CP[30](#_page10_x155.00_y495.36),[31](#_page10_x155.00_y512.36). In line with previous research[24](#_page10_x155.00_y411.36), we dichotomized the outcome of the logistic regression analysis by classifying an NRS score of 9 10 as  with extreme pain  and 0 8 as  without extreme pain.   e covariates included variables that were reported as significant in 
+
+a previous study[24](#_page10_x155.00_y411.36) age, sex, education, and working economic status as well as body mass index and marital status, which showed significant differences in terms of CP symptoms in the present study. A hierarchical analysis was conducted wherein each block of variables was entered sequentially into the model to adjust for confounding factors, and seven different models were constructed.
+
+Based on the logistic regression results, a pathway analysis was conducted to examine the causal relationship between pain, ADHD symptoms, and PMH. ADHD symptoms were assessed using the total ASRS Q18 score (0 72 points). PMH was evaluated using the TMD score of the POMS (− 20 to 100 points). Pain chronicity was defined as a binary variable based on whether the pain frequency was  every/almost every day for 3 months  or not. Pain intensity was assessed using the NRS score for pain (0 10 points). For the identification of paths in the model, the best-fitting model was selected based on the fit indices (BCC0, BIC0, C/df, p-value) obtained from the analysis using the  Exploratory Model Specification  command in AMOS 28 (Supplementary File S1).  e goodness-of-fit of the overall model was assessed using chi-square values, the goodness-of-fit index, comparative fit index, Tucker Lewis Index, and root mean square error of approximation.
+
+All statistical analyses were performed using JMP Pro version 16 (SAS Institute Japan, Tokyo, Japan) and AMOS 28 (IBM, Armonk, NY). Statistical significance for all analyses was set atP < 0.05 with a two-tailed test. For multiple comparisons, Bonferroni correction was used.
+
+**Transparency declaration**
+
+` `e guarantor, Satoshi Kasahara, affirms that this manuscript is an honest, accurate, and transparent account of the study being reported. No important aspects of the study have been omitted, and any discrepancies from the study as originally planned have been explained.
+
+**Data availability**
+
+` `e datasets generated and/or analyzed during the current study are available from the corresponding author on reasonable request.
+
+Received: 24 April 2024; Accepted: 24 March 2025
+
+![](mdpqkf3q.018.png)
+
+<a name="_page10_x155.00_y58.36"></a>**References**
+
+1. Treede, R. D. et al. Chronic pain as a symptom or a disease: the IASP classification of chronic pain for the international classification <a name="_page10_x155.00_y75.36"></a>of diseases (ICD-11). Pain **160**, 19 27 (2019).
+1. World Health Organization. ICD-11 for mortality and morbidity statistics (ICD-11 MMS. [https://icd.who.int/browse11/l-m/en.](https://icd.who.int/browse11/l-m/en)
+1. Nicholas, M. et al.  e IASP classification of chronic pain for ICD-11: Chronic primary pain. Pain **160**, 28 37 (2019).
+1. Fitzcharles, M. A. et al. Nociplastic pain: towards an Understanding of prevalent pain conditions. Lancet **397**, 2098 2110 (2021).
+1. Kasahara, S. et al. Attention-deficit/hyperactivity disorder and chronic pain. Psychosom. Med. **82**, 346 347 (2020).
+1. Instanes, J. T., Klungsłyr, K., Halmły, A., Fasmer, O. B. & Haavik, J. Adult ADHD and comorbid somatic disease: A systematic <a name="_page10_x155.00_y125.36"></a>literature review. J. Atten. Disord. **22**, 203 228 (2018).
+1. Kasahara, S., Matsudaira, K., Sato, N. & Niwa, S. I. Pain and attention-deficit/hyperactivity disorder:  e case of Margaret Mitchell. <a name="_page10_x155.00_y142.36"></a>Psychosom. Med. **83**, 492 493 (2021).
+1. Kasahara, S. et al. High attention-deficit/hyperactivity disorder scale scores among patients with persistent chronic nonspecific low back pain. Pain Physician  **24**, E299 E307 (2021).
+1. Kasahara, S., Matsudaira, K., Sato, N. & Niwa, S. I. Attention-deficit/hyperactivity disorder and centralized pain: A review of the <a name="_page10_x155.00_y176.36"></a>case of John F. Kennedy. Clin. Case Rep. **10**, e6422 (2022).
+1. Kasahara, S. et al. Case report: remission of chronic low back pain and oral dysesthesia comorbid with attention deficit/hyperactivity <a name="_page10_x155.00_y193.36"></a>disorder by treatment with atomoxetine and pramipexole.  Front. Pain Res. (Lausanne)  **4**, 1159134 (2023).
+1. Kasahara, S. et al. Case report: Guanfacine and methylphenidate improved chronic lower back pain in autosomal dominant polycystic kidney disease with comorbid attention deficit hyperactivity disorder and autism spectrum disorder. Front. Pediatr. **11**, <a name="_page10_x155.00_y218.36"></a>1283823 (2023).
+1. Kasahara, S. et al. Diagnosis and treatment of intractable idiopathic orofacial pain with attention-deficit/hyperactivity disorder. Sci. Rep. **13**, 1678 (2023).
+1. Kasahara, S. et al. Case report: treatment of persistent atypical odontalgia with attention deficit hyperactivity disorder and autism <a name="_page10_x155.00_y251.36"></a>spectrum disorder with risperidone and atomoxetine.  Front. Pain Res. (Lausanne) **3**, 926946 (2022).
+1. Kasahara, S. et al. Improvement in persistent idiopathic facial pain with comorbid ADHD using the combination of a dopamine <a name="_page10_x155.00_y268.36"></a>system stabilizer and psychostimulant: A case report. Clin. Case Rep. **11**, e7552 (2023).
+1. American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders 5th edn (American Psychiatric Assoc., <a name="_page10_x155.00_y285.36"></a>2013).
+1. del Campo, N., Chamberlain, S. R., Sahakian, B. J. & Robbins, T. W.  e roles of dopamine and noradrenaline in the pathophysiology <a name="_page10_x155.00_y302.36"></a>and treatment of attention-deficit/hyperactivity disorder.  Biol. Psychiatry  **69**, e145 e157 (2011).
+1. Biederman, J., Petty, C. R., Evans, M., Small, J. & Faraone, S. V. How persistent is ADHD? A controlled 10-year follow-up study of <a name="_page10_x155.00_y319.36"></a>boys with ADHD. Psychiatry Res. **177**, 299 304 (2010).
+1. Wood,<a name="_page10_x155.00_y327.36"></a> P. B. Role of central dopamine in pain and analgesia. Expert Rev. Neurother. **8**, 781 797 (2008).
+1. Kasahara, S. et al. Innovative therapeutic strategies using ADHD medications tailored to the behavioral characteristics of patients <a name="_page10_x155.00_y344.36"></a>with chronic pain. Front. Pharmacol. **16**, 1500313 (2025).
+1. Suto, T. et al. Rat model of attention-deficit hyperactivity disorder exhibits delayed recovery from acute incisional pain due to impaired descending noradrenergic Inhibition.  Sci. Rep. **13**, 5526 (2023).
+1. Bouchatta, O. et al. Pain hypersensitivity in a pharmacological mouse model of attention-deficit/hyperactivity disorder. Proc. Natl Acad. Sci. U. S. A. **119**, e2114094119 (2022).
+1. Meseguer-BeltrÆn, M., SÆnchez-Sarasœa, S., Landry, M., Kerekes, N. & SÆnchez-PØrez, A. M. Targeting neuroinflammation with <a name="_page10_x155.00_y394.36"></a>abscisic acid reduces pain sensitivity in females and hyperactivity in males of an ADHD mice model. Cells **12**, 465 (2023).
+1. Sifeddine, W., Ba-M hamed, S., Landry, M. & Bennis, M. Effect of atomoxetine on ADHD-pain hypersensitization comorbidity in <a name="_page10_x155.00_y411.36"></a>6-OHDA lesioned mice. Pharmacol. Rep. **75**, 342 357 (2023).
+1. Stickley, A., Koyanagi, A., Takahashi, H. & Kamio, Y. ADHD symptoms and pain among adults in England. Psychiatry Res. **246**, <a name="_page10_x155.00_y428.36"></a>326 331 (2016).
+1. Kessler, R. C. et al.  e world health organization adult ADHD Self-Report scale (ASRS): A short screening scale for use in the <a name="_page10_x155.00_y445.36"></a>general population. Psychol. Med. **35**, 245 256 (2005).
+1. Saito,  M.  et  al.  Prevalence  and  cumulative  incidence  of  autism  spectrum  disorders  and  the  patterns  of  co-occurring <a name="_page10_x155.00_y461.36"></a>neurodevelopmental disorders in a total population sample of 5-year-old children. Mol. Autism **11**, 35 (2020).
+1. Bogdanova,<a name="_page10_x155.00_y470.36"></a> O. V. et al.  e current view on the paradox of pain in autism spectrum disorders. Front. Psychiatry  **13**, 910824 (2022).
+1. Panagiotidi, M., Overton, P. G. & Stafford, T. Co-occurrence of ASD and ADHD traits in an adult population. J. Atten. Disord **23**, <a name="_page10_x155.00_y487.36"></a>1407 1415 (2019).
+1. W<a name="_page10_x155.00_y495.36"></a> Swanson, D. & Maruta, T. Patients complaining of extreme pain. Mayo Clin. Proc. **55**, 563 566 (1980).
+1. Axon, D. R., Pesqueira, T., Jarrell, B. & Dicochea, D. Correlation of self-reported pain severity and healthcare expenditures in older <a name="_page10_x155.00_y512.36"></a>united States adults. Scand. J. Pain **22**, 133 141 (2022).
+1. Sarria-Santamera, A., Kuntuganova, A. & Alonso, M. Economic costs of pain in the Spanish working population. J. Occup. Environ. <a name="_page10_x155.00_y529.36"></a>Med. **64**, e261 e266 (2022).
+1. Kessler, R. C. et al.  e prevalence and correlates of adult ADHD in the United States: Results from the National comorbidity <a name="_page10_x155.00_y545.36"></a>survey replication. Am. J. Psychiatry. **163**, 716 723 (2006).
+1. Arango-DÆvila, C. A. & Rinc n-Hoyos, H. G. Depressive disorder, anxiety disorder and chronic pain: multiple manifestations of a <a name="_page10_x155.00_y562.36"></a>common clinical and pathophysiological core. Rev. Colomb Psiquiatr. (Engl Ed) **47**, 46 55 (2018).
+1. Stahl, S. M. Stahl s Essential Psychopharmacology: Neuroscientific Basis and Practical Applications 5th edn (Cambridge Univ. Press, <a name="_page10_x155.00_y579.36"></a>2021). 
+1. Kasahara, S. et al. Case report: Atomoxetine improves chronic pain with comorbid post-traumatic stress disorder and attention <a name="_page10_x155.00_y596.36"></a>deficit hyperactivity disorder. Front. Psychiatry  **14**, 1221694 (2023).
+1. Takahashi, M. et al. Precuneal hyperperfusion in patients with attention-deficit/hyperactivity disorder-comorbid nociplastic pain. <a name="_page10_x155.00_y613.36"></a>Front. Pharmacol. **15**, 1480546 (2024).
+1. Ginsberg, Y., Quintero, J., Anand, E., Casillas, M. & Upadhyaya, H. P. Underdiagnosis of attention-deficit/hyperactivity disorder in <a name="_page10_x155.00_y629.36"></a>adult patients: A review of the literature. Prim. Care Companion CNS Disord. **16**, 23591 (2014).
+1. Nikolaidis, A. & Gray, J. R. ADHD and the DRD4 exon III 7-repeat polymorphism: An international meta-analysis. Soc. Cogn. <a name="_page10_x155.00_y646.36"></a>Affect. Neurosci. **5**, 188 193 (2010).
+1. Lord, C. & Bishop, S. L. Let s be clear that autism spectrum disorder symptoms are not always related to autism spectrum disorder. <a name="_page10_x155.00_y663.36"></a>Am. J. Psychiatry  **178**, 680 682 (2021).
+1. Pitcher, M. H., von Korff, M., Bushnell, M. C. & Porter, L. Prevalence and profile of high-impact chronic pain in the United States. 
+
+   10. Pain<a name="_page10_x155.00_y680.36"></a> **20**, 146 160 (2019).
+1. Steingr msd ttir,  . A., Landmark, T., Macfarlane, G. J. & Nielsen, C. S. Defining chronic pain in epidemiological studies: A <a name="_page10_x155.00_y697.36"></a>systematic review and meta-analysis. Pain **158**, 2092 2107 (2017).
+1. Jensen, M. P. & Karoly, P. Self-Report scales and procedures for assessing pain in adults in Handbook of Pain Assessment (eds Turk, 
+
+   500. C.<a name="_page10_x155.00_y713.36"></a> & Melzack, R.) 19 44 (Guilford Press, 2010).
+1. Wakabayashi, A., Baron-Cohen, S., Wheelwright, S. & Tojo, Y.  e autism-spectrum quotient (AQ) in Japan: A cross-cultural comparison. J. Autism Dev. Disord **36**, 263 270 (2006).
+44. McNair,<a name="_page11_x155.00_y47.36"></a> D. M., Lorr, M. & Droppleman, L. F. Profile of Mood States (POMS) Revised Manual (Education and Industrial Testing <a name="_page11_x155.00_y64.36"></a>Service, San Diego, 1992).
+44. Yoshihara, K., Hiramoto, T., Sudo, N. & Kubo, C. Profile of mood states and stress-related biochemical indices in long-term yoga practitioners. Biopsychosoc. Med. **5**, 6 (2011).
+
+    **Acknowledgements**
+
+    We acknowledge Akio Wakabayashi for allowing us to use the Japanese version of the AQ. We also thank Tomoko Fujii for her guidance on how to conduct the online survey and Masaaki Asamoto for his assistance in managing the project. We would like to thank Editage [(http://www.editage.com/](http://www.editage.com/)) for English language editing.
+
+    **Author contributions**
+
+    S.K.: conceptualization, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, visualization, writing original dra ; T.Y.: conceptualization, investigation, methodology, writ - ing original dra ; H.O.: formal analysis, funding acquisition, investigation, methodology; N.S.: conceptual - ization, writing original dra ; T.M.: conceptualization, writing original dra ; S.I.N.: writing original dra , supervision, writing review & editing; K.U.: supervision, writing review & editing; K.M.: conceptualization, funding acquisition, investigation, methodology, project administration, supervision, writing review & edit - ing.
+
+    **Funding**
+
+    ` `is research was funded by Health and Labor Sciences Research Grants (grant number 19FG1001, 22FG1002) and the Japan Society for the Promotion of Science KAKENHI (grant number JP20K07755, JP24K13083).  e funders of this study had no role in the study design, data collection, data analysis, data interpretation, or writing of the report.
+
+    **Declarations**
+
+    **Competing interests**
+
+    ` `e authors declare no competing interests.
+
+    **Ethical approval**
+
+    ` `is study was conducted in accordance with the guidelines of the Declaration of Helsinki and approved by the Institutional Review Board of  e University of Tokyo (No. 2019296NI), and informed consent for participation in this study was obtained from all study participants.
+
+    **Additional information**
+
+    **Supplementary Information**  e online version contains supplementary material available at ht[tps://doi.org/1 0.1038/s415 98-025-958 64-4](https://doi.org/10.1038/s41598-025-95864-4) . 
+
+    **Correspondence** and requests for materials should be addressed to S.K. **Reprints and permissions information** is available at www.nature.com/reprints.
+
+    **Publisher s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+    **Open Access**   is article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.  e images or other third party material in this article are included in the article s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit[ http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
+
+    '  e Author(s) 2025 
+**Scientific Reports** |        (2025) 15:13165  | https://doi.org/10.1038/s41598-025-95864-4 12![ref1]
+
+[ref1]: mdpqkf3q.019.png

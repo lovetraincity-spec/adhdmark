@@ -1,0 +1,245 @@
+﻿Received: 27 July 2022  |  Revised: 21 September 2022  |  Accepted: 23 September 2022 DOI: 10.1002/ccr3.6422  ![](sbjz3vh1.001.png)
+
+**CASE REPORT ![](sbjz3vh1.002.png) ![](sbjz3vh1.003.png)![](sbjz3vh1.004.png)**
+
+**Attention-Deficit/hyperactivity disorder and centralized pain: A review of the case of John F. Kennedy**
+
+**Satoshi Kasahara[1,2** ](#_page0_x45.00_y200.36)![](sbjz3vh1.005.png)**|   **Ko Matsudaira2,3[ |](#_page0_x45.00_y214.36)   Naoko Sato4** |[ ](#_page0_x45.00_y253.36)  **Shin- Ichi Niwa5**
+
+<a name="_page0_x45.00_y200.36"></a>1Department of Anesthesiology and Pain Relief Center, The University of Tokyo Hospital, Bunkyo-ku, Japan
+
+<a name="_page0_x45.00_y214.36"></a>2Department of Pain Medicine, Fukushima Medical University School of Medicine, Fukushima, Japan
+
+3Department of Medical Research and Management for Musculoskeletal Pain, 22nd Century Medical and Research Center, The University of Tokyo Hospital, Bunkyo- ku, Japan
+
+<a name="_page0_x45.00_y253.36"></a>4Nursing Department, The University of Tokyo Hospital, Bunkyo-ku, Japan
+
+<a name="_page0_x45.00_y267.36"></a>5Department of Psychiatry, Aizu Medical Center, Fukushima Medical University, Fukushima, Japan
+
+**Correspondence**
+
+Satoshi Kasahara, Department of Anesthesiology and Pain Relief Center, The University of Tokyo Hospital, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8655, Japan.
+
+Email: <namahage@king.odn.ne.jp>
+
+**Funding information**
+
+Japan Society for the Promotion of Science KAKENHI, Grant/Award Number: JP20K07755
+
+**Abstract**
+
+John Fitzgerald Kennedy (JFK), the 35th President of the USA, had chronic low back pain deemed to be centralized pain. Reportedly, attention-deficit/hyperac- tivity disorder (ADHD) could associate with centralized pain. Based on his biog- raphies, JFK could have had ADHD, a plausible cause of pain that afflicted him.![](sbjz3vh1.006.png)![](sbjz3vh1.007.png)
+
+**KEYWORDS**
+
+attention-deficit/hyperactivity disorder, celiac disease, centralized pain, irritable bowel syndrome, John Fitzgerald Kennedy, low back pain
+
+**1**  |  **INTRODUCTION**
+
+Lumley et al.[1 ](#_page4_x45.00_y153.36)reported on psychotherapy for centralized pain and presented the case of Mr. A, who had chronic low back pain (LBP), a typical case of centralized pain. Mr. A. was a middle- aged man who had developed LBP 7 years  earlier  while  exercising,  without  any  apparent injury.  Although  neurological  examination  revealed  no impairment, he had an L4 L5 fusion and later developed 
+
+a sacroiliac joint fusion; however, he continued to have significant pain. Mr. A. s parents had high expectations of him. He described himself as a sensitive child who wor - ried that he was not good enough. He was often anxious and had stomach aches before school presentations or due 
+
+to fear of disappointing his parents, particularly his fa- ther. John Fitzgerald Kennedy (JFK, 1917 1963), the 35th ![](sbjz3vh1.008.png)
+
+President of the United States of America, has a surpris - ingly similar history to Mr. A. JFK also had chronic LBP, considered centralized pain,2 [and](#_page4_x45.00_y199.36) various other medical issues. He bore unusually high expectations from his par - ents, especially his father, and was not good at expressing his feelings.[3](#_page4_x45.00_y234.36)
+
+Since childhood, JFK continuously suffered from sev - eral  diseases,  such  as  irritable  bowel  syndrome  (IBS), malabsorption,  adrenal  insufficiency,  hypothyroidism, chronic  prostatitis,  allergies,  and  insomnia.3  [The](#_page4_x45.00_y234.36)  most disquieting  condition  was  LBP,  which  also  contributed to his death.3[ ](#_page4_x45.00_y234.36)JFK’s LBP started in 1937, which developed during football, although a specific cause for his pain was never identified. It aggravated with stress and did not re - spond to several  analgesics, including codeine. Despite undergoing  four  lumbar  spine  surgeries,  including  L4/
+
+This is an open access article under the terms of the Cr[eative Commons Attribution License,](http://creativecommons.org/licenses/by/4.0/) which permits use, distribution and reproduction in any medium, provided the original work is properly cited. ' 2022 The Authors. *Clinical Case Reports* published by John Wiley & Sons Ltd.
+
+*Clin Case Rep.* 2022;10:e06422.  [wileyonlinelibrary.com/journal/ccr3 ](www.wileyonlinelibrary.com/journal/ccr3)|  **1 of 6 ![](sbjz3vh1.009.png)**https://doi.org/10.1002/ccr3.6422
+
+**|  5 of 7****
+
+KASAHARA      .![ref1]
+
+L5 laminectomy, lumbosacral, and sacroiliac fusion, JFK’s LBP exacerbated rather than improved. At the time of JFK’s assassination in Dallas in 1963, when the first bullet struck him in the back of the neck, his back brace held him erect, allowing the second and fatal bullet to strike the back of his head.3
+
+However, according to the final report of the House Select Committee on Assassinations, other anthropogenic factors contributed to Kennedy’s assassination.4 [Despit](#_page4_x45.00_y257.36)e being aware of the danger of assassination and warnings from people around him, JFK chose not to attach a protec- tive bubble- top to the convertible, making it easier for the sniper to take aim. This kind of impulsive tendency was often observed during his early childhood and contrib - uted to his promiscuous behavior even within the White House.[3,5,6](#_page4_x45.00_y234.36)
+
+Attention-deficit/hyperactivity  disorder  (ADHD)  is  a developmental disorder associated with central nervous system (CNS) dysfunction and is classified into predomi- nantly inattentive, predominantly hyperactive impulsive, and combined types. JFK’s biographies are filled with tales of the President’s inattention and hyperactivity. In recent years, ADHD has been associated with centralized pain and chronic LBP.7[ 9 ](#_page4_x45.00_y360.36)Moreover, it is believed that JFK had ADHD characteristics.[10 ](#_page4_x45.00_y498.36)This article, based on his biogra- phies, provides a literature review of JFK’s potential di- agnosis of ADHD, and discusses JFK’s medical problems, including centralized pain and ADHD.
+
+**2**  |  **CASE HISTORY/ EXAMINATION**
+
+John Fitzgerald Kennedy was depicted as a lively man, full of energy; he forced himself to act this way. In reality, he suffered from poor health; the details of his ailments re- mained a secret until 2001 (at the request of the Kennedy family), when the medical archives of the Kennedy library were opened for public scrutiny.
+
+Kennedy’s biographer Robert Dallek chose Dr. Jeffrey Kelman, a specialist in internal medicine and physiology, to accompany him, along with Dr. Bert E Park, a neuro - surgeon and the author of *The Impact of Illness on World Leaders*,[11](#_page4_x45.00_y533.36) to examine all records from 1955 through 1963, reading medical reports and several documents. With the help of these records and documents, he reconstructed JFK’s clinical history in his biographies.[3,12 ](#_page4_x45.00_y234.36)Dallek’s biog- raphy of JFK has recently been cited in several medical studies.[2,13,14](#_page4_x45.00_y199.36)
+
+James MacGregor Burns was a Democratic nominee in Massachusetts’s first congressional district who published 
+
+a biography of JFK in 1959 to determine whether JFK had the qualifications of  a  president.15[  Burns’](#_page4_x45.00_y659.36)  biography  of 
+
+JFK was written while he was alive and became the pres - idential candidate, under the condition that Burns would have complete and unrestricted access to his official and personal files, with JFK’s consent and assistance from his office and aides. Burns interviewed JFK’s wife, parents, family  members,  teachers,  assistants,  political  support - ers, political opponents, and many others. Burns had full access to his files of correspondence, legislative records, family records, and such from the past, as the bibliograph- ical notes explain in greater detail. Burns’ biography is based largely on these data and has the most detailed re - cords of JFK’s developmental and behavioral characteris - tics; therefore, it has been cited as an important source of developmental and medical research in the past.[16,17](#_page4_x45.00_y682.36)
+
+**3**  |  **DIAGNOSIS**
+
+According  to  the  diagnostic  criteria  outlined  in  the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM- 5),[18,19](#_page4_x306.00_y48.36) a diagnosis of adult ADHD is made by at least five of nine symptoms of inattention and/ or at least five of nine symptoms of hyperactivity/impul- sivity in a person older than 17 years of age. Through our review,[3,15](#_page4_x45.00_y234.36) we identified episodes in JFK’s life that suggest the specific symptoms of inattention and hyperactivity/ impulsiveness  based  on  his  biographies  by  Dallek  and Burns, which appears to be appropriate for this study.
+
+**3.1**  |  **Observations**
+
+Several factors indicate that JFK experienced problems with  attention,  including  inattention  related  to  work- related activities (DSM- 5 inattention criterion a), difficulty in sustaining attention to tasks (criterion b), being dreamy or preoccupied (criterion c), not following through on in- structions in the workplace (criterion d), having difficulty keeping belongings in order and poor time management (criterion e), avoiding tasks requiring sustained mental ef- fort (criterion f), often losing things (criterion g), and fre- quent forgetfulness (criterion i). Several examples can be quoted as follows: JFK’s thesis had  many typographical errors and was English diction defective  (a).3  [His](#_page4_x45.00_y234.36) lack of diligence in his studies; or, let us say, lack of  fight  in trying to do well in those subjects that didn’t happen to in- terest him . (b).3  [He](#_page4_x45.00_y234.36) has the intellectual’s type of absent- mindedness.  He  breaks off a conversation with a staff aide, perhaps in the middle of his own sentence, to reflect for long moments on a different subject  (c).15 [ He](#_page4_x45.00_y659.36) did not feel that he had to live by the ordinary rules governing everyone else. He was always arriving late for meals and classes, setting his own pace, taking the less-traveled path  
+
+(d).[3](#_page4_x45.00_y234.36)  Jack’s sloppiness was symbolic of his disorderliness in almost all of his organization projects.  Jack keeps ap- pointments late.  He was not much for planning ahead  
+
+(e).[3](#_page4_x45.00_y234.36)  Jack studies at the last minute  (f).3  [He](#_page4_x45.00_y234.36) showed early a trait that baffles his office staff today an almost photographic memory for correspondence, conversations, and historical fact, but an almost total absent-mindedness about where he has mislaid speeches, books, and cloth-
+
+ing  (g).[15 ](#_page4_x45.00_y659.36) He has even overflowed the bathtub, as was his boyhood custom .3 [ He](#_page4_x45.00_y234.36) forgets the little things around him because he is preoccupied with what appears to him as bigger ones  (i).[15](#_page4_x45.00_y659.36)
+
+Other descriptions indicate that he also had character - istics of hyperactivity and impulsivity, including often fid- geting with his hands (a), often leaving his place or seeking fast- paced activity (b), often running about or feeling rest - less (c), always  on the go  acting as if  driven by a motor  (e), and difficulty in waiting patiently (h). Specifically, as he talked with visitors in his office, Kennedy would fid- get with a pencil.[15  ](#_page4_x45.00_y659.36)Kennedy sat tapping his front teeth with his thumb and running his hand through his hair.  
+
+` `Averell Harriman thought Kennedy was  less tense than when I saw him last, but his hands are still constantly in motion  (a).3[ He](#_page4_x45.00_y234.36) liked madcap drives to get to an air - plane or dinner on time (b).15[  ](#_page4_x45.00_y659.36)He hated to waste time; in the morning he would read a magazine while taking a bath and at the same time shave there, guiding his razor by glancing occasionally at a mirror set up on a bathtub tray  (c).[15 ](#_page4_x45.00_y659.36) He was too much in a hurry, that he was going too far too fast, that he should pace himself better, that he should learn to take a breather. But the dynamo would not 
+
+or could not slow down. He was always in the process of going or coming  (e).[15 The](#_page4_x45.00_y659.36) Congressman hated to be late. 
+
+` `A stop for a train, an unnecessary delay, a buttonholing admirer would tauten Kennedy’s face and send him into short tirades back in the car  (h).15
+
+Considering the above descriptions of JFK (some of which indicate his mannerisms even before 12 years of age),  we  believe  that  JFK  met  several  diagnostic  crite - ria  for  ADHD  outlined  in  the  DSM-5;  these  included 8/9 items (a, b, c, d, e, f, g, and i) from the subcategory  Inattention  and 5/9 items (a, b, c, e, and h) from the subcategory  Hyperactivity/impulsivity  in item A of the ADHD section in DSM- 5. This could be considered ADHD of the combined type.
+
+**4**  |  **DISCUSSIONS**
+
+To the best of our knowledge, this study is the first report to investigate the possibility of JFK’s diagnosis of ADHD in line with valid diagnostic criteria. However, ADHD did not prevent JFK from achieving success because he was 
+
+able to surround himself with competent, detail-oriented people (principally, his brother, Robert, who had the exact opposite of JFK’s personality), and he was willing to del- egate to them both responsibility and authority.10
+
+Thus, adult ADHD is less likely to manifest functional impairment when occupational and social demands are met by internal resources, such as intellectual ability and self-control, and external resources, such as support from family members.[20 ](#_page4_x306.00_y117.36)Furthermore, to others, an adult with ADHD is more likely to appear to function normally de - spite their psychological distress because they invest sig - nificant time, energy, and effort or engage in excessive activity to compensate for their functional impairment. Thus, adult ADHD is underdiagnosed in more than 80% of cases, even in psychiatric practice.20[ Furthermor](#_page4_x306.00_y117.36)e, since orthopedic surgeons and pain clinicians who treat patients with chronic pain, such as low back pain, are unfamiliar with ADHD diagnosis and management, most ADHD co - morbid with pain might be underdiagnosed.7
+
+As JFK was also called a dynamo, his  overactivity , 
+
+` `action- proneness ,  and  ergomania ,  which  have  been described  as  typical  behavioral  traits  of  patients  with chronic  pain  in  the  previous  literature,[21,22  ha](#_page4_x306.00_y163.36)ve  been suggested to be undiagnosed ADHD.9 [Ther](#_page4_x45.00_y452.36)efore, screen- ing for ADHD in patients with chronic pain is considered important, and ADHD screening instruments such as the Adult ADHD Self- Report Scale and Wender Utah Rating Scale are widely used in clinical practice and research.[23,24 ](#_page4_x306.00_y255.36)However,  patients  with  chronic  pain  generally  tend  to deny  their  psychosocial  problems  and  may  underesti- mate the severity of their ADHD symptoms.25[ Ther](#_page4_x306.00_y347.36)efore, the Conners’ Adult ADHD Rating Scale,[26 which](#_page4_x306.00_y405.36) consists of two scales, one for patients and one for family mem- bers, should be used to screen for ADHD in patients with chronic pain more appropriately.9
+
+Pinals et al.[2 ](#_page4_x45.00_y199.36)discussed that the presentation of pain, including  LBP  in  JFK,  was  centralized  and  could  be attributed to CNS dysfunction. CNS dysfunctions that cause  centralized  pain  are  assumed  to  be  a  common basis for disorders such as myofascial pain, failed back syndrome,  fibromyalgia,  IBS,  and  chronic  prostatitis, many of which could be identified in Kennedy’s med-
+
+ical history.[2 ](#_page4_x45.00_y199.36)Among the CNS dysfunctions in central- ized pain, the focus of attention in relation to ADHD is the dopaminergic nervous system and prefrontal cor - tex dysfunction. Dopamine plays a central role in pain perception and descending pain suppression pathways, 
+
+and  reduced  dopamine  levels  may  increase  pain.27,[28 ](#_page4_x306.00_y439.36)Thus, patients with ADHD are assumed to have dopa-
+
+minergic dysfunction2[9,30 a](#_page4_x306.00_y497.36)nd are considered vulnerable to chronic pain. The prefrontal cortex is also function- ally connected to the descending pain inhibitory path- ways and can act as a virtual filter to reduce unpleasant 
+
+stimuli such as pain and itching.31[,32 P](#_page4_x306.00_y589.36)refrontal cortex performance follows an inverted U-shaped curve in re - lation to dopamine and noradrenaline activation and is maximized  when  concentrations  of  both  transmitters 
+
+are moderate.3[3 ](#_page4_x306.00_y681.36)However, because the pathophysiology of ADHD includes impaired dopamine and noradren-
+
+aline neurotransmission,34[ t](#_page4_x306.00_y715.36)his filter does not function adequately, and ADHD is considered vulnerable to pain. Moreover, the fact that centralized pain can be improved with ADHD medications (methylphenidate and/or ato - moxetine) may support the correlation between chronic 
+
+pain and ADHD.7
+
+In addition to pain disorders, conditions such as fibro - myalgia, IBS, celiac disease, insomnia, malabsorption, hy - pothyroidism, and allergies, which were present in JFK, are all physical disorders associated with ADHD.35[ Giv](#_page5_x45.00_y77.36)en this information, ADHD appears to be a plausible cause of the numerous illnesses that afflicted JFK.
+
+Although  the  concept  of  ADHD  had  not  existed during  his  lifetime,  JFK  preferred  the  central  stimu- lant amphetamine for pain management,3 [w](#_page4_x45.00_y234.36)hich, un- intentionally,  may  have  served  as  self-medication  for his ADHD condition. Moreover, in a previous study,36 symptoms in patients with chronic pain, including per - sistent chronic nonspecific LBP, improved with ADHD medications;  it  was  found  that  the  pain  and  ADHD symptoms of patients with chronic pain and comorbid ADHD tend to improve with ADHD treatment. The re - sults showed that 35 of 110 patients (31.8%) with chronic pain at various sites, who were referred to a psychiatrist at a pain clinic, were finally diagnosed with ADHD. Of these 35 patients, 21 received adjusted ADHD medica- tions  (methylphenidate  and/or  atomoxetine).  Twenty of  the  21  medicated  patients  (95.5%)  experienced  an improvement in their ADHD symptoms, and 14 of 21 patients (66.7%) experienced a simultaneous improve - ment in their pain symptoms, as evaluated using the numerical rating scale (NRS). The NRS scores of the 14 patients  decreased  by  4.6 – 2.6  points  (64.7% – 30.1%). Moreover, considering that there were only seven pa- tients with persistent chronic nonspecific LBP (among the 21 patients with chronic pain at various sites) who received adjusted medication, 7 of 7 (100%) experienced reduction in pain symptoms, as measured using the NRS (4.3 – 2.6 points, 65.3% – 28.2%).
+
+Additionally,  Kennedy’s  son  was  diagnosed  with ADHD,[5,6](#_page4_x45.00_y303.36) and numerous tragedies have been attributed 
+
+to thrill-seeking behaviors in the Kennedy family, sug - gesting the possibility of genetic ADHD.5[ On](#_page4_x45.00_y303.36) the positive 
+
+side, such thrill-seeking behavior increases the likelihood of gaining spectacular success, as demonstrated by the Kennedy family’s position in politics.5
+
+Furthermore, behind JFK’s success, his continued anx - iety and fear of rejection from his father, who forced him to become a politician like a surrogate doll, was one of the main conflicts in JFK’s life.[3 ](#_page4_x45.00_y234.36)As suggested by Lumley et al., JFK’s centralized pain would have improved if he had been able to sufficiently resolve conflicts by facilitating emotional processing, such as writing  an unsent letter  
+
+to his father.1
+
+The limitation of this study is that the ADHD diagnosis of JFK is a hypothetical diagnosis based on the description in the published literature, as the authors did not directly examine JFK.
+
+The President’s Panel on Mental Retardation,37[ org](#_page5_x45.00_y158.36)a-    nized by Kennedy as one of his frontier policies, contrib - uted to the creation of the term  developmental disability,        which now includes ADHD in the United States Public 
+
+Law.[38](#_page5_x306.00_y43.36) After 60 years, the seeds of his ideals have budded and borne findings of a link between ADHD and central- ized pain and are about to pave the way for the treatment of centralized pain a condition that he had suffered from during his lifetime.
+
+**AUTHOR CONTRIBUTIONS**
+
+SK and KM conceived the study. SK and NS collected and organized the literature information. SK wrote the manu- script. S- IN assisted in writing the manuscript. All authors have approved the final manuscript for submission.
+
+**ACKNOWLEDGEMENT**
+
+We would like to thank Editage ([www.editage.com) ](http://www.editage.com)for English language editing.
+
+**FUNDING INFORMATION**
+
+This  study  was  funded  by  the  Japan  Society  for  the Promotion  of  Science  KAKENHI  (Grant  Number: JP20K07755). The sponsor has no role other than funding.
+
+**CONFLICTS OF INTEREST**
+
+The authors declare that there is no conflict of interest.
+
+**DATA AVAILABILITY STATEMENT**
+
+The data supporting the results of this paper are all based on officially published material and descriptions in pub- licly available biographies.
+
+**ETHICAL APPROVAL** None.
+
+**CONSENT**
+
+Informed consent for patient information to be published in this article was not obtained because we have dealt with only already published historical data in this case report. 
+
+**|  7 of 7****
+
+KASAHARA      .![ref1]
+
+There is nothing in this paper that would harm the human <a name="_page4_x306.00_y48.36"></a>rights of the patient.
+
+**ORCID**
+
+*Satoshi Kasahara* ![](sbjz3vh1.011.png)[ https://orcid. org/0000-0003-4736-9887](https://orcid.org/0000-0003-4736-9887) 
+
+<a name="_page4_x45.00_y153.36"></a>**REFERENCES**
+
+1. Lumley  MA,  Schubiner  H.  Psychological  therapy  for  cen-<a name="_page4_x306.00_y163.36"></a>tralized  pain:  an  integrative  assessment  and  treatment model.  *Psychosom  Med*.  2019;81(2):114-124.  [doi:10.1097/ PSY.0000000000000654](https://doi.org/10.1097/PSY.0000000000000654)
+1. <a name="_page4_x45.00_y199.36"></a>Pinals RS, Hassett AL. Reconceptualizing John F. Kennedy’s chronic low back pain. *Reg Anesth Pain Med*. 2013;38(5):442- <a name="_page4_x45.00_y234.36"></a>446. [doi:10.1097/AAP.0b013e3182a222ce](https://doi.org/10.1097/AAP.0b013e3182a222ce)
+1. Dallek R. *An Unfinished Life: John F. Kennedy, 1917 1963*. 1st <a name="_page4_x45.00_y257.36"></a>ed. Little, Brown, and Co; 2003.
+1. <a name="_page4_x306.00_y255.36"></a>U.S.  Congress  House,  Select  Committee  on  Assassinations. *Report of the Select Committee on Assassinations of The U.S; part 1- b 29*. House of Representatives. 95th Cong. 2nd sess house <a name="_page4_x45.00_y303.36"></a>Report No. 95 1828, March. GPO; 1979.
+1. Klein E. *The Kennedy Curse: why Tragedy Has Haunted America’s First Family for 150 Years*. 1st ed. MacMillan; 2003:163- 172.
+1. Patterson  J.  *The  Kennedy  Curse:  the  Shocking  True  Story of  America’s  Most  Famous  Family*.  1st  ed.  Random  House; <a name="_page4_x306.00_y347.36"></a><a name="_page4_x45.00_y360.36"></a>2020:58-133.
+1. Kasahara S, Niwa SI, Matsudaira K, Sato N, Oka H, Yamada 
+
+   25. Attention-deficit/hyperactivity  disorder  and  chronic pain.  *Psychosom  Med*.  2020;82(3):346-347.  [doi:10.1097/ PSY.0000000000000789](https://doi.org/10.1097/PSY.0000000000000789)
+1. <a name="_page4_x306.00_y405.36"></a>Kasahara  S,  Matsudaira  K,  Sato  N,  Niwa  SI.  Pain  and attention-deficit/hyperactivity disorder: the case of Margaret Mitchell.  *Psychosom  Med*.  2021;83(5):492-493.  [doi:10.1097/PSY.0000000000000947](https://doi.org/10.1097/PSY.0000000000000947)
+1. <a name="_page4_x306.00_y439.36"></a><a name="_page4_x45.00_y452.36"></a>Kasahara  S,  Niwa  SI,  Matsudaira  K,  et  al.  High  attention- deficit/hyperactivity  disorder  scale  scores  among  patients with persistent chronic nonspecific low back pain. *Pain Phys*. <a name="_page4_x45.00_y498.36"></a>2021;24(3):E299-E307. [doi:10.36076/ppj.2021/24/E299](https://doi.org/10.36076/ppj.2021)
+1. <a name="_page4_x306.00_y497.36"></a>Hartmann T.  *ADHD Secrets of Success: Coaching Yourself to Fulfillment  in  the  Business  World*.  1st  ed.  SelectBooks,  Inc; <a name="_page4_x45.00_y533.36"></a>2002:50-51.
+1. Park  BE.  *The  Impact  of  Illness  on  World  Leaders*.  1st  ed. University of Pennsylvania Press; 1986.
+1. Dallek R. The medical ordeals of JFK. *Atl Mon*. 2002;290:49-61.
+1. Pait TG, Dowdy JT. John F. Kennedy’s back: chronic pain, failed surgeries, and the story of its effects on his life and death.  *J <a name="_page4_x306.00_y589.36"></a>Neurosurg  Spine*.  2017;27(3):247-255.  [doi:10.3171/2017.2.SP INE151524](https://doi.org/10.3171/2017.2.SPINE151524)
+1. Macchia  D,  Lippi  D,  Bianucci  R,  Donell  S.  President  John F  Kennedy’s  medical  history:  coeliac  disease  and  auto - immune  polyglandular  syndrome  type  2.  *Postgrad  Med  J*. <a name="_page4_x45.00_y659.36"></a>2020;96(1139):543-549. doi:[10.1136/postgradmedj-2020-137722](https://doi.org/10.1136/postgradmedj-2020-137722)
+1. Burns JMG. *John Kennedy: A Political Profile*. 1st ed. Open Road <a name="_page4_x45.00_y682.36"></a>Media; 2016.
+1. <a name="_page4_x306.00_y681.36"></a>Gomez CF, Crispell KR. John F Kennedy and medical research. *J Med Biogr*. 1994;2(2):103-112. [doi:10.1177/096777209400200209](https://doi.org/10.1177/096777209400200209)
+1. Giglio JN. Growing up Kennedy: the role of medical ailments 
+
+   <a name="_page4_x306.00_y715.36"></a>in the life of JFK, 1920- 1957. *J Fam Hist*. 2006;31(4):358-385. [doi:10.1177/0363199006291659](https://doi.org/10.1177/0363199006291659)
+
+18. American  Psychiatric  Association.  Diagnostic  criteria  and codes. In: Kupfer DJ, Regier DA, eds. *Diagnostic and Statistical Manual  of  Mental  Disorders*.  5th  ed.  American  Psychiatric Association; 2013:59 66.
+18. Kooij  JJ,  Francken  MH.  *Diagnostic  Interview  for  ADHD  in <a name="_page4_x306.00_y117.36"></a>Adults 2.0 (DIVA 2.0)*. 1st ed. DIVA Foundation; 2010.
+18. Ginsberg Y, Quintero J, Anand E, Casillas M, Upadhyaya HP. Underdiagnosis of attention-deficit/hyperactivity disorder in adult patients: a review of the literature. *Prim Care Companion CNS Disord*. 2014;16(3):23591. doi[:10.4088/PCC.13r01600](https://doi.org/10.4088/PCC.13r01600)
+18. Andrews NE, Strong J, Meredith PJ, Gordon K, Bagraith KS. 
+
+    ` `It’s very hard to change yourself : an exploration of overactiv - ity in people with chronic pain using interpretative phenome - nological analysis. *Pain*. 2015;156(7):1215-1231.  [doi:10.1097/j. pain.0000000000000161](https://doi.org/10.1097/j.pain.0000000000000161)
+
+22. Vlaeyen JWS, Morley S. Active despite pain: the putative role of  stop- rules  and  current  mood.  *Pain*.  2004;110(3):512-516. [doi:10.1016/j.pain.2004.04.037](https://doi.org/10.1016/j.pain.2004.04.037)
+22. Kessler  RC,  Adler  L,  Ames  M,  et  al.  The  World  Health Organization  adult  ADHD  self-report  scale  (ASRS):  a  short screening scale for use in the general population. *Psychol Med*. 2005;35(2):245-256. [doi:10.1017/s0033291704002892](https://doi.org/10.1017/s0033291704002892)
+22. Ward MF, Wender PH, Reimherr FW. The Wender Utah rat - ing scale: an aid in the retrospective diagnosis of childhood attention  deficit  hyperactivity  disorder.  *Am  J  Psychiatry*. 1993;150(6):885-890. [doi:10.1176/ajp.150.6.885](https://doi.org/10.1176/ajp.150.6.885)
+22. Burns JW, Kubilus A, Bruehl S, Harden RN. A fourth empiri- cally derived cluster of chronic pain patients based on the mul- tidimensional pain inventory: evidence for repression within the dysfunctional group. *J Consult Clin Psychol*. 2001;69(4):663- 673. [doi:10.1037//0022-006x.69.4.663](https://doi.org/10.1037/)
+22. Conners CK, Erhardt D, Sparrow EP. *Conners’ Adult ADHD Rating Scale (CAARS) Technical Manual*. Multi-Health Systems; 1999.
+22. Wood PB. Stress and dopamine: implications for the patho - physiology  of  chronic  widespread  pain.  *Med  Hypotheses*. 2004;62(3):420-424. [doi:10.1016/j.mehy.2003.10.013](https://doi.org/10.1016/j.mehy.2003.10.013)
+22. Wood PB. Role of central dopamine in pain and analgesia. *Expert Rev Neurother*. 2008;8(5):781-797. [doi:10.1586/14737175.8.5.781](https://doi.org/10.1586/14737175.8.5.781)
+22. Swanson JM, Kinsbourne M, Nigg J, et al. Etiologic subtypes of attention-deficit/hyperactivity disorder: brain imaging, mo - lecular genetic and environmental factors and the dopamine hypothesis.  *Neuropsychol  Rev*.  2007;17(1):39-59. [doi:10.1007/ s11065-007-9019-9](https://doi.org/10.1007/s11065-007-9019-9)
+22. Wu J, Xiao H, Sun H, Zou L, Zhu LQ. Role of dopamine re - ceptors in ADHD: a systematic meta-analysis. *Mol Neurobiol*. 2012;45(3):605-620. [doi:10.1007/s12035-012-8278-5](https://doi.org/10.1007/s12035-012-8278-5)
+22. Matsuo Y, Kurata J, Sekiguchi M, Yoshida K, Nikaido T, Konno SI. Attenuation of cortical activity triggering descending pain inhibition in chronic low back pain patients: a functional mag - netic resonance imaging study. *J Anesth*. 2017;31(4):523-530. [doi:10.1007/s00540-017-2343-1](https://doi.org/10.1007/s00540-017-2343-1)
+22. Young J. Chronic fatigue syndrome: 3 cases and a discussion of the natural history of attention-deficit/hyperactivity disorder. *Postgrad Med*. 2013;125:162-168.
+22. Sikstr m S, S derlund G. Stimulus-dependent dopamine re - lease  in  attention-deficit/hyperactivity  disorder.  *Psychol  Rev*. 2007;114(4):1047-1075. [doi:10.1037/0033-295X.114.4.1047](https://doi.org/10.1037/0033-295X.114.4.1047)
+22. Del  Campo  N,  Chamberlain  SR,  Sahakian  BJ,  Robbins TW.  The  roles  of  dopamine  and  noradrenaline  in  the 
+
+**|  7 of 7****
+
+KASAHARA      .![ref1]
+
+pathophysiology  and  treatment  of  attention-deficit/hyper -<a name="_page5_x306.00_y43.36"></a>activity  disorder.  *Biol  Psychiatry*.  2011;69(12):e145-e157. <a name="_page5_x45.00_y77.36"></a>[doi:10.1016/j.biopsych.2011.02.036](https://doi.org/10.1016/j.biopsych.2011.02.036)
+
+35. Instanes  JT,  Klungsłyr  K,  Halmły  A,  Fasmer  OB,  Haavik 
+
+    10. Adult  ADHD  and  comorbid  somatic  disease:  a  system- atic  literature  review.  *J  Atten  Disord*.  2018;22(3):203-228. [doi:10.1177/1087054716669589](https://doi.org/10.1177/1087054716669589)
+35. Kasahara S, Okamura Y, Matsudaira K, et al. Diagnosis and treatment of attention-deficit hyperactivity disorder in patients with chronic pain. *Open J Psychiatr*. 2017;7(4):261-275.
+35. United States President of the United States.  *The President’s Panel on Mental Retardation. Report of the Task Force on Law*. United  States  President  of  the  United  States;  1963.  [https:// mn.gov/mnddc/ paral lels2/ pdf/60s/63/63-ROT-PPMR.pdf, ](https://mn.gov/mnddc/parallels2/pdf/60s/63/63-ROT-PPMR.pdf)Accessed December 9 2021.
+38. The  US  Department  of  Health,  education,  and  welfare. Developmental disabilities services and facilities construction act. Public Law. 1970:91  517. [https://mn.gov/mnddc/dd_act/ documents/DD_ACT/71-DDA-HEW.pdf.  ](https://mn.gov/mnddc/dd_act/documents/DD_ACT/71-DDA-HEW.pdf)Accessed  December 9 2021.
+
+<a name="_page5_x45.00_y123.36"></a>**How to cite this article:** Kasahara S, Matsudaira ![](sbjz3vh1.012.png)
+
+<a name="_page5_x45.00_y158.36"></a>K, Sato N, Niwa S-I. Attention- Deficit/hyperactivity disorder and centralized pain: A review of the case of John F. Kennedy. *Clin Case Rep*. 2022;10:e06422. doi: [10.1002/ccr3.6422](https://doi.org/10.1002/ccr3.6422)
+
+[ref1]: sbjz3vh1.010.png

@@ -1,0 +1,481 @@
+﻿1  9  TheJournalofNeuroscience,May8,2024  44(19):e2028232024
+
+Behavioral/Cognitive
+
+Dopamine D2 Receptor Modulates Exercise Related Effect on Cortical Excitation/Inhibition and Motor Skill Acquisition
+
+Dylan Curtin,1 Eleanor M. Taylor,1 Mark A. Bellgrove,1 Trevor T-J. Chong,1,2,3 and James P. Coxon1 1SchoolofPsychologicalSciences,TurnerInstituteforBrainandMentalHealth,MonashUniversity,Melbourne,Victoria3800,Australia,2Departmentof Neurology, Alfred Health, Melbourne, Victoria 3004, Australia, and3Department of Clinical Neurosciences, St Vincent s Hospital, Melbourne, Victoria 3065, Australia
+
+Exercise is known to bene  t motor skill learning in health and neurological disease. Evidence from brain stimulation, genotyping, and Parkinson s disease studies converge to suggest that the dopamine D2 receptor, and shifts in the cortical excitation and inhibition (E:I) balance, are prime candidates for the drivers of exercise-enhanced motor learning. However, causal evidence using experimental pharmacological challenge is lacking. We hypothesized that the modulatory effect of the dopamine D2 receptor on exercise-induced changes in the E:I balance would determine the magnitude of motor skill acquisition. To test this, we measured exercise-induced changes in excitation and inhibition using paired-pulse transcranial magnetic stimulation (TMS) in 22 healthy female and male humans, and then had participants learn a novel motor skill  the sequential visual isometric pinch task (SVIPT). We examined the effect of D2 receptor blockade (800 mg sulpiride) on these measures within a randomized, double-blind, placebo-controlled design. Our key result was that motor skill acquisition was driven by an interaction between the D2 receptor and E:I balance. Speci  cally, poorer skill learning was related to an attenuated shift in the E:I balance in the sulpiride condition, whereas this interaction was not evident in placebo. Our results demonstrate that exercise-primed motor skill acquisition is causally in  uenced by D2 receptor activity on motor cortical circuits.
+
+Key words:dopamine; excitation; exercise; inhibition; motor learning; TMS
+
+Signi  cance Statement![](2ja2gedy.001.png)
+
+Exercise is known to bene  t the ability to acquire new motor skills, but the neural mechanisms driving this phenomenon are notwellunderstood.Wetestedwhethertheeffectsofexerciseoncorticalneurophysiologyandmotorskilllearningwasdueto dopaminergic neuromodulation. We obtained measures of cortical excitation and inhibition before and after high-intensity cardiorespiratory exercise, and then had participants learn a novel motor skill. We provide causal evidence that motor skill acquisition is driven by an interaction between the dopamine D2 receptor and exercise-induced shifts in the cortical excita- tion/inhibition balance. Such  ndings have implications for prescribing exercise to improve motor learning in disorders of dopamine dysfunction, such as Parkinson s disease.
+
+Received Oct. 26, 2023; revised Feb. 27, 2024; accepted March 14, 2024. Introduction
+
+Author contributions:D.C., E.M.T.,M.A.B., T.T-J.C., andJ.P.C.designed research;D.C.,E.M.T., T.T-J.C.,and J.P.C.The bene  cial e  ects of exercise for motor learning are increas- performedWe thankresearch;Dr ZiarihD.C.,Hawi,E.M.T.,DanielM.A.B.,Pearce,andandT.T-J.C.Julia analyzedKoutoulogenidata;s E.M.T.for their wroteassistancethe paperwith .drug holding andingly recognized. Meta-analytic and experimental evidence dem-
+
+blinding, Claire Cadwallader and Sarah Cohen for their support with data collection, and Bridgitt Shea, Amyonstrates that a single session of exercise can improve the Huynh, Huw Jarvis, and Oluwadamilola Obawede for their assistance with participant recruitment. We also thankacquisitionandconsolidationofnewmotorskillsinhealthyindi-
+
+Dartnells Compounding Pharmacy for their help with drug preparation. This research was supported[ by the](#_page7_x300.00_y522.99)viduals ([Roig et al., 2013](#_page7_x300.00_y522.99); [Statton et al., 2015](#_page8_x43.00_y133.99); [Snow et al., 2016](#_page8_x43.00_y67.99); Australianand J.P.C byResearchthe O  Councice of lNaval Grant,ResearchDP200100234(Global). , awardedM.A.B. tois supportedJ.P.C., andby fundingthe Nationaawardedl [Health to M.A.B.,and MedicalT.T-J.CStavrinos and Coxon, 2017](#_page8_x43.00_y162.99); [Wanner et al., 2020](#_page8_x300.00_y171.99)). Promisingly,
+
+Research Council. J.P.C. and T.T-J.C are supported by the Australian Research Council (FT230100656,recent experimental evidence has also shown that exercise can DP180102383, FT220100294). enhance motor learning in dopaminergic disorders, such as
+
+T.T.-J.C. has received honoraria for lectures from Roche. The remaining authorsdeclare no competing nancial Parkinson s ([Steib et al., 2018](#_page8_x43.00_y190.99); [Wanner et al., 2021](#_page8_x300.00_y200.99)) and interests.[ ](mailto:james.coxon@monash.edu)Huntington s disease [(Andrews et al., 2023](#_page6_x300.00_y371.99)). Such  ndings raise
+
+Correshttps:/pondence/doi.org/10.1523/JNshould beEUROSCI.2028-addressed to James23.2024[P. Coxon at james.coxon@m](mailto:james.coxon@monash.edu)onash.edu. fundamental questions as to the function of dopamine in Copyright ' 2024 the authors exercise-enhanced motor learning.
+
+
+Evidence from human neuroimaging and genotyping studies, and from animal models, demonstrates that dopamine, particu- larly the D2 receptor, plays a crucial role in motor learning[(Floel et al., 2005](#_page7_x43.00_y295.99); [Badgaiyan et al., 2007](#_page6_x300.00_y409.99); [Yin et al., 2009](#_page8_x300.00_y238.99); [Beeler et al.](#_page6_x300.00_y503.99), [2010](#_page6_x300.00_y503.99); [Pearson-Fuhrhop et al., 2013](#_page7_x300.00_y314.99); [Sommer et al., 2014](#_page8_x43.00_y95.99); [Baetu et al., 2015](#_page6_x300.00_y427.99)). In murine models, motor learning worsens during blockade of D2 receptors and improves when the blockade is released [(Molina-Luna et al., 2009](#_page7_x300.00_y162.99); [Hosp et al., 2011](#_page7_x43.00_y465.99); [Beeler et al., 2012](#_page6_x300.00_y532.99)). In healthy adults, we recently demonstrated causal evidence that pharmacological blockade of the D2 receptor impairs the acquisition of a novel motor skill [(Taylor et al., 2023b](#_page8_x43.00_y247.99)). Further, it has also been shown that D2 receptors within the motor cortex are critical for regulating synaptic plasticity ([Molina-Luna et al., 2009](#_page7_x300.00_y162.99); [Hosp et al., 2011](#_page7_x43.00_y465.99); [Monte-Silva et al., 2011](#_page7_x300.00_y190.99)), a process that is fundamental in the formation of newly learned motor skills ([Rioult-Pedotti et al., 2000](#_page7_x300.00_y456.99); [Ziemann et al., 2004](#_page8_x300.00_y276.99); [Dayan and Cohen, 2011](#_page7_x43.00_y114.99); [Guo et al., 2015](#_page7_x43.00_y342.99); [Peters et al., 2017](#_page7_x300.00_y342.99)).
+
+In addition to driving motor skill acquisition and plasticity, emerging evidence links the D2 receptor to the e  ects of exercise on brain function. For example, recent neuroimaging studies in healthy ageing [(Dang et al., 2017](#_page7_x43.00_y86.99); [Kohncke et al., 2018](#_page7_x43.00_y570.99); [Jonasson et al., 2019](#_page7_x43.00_y494.99)) and models of dopamine dysfunction ([Fisher et al., 2004](#_page7_x43.00_y257.99), [2013](#_page7_x43.00_y219.99); [Vučcković et al., 2010](#_page8_x300.00_y133.99); [Petzinger et al., 2013](#_page7_x300.00_y361.99); [Robertson et al., 2016](#_page7_x300.00_y475.99); [Sacheli et al., 2019](#_page7_x300.00_y608.99)) have revealed a positive association between exercise and D2 receptor density and binding potential. Exercise interventions are also known to have a positive impact on the motor symptoms of dopaminergic disorders, such as Parkinson s disease ([Schenkman et al., 2018](#_page7_x300.00_y665.99); [van der Kolk et al., 2019](#_page8_x300.00_y95.99)). Building on these  ndings, our group ([Curtin et al., 2023](#_page6_x300.00_y712.99)) recently demon- strated that the D2 receptor causally modulates exercise-induced changes in motor cortical excitation and inhibition (i.e., the E:I balance), a process that is known to be crucial for acquiring new motor memories ([Rosenkranz et al., 2007](#_page7_x300.00_y551.99); [Coxon et al., 2014](#_page6_x300.00_y674.99); [Kida et al., 2016](#_page7_x43.00_y532.99); [Vallentin et al., 2016](#_page8_x300.00_y67.99); [Kolasinski et al.](#_page7_x43.00_y598.99), [2019](#_page7_x43.00_y598.99)). Together, these lines of evidence indicate that D2 receptor activity (1) modulates skill acquisition and (2) is a  ected by exer- cise.Althoughgeneticassociationstudieshaveexploredthepoten- tial role of D2 receptors in exercise-related changes in motor learning ([Mang et al., 2017](#_page7_x43.00_y674.99); [Christiansen et al., 2019](#_page6_x300.00_y636.99)), we lack direct causal evidence that the D2 receptor modulates exercise- primed motor skill acquisition via an e  ect on E:I balance.
+
+Here, we examined how the modulatory e  ect of the dopa- mine D2 receptor on exercise-induced changes in the E:I balance
+
+interact with motor skill acquisition. We combined paired-pulse transcranialmagneticstimulation(TMS)withapharmacological manipulation involving the dopamine D2 receptor antagonist, sulpiride (800 mg), within a randomized, double-blind, placebo- controlled design. A key advantage of sulpiride is that it is a highly selective D2 antagonist at a high 800 mg dose, acting pre- dominantly on postsynaptic receptors, with a low a  nity for D1 and nondopamine receptors ([Miyamoto et al., 2005](#_page7_x300.00_y133.99)). We pre- dictedthatpoorerskilllearningwouldberelatedtoanattenuated shift in the E:I balance in the sulpiride but not the placebo condition.
+
+Materials and Methods
+
+We previously reported on the e  ects of D2 blockade on exercise-induced changes in the E:I balance [(Curtin et al., 2023](#_page6_x300.00_y712.99)) and motor skill learning ([Taylor et al., 2023b](#_page8_x43.00_y247.99)) as part of a randomized, double-blinded, placebo-controlled crossover design involving two experimental sessions. Given our focus here on exercise-primed changes in cortical activity and motor skill acquisition, the analyses reported below are restricted to E:I balance and motor learning data obtained in sessionone;i.e.,drugisabetween-subjectsfactorinanalyses,andallpar- ticipantswerenaivetotheSVIPTtask.Pleaserefertothepreviousstudies for CONSORT protocols and full TMS and motor learning procedures ([Curtin et al., 2023](#_page6_x300.00_y712.99); [Taylor et al., 2023b](#_page8_x43.00_y247.99)).
+
+Participants. We tested 22 healthy adults ([Table 1](#_page1_x34.00_y584.99)). Exclusion crite- ria were age <18 or >40 years, females not on hormonal contraception ([Taylor et al., 2023a](#_page8_x43.00_y266.99)), recent use of psychotropic medication, and a per- sonalhistoryofneurological disease orpsychiatric illness[(Sheehan etal., 1998](#_page7_x300.00_y712.99)). Those with contraindications to TMS ([Rossi et al., 2009](#_page7_x300.00_y579.99)) or high- intensity exercise [(Sports Medicine Australia, 2011](#_page8_x43.00_y114.99)) were also excluded. As part of a larger project, sample size estimations were conducted a pri- ori to detect within-subject e  ects of sulpiride on exercise-primed changes in the E:I balance [(Curtin et al., 2023](#_page6_x300.00_y712.99)) and motor skill learning ([Taylor et al., 2023b](#_page8_x43.00_y247.99)). Although we did not perform speci  c analyses to detect between-subjects e  ects, our sample size is in line with other related pharmacological challenge (e.g.,[Nitsche et al., 2009](#_page7_x300.00_y266.99); [Monte- Silva et al., 2011](#_page7_x300.00_y190.99)) and exercise and motor learning studies (e.g., [StavrinosandCoxon,2017](#_page8_x43.00_y162.99);[Tayloretal.,2024](#_page8_x43.00_y219.99)).Allparticipantsprovided written informed consent. The experimental procedures were conducted inaccordancewiththeDeclarationofHelsinkiandwereapprovedbythe Monash University Human Research Ethics Committee.
+
+Experimental design.We used a randomized, double-blinded, placebo-controlled design. Participants were orally administered either one capsule of sulpiride (800 mg) or an identical-looking placebo capsule containing microcrystalline cellulose. Drug allocation was pre-determined according to a randomization schedule set by a third
+
+
+Table 1. Participant characteristics
+
+
+
+|<a name="_page1_x34.00_y584.99"></a>Variable|Placebo|Sulpiride Test statis|
+| - | - | - |
+|<p>N</p><p>Age, years</p><p>Sex, F/M</p><p>Body mass index</p><p>Formal education, years</p><p>Baseline resting heart rate, seated, BPM Baseline blood pressure, systolic/diastolic</p><p>Physical activity levels (IPAQ), MET minutes/week Handedness, EHI</p><p>Beck Depression Inventory 2 (BDI-2)</p><p>Kessler Psychological Distress Scale (K-10)</p>|<p>11</p><p>24\.45–4.46</p><p>6 F/5 M</p><p>24\.52–4.58</p><p>16\.64–2.69</p><p>67\.09–7.91 120.00–8.93/77.00–5.57</p><p>4,981–5,475 69.17[–](#_page1_x43.00_y750.99)38.66[a](#_page1_x43.00_y750.99)</p><p>3\.91–3.94 13.55–3.14</p>|<p>11</p><p>23\.82–3.52 t(20)=0.37,p=0.71 5 F/6 M χ2 (1)=0.18,p=0.6</p><p>22\.82–3.03 t(20)=1.03,p=0.31 16.91–2.02 t(20)=0.27,p=0.79 68.91–8.65 t(20)=0.51,p=0.61 114.55–13.84/76.82–7.97t(20)=1.10,p=0.29 t(20)=0.06,p=0.95</p><p>3,867–2,981 t(20)=0.59,p=0.56 73.50–27.27 t(20)=0.94,p=0.36 3.55–2.88 t(20)=0.25,p=0 81 13.73–3.20 t(20)=0.13,p=0.89</p>|
+
+Valuesaremeans–standarddeviation.N,numberofparticipants;F,female;M,male;BPM,beatsperminute;IPAQ,internationalphysicalactivityquestionnaire(higherscores[ indicatehi](#_page6_x300.00_y693.99)gherphysicalactivity[levels)(Craigetal.,](#_page6_x300.00_y693.99)2003); MET, metabolic equivalent; EHI, Edinburgh handedness inventory [range,−100 (strongly left-handed), 0 (ambidextrous), +100 (strongly[ right-han](#_page7_x300.00_y295.99)ded)] ([Old eld, 197](#_page7_x300.00_y295.99)1); BDI-2 range, 0  10, normal; 10+, mild and above mood disturbance; K-10 range, 10  19, normal range, 20+ mild and above mental disorder.
+
+a<a name="_page1_x43.00_y750.99"></a>1 participant in the placebo condition was left-handed. There were no di erences between groups on any measures (p≥ 0.29).
+
+
+Curtinetal. ModulatorsofExerciseRelatedSkillAcquisition
+
+party. The preparation and administration of the study drug was over- seen byan independent researcher not involved in recruitment, data col- lection, or analysis. Investigators and participants remained blinded to drug condition until the study was complete.
+
+We timed the exercise [(Fig. 1A](#_page2_x34.00_y761.99)) to occur at the peak plasma concen- tration of sulpiride, which is known to occur at 3 h ([Helmy, 2013](#_page7_x43.00_y390.99)). To monitor subjective mood throughout the experimental session, we administered the Bond and Lader Visual Analogue Scale [(Bond and Lader, 1974](#_page6_x300.00_y570.99)) every hour. Sessions were scheduled in the morning to ensure that diurnal in  uences could not confound outcome measures. There were no di  erences in the time of day of sessions between drug groups (independent samples t test, p=0.51).
+
+High-intensityintervalexercise.Exercisewasperformedonastation- ary cycle ergometer (Wattbike Atom). The intensity was tailored to each participant based on their estimated heart rate reserve, calculated as the di  erence between maximum and resting heart rate. The exercise proto- colconsisted ofalternating intervalsof3 min ofcyclingat50%heart rate reserve, and 2 min of cycling at up to∼90% heart rate reserve, for a total duration of 20 min ([Stavrinos and Coxon, 2017](#_page8_x43.00_y162.99); [Andrews et al., 2020](#_page6_x300.00_y342.99)).
+
+Transcranial magnetic stimulation (TMS). Monophasic TMS pulses were applied to the dominant primary motor cortex using a   gure-of-eight coil (70 mm wing diameter), connected to two Magstim
+
+2002 magnetic stimulators via a Bistim2 module (Magstim Company Ltd.). Motor evoked potentials (MEPs) were recorded using surface elec- tromyography (EMG) from the  rst dorsal interosseous muscle of the dominant hand using Ag  AgCl electrodes (Ambu White Sensor WS, Ambu), arranged in a belly-tendon montage and secured with sports tape.
+
+Weacquiredsingle-pulseTMSmeasurestoindexcorticomotorexcit- ability and paired-pulse TMS measures of short-interval intracortical inhibition(SICI)andintracorticalfacilitation(ICF).Toexaminecortico- motor excitability, the intensity of a single test stimulus was adjusted to produce a stable MEP of approximately 1 mV at baseline. For SICI, the conditioning stimulus intensity was adjusted to produce 50% inhibition of the nonconditioned MEP at baseline, with an interstimulus interval of
+
+J.Neurosci.,May8,2024  44(19):e2028232024  3
+
+2 ms. The same conditioning and test stimulus intensities were used for ICF but with a 12 ms interval. For both SICI and ICF, the amplitude of the conditioned MEP was expressed as a ratio of the amplitude of the nonconditioned MEP. For all single- and paired-pulse measures, 16 sti- muli were delivered at 5 s intervals (–20% jitter).
+
+To characterize the e  ects of excitatory and inhibitory cortical activity, we calculated an excitation/inhibition ratio ([Andrews et al., 2020](#_page6_x300.00_y342.99); [Curtin et al., 2023](#_page6_x300.00_y712.99)) using data obtained from SICI and ICF. In this ratio, larger E:I values represents a combination of increased excitation and reduced inhibition.
+
+exp(ICF) Excitation:Inhibition ratio =~~ . exp (1  (SICI))
+
+Motor skill learning. Motor learning was assessed using a sequential visual isometric pinch task (SVIPT) [(Reis et al., 2009](#_page7_x300.00_y418.99)). Participants were seated in front of a computer while holding a force transducer between the thumb and index  nger of their dominant hand. Squeezing the force transducer produced a proportional movement of a cursor. In each trial, participants were presented with  ve colored targets located along a hor- izontalaxis[(Fig.1C](#_page2_x34.00_y761.99)).Theywereinstructedtoproduce  vepulsesofforce to move the cursor to each target as quickly and accurately as possible according to a speci  ed color sequence (red-blue-green-yellow-white). The amount of force required to reach the furthest target was set at 45% of each participant s maximum voluntary pinch contraction (MVC).
+
+WeusedtwovariationsoftheSVIPTtask,involvingeitheralogarith- mic (SVIPTA) [50] or exponential (SVIPTB) ([Cantarero et al., 2013](#_page6_x300.00_y608.99)) transformation applied to the relationship between pinch force and cur- sor movement. Task version was counterbalanced across drug groups, such that for both placebo and sulpiride, half of the participants (5/11 participants) completed SVIPTA while the other half (6/11 participants) completed SVIPTB. Target locations in both task versions were pseudor- andomly shu  ed between three di  erent orders ([Fig. 1C](#_page2_x34.00_y761.99) for the varia- tions used in SVIPTA and SVIPTB). For both tasks, participants completed nine familiarization trials. They then completed 12 blocks of 12 trials. Participants were shown a visual representation of their
+
+
+![](2ja2gedy.002.jpeg)
+
+Figure 1. Experiment procedure. Participants received either a single oral dose of 800 mg sulpiride or equivalent placebo in a randomized, double-blind, placebo-controlled design (A).
+
+We compared the excitation/inhibition (E:I) balance using paired-pulse transcranial magnetic stimulation (TMS), before and after a 20 min bout of high-intensity interval exercise (B).
+
+Therewerenodi erencesinexerciseparametersbetweenthesulpirideandplacebogroups(allp>0.12).FollowingexerciseandTMS,participantspracticedanovelmotorskill  thesequential
+
+visual isometric pinch task (SVIPT) (PanelC). For theSVIPT, participants were required to make5 force pulses tomove a cursor tothe targets in theorder red-blue-green-yellow-white on each trial. Target positions were pseudorandomized across trials according to random allocation to either SVIPTAor SVIPTB. Subjective ratings of a ect were recorded at regular intervals, using the
+
+<a name="_page2_x34.00_y761.99"></a>Bond and Lader Visual Analogue Scale (VAS). HR, heart rate; EMG, electromyography.
+
+7  J.Neurosci.,May8,2024  44(19):e2028232024
+
+Curtinetal.ModulatorsofExerciseRelatedSkillAcquisition
+
+calculated skill level after each block, to assess their progress and to encourage improvement.
+
+To assess motor skill learning, performance on the SVIPT was assessed by calculating a skill measure for which higher values re  ect a shift in the speed  accuracy trade-o  function towards faster and more accurate task performance, per the procedures previously outlined ([Reis et al., 2009](#_page7_x300.00_y418.99);[Stavrinos and Coxon, 2017](#_page8_x43.00_y162.99)). Skill is de  ned as follows:
+
+1− force error
+
+Skill parameter= force error ∗(log (duration)a),
+
+wheredurationreferstothemeantrialtimefortheblockandthevalueof a is1.627[(StavrinosandCoxon,2017](#_page8_x43.00_y162.99)).Theskillmeasureusedinanalysis was the logarithm of this skill parameter, to ensure homogeneity of var- iance across participants ([Reis et al., 2009](#_page7_x300.00_y418.99)).
+
+Data analysis. We constructed a linear mixed model to evaluate the interactionbetween motor skillacquisition andthe E:Ibalance under D2 receptor blockade. We examined motor skill acquisition (our dependent variable) by comparing the start of learning (average of blocks 1 and 2) and the end of learning (average of blocks 11 and 12) [(Stavrinos and Coxon, 2017](#_page8_x43.00_y162.99)). The linear mixed model was constructed using a model selection approach in which variables of interest were entered into the model and were retained based on the Akaike information criterion (AIC) and Bayesian information criterion (BIC), as well as a theoretical justi  cation([MeteyardandDavies,2020](#_page7_x43.00_y740.99)).The  nalmodelincluded  xed e  ects of Time Point (start of learning, end of learning), Drug (placebo, sulpiride), and  E:I balance (Postexercise  Baseline), with all interaction terms included. Participant was speci  ed as a random factor. Signi  cant interactions were followed up using Bonferroni-adjusted contrasts of model estimates and trends.
+
+Finally, we tested whether the relationship between the E:I balance (independent variable) and motor skill (dependent variable) was moder- ated by sulpiride (moderating variable). To do so, we ran a moderation analysis using the PROCESS macro [(Hayes, 2017](#_page7_x43.00_y371.99)). For this analysis, we calculated the  skill, de  ned as the di  erence between the start of learning (average of blocks 1 and 2), and the end of learning (average of blocks 11 and 12). E:I balance was mean centerd to avoid multicolli- nearity ([Hayes, 2017](#_page7_x43.00_y371.99)). Analyses were implemented in R Studio version 2,023.06.0+421 and JASP version 0.17.1, with anα set at 0.05.
+
+Exercise analysis.Heart rate, cadence, and power (Watts) were col- lected at 1 s intervals. Subjective ratings of perceived exertion[ (Borg, 1970](#_page6_x300.00_y589.99)) were collected at the end of each minute.
+
+Dataavailability. Thedatareportedinthisstudyareopenlyavailable via FigShare at<https://doi.org/10.26180/24319813.v1>.
+
+Results
+
+Exercise performance
+
+We con  rmed that our exercise protocol produced the intended increase in heart rate intensity ([Fig. 1B](#_page2_x34.00_y761.99)) and subjective ratings of exertion. There were no di  erences in exercise parameters between the sulpiride and placebo groups (all p>0.12;[Fig. 1B ](#_page2_x34.00_y761.99)and [Table 2](#_page3_x292.00_y76.99)), verifying that participants exercised to a similar level in both groups.
+
+Baseline TMS and SVIPT measures
+
+There werenodi  erences inbaseline TMS measures (allp>0.09; [Table 3](#_page3_x292.00_y266.99)) or baseline motor skill performance (average of block 1 and 2; t(20) =0.62,p=0.54), indicating that our neurophysiolog- ical and behavioral measures were adequately matched across groups. Maximum voluntary pinch contraction also did not di  er between placebo (M=44.66, SD=12.83) and sulpiride (M=48.11, SD=13.96) groups,t(20) =0.60,p=0.55.
+
+Table 2. Exercise performance by drug condition
+
+<a name="_page3_x292.00_y76.99"></a>Exercise measure Placebo Sulpiride [Test](#_page3_x300.00_y216.99) statistic[a](#_page3_x300.00_y216.99)![](2ja2gedy.003.png)![](2ja2gedy.004.png)
+
+Average cadence (RPM) 76.26–6.43 75.23–6.73t(20)= 0.37,p= 0.72 Average power (Watts) 90.35–20.90 91.39–21.91t(20)=0.11,p=0.91 Average power/weight 1.20–0.21 1.32–0.24 t(20)=1.29,p=0.21
+
+(Watts/kg)
+
+Peak heart rate reserve, % 0.91–0.09 0.95–0.07t(19)=1.26,p=0.22 Peak cadence (RPM) 111.36–18.47 113.09–12.93t(20)=0.25,p=0.80 Peak power (Watts) 271.00–102.00 321.55–118.37U=44.00, p=0.29 Peak power/weight 3.59–0.80 4.51–1.21 U=36.00, p=0.12
+
+(Watts/kg)
+
+Peak Perceived Exertion17.27–2.28 17.55–1.97 U=56.50, p=0.81
+
+(Borg)![](2ja2gedy.005.png)
+
+Values are means–standard deviation. RPM, revolutions per minute.
+
+a<a name="_page3_x300.00_y216.99"></a>Mann  WhitneyUtests were performed where there were signi cant deviations from normality.
+
+Table 3. Baseline transcranial magnetic stimulation (TMS) characteristics by drug condition
+
+<a name="_page3_x292.00_y266.99"></a>TMS measure Placebo Sulpiride [Test](#_page3_x300.00_y409.99) statistic[a](#_page3_x300.00_y409.99)![](2ja2gedy.006.png)![](2ja2gedy.007.png)
+
+RMT, %MSO 46.73–8.71 44.64–5.48U=72.00,p=0.47 AMT, %MSO 38.27–7.04 35.55–4.27t(20)=1.10,p=0.29 TS, %MSO 56.55–11.16 55.73–7.18t(20)=0.20,p=0.84 CS, %MSO 31.73–5.85 28.00–3.77t(20)=1.78,p=0.09 E:I balance 1.95–0.62 2.22–1.33 U=63.00, p=0.90 SICI ratio (C/NC) 0.48–0.07 0.48–0.07t(20)=0.05,p=0.96 ICF ratio (C/NC) 1.14–0.30 1.18–0.52t(20)=0.23,p=0.82 CME, mV 0.95–0.37 0.98–0.24 U=47.00, p=0.40![](2ja2gedy.008.png)
+
+Values are means–standard deviation. RMT, resting motor threshold; MSO, maximum stimulator output; AMT, active motor threshold; TS, test stimulus; CS, conditioning stimulus; CME, corticomotor excitability; SICI, short-interval intracortical inhibition; ICF, intracortical facilitation; E:I, excitation/inhibition balance. SICI and ICF data are expressed as a ratio of the amplitude of the conditioned (C) motor evoked potential to the amplitude of
+
+the nonconditioned (NC) motor evoked potential.
+
+a<a name="_page3_x300.00_y409.99"></a>Mann  WhitneyUtests were performed where there were signi cant deviations from normality.
+
+D2 antagonism by sulpiride blocked the exercise-induced changes in E:I balance and motor skill acquisition ([Fig. 2) ](#_page4_x34.00_y431.99)Sulpiride eliminated exercise-induced changes in the E:I balance (independent samples t test, t(20) =3.50, p=0.002, Cohen s d = 1.49;[Fig. 2A](#_page4_x34.00_y431.99)) and also resulted in attenuated learn- ing when acquiring the motor skill (independent samples t test, t(20) =3.19,p=0.005, Cohen s d=1.36;[Fig. 2B](#_page4_x34.00_y431.99)).
+
+Motor skill acquisition depends on the interaction between dopaminergic and motor cortical activity
+
+Our main result was a Drug Time Point E:I balance interac- tion,F(1,18) =6.12,p=0.02([Fig.3](#_page5_x34.00_y370.99)).Bonferroni-adjustedcontrasts showed a signi  cant di  erence in the linear trend between skill performance and the E:I balance at the start compared to the end
+
+of learning for sulpiride [b  =0.04, 95% CI (0.004, 0.08),p=0.03] but not for placebo [b  =−0.01, 95% CI (−0.06, 0.18),p=0.89]. In
+
+other words, motor skill acquisition was related to shifts in the E:I balance in the sulpiride condition, whereas this relationship was not evident in the placebo condition ([Fig. 3B](#_page5_x34.00_y370.99)).
+
+Next, we tested whether sulpiride moderated the relationship between the E:I balance and the acquisition of the motor skill ([Fig. 3C](#_page5_x34.00_y370.99)). This model showed that Drug and  E:I balance accounted for a signi  cant proportion of the variability in  skill,
+
+R=0.73, R2 =0.54, F =0.04, p=0.003. Critically, there was (3,18)
+
+also a Drug E:I balance interaction [coe  cient=0.11, standard error=0.04, 95% CI=(0.02, 0.19),t=2.47, p=0.02]. Follow-up analyses showed this e  ect was driven by the sulpiride condition [coe  cient=0.08, standard error=0.03, 95% CI=(0.02, 0.15),
+
+Curtinetal. ModulatorsofExerciseRelatedSkillAcquisition J.Neurosci.,May8,2024  44(19):e2028232024  
+
+![](2ja2gedy.009.jpeg)
+
+Figure 2. Sulpiride blocked exercise-induced changes in both the excitation/inhibition (E:I) balance (A) and motor skill learning (B). Note that Panel B represents the change in skill for each participant, calculated as thedi erence inskill between the last two blocks(i.e., 11 and 12; end of learning) and the rst two blocks (i.e., 1 and 2; start of learning). The group data fromall 12 blocks (mean+standard deviation) is shown inC.
+
+Curtinetal. ModulatorsofExerciseRelatedSkillAcquisition J.Neurosci.,May8,2024  44(19):e2028232024  
+
+<a name="_page4_x34.00_y431.99"></a>t=2.70, p=0.01] but not the placebo condition [coe  cient= −0.02, standard error=0.03, 95% CI=(−0.09, 0.04),t=−0.78, p=0.44], indicating that the D2 receptor had a moderating e  ect on the relationship between E:I balance and motor skill acquisition.
+
+Control analyses
+
+To determine whether the mild sedative e  ects of sulpiride impacted task performance ([Meyer-Lindenberg et al., 1997](#_page7_x300.00_y67.99)), we compared participants  subjective ratings of mood (i.e., Bond and Lader scores) ([Bond and Lader, 1974](#_page6_x300.00_y570.99)) using mixed ANOVA tests. The factors of alertness, calmness, and content- ness were used [(Eisenegger et al., 2014](#_page7_x43.00_y152.99); [Curtin et al., 2023](#_page6_x300.00_y712.99); [Mikus et al., 2023](#_page7_x300.00_y95.99)). This analysis showed that subjective ratings did not di  er across drug conditions (all p>0.12) (Fig, [4](#_page5_x34.00_y591.99)). Although participants reported decreased calmness immediately followingexercise(p<0.001)[(DietrichandAudi  ren,2011](#_page7_x43.00_y133.99)),this did not di  er between drug groups. Overall, these analyses sug- gest that our results are not explainable by a sedative e  ect of sulpiride.
+
+As an additional control analysis, we tested whether di  er- ences in subthreshold muscle activity prior to the TMS pulse (de  ned as a root mean square value ≤10 V in the resting state EMG trace) explained our TMS results. Importantly, mixed ANOVA tests showed no main e  ects of Drug or Drug Time interaction e  ects for SICI or ICF (allp>0.09), verifying that our E:I balance results are not attributable to subthreshold
+
+di  erences in the level of background resting state EMG across the two drug groups.
+
+Lastly, we examined whether the task version (i.e., SVIPTA and SVIPTB) in  uenced our results. While a between-subjects ANOVA showed a main e  ect of Task Version (p=0.006), there was no interaction between Task Version and Drug (p=0.95), indicating that task version did not contribute to the di  erence in motor skill acquisition across drug groups.
+
+Discussion
+
+We tested the e  ects of D2 receptor blockade on exercise-induced changes in motor cortical excitation/inhibition (E:I) balance and the acquisition of a novel motor skill using a randomized, double-blind, placebo-controlled design. Our key result was that skill acquisition was driven by an interaction betweentheD2receptorandE:Ibalance.Speci  cally,poorerskill acquisition was related to an attenuated shift in the E:I balance under D2 blockade, whereas this relationship was not evident in placebo. Critically, these  ndings were not attributable to group di  erences in exercise intensity, baseline motor perfor- mance, subjective mood ratings, background muscle activity, or the implicit force-cursor transformation used in our motor skill learning task. These results demonstrate that exercise modulates motor skill learning through a causal in  uence of D2 receptor activity on excitatory and inhibitory motor cortical circuits.
+
+Our  ndings buildonbehavioral  genetic studies[(Mangetal., 2017](#_page7_x43.00_y674.99);[Christiansen et al., 2019](#_page6_x300.00_y636.99)), which investigated the in  uence
+
+9  J.Neurosci.,May8,2024  44(19):e2028232024 Curtinetal.ModulatorsofExerciseRelatedSkillAcquisition
+
+![](2ja2gedy.010.jpeg)
+
+Figure3. Acquisitionofanovelmotorskilldependsoninteractionsbetweendopamineandchangesincorticalexcitation/inhibitionbalancefollowingexercise.Atthestartoflearning(A)the relationship between skill learning and the E:I balance did not di er by drug. In contrast, at the end of learning (B, C), there was a signi cant interaction between drug and the E:I balance. Speci cally,poorerskillacquisitionwasrelatedtoanattenuatedshiftintheE:Ibalanceinthesulpiridecondition,whereasthisrelationshipwasnotevidentintheplacebocondition.Shadederror band denotes the 95% con dence intervals for the line of best t.
+
+![](2ja2gedy.011.jpeg)
+
+<a name="_page5_x34.00_y370.99"></a>Figure 4. Bond and Lader Visual Analogue Scale (VAS) ratings as a function of drug and time. Data represent the mean (–1 standard deviation). Higher scores (range 0  100) on the three
+
+a ective dimensions (alertness, calmness, contentment) denote higher positive a ect (e.g., higher alertness). Ratings were collected immediately following drug ingestion (Time 0), with the subsequent ratings taken each hour thereafter (i.e., 1 h, 2 h, 3 h).
+
+`  `J.Neurosci.,May8,2024  44(19):e2028232024 Curtinetal.ModulatorsofExerciseRelatedSkillAcquisition
+
+<a name="_page5_x34.00_y591.99"></a>of D2-related genes on exercise and motor learning. These stud- ies showed that individuals with a genetic predisposition for reduced D2 receptor availability had diminished bene  ts of exer- cise on motor memory consolidation. However, a key limitation of these studies was that they lacked a true experimental design and did not assess the underlying neurophysiological mecha- nisms. These are pertinent considerations given that the results could be explained by other functions of the D2 receptor. For example, the D2 receptor is known to be critical in reward pro- cesses [(Eisenegger et al., 2014](#_page7_x43.00_y152.99)) and working memory ([Naef et al., 2017](#_page7_x300.00_y238.99)), both of which could have a  ected aspects of motor skill learning (e.g., see[Seidler et al., 2012](#_page7_x300.00_y693.99); [Galea et al., 2015](#_page7_x43.00_y323.99); [Holland et al., 2019](#_page7_x43.00_y427.99)). Critically, by administering a highly
+
+selective D2 agent, sulpiride [(Miyamoto et al., 2005](#_page7_x300.00_y133.99)), in a con- trolled prospective experimental design, we show that the D2 receptor drives exercise-primed motor skill acquisition. Additionally, by demonstrating a direct link to the motor cor- tical E:I balance, our results suggest that this e  ect is related to a speci  c function of D2 receptors on motor cortex neurophysiology.
+
+A question raised by our data is why there was a relationship between the E:I balance and exercise-induced changes in skill acquisition in the sulpiride but not the placebo condition. In the placebo condition, most people (82% ofparticipants) showed a positive change in the E:I balance (i.e., shift toward increased excitation and reduced inhibition), but the magnitude of these
+
+Curtinetal. ModulatorsofExerciseRelatedSkillAcquisition
+
+J.Neurosci.,May8,2024  44(19):e2028232024  11
+
+changes was not related to  skill. This result could be attributed to the E:I balance being a proxy taken from the motor cortex, whereas the SVIPT motor learning task relies on complex visuo- motor processing across a distributed network of brain regions ([Krakauer et al., 2019](#_page7_x43.00_y655.99)). In contrast, in the sulpiride condition, most people (82% of participants) showed a minimal or negative change in the E:I balance (i.e., a shift towards reduced excitation andincreased inhibition).Importantly, inpeople wheresulpiride had minimal e  ect on the E:I balance, this was associated with better learning, whereas in those with a more negative shift in the E:I balance, this was related to poorer skill acquisition. These results suggest that D2 receptor blockade disrupted exercise-induced shifts in the E:I balance and skill learning. An interesting avenue for future research will be to explore the fac- tors that determine individual di  erences in such responses, including for example, drug pharmacokinetics, dopamine geno- types, and D2 receptor availability. In addition, it would also be interesting to examine the relationship between the E:I balance and skill performance at the end of learning. [Mooney et al. (2021)](#_page7_x300.00_y219.99) recently showed a bidirectional change in motor excita- tion (measured by ICF) following short and longer skill acquisi- tion blocks. We did not repeat our TMS measures after skill learning due to our long experimental protocol (>4 h) and because of the reduced e  cacy of sulpiride past this time. Future work may consider adding a postlearning measure to explore how exercise and/or the D2 receptor a  ects learning- mediated changes in the E:I balance.
+
+From a mechanistic perspective, our  ndings have several potential explanations. A likely interpretation is that exercise-induced shifts in the E:I balance are regulated by D2 function([Curtinetal.,2023](#_page6_x300.00_y712.99)),whichtogethermodulatetheacqui- sitionofanovel motorskill.Thisaccountisconsistentwithsepa- rate lines of evidence showing that (1) transient shifts in the E:I balance are critical for memory acquisition and consolidation (e.g., see[Kida et al., 2016](#_page7_x43.00_y532.99); [Vallentin et al., 2016](#_page8_x300.00_y67.99); [Stavrinos and Coxon, 2017](#_page8_x43.00_y162.99);[Koolschijn et al., 2019](#_page7_x43.00_y627.99)) and (2) that motor cortical activity and motor plasticity are modulated by the D2 receptor (e.g., see[Meintzschel and Ziemann, 2006](#_page7_x43.00_y712.99); [Molina-Luna et al., 2009](#_page7_x300.00_y162.99); [Hosp et al., 2011](#_page7_x43.00_y465.99); [Monte-Silva et al., 2011](#_page7_x300.00_y190.99)). In addition to a  ecting motor cortical circuits, changes in the dopamine sys- tem could also alter other neural processes involved in motor learning. For example, exercise is known to modulateβ-band oscillatoryactivity[(DalMasoetal.,2018](#_page6_x300.00_y741.99))andthereleaseofbrain derived neurotrophic factor ([Saucedo Marquez et al., 2015](#_page7_x300.00_y636.99)), both of which areclosely tiedwith dopamine[(Bastioli et al.,2022](#_page6_x300.00_y465.99)) and motor learning ([Pollok et al., 2014](#_page7_x300.00_y390.99); [Espenhahn et al., 2019](#_page7_x43.00_y181.99)). Taken together, these lines of evidence highlight a mechanistic pathway through which dopaminergic activity involving the D2 receptor modulates exercise-primed motor learning.
+
+Clinically, exercise is widely prescribed to people with dopa- minergic disorders such as Parkinson s disease, based on strong evidence that it can alleviate motor symptomatology ([Schenkman et al., 2018](#_page7_x300.00_y665.99); [van der Kolk et al., 2019](#_page8_x300.00_y95.99)). While long- term trials examining the e  ects of regular exercise on motor learning in Parkinson s disease are lacking, several recent studies have shown that a single session of exercise can improve various stagesofmotorlearning(e.g.,[Steibetal.,2018](#_page8_x43.00_y190.99);[Wanneretal.,2021](#_page8_x300.00_y200.99)). However, the mechanisms driving these e  ects are poorly understood. Our results point to the D2 (indirect) cortico-basal ganglia-thalamo-cortical pathway [(Petzinger et al., 2013](#_page7_x300.00_y361.99)) and projections from the ventral tegmental area to motor cortex ([Hospetal.,2011](#_page7_x43.00_y465.99))ascandidatepathwaysthroughwhichexercise could a  ect motor learning. Although this account needs to be
+
+veri  ed in the Parkinson s disease population, a key strength of our results is that they are not confounded by other disease-related factors (e.g., age, dopaminergic medications, and involvement of nondopamine systems) that could obscure the precise mechanistic pathways involved in exercise-primed motor learning. In addition to these mechanistic insights, our results suggest that the timing of dopaminergic medications could also be a key factor in prescribing exercise to alleviate motor learning de  cits in Parkinson s disease.
+
+A limitation of the current study was that the size of our drug groupswasmodest(n=11sulpiride;n=11placebo).Strengthsof our study design that help to safeguard against this limitation are that we used a rigorous procedure (randomized, double-blind, placebo-controlled design), as well as a highly selective dopami- nergic agent, which we expected to produce strong neurophysio- logical [(Monte-Silva et al., 2011](#_page7_x300.00_y190.99)) and behavioral ([Eisenegger et al., 2014](#_page7_x43.00_y152.99); [Naef et al., 2017](#_page7_x300.00_y238.99); [Mikus et al., 2023](#_page7_x300.00_y95.99)) e  ects.
+
+Overall, our results demonstrate that D2 blockade alters the relationship between motor skill learning and excitatory and inhibitory (i.e., E:I balance) circuits within the motor cortex. These results provide evidence that exercise modulates motor skill learning through an interaction between dopaminergic activity and excitatory and inhibitory motor cortical circuits.
+
+References
+
+Andrews<a name="_page6_x300.00_y342.99"></a> SC, Curtin D, Hawi Z, Wongtrakun J, Stout JC, Coxon JP (2020)
+
+Intensity matters: high-intensity interval exercise enhances motor cortex
+
+plasticity more than moderate exercise. Cereb Cortex 30:101  112.           Andrews<a name="_page6_x300.00_y371.99"></a> SC, Kampf L, Curtin D, Hinder M, Wenderoth N, Stout JC, Coxon
+
+JP (2023) A single bout of moderate-intensity aerobic exercise improves
+
+motor learning in premanifest and early Huntington s disease. Front
+
+Psychol 14:1089333.
+
+Badgaiyan<a name="_page6_x300.00_y409.99"></a> RD, Fischman AJ, Alpert NM (2007) Striatal dopamine release in
+
+sequential learning. Neuroimage 38:549  556.
+
+Baetu<a name="_page6_x300.00_y427.99"></a> I, Burns NR, Urry K, Barbante GG, Pitcher JB (2015)
+
+Commonly-occurring polymorphisms in the COMT, DRD1 and DRD2 genes in  uence different aspects of motor sequence learning in humans. Neurobiol Learn Mem 125:176  188.
+
+Bastioli<a name="_page6_x300.00_y465.99"></a> G, Arnold JC, Mancini M, Mar AC, Gamallo-Lana B, Saadipour K,
+
+Chao MV, Rice ME (2022) Voluntary exercise boosts striatal dopamine release: evidence for the necessary and suf  cient role of BDNF. J Neurosci 42:4725  4736.
+
+Beeler<a name="_page6_x300.00_y503.99"></a> JA, Cao ZF, Kheirbek MA, Ding Y, Koranda J, Murakami M, Kang UJ,
+
+ZhuangX(2010)Dopamine-dependentmotorlearning:insightintolevo-
+
+dopa s long-duration response. Ann Neurol 67:639  647. Beeler<a name="_page6_x300.00_y532.99"></a>JA,FrankMJ,McDaidJ,AlexanderE,TurksonS,BernardezSarriaMS,
+
+McGeheeDS,ZhuangX(2012)Arolefordopamine-mediatedlearningin
+
+the pathophysiology and treatment of Parkinson s disease. Cell Rep 2:
+
+1747  1761.
+
+Bond<a name="_page6_x300.00_y570.99"></a> A, Lader M (1974) The use of analogue scales in rating subjective feel-
+
+ings. Br J Med Psychol 47:211  218.
+
+Borg<a name="_page6_x300.00_y589.99"></a> G (1970) Perceived exertion as an indicator of somatic stress. Scand J
+
+Rehabil Med 2:92  98.
+
+Cantarero<a name="_page6_x300.00_y608.99"></a> G, Tang B, O Malley R, Salas R, Celnik P (2013) Motor learning
+
+interference is proportional to occlusion of LTP-like plasticity. J Neurosci 33:4634  4641.
+
+Christiansen<a name="_page6_x300.00_y636.99"></a> L, Thomas R, Beck MM, Pingel J, Andersen JD, Mang CS,
+
+Madsen MA, Roig M, Lundbye-Jensen J (2019) The bene  cial effect of acute exercise on motor memory consolidation is modulated by dopami- nergic gene pro  le. J Clin Med 8:578.
+
+Coxon<a name="_page6_x300.00_y674.99"></a> JP, Peat NM, Byblow WD (2014) Primary motor cortex disinhibition
+
+during motor skill learning. J Neurophysiol 112:156  164.
+
+Craig<a name="_page6_x300.00_y693.99"></a> CL, et al. (2003) International physical activity questionnaire:
+
+12-country reliability and validity. Med Sci Sports Exerc 35:1381  1395. Curtin<a name="_page6_x300.00_y712.99"></a>D,TaylorEM,BellgroveMA,ChongTT,CoxonJP(2023)D2receptor
+
+blockade eliminates exercise-induced changes in cortical inhibition and
+
+excitation. Brain Stimul 16:727  733. Dal<a name="_page6_x300.00_y741.99"></a>MasoF,DesormeauB,BoudriasM-H,RoigM(2018)Acutecardiovascu-
+
+lar exercise promotes functional changes in cortico-motor networks
+
+13  J.Neurosci.,May8,2024  44(19):e2028232024 Curtinetal.ModulatorsofExerciseRelatedSkillAcquisition
+
+duringthe earlystages of motormemoryconsolidation. Neuroimage 174: Meyer-Linde<a name="_page7_x300.00_y67.99"></a>nberg A, Rammsayer T, Ulferts J, Gallhofer B (1997) The effects
+
+380  392. of sulpiride on psychomotor performance and subjective tolerance. Eur Dang<a name="_page7_x43.00_y86.99"></a> LC, Castrellon JJ, Perkins SF, Le NT, Cowan RL, Zald DH, Neuropsychopharmacol 7:219  223.
+
+Samanez-Larkin GR (2017) Reduced effects of age on dopamine D2 Mikus<a name="_page7_x300.00_y95.99"></a> N, Eisenegger C, Mathys C, Clark L, Muller U, Robbins TW, Lamm C,
+
+receptor levels in physically active adults. Neuroimage 148:123  129. Naef M (2023) Blocking D2/D3 dopamine receptors in male participants Dayan<a name="_page7_x43.00_y114.99"></a> E, Cohen LG (2011) Neuroplasticity subserving motor skill learning. increases volatility of beliefs when learning to trust others. Nat Commun
+
+Neuron 72:443  454. 14:4049.
+
+Dietrich<a name="_page7_x43.00_y133.99"></a> A, Audiffren M (2011) The reticular-activating hypofrontality Miyamoto<a name="_page7_x300.00_y133.99"></a> S, Duncan GE, Marx CE, Lieberman JA (2005) Treatments for
+
+(RAH) model of acute exercise. Neurosci Biobehav Rev 35:1305  1325. schizophrenia: a critical review of pharmacology and mechanisms of Eisenegger<a name="_page7_x43.00_y152.99"></a> C, Naef M, Linssen A, Clark L, Gandamaneni PK, M ller U, action of antipsychotic drugs. Mol Psychiatry 10:79  104.
+
+Robbins TW (2014) Role of dopamine D2 receptors in human reinforce- Molina-Luna<a name="_page7_x300.00_y162.99"></a> K, Pekanovic A, Rohrich S, Hertler B, Schubring-Giese M,
+
+ment learning. Neuropsychopharmacology 39:2366  2375. Rioult-PedottiMS,LuftAR(2009)Dopamineinmotorcortexisnecessary Espenhah<a name="_page7_x43.00_y181.99"></a>n S, van Wijk BCM, Rossiter HE, de Berker AO, Redman ND, for skill learning and synaptic plasticity. PLoS One 4:e7082.
+
+Rondina J, Diedrichsen J, Ward NS (2019) Cortical beta oscillations are Monte-Silva<a name="_page7_x300.00_y190.99"></a> K, Ruge D, Teo JT, Paulus W, Rothwell JC, Nitsche MA (2011)
+
+associated with motor performance following visuomotor learning. D2 receptor block abolishesθ burst stimulation-induced neuroplasticity
+
+Neuroimage 195:340  353. in the human motor cortex. Neuropsychopharmacology 36:2097  2102. Fisher<a name="_page7_x43.00_y219.99"></a> BE, Li Q, Nacca A, Salem GJ, Song J, Yip J, Hui JS, Jakowec MW, Mooney<a name="_page7_x300.00_y219.99"></a> RA, Bastian AJ, Celnik PA (2021) Training at asymptote stabilizes
+
+Petzinger GM (2013) Treadmill exercise elevates striatal dopamine D2 motor memories by reducing intracortical excitation. Cortex 143:47  56.
+
+receptor binding potential in patients with early Parkinson s disease. Naef<a name="_page7_x300.00_y238.99"></a> M, Muller U, Linssen A, Clark L, Robbins TW, Eisenegger C (2017)
+
+Neuroreport 24:509  514. Effects of dopamine D2/D3 receptor antagonism on human planning Fisher<a name="_page7_x43.00_y257.99"></a>BE, PetzingerGM,NixonK,HoggE, BremmerS,MeshulCK, Jakowec and spatial working memory. Transl Psychiatry 7:e1107.
+
+MW (2004) Exercise-induced behavioral recovery and neuroplasticity in Nitsche<a name="_page7_x300.00_y266.99"></a> MA, Kuo MF, Grosch J, Bergner C, Monte-Silva K, Paulus W (2009) the1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-lesionedmousebasal D1-receptor impact on neuroplasticity in humans. J Neurosci 29:2648 ganglia. J Neurosci Res 77:378  390. 2653.
+
+Floel<a name="_page7_x43.00_y295.99"></a> A, Breitenstein C, Hummel F, Celnik P, Gingert C, Sawaki L, Knecht S, Old<a name="_page7_x300.00_y295.99"></a>  eld RC (1971) The assessment and analysis of handedness: the
+
+Cohen LG (2005) Dopaminergic in  uences on formation of a motor Edinburgh inventory. Neuropsychologia 9:97  113.
+
+memory. Ann Neurol 58:121  130. Pearson-Fuhr<a name="_page7_x300.00_y314.99"></a>hopKM,MintonB,AcevedoD,ShahbabaB,CramerSC(2013) Galea<a name="_page7_x43.00_y323.99"></a>JM,MalliaE,RothwellJ, Diedrichsen J(2015)Thedissociableeffectsof Genetic variation in the human brain dopamine system in  uences motor
+
+punishment and reward on motor learning. Nat Neurosci 18:597  602. learning and its modulation by L-dopa. PLoS One 8:e61197.
+
+Guo<a name="_page7_x43.00_y342.99"></a> L, Xiong H, Kim JI, Wu YW, Lalchandani RR, Cui Y, Shu Y, Xu T, Ding Peters<a name="_page7_x300.00_y342.99"></a> AJ, Liu H, Komiyama T (2017) Learning in the rodent motor cortex.
+
+JB (2015) Dynamic rewiring of neural circuits in the motor cortex in Annu Rev Neurosci 40:77  97.
+
+mouse models of Parkinson s disease. Nat Neurosci 18:1299  1309. Petzinger<a name="_page7_x300.00_y361.99"></a> GM, Fisher BE, McEwen S, Beeler JA, Walsh JP, Jakowec MW Hayes<a name="_page7_x43.00_y371.99"></a>AF(2017)Introductiontomediation,moderation,andconditionalpro- (2013) Exercise-enhanced neuroplasticity targeting motor and cognitive
+
+cess analysis: a regression-based approach. Guilford publications. circuitry in Parkinson s disease. Lancet Neurol 12:716  726.
+
+Helmy<a name="_page7_x43.00_y390.99"></a> SA (2013) Therapeutic drug monitoring and pharmacokinetic com- Pollok<a name="_page7_x300.00_y390.99"></a> B, Latz D, Krause V, Butz M, Schnitzler A (2014) Changes of motor-
+
+partmental analysis of sulpiride double-peak absorption pro  le after cortical oscillations associated with motor learning. Neuroscience 275: oral administration to human volunteers. Biopharm Drug Dispos 34: 47  53.
+
+288  301. Reis<a name="_page7_x300.00_y418.99"></a> J, Schambra HM, Cohen LG, Buch ER, Fritsch B, Zarahn E, Celnik PA, Holland<a name="_page7_x43.00_y427.99"></a> P, Codol O, Oxley E, Taylor M, Hamshere E, Joseph S, Huffer L, Krakauer JW (2009) Noninvasive cortical stimulation enhances motor
+
+Galea JM (2019) Domain-speci  c working memory, but not skill acquisition over multiple days through an effect on consolidation.
+
+dopamine-related genetic variability, shapes reward-based motor learn- Proc Natl Acad Sci U S A 106:1590  1595.
+
+ing. J Neurrosci 39:9383  9396. Rioult-Pedot<a name="_page7_x300.00_y456.99"></a>ti MS, Friedman D, Donoghue JP (2000) Learning-induced LTP Hosp<a name="_page7_x43.00_y465.99"></a>JA,PekanovicA,Rioult-PedottiMS,LuftAR(2011)Dopaminergicpro- in neocortex. Science 290:533  536.
+
+jections from midbrain to primary motor cortex mediate motor skill Ro<a name="_page7_x300.00_y475.99"></a>bertsonCL,IshibashiK,ChudzynskiJ,MooneyLJ,RawsonRA,DolezalBA,
+
+learning. J Neurosci 31:2481  2487. CooperCB,BrownAK,MandelkernMA,LondonED(2016)Effectofexer- Jonasson<a name="_page7_x43.00_y494.99"></a> LS, Nyberg L, Axelsson J, Kramer AF, Riklund K, Boraxbekk CJ cise training on striatal dopamine D2/D3 receptors in methamphetamine
+
+(2019) Higher striatal D2-receptor availability in aerobically  t older users during behavioral treatment. Neuropsychopharmacology 41:
+
+adultsbutnon-selectiveinterventioneffectsafteraerobicversusresistance 1629  1636.
+
+training. Neuroimage 202:116044. Roig<a name="_page7_x300.00_y522.99"></a> M, Nordbrandt S, Geertsen SS, Nielsen JB (2013) The effects of cardio- Kida<a name="_page7_x43.00_y532.99"></a> H, Tsuda Y, Ito N, Yamamoto Y, Owada Y, Kamiya Y, Mitsushima D vascular exercise on human memory: a review with meta-analysis.
+
+(2016) Motor training promotes both synaptic and intrinsic plasticity of Neurosci Biobehav Rev 37:1645  1666.
+
+layer II/III pyramidal neurons in the primary motor cortex. Cereb Rosenkranz<a name="_page7_x300.00_y551.99"></a>K,KacarA,RothwellJC(2007)Differentialmodulation ofmotor
+
+Cortex 26:3494  3507. corticalplasticityandexcitabilityinearlyandlatephasesofhumanmotor Kohncke<a name="_page7_x43.00_y570.99"></a> Y, et al. (2018) Self-rated intensity of habitual physical activities is learning. J Neuroscis 27:12058  12066.
+
+positively associatedwith dopamine D2/3receptoravailability andcogni- Rossi<a name="_page7_x300.00_y579.99"></a> S, et al. (2009) Safety, ethical considerations, and application guidelines
+
+tion. Neuroimage 181:605  616. for the use of transcranial magnetic stimulation in clinical practice and Kolasinski<a name="_page7_x43.00_y598.99"></a> J, Hinson EL, Divanbeighi Zand AP, Rizov A, Emir UE, Stagg CJ research. Clin Neurophysiol 120:2008  2039.
+
+(2019) The dynamics of cortical GABA in human motor learning. Sacheli<a name="_page7_x300.00_y608.99"></a> MA, et al. (2019) Exercise increases caudate dopamine release and
+
+J Physiol 597:271  282. ventral striatal activation in Parkinson s disease. Mov Disord 34:1891 Koolschijn<a name="_page7_x43.00_y627.99"></a> RS, Emir UE, Pantelides AC, Nili H, Behrens TEJ, Barron HC 1900.
+
+(2019) The hippocampus and neocortical inhibitory engrams protect Saucedo<a name="_page7_x300.00_y636.99"></a> Marquez CM, Vanaudenaerde B, Troosters T, Wenderoth N (2015)
+
+against memory interference. Neuron 101:528  541 e526. High-intensity interval training evokes larger serum BDNF levels com- Krakauer<a name="_page7_x43.00_y655.99"></a> JW, Hadjiosif AM, Xu J, Wong AL, Haith AM (2019) Motor learn- pared with intense continuous exercise. J Appl Physiol 119:1363  1373.
+
+ing. Compr Physiol 9:613  663. Schenkman<a name="_page7_x300.00_y665.99"></a> M, et al. (2018) Effect of high-intensity treadmill exercise on M<a name="_page7_x43.00_y674.99"></a>ang CS, McEwen LM, MacIsaac JL, Snow NJ, Campbell KL, Kobor MS, motor symptoms in patients with de novo Parkinson disease: a phase 2
+
+Ross CJD, Boyd LA (2017) Exploring genetic in  uences underlying randomized clinical trial. JAMA Neurol 75:219  226.
+
+acute aerobic exercise effects on motor learning. Sci Rep 7:12123  Seidler<a name="_page7_x300.00_y693.99"></a> RD, Bo J, Anguera JA (2012) Neurocognitive contributions to motor
+
+12123\. skill learning: the role of working memory. J Mot Behav 44:445  453.        Meintzsche<a name="_page7_x43.00_y712.99"></a>lF,ZiemannU(2006)Modi  cationofpractice-dependentplastic- Sheehan<a name="_page7_x300.00_y712.99"></a> DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J, Weiller E,
+
+ity in human motor cortex by neuromodulators. Cereb Cortex 16:1106  Hergueta T, Baker R, Dunbar GC (1998) The Mini-international neuro-
+
+1115\. psychiatric interview (M.I.N.I.): the development and validation of a Meteyar<a name="_page7_x43.00_y740.99"></a>dL,DaviesRAI(2020)Bestpracticeguidanceforlinearmixed-effects structured diagnostic psychiatric interview for DSM-IV and ICD-10.
+
+models in psychological science. J Mem Lang 112:104092. J Clin Psychiatry 59(Suppl 20):22  33; quiz 34  57.
+
+Curtinetal. ModulatorsofExerciseRelatedSkillAcquisition
+
+J.Neurosci.,May8,2024  44(19):e2028232024  15
+
+Snow<a name="_page8_x43.00_y67.99"></a> NJ, Mang CS, Roig M, McDonnell MN, Campbell KL, Boyd LA (2016)
+
+The effect of an acute bout of moderate-intensity aerobic exercise on
+
+motor learning of a continuous tracking task. PLoS One 11:e0150039. Sommer<a name="_page8_x43.00_y95.99"></a> WH, Costa RM, Hansson AC (2014) Dopamine systems adaptation
+
+duringacquisitionandconsolidationofaskill.FrontIntegrNeurosci8:87. Sports<a name="_page8_x43.00_y114.99"></a> Medicine Australia GoA, Canberra, ACT (2011)Sports medicine
+
+Australia pre-exercise screening system.
+
+Statton<a name="_page8_x43.00_y133.99"></a> MA, Encarnacion M, Celnik P, Bastian AJ (2015) A single bout of
+
+moderate aerobic exercise improves motor skill acquisition. PLoS One 10:e0141393.
+
+Stavrinos<a name="_page8_x43.00_y162.99"></a> EL, Coxon JP (2017) High-intensity interval exercise promotes
+
+motor cortex disinhibition and early motor skill consolidation. J Cogn Neurosci 29:593  604.
+
+Steib<a name="_page8_x43.00_y190.99"></a> S, Wanner P, Adler W, Winkler J, Klucken J, Pfeifer K (2018) A single
+
+boutofaerobicexerciseimprovesmotorskillconsolidationinParkinson s disease. Front Aging Neurosci 10:328  328.
+
+Taylor<a name="_page8_x43.00_y219.99"></a> EM, Cadwallader CJ, Curtin D, Chong TT, Hendrikse JJ, Coxon JP
+
+(2024) High-intensity acute exercise impacts motor learning in healthy
+
+older adults. NPJ Sci Learn 9:9. Taylor<a name="_page8_x43.00_y247.99"></a>EM,CurtinD,ChongTT,BellgroveMA,CoxonJ(2023b)Theeffectof
+
+dopamine D2 receptor blockade on human motor skill learning. bioRxiv. Taylor<a name="_page8_x43.00_y266.99"></a>CM,FurmanDJ,BerryAS,WhiteRL,JagustWJ,D EspositoM,Jacobs
+
+EG (2023a) Striatal dopamine synthesis and cognitive  exibility differ
+
+between hormonal contraceptive users and nonusers. Cereb Cortex 33:
+
+8485  8495.
+
+Vallentin<a name="_page8_x300.00_y67.99"></a> D, Kosche G, Lipkind D, Long MA (2016) Inhibition protects
+
+acquired song segments during vocal learning in zebra  nches. Science 351:267  271.
+
+van<a name="_page8_x300.00_y95.99"></a> der Kolk NM, de Vries NM, Kessels RPC, Joosten H, Zwinderman AH,
+
+Post B, Bloem BR (2019) Effectiveness of home-based and remotely supervised aerobic exercise in Parkinson s disease: a double-blind, rando- mised controlled trial. Lancet Neurol 18:998  1008.
+
+Vu<a name="_page8_x300.00_y133.99"></a>čcković MG, Li Q, Fisher B, Nacca A, Leahy RM, Walsh JP, Mukherjee J,
+
+Williams C, Jakowec MW, Petzinger GM (2010) Exercise elevates dopa- mine D2 receptor in a mouse model of Parkinson s disease: in vivo imag- ing with [18F] fallypride. Mov Disord 25:2777  2784.
+
+Wanner<a name="_page8_x300.00_y171.99"></a> P, Cheng F-H, Steib S (2020) Effects of acute cardiovascular exercise
+
+on motor memory encoding and consolidation: a systematic review with meta-analysis. Neurosci Biobehav Rev 116:365  381.
+
+W<a name="_page8_x300.00_y200.99"></a>anner P, Winterholler M, Ga ner H, Winkler J, Klucken J, Pfeifer K,
+
+Steib S (2021) Acute exercise following skill practice promotes motor memory consolidation in Parkinson s disease. Neurobiol Learn Mem 178:107366.
+
+Yin<a name="_page8_x300.00_y238.99"></a> HH, Mulcare SP, Hilario MR, Clouse E, Holloway T, Davis MI, Hansson
+
+AC, Lovinger DM, Costa RM (2009) Dynamic reorganization of striatal circuits during the acquisition and consolidation of a skill. Nat Neurosci 12:333  341.
+
+Zi<a name="_page8_x300.00_y276.99"></a>emann U, IliaćTV, Pauli C, Meintzschel F, Ruge D (2004) Learning modi  es
+
+subsequent induction of long-term potentiation-like and long-term depression-likeplasticity inhuman motor cortex.J Neurosci24:1666  1672.

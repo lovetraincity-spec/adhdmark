@@ -1,0 +1,475 @@
+﻿Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+[TYPE  Case Report](https://www.frontiersin.org/journals/psychiatry#editorial-board)![](iy0pgo2q.001.png)![](iy0pgo2q.002.png)![](iy0pgo2q.003.png)![](iy0pgo2q.004.png)
+
+[PUBLISHED  10 March 2023](https://www.frontiersin.org/journals/psychiatry#editorial-board)
+
+[DOI  10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+![](iy0pgo2q.005.png)
+
+OPEN ACCESS
+
+EDITED BY
+
+Javier Quintero,  
+
+Hospital Universitario Infanta Leonor, Spain
+
+REVIEWED BY
+
+Matej Stuhec,  
+
+University of Maribor,  Slovenia
+
+Kazuhiko Yamamuro,  Nara Medical University,  Japan
+
+Victor Pereira-Sanchez, New York University,  United States
+
+\*CORRESPONDENCE
+
+Atsunori Sugimoto  
+
+![](iy0pgo2q.006.png)[ sugimoto.pedpsy@gmail.com](mailto:sugimoto.pedpsy@gmail.com)
+
+SPECIALTY SECTION
+
+This article was submitted to ADHD,  
+
+a section of the journal Frontiers in Psychiatry
+
+RECEIVED 07 November 2022 ACCEPTED 20 February 2023 PUBLISHED 10 March 2023
+
+CITATION
+
+Zain E, Sugimoto A, Egawa J and 
+
+Someya T (2023) Case report: Methylphenidate improved chronic pain in an adult patient with attention deficit hyperactivity disorder.
+
+*Front. Psychiatry* 14:1091399.
+
+[doi: 10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+COPYRIGHT
+
+' 2023 Zain, Sugimoto, Egawa and Someya. This is an open-access article distributed under the terms of the Cr[eative Commons Attribution License (CC BY).](http://creativecommons.org/licenses/by/4.0/) The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+[Case report: Methylphenidate improved chronic pain in an adult patient with attention deficit hyperactivity disorder](https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1091399/full)
+
+Ekachaeryanti Zain 1,2, Atsunori Sugimoto3,4\*, Jun Egawa 5 and Toshiyuki Someya 1
+
+1 Department of Psychiatry, Niigata University Graduate School of Medical and Dental Sciences, Niigata, Japan, 2 Department of Psychiatry, Faculty of Medicine, Mulawarman University, Samarinda, Indonesia, 
+
+3 Department of Community Psychiatric Medicine, Niigata University Graduate School of Medical and Dental Sciences, Niigata, Japan, 4 Department of Psychiatry, Niigata Psychiatric Center, Nagaoka, Japan, 5 Department of Psychiatry, Niigata University Medical and Dental Hospital, Niigata, Japan
+
+Introduction: Chronic pain remains a health problem that is difficult to treat adequately. Its unknown cause and complex comorbidity with other illnesses, including mental disorders, amplify the severity of symptoms, which consequently decreases  the  quality  of  life  of  patients  long  term.  In  our  clinical  practice, we  coincidentally  found  evidence  that  methylphenidate  (MPH)  effectively managed  chronic  pain  in  an  adult  patient  with  attention  deficit  hyperactivity disorder (ADHD). The effectiveness of MPH in the treatment of ADHD is well- established; however, its utility in treating pain remains unclear.
+
+Case presentation: We present a rare case of a 43-year-old male patient with 15 years of chronic idiopathic pain symptoms that did not adequately respond to standard pain management, such as acetaminophen, non-opioid analgesics, and muscle relaxers. Pain also persisted after treatments with antidepressants and an epidural block. Furthermore, symptoms worsened following several sessions of modified electroconvulsive therapy. After a thorough assessment at our child and adolescent psychiatric outpatient clinic, we confirmed a diagnosis of adult ADHD with a predominantly inattentive type. Considering this newly established diagnosis, we  prescribed  osmotic-release  oral  system  (OROS)  methylphenidate.  Within 1 month of treatment at a dose of 18 mg/day of OROS-MPH, the patient s chronic pain unexpectedly improved dramatically, and the patient no longer experienced pain symptoms. The dosage of OROS-MPH was titrated monthly, reaching 72 mg/ day as a maintenance dose, and ADHD symptoms improved after 4 months of treatment. The patient was followed up regularly for 7 years during his OROS-MPH treatment. No adverse effects were reported, including stimulant addiction. He was stable overall and functioned well in his daily activities. His pain never recurred.
+
+Conclusion: This case report suggests that MPH may be potentially effective in treating chronic pain. Further studies are needed to confirm whether MPH improved chronic pain simultaneously with or separately from the improvement in ADHD. Moreover, elucidating the anatomical sites and molecular pharmacological mechanisms related to the action of MPH in pain modulation and perception is essential. Such sites include the descending dopaminergic pain pathway and higher cortical areas. Furthering our understanding may reinforce the justification for treating chronic pain using MPH.
+
+KEYWORDS
+
+attention deficit hyperactivity disorder, adult ADHD, chronic pain, methylphenidate, case report
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+1. Introduction
+
+Chronic pain is defined as pain that persists or recurs for more than 3 months and affects one or more anatomical regions. It is associated  with  significant  psychological  distress  or  functional disability  in  daily  activity  and  cannot  be  explained  by  another underlying etiology ([1](#_page4_x61.00_y625.89)).  e prevalence is estimated to be 27.5% worldwide  ([2](#_page4_x61.00_y653.89)).  In  addition,  almost  half  of  all  patients  receive inadequate pain management, and more than half of treated patients respond poorly to pain medications ([3)](#_page4_x61.00_y681.89).
+
+Several studies have shown that difficult-to-treat chronic pain is o en associated with mental disorders ( [4](#_page4_x61.00_y709.89)). Around 25.93% of survey respondents had experienced chronic pain while having a mental disorder during their lifetime ([5)](#_page4_x61.00_y737.89). Attention deficit hyperactivity disorder (ADHD) is a common mental disorder that co-occurs with pain  disorders  ([3,](#_page4_x61.00_y681.89)  [5,](#_page4_x61.00_y737.89)  [6)](#_page4_x316.00_y625.89),  is  characterized  by  inattentive  and/or hyperactive  and  impulsive  behaviors,  and  typically  emerges  in childhood and can persist until adulthood ([7,](#_page4_x316.00_y661.89) [8)](#_page4_x316.00_y681.89). Adults with ADHD symptoms have a higher chance of experiencing non-specific pain ([9](#_page4_x316.00_y709.89)), which is likely due to altered pain perception [(10](#_page4_x316.00_y737.89),[ 11](#_page5_x61.00_y74.89)), motor inhibition problems,  and  heightened  muscle  tone  ([12)](#_page5_x61.00_y102.89).  Although  the pathophysiology  of  both  chronic  pain  and  ADHD  involves  the neurochemistry of regions that mediate cognitive and emotional functions ([13](#_page5_x61.00_y130.89)), the specific mechanisms remain unclear.
+
+Many patients with ADHD worldwide are not being treated as early as they should. A population-based study reported that less than 50% of patients with ADHD were treated with medication ([14](#_page5_x61.00_y158.89)). In comorbidity of ADHD and chronic pain, many patients may first present to the clinic with only pain complaints. Treatment that merely focuses on eliminating pain may obscure the diagnosis of ADHD. In addition, untreated ADHD can lead to worsened symptoms, including chronic pain, whereas optimal outcomes can only be achieved by treating all comorbidities that exist as contributors or consequences of chronic pain ([15](#_page5_x61.00_y186.89)).  e first-line treatment for adult patients with ADHD  is  psychostimulants  with  MPH  as  moderately  potent  in reducing ADHD symptoms ([16 ](#_page5_x61.00_y214.89)1[8).](#_page5_x61.00_y294.89) In addition to this property, some  studies  suggested  stimulants,  including  MPH,  may  have antinociceptive effects [(10](#_page4_x316.00_y737.89),[ 19](#_page5_x61.00_y330.89),[ 20](#_page5_x61.00_y366.89)). However, the MPH utility for pain has not been widely investigated.
+
+` `is case report presents an adult patient with comorbid chronic pain and ADHD. Regular treatment with MPH for his newly established ADHD diagnosis led to an unexpected and dramatic improvement in his 15 years of chronic pain complaints within 1 month. To our knowledge, there has only been one similar report of a pediatric case ([21](#_page5_x61.00_y402.89)). However, this is the first well-documented adult case of this association which follows the CARE Guidelines for reporting medical cases in the literature ([22](#_page5_x61.00_y430.89)). We also discuss whether the effectiveness of MPH in treating pain regardless of ADHD comorbidity was likely coincidental or a potentially consistent phenomenon.
+
+2. Case presentation
+
+A 43-year-old, unemployed, unmarried, university graduated, Japanese male patient presented with chronic pain that had recurred and persisted for 15 years at our child and adolescent psychiatric outpatient department a er being referred from an adult psychiatric unit for further ADHD examination in our tertiary hospital.
+
+History of chronic pain symptoms included somatic complaints of chest pain, back pain, and headache, which occurred alternately, and sometimes epigastric pain and nausea.  e pain was evaluated with a numeric rating scale (NRS) score, which ranged from 1 (no pain) to 10 (worst pain). Daily, his pain had ranged from 2/10 to 6/10, but mostly 5/10 on average.  e patient had histories of anxiety and depression that preceded pain and received antidepressants at a primary hospital. At the onset of pain, the patient visited a primary healthcare clinic due to chest pain, but the medical examinations revealed no abnormalities.
+
+Consequently, he visited various clinics and received various examinations and medications for the pain. However, none of the treatments  provided  optimal  outcomes.  He  was  referred  to  a psychiatrist  in  a  primary  hospital  and  was  also  prescribed immediate-release MPH (IR-MPH) because of suspected ADHD comorbidity.  With  IR-MPH,  the  patient  reported  dramatic improvement in his pain symptoms with an NRS score of 0/10 and discontinued  the  visit.  When  the  pain  symptoms  recurred, he visited the same hospital and received IR-MPH again, reducing the pain to an NRS of 3/10 on average. However, IR-MPH was discontinued following Japan s drug distribution regulation change, and  his  pain  worsened.  Subsequently,  he  was  referred  to  an anesthesiologist and received oral gabapentin and epidural block therapy, neither of which improved his pain.
+
+He was referred to an adult psychiatrist in our tertiary hospital. Physical  examination,  electroencephalography  (EEG),  and  head magnetic resonance imaging (MRI) showed no abnormalities.  e patient insisted on having MPH treatment because he believed it would  improve  his  pain  based  on  his  experience.  However,  his attending  psychiatrist  suspected  an  MPH  dependency  and  thus rejected his request.  e following year, he was hospitalized because his global assessment of functioning (GAF) score was 38 40, with chronic pain and depression. Following discharge, the physician recommended cognitive behavioral therapy (CBT), but he refused. Subsequently, he consented to modified electroconvulsive therapy (m-ECT), but his pain worsened a er the eighth m-ECT session. 
+
+` `erefore, it was discontinued.
+
+` `roughout  his  medication  history,  he  ever  received acetaminophen, non-opioid analgesics, and various combination of antidepressants. However, combinations of two or three drugs did not adequately alleviate his pain, and MPH is an exception.  e report on detailed medication history could not be obtained from previous physicians, clinics, and hospitals.
+
+` `ere was no family history of chronic pain or neurodevelopmental disorders.  e psychosocial history indicated that during childhood, the  patient  was  forgetful,  careless,  and  had  difficulty  organizing schoolwork tasks. He sometimes forgot his school bag when he went to school. He was not good at maintaining social behavior and had been called a  strange child . However, his parents overlooked his behavioral problems. His condition continued into adulthood, during which he o en changed jobs, was reprimanded for his inadvertent mistakes, and had relational conflicts in the workplace. Regarding the psychological aspects of this case, especially coping strategies, the patient prefers treatment with a clear scientific basis, and willingly received treatments such as drug therapy, nerve blocks, and ECT for his  chronic  pain.  On  the  other  hand,  the  patient  thought  that psychosocial treatments were ineffective, such as he refused cognitive- behavioral therapy.
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+When  we  examined  the  patient,  his  NRS  was  5/10,  with predominantly chest pain. Current physical, electrocardiography, chest  radiography,  and  laboratory  examinations  revealed  no abnormalities.  us, we suspected that his type of chronic pain was idiopathic. A thorough psychiatric examination led by a child and adolescent psychiatrist resulted in a diagnosis of ADHD.  e patient met  the  Diagnostic  and  Statistical  Manual  of  Mental  Disorders (DSM)-IV criteria for ADHD, predominantly inattentive type, in which eight symptoms of inattention had persisted for 15 years. We used the ADHD Rating Scale (RS)-IV [(23](#_page5_x61.00_y458.89)) with slight adjustments of items to suit an adult patient.  e inattention subscale score was 19.  e delay in the firm diagnosis of ADHD in this patient was likely due to the solely inattentive type, overlooked impact in life, and masked by pain comorbidity.  e Wechsler Adult Intelligence Scale-III (2[4) ](#_page5_x61.00_y486.89)scores consisted of verbal intelligence quotient (VIQ), performance IQ (PIQ), and full scale IQ (FIQ) were 130, 86, and 106, respectively. [Figure 1](#_page2_x39.00_y478.89) shows a timeline of his clinical symptoms and treatments.
+
+Following the ADHD diagnosis, OROS-MPH was started at a titrated dose of 18 mg/day, increasing monthly to 36 mg/day, 54 mg/ day, and up to 72 mg/day as the optimal maintenance dose. In addition, we treated his recurrent depressive episodes with amoxapine 100 mg/day. Flunitrazepam 2 mg/day and etizolam 0.25 mg/day were also prescribed for each of his secondary insomnia and anxiety symptoms in combination or separately when necessary.
+
+A er 1 month of OROS-MPH treatment, he reported no more pain with an NRS score of 0/10 and could resume light activities. A er 4  months,  he  reported  chronic  pain  alleviation  and  inattentive symptoms  improvement  at  work.  His  ADHD-RS-IV  inattention subscale score was 14.
+
+` `e patient has been followed up for the last 7 years and is currently in  peak performance  condition, functioning well in daily activities and attending employment support facilities twice per week. 
+
+His current GAF score is 55, his ADHD-RS-IV inattention subscale score is 11, and his NRS score is 0/10. Regular addiction evaluation using  the  DSM-5  criteria  showed  no  evidence  of  stimulant  use disorder, and the patient adhered to the recommended use and dosage of MPH and indicated no self-medications.  e regular evaluation through anamnesis indicated that the patient could tolerate MPH well, no adverse effects were reported, and his pain never recurred.
+
+3. Discussion
+
+Adult patients with ADHD o en initially present to the clinic with comorbid  symptoms,  which  results  in  difficulties  in  clearly differentiating ADHD during early assessments ([25](#_page5_x61.00_y514.89)). Moreover, not only delayed diagnosis but also treatment is o en seen in clinical practice ([14](#_page5_x61.00_y158.89)). In this case, the prolonged treatments focused on eliminating pain may have obscured ADHD symptoms and caused delayed ADHD treatment. Increasing evidence suggests that ADHD patients experience chronic pain throughout life because they tend to be more sensitive to it ([9](#_page4_x316.00_y709.89)  [11](#_page5_x61.00_y74.89),[ 26](#_page5_x61.00_y550.89)). Moreover, a previous study reported that ADHD increases the risk of chronic pain ([9](#_page4_x316.00_y709.89)), and another study reported that 72.5% of adult patients with chronic pain are newly diagnosed with ADHD ([27](#_page5_x61.00_y578.89)). Previous reports have discussed the association between MPH and pain ([10](#_page4_x316.00_y737.89),[ 11](#_page5_x61.00_y74.89),[ 21](#_page5_x61.00_y402.89),[ 28](#_page5_x61.00_y606.89)). Some studies only reported MPH effects for altering the pain perception of ADHD patients without chronic pain ([10,](#_page4_x316.00_y737.89) [11)](#_page5_x61.00_y74.89), focused on pediatric and adolescent patients ([11](#_page5_x61.00_y74.89),[ 21](#_page5_x61.00_y402.89)), and addressed the risks of stimulant and opioid  abuse  in  ADHD  patients  related  to  pain  ([28)](#_page5_x61.00_y606.89).  However, although from a single case, this report differs from existing literature where we have newly reported the potent effect of MPH in eliminating chronic pain in an adult patient with ADHD. In this case, chronic pain may have been a comorbid condition of ADHD or a completely 
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+![](iy0pgo2q.007.jpeg)
+
+<a name="_page2_x39.00_y478.89"></a>FIGURE 1![](iy0pgo2q.008.png)
+
+Timeline of clinical symptoms and therapies. ADHD, attention deficit hyperactivity disorder; NRS, numeric rating scales for pain; MPH, methylphenidate; IR-MPH, immediate-release methylphenidate; OROS-MPH, osmotic-release oral system methylphenidate; HAM-D, Hamilton depression rating scale; M-ECT, modified electroconvulsive therapy; ADHD-RS-IV, ADHD rating scale IV; IA, inattentive.
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+independent condition. Regardless, MPH was effective in treating this condition. We offer several potential mechanisms in this regard.
+
+Regarding  neurotransmission  in  chronic  pain,  persistent alterations may occur in the descending modulatory pain pathway without physical abnormalities ([29](#_page5_x61.00_y642.89)).  is pathway is mediated by monoamine  neurotransmitters,  such  as  serotonin  (5-HT), norepinephrine (NE), and dopamine (DA), and inhibits or facilitates pain stimuli transmission at the dorsal horn level ([30](#_page5_x61.00_y670.89)). Following the application of an acute pain stimulus, the descending pain circuitry adjusts its plasticity according to its ability to increase pain inhibition. However, disruption to this inhibitory mechanism results in persistent pain  ([29](#_page5_x61.00_y642.89)).  In  contrast  to  5-HT  and  NE,  the  role  of  DA  in  the descending monoaminergic pain pathway is poorly understood.
+
+Evidence has shown that the descending dopaminergic pathway projecting from the hypothalamic A11 nucleus to the spinal dorsal horn  or  spinal  trigeminal  nucleus  caudalis  plays  a  role  in  pain modulation ([31](#_page5_x61.00_y698.89)), where activation of the A11 nucleus is mediated by D2-like receptors that induce an anti-nociceptive effect ([32](#_page5_x61.00_y734.89)). A study has reported that decreased DA levels likely contribute to chronic pain symptoms  in  Parkinson s  disease  ([33](#_page5_x316.00_y74.89)),  and  levodopa  may  also be effective in alleviating polyneuropathic pain ([34](#_page5_x316.00_y94.89)). Some studies using positron emission tomography found that patients with chronic pain syndromes may be characterized by deficits in presynaptic DA activity [(35](#_page5_x316.00_y122.89)) and tonic DA levels [(36](#_page5_x316.00_y150.89)) or disruptions in DA responses to noxious stimulation ([37](#_page5_x316.00_y186.89)). Given these findings, this patient may have had a DA imbalance that simultaneously caused ADHD and chronic  pain  due  to  descending  dopaminergic  pain  pathway disruptions ([38](#_page5_x316.00_y214.89),[ 39](#_page5_x316.00_y242.89)).
+
+Oral MPH significantly increases extracellular DA in the brain by blockade of the DA transporter, which inhibits reuptake and triggers the amplification of released DA ([40](#_page5_x316.00_y270.89)). Although we did not find evidence  of  direct  MPH  action  sites  along  the  descending  pain pathways, we speculate that MPH increases DA, activating the A11 nucleus to inhibit noxious stimuli.  is effect is mediated by D2 receptors, which have a higher affinity to low DA concentrations [(30](#_page5_x61.00_y670.89)). In addition, A11 lies adjacent to A10 in the ventral tegmental area (VTA) of the hypothalamus and is a neuroanatomical site of MPH action ([41](#_page5_x316.00_y306.89)). DA may increase because MPH inhibits DA reuptake by blocking NE transporters, which have a high affinity for DA in specific brain regions ([42](#_page5_x316.00_y334.89)).  ere was also a case of an adult patient with ADHD  and  generalized  pain  from  fibromyalgia  syndrome  who responded dramatically to atomoxetine, a selective NE reuptake inhibitor, with a 60% pain reduction ([43](#_page5_x316.00_y370.89)). However, as NE and 5-HT increase  descending  pain  inhibition  ([30)](#_page5_x61.00_y670.89),  antidepressant  drugs possessing properties that inhibit 5-HT and NE reuptake initially prescribed to this patient did not alleviate the pain.  erefore, this patient s  pain  was  likely  related  primarily  to  the  descending dopaminergic pathway.
+
+From a functional neuroimaging perspective, the descending pain pathway integrates cognitive and emotional outputs from higher cortical areas, such as the anterior cingulate cortex (ACC), insular cortex (IC), and amygdala ([29](#_page5_x61.00_y642.89)). It is suggested that the mesolimbic DA pathway, which is involved in the reward system, is essential in pain modulation and perception ([44 ](#_page5_x316.00_y398.89)4[6),](#_page5_x316.00_y454.89) which may be impaired in ADHD ([38](#_page5_x316.00_y214.89)). Furthermore, the amygdala is an essential structure in pain  integration  ([47)](#_page5_x316.00_y474.89),  and  the  IC  contributes  to  the  affective- motivational aspects of pain sensory-discriminative functions and simultaneously activates cognitive areas, such as the prefrontal cortex 
+
+(PFC) and ACC, to shape pain perception ([48)](#_page5_x316.00_y494.89).  ese areas are hyperactivated in ADHD patients in response to negative emotional stimuli ([49](#_page5_x316.00_y522.89)), including pain. Moreover, alterations in gray matter density, connectivity, and activity in mesolimbic areas, PFC, and ACC are characteristics of both chronic pain ([50](#_page5_x316.00_y550.89), [51](#_page5_x316.00_y578.89)) and ADHD ([52](#_page5_x316.00_y606.89)). In ADHD patients, MPH improves the hypodopaminergic state of the PFC and limbic system [(53](#_page5_x316.00_y642.89)) and increases DA activity in the parietal cortex, PFC, and striatum, which regulate cognitive functions ([54](#_page5_x316.00_y670.89),[ 55](#_page5_x316.00_y706.89)).  erefore, MPH may indirectly improve the integration of cognitive and emotional outputs during pain modulation and perception, particularly in the abovementioned brain regions.
+
+Although MPH use as an analgesic for pain treatment remains uncommon  and  off-label,  several  studies  have  investigated  its antinociceptive effect. A double-blind, randomized controlled study showed that the antinociceptive effect of MPH significantly increases the cold pain threshold and tolerance in healthy men ([19)](#_page5_x61.00_y330.89). In addition, a study in traumatic brain injury patients reported a slight decrease in pain intensity following a standard dose of MPH ([20](#_page5_x61.00_y366.89)). Another study reported that in one of two patients undergoing ongoing opioid treatment for cancer, the pain intensity and frequency decreased during a 3-week observation with MPH combination therapy ([56)](#_page5_x316.00_y742.89). Other studies have reported that ADHD is less prevalent than other mental disorders, such as depression, anxiety, and substance use disorders, in chronic pain populations ([5, ](#_page4_x61.00_y737.89)[57, ](#_page6_x61.00_y74.89)[58)](#_page6_x61.00_y102.89). In this patient, chronic pain improved dramatically within 1 month, followed by improvement  in  attention  a er  4  months.  e  varied  course  of improvement suggests that the mechanisms underlying the effect of MPH in treating chronic pain and ADHD may be independent.
+
+Although potentially effective, the use of MPH requires caution because of the side effects of abuse and addiction [(59](#_page6_x316.00_y74.89)).  e benefits of offering patients MPH as a primary therapy must outweigh the risks. Although this patient was initially suspected of having an MPH addiction,  the  course  of  illness  and  substantial  long-term  pain management ruled out addiction. Apart from that, viewing this case from the psychological aspect, another possibility to consider is the psychological nature of placebo analgesia. However, the placebo effect could also be physiological, in which the dopaminergic systems are likely implicated in placebo pain relief [(60](#_page6_x316.00_y102.89)). In addition, because ADHD is a comorbidity in this case, thus a dopaminergic system abnormality is still more likely to be suspected. However, assuming the placebo effect, we cannot further provide the scientific explanation that MPH exclusively exhibited such an effective outcome compared to other treatments previously given.
+
+We acknowledge the limitation that this report is merely based on a single case whose outcome may not be generalized to all cases. Although we have shown and discussed the possible mechanisms by which MPH alleviates chronic pain, current evidence is insufficient because of the comorbidity with ADHD.  us further research in this field is required. In addition, we could not obtain precise and detailed information entirely about the diagnosis and medication before the patient was referred to us. However, the information presented by the patient was sufficient to understand the course of the disease.
+
+In conclusion, MPH may be potentially effective in treating chronic pain. It is suggested that physicians should be aware of a potential ADHD diagnosis when managing patients with chronic pain with inadequate response to treatment. Conversely, in the case of MPH independently alleviating chronic pain, randomized control trial (RCT) is needed in patients with pain without ADHD, following 
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+the result of a previous RCT study that reported the antinociceptive effect  of  MPH,  which  significantly  increased  the  threshold  and tolerance to cold pain in healthy subjects ([19](#_page5_x61.00_y330.89)). Finally, determining the anatomical sites and molecular pharmacological mechanisms underlying the effect of MPH on pain modulation and perception, such  as  the  descending  dopaminergic  pain  pathway  and  higher cortical areas, may justify treating chronic pain using MPH.
+
+4. Patient perspective
+
+Before treatment, the patient described pain mainly in his chest. At its worst, his pain lasted all day, and he was sometimes unable to sleep. While in pain, he was unable to concentrate on daily activities. A er OROS-MPH treatment, the pain disappeared completely. His pain symptoms never recurred, even on days when he forgot to take OROS-MPH.
+
+Furthermore, his ADHD symptoms improved. He makes fewer mistakes, is less forgetful, and can concentrate on tasks better. He does not  experience  the  short-term  craving-like  sensations  with OROS-MPH that he experienced with IR-MPH and feels better about taking  it  long-term  without  side  effects.  Overall,  he  considers OROS-MPH a necessary drug.
+
+Data availability statement
+
+` `e original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+Ethics statement
+
+Ethical approval was not provided for this study on human participants because this case report does not require ethical or institutional  review  board  approval,  and  only  written  informed consent is required from the patient for the publication of this paper. We obtained written informed consent from the patient for the publication of this case report with confidentiality by removing any identifiable data.
+
+References
+
+1. Treede,<a name="_page4_x61.00_y625.89"></a>  RD,  Rief,  W,  Barke,  A,  Aziz,  Q,  Bennett,  MI,  Benoliel,  R,  et  al.  A 
+
+<a name="_page4_x316.00_y625.89"></a>classification of chronic pain for ICD-11. Pain. (2015) 156:1003 7. doi: [10.1097/j. pain.0000000000000160](https://doi.org/10.1097/j.pain.0000000000000160)
+
+2. Zimmer, Z, Fraser, K, Grol-Prokopczyk, H, and Zajacova, A. A global study of pain 
+
+<a name="_page4_x316.00_y661.89"></a>prevalence across 52 countries: Examining the role of country-level contextual factors. Pain. (2022) 163:1740 50. doi:[ 10.1097/j.pain.0000000000002557](https://doi.org/10.1097/j.pain.0000000000002557)
+
+3. Breivik,<a name="_page4_x61.00_y681.89"></a> H, Collett, B, Ventafridda, V, Cohen, R, and Gallacher, D. Survey of chronic 
+
+<a name="_page4_x316.00_y681.89"></a>pain in Europe: Prevalence, impact on daily life, and treatment.  Eur J Pain. (2006) 10:287. doi:[ 10.1016/j.ejpain.2005.06.009](https://doi.org/10.1016/j.ejpain.2005.06.009)
+
+4. Beckman,<a name="_page4_x61.00_y709.89"></a> NJ, and Tobin, MB. Psychiatric comorbidities in chronic pain syndromes 
+
+<a name="_page4_x316.00_y709.89"></a>In: M Anitescu, editor. Pain management: A problem-based learning approach. New York, NY: Oxford Academic (2018)
+
+5. Tegethoff,<a name="_page4_x61.00_y737.89"></a> M, Belardi, A, Stalujanis, E, and Meinlschmidt, G. Comorbidity of mental 
+
+<a name="_page4_x316.00_y737.89"></a>disorders  and  chronic  pain:  chronology  of  onset  in  adolescents  of  a  National Representative Cohort. J Pain. (2015) 16:1054 64. doi:[ 10.1016/j.jpain.2015.06.009](https://doi.org/10.1016/j.jpain.2015.06.009)
+
+Author contributions
+
+EZ and AS conceptualized the study, collected medical record data, and wrote the manuscript. EZ performed the literature research review. AS was the lead treating clinician. JE and TS reviewed and supervised the manuscript. All authors contributed to and approved the final version.
+
+Funding
+
+` `is study was supported by a research fund (156195-J15F0001) commissioned by the Niigata Prefectural Hospital Bureau to the Department of Community Psychiatric Medicine, Niigata University Graduate School of Medical and Dental Sciences.
+
+Acknowledgments
+
+We would like to express our gratitude to the Niigata Prefectural Hospital Bureau for the research fund. We thank the patient for his cooperation. We thank Sarina Iwabuchi, PhD, from Edanz ([https:// jp.edanz.com/ac](https://jp.edanz.com/ac)) for editing a dra  of this manuscript.
+
+Conflict of interest
+
+` `e authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+` `e reviewer VP-S declared a past co-authorship with the author EZ to the handling editor.
+
+Publisher s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+6. Grachev, ID, Fredickson, BE, and Apkarian, AV. Dissociating anxiety from pain: 
+
+mapping the neuronal marker N-acetyl aspartate to perception distinguishes closely interrelated characteristics of chronic pain. Mol Psychiatry. (2001) 6:256 8. doi:[ 10.1038/ sj.mp.4000834](https://doi.org/10.1038/sj.mp.4000834)
+
+7. <a name="_page4_x61.00_y653.89"></a>American Psychiatric Association. Diagnostic and statistical manual of mental 
+
+disorders: DSM-5. Arlington: American Psychiatric Association (2013).
+
+8. Solanto, MV. Dopamine dysfunction in AD/HD: integrating clinical and basic 
+
+neuroscience  research.  Behav  Brain  Res.  (2002)  130:65 71.  doi:  [10.1016/ s0166-4328(01)00431-4](https://doi.org/10.1016/s0166-4328\(01\)00431-4)
+
+9. Stickley, A, Koyanagi, A, Takahashi, H, and Kamio, Y. ADHD symptoms and pain 
+
+among  adults  in  England.  Psychiatry  Res.  (2016)  246:326 31.  doi:  [10.1016/j. psychres.2016.10.004](https://doi.org/10.1016/j.psychres.2016.10.004)
+
+10. Treister, R, Eisenberg, E, Demeter, N, and Pud, D. Alterations in pain response 
+
+are partially reversed by methylphenidate (Ritalin) in adults with attention deficit hyperactivity disorder (ADHD). Pain Pract. (2015) 15:4 11. doi:[ 10.1111/papr.12129](https://doi.org/10.1111/papr.12129)
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+11. Wolff,<a name="_page5_x61.00_y74.89"></a> N, Rubia, K, Knopf, H, H lling, H, Martini, J, Ehrlich, S, et al. Reduced pain 
+
+<a name="_page5_x316.00_y74.89"></a>perception in children and adolescents with ADHD is normalized by methylphenidate. Child Adolesc Psychiatry Ment Health. (2016) 10:24. doi:[ 10.1186/s13034-016-0112-9](https://doi.org/10.1186/s13034-016-0112-9)
+
+12. Stray, LL, Kristensen,  , Lomeland, M, Skorstad, M, Stray, T, and Tłnnessen, FE. 
+
+Motor regulation problems and pain in adults diagnosed with ADHD.  Behav Brain Funct. (2013) 9:18. doi:[ 10.1186/1744-9081-9-18](https://doi.org/10.1186/1744-9081-9-18)
+
+13. <a name="_page5_x316.00_y122.89"></a>Apkarian,  AV,  Bushnell,  MC,  Treede,  RD,  and  Zubieta,  JK.  Human  brain 
+
+mechanisms of pain perception and regulation in health and disease. Eur J Pain. (2005) 9:463 84. doi: [10.1016/j.ejpain.2004.11.001](https://doi.org/10.1016/j.ejpain.2004.11.001)
+
+14. <a name="_page5_x316.00_y150.89"></a>Stuhec, M, and Locatelli, I. Age-related pharmacotherapy of attention deficit 
+
+hyperactivity disorder in Slovenia in children and adolescents: A population-based study. Eur Psychiatry. (2017) 42:129 33. doi:[ 10.1016/j.eurpsy.2017.01.002](https://doi.org/10.1016/j.eurpsy.2017.01.002)
+
+15. Siddall,<a name="_page5_x61.00_y186.89"></a> PJ, and Cousins, MJ. Persistent pain as a disease entity: Implications for 
+
+<a name="_page5_x316.00_y186.89"></a>clinical  management.  Anesth  Analg.  (2004)  99:510 20.  doi:  [10.1213/01. ANE.0000133383.17666.3A](https://doi.org/10.1213/01.ANE.0000133383.17666.3A)
+
+16. Bolea-Alamaæac,<a name="_page5_x61.00_y214.89"></a> B, Nutt, DJ, Adamou, M, Asherson, P, Bazire, S, Coghill, D, et al. 
+
+<a name="_page5_x316.00_y214.89"></a>British  Association  for  Psychopharmacology.  Evidence-based  guidelines  for  the pharmacological management of attention deficit hyperactivity disorder: update on recommendations  from  the  British  Association  for  Psychopharmacology.  J Psychopharmacol. (2014) 28:179 203. doi:[ 10.1177/0269881113519509](https://doi.org/10.1177/0269881113519509)
+
+17. Stuhec, M, Lukić, P, and Locatelli, I. Efficacy, acceptability, and tolerability of 
+
+Lisdexamfetamine, mixed amphetamine salts, methylphenidate, and Modafinil in the <a name="_page5_x316.00_y270.89"></a>treatment of attention-deficit hyperactivity disorder in adults: a systematic review and meta-analysis. Ann Pharmacother. (2019) 53:121 33. doi:[ 10.1177/1060028018795703](https://doi.org/10.1177/1060028018795703)
+
+18. Faraone, SV, Spencer, T, Aleardi, M, Pagano, C, and Biederman, J. Meta-analysis 
+
+of the efficacy of methylphenidate for treating adult attention-deficit/hyperactivity <a name="_page5_x316.00_y306.89"></a>disorder.  J  Clin  Psychopharmacol.  (2004)  24:24 9.  doi:  [10.1097/01. jcp.0000108984.11879.95](https://doi.org/10.1097/01.jcp.0000108984.11879.95)
+
+19. Pud,  D,  Broitman,  E,  Hameed,  O,  Suzan,  E,  Aviram,  J,  Haddad,  M,  et  al. 
+
+<a name="_page5_x316.00_y334.89"></a>Methylphenidate attenuates the response to cold pain but not to aversive auditory stimuli in healthy human: a double-blind randomized controlled study.  Pain Rep. (2017) 2:e593. doi:[ 10.1097/PR9.0000000000000593](https://doi.org/10.1097/PR9.0000000000000593)
+
+20. Johansson,  B,  Wentzel,  AP,  AndrØll,  P,  Odenstedt,  J,  Mannheimer,  C,  and 
+
+<a name="_page5_x316.00_y370.89"></a>R nnb ck, L. Evaluation of dosage, safety and effects of methylphenidate on post- traumatic brain injury symptoms with a focus on mental fatigue and pain. Brain Inj. (2014) 28:304 10. doi:[ 10.3109/02699052.2013.865267](https://doi.org/10.3109/02699052.2013.865267)
+
+21. Wiwe Lipsker, C, von Heijne, M, B lte, S, and Wicksell, RK. A case report and 
+
+literature review of autism and attention deficit hyperactivity disorder in paediatric chronic pain. Acta Paediatr. (2018) 107:753 8. doi:[ 10.1111/apa.14220](https://doi.org/10.1111/apa.14220)
+
+33. Wood, PB. Role of central dopamine in pain and analgesia. Expert Rev Neurother. 
+
+(2008) 8:781 97. doi:[ 10.1586/14737175.8.5.781](https://doi.org/10.1586/14737175.8.5.781)
+
+34. Ertas,<a name="_page5_x61.00_y102.89"></a><a name="_page5_x316.00_y94.89"></a> M, Sagduyu, A, Arac, N, Uludag, B, and Ertekin, C. Use of levodopa to 
+
+relieve pain from painful symmetrical diabetic polyneuropathy. Pain. (1998) 75:257 9. doi: [10.1016/s0304-3959(98)00003-7](https://doi.org/10.1016/s0304-3959\(98\)00003-7)
+
+35. J<a name="_page5_x61.00_y130.89"></a>  skel inen, SK, Rinne, JO, Forssell, H, Tenovuo, O, Kaasinen, V, Sonninen, P, 
+
+et al. Role of the dopaminergic system in chronic pain -- a fluorodopa-PET study. Pain. (2001) 90:257 60. doi:[ 10.1016/S0304-3959(00)00409-7](https://doi.org/10.1016/S0304-3959\(00\)00409-7)
+
+36. Wood,<a name="_page5_x61.00_y158.89"></a> PB, Patterson, JC 2nd, Sunderland, JJ, Tainter, KH, Glabus, MF, and 
+
+Lilien,  DL.  Reduced  presynaptic  dopamine  activity  in  fibromyalgia  syndrome demonstrated with positron emission tomography: a pilot study. J Pain. (2007) 8:51 8. doi: [10.1016/j.jpain.2006.05.014](https://doi.org/10.1016/j.jpain.2006.05.014)
+
+37. Wood, PB, Schweinhardt, P, Jaeger, E, Dagher, A, Hakyemez, H, Rabiner, EA, et al. 
+
+Fibromyalgia patients show an abnormal dopamine response to pain. Eur J Neurosci. (2007) 25:3576 82. doi:[ 10.1111/j.1460-9568.2007.05623.x](https://doi.org/10.1111/j.1460-9568.2007.05623.x)
+
+38. Kerekes, N, SanchØz-PØrez, AM, and Landry, M. Neuroinflammation as a possible 
+
+link  between  attention-deficit/hyperactivity  disorder  (ADHD)  and  pain.  Med Hypotheses. (2021) 157:110717. do[i: 10.1016/j.mehy.2021.110717](https://doi.org/10.1016/j.mehy.2021.110717)
+
+39. Li,<a name="_page5_x316.00_y242.89"></a> C, Liu, S, Lu, X, and Tao, F. Role of descending dopaminergic pathways in pain 
+
+modulation.  Curr  Neuropharmacol.  (2019)  17:1176 82.  doi:  [10.2174/157015 9X17666190430102531](https://doi.org/10.2174/1570159X17666190430102531)
+
+40. Volkow, ND, Wang, G, Fowler, JS, Logan, J, Gerasimov, M, Maynard, L, et al. 
+
+` `erapeutic doses of Oral methylphenidate significantly increase extracellular dopamine 
+
+<a name="_page5_x61.00_y294.89"></a>in  the  human  brain.  J  Neurosci.  (2001)  21:RC121.  doi: [10.1523/JNEUROSCI.](https://doi.org/10.1523/JNEUROSCI.21-02-j0001.2001) [21-02-j0001.2001](https://doi.org/10.1523/JNEUROSCI.21-02-j0001.2001)
+
+41. Jones, Z, and Dafny, N. Dose response effect of methylphenidate on ventral 
+
+tegmental area neurons and animal behavior.  Brain Res Bull. (2013) 96:86 92. doi: <a name="_page5_x61.00_y330.89"></a>[10.1016/j.brainresbull.2013.03.004](https://doi.org/10.1016/j.brainresbull.2013.03.004)
+
+42. Hannestad,  J,  Gallezot,  JD,  Planeta-Wilson,  B,  Lin,  SF,  Williams,  WA,  van 
+
+Dyck, CH, et al. Clinically relevant doses of methylphenidate significantly occupy norepinephrine transporters in humans in vivo.  Biol Psychiatry. (2010) 68:854 60. doi: <a name="_page5_x61.00_y366.89"></a>[10.1016/j.biopsych.2010.06.017](https://doi.org/10.1016/j.biopsych.2010.06.017)
+
+43. Vorobeychik, Y, and Acquadro, MA. Use of Atomoxetine in a patient with 
+
+fibromyalgia syndrome and attention-deficit hyperactivity disorder.  J Musculoskeletal Pain. (2008) 16:189 92. doi:[ 10.1080/10582450802161960](https://doi.org/10.1080/10582450802161960)
+
+44. Yang,<a name="_page5_x61.00_y402.89"></a><a name="_page5_x316.00_y398.89"></a> S, Boudier-RevØret, M, Choo, YJ, and Chang, MC. Association between 
+
+chronic pain and alterations in the mesolimbic dopaminergic system. Brain Sci. (2020) 10:1 14. doi: [10.3390/brainsci10100701](https://doi.org/10.3390/brainsci10100701)
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry) 6 fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+45. Serafini,<a name="_page5_x61.00_y430.89"></a> RA, Pryce, KD, and Zachariou, V.  e mesolimbic dopamine system in 
+22. Riley, DS, Barber, MS, Kienle, GS, Aronson, JK, von Schoen-Angerer, T, Tugwell, P, 
+
+chronic pain and associated affective comorbidities. Biol Psychiatry. (2020) 87:64 73. et al. CARE guidelines for case reports: explanation and elaboration document. J Clin 
+
+doi: [10.1016/j.biopsych.2019.10.018](https://doi.org/10.1016/j.biopsych.2019.10.018)
+
+Epidemiol. (2017) 89:218 35. doi:[ 10.1016/j.jclinepi.2017.04.026](https://doi.org/10.1016/j.jclinepi.2017.04.026)
+
+<a name="_page5_x316.00_y454.89"></a>[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+23. DuPaul, GJ, Power, TJ, Anastopoulos, AD, and Reid, R. ADHD rating scale-IV: 
+
+Checklists, norms, and clinical interpretation. Japanese version (Ichikawa H, Tanaka Y, <a name="_page5_x316.00_y474.89"></a>Trans.). Tokyo: Akashi-shoten (2008) (Original work published 1998).
+
+24. Wechsler, WD. Adult intelligence scale--third edition (WAIS-III). Japanese version 
+
+<a name="_page5_x316.00_y494.89"></a>(Fujita K, Maekawa H, Dairoku K, Yamanaka K, Publication committee). Tokyo: Nihon Bunka Kagakusha (2006) (Original work published 1997).
+
+25. Ginsberg,  Y,  Quintero,  J,  Anand,  E,  Casillas,  M,  and  Upadhyaya,  HP. 
+
+<a name="_page5_x316.00_y522.89"></a>Underdiagnosis of attention-deficit/hyperactivity disorder in adult patients: a review of the literature. Prim Care companion CNS Disord. (2014) 16:PCC.13r01600. do[i: 10.4088/ PCC.13r01600](https://doi.org/10.4088/PCC.13r01600)
+
+26. Kessler,<a name="_page5_x61.00_y550.89"></a> RC, Lane, M, Stang, PE, and Van Brunt, DL.  e prevalence and workplace 
+
+<a name="_page5_x316.00_y550.89"></a>costs of adult attention deficit hyperactivity disorder in a large manufacturing firm. Psychol Med. (2009) 39:137 47. doi:[ 10.1017/S0033291708003309](https://doi.org/10.1017/S0033291708003309)
+
+27. Kasahara,<a name="_page5_x61.00_y578.89"></a> S, Niwa, SI, Matsudaira, K, Sato, N, Oka, H, and Yamada, Y. Attention-
+
+<a name="_page5_x316.00_y578.89"></a>deficit/hyperactivity disorder and chronic pain. Psychosom Med. (2020) 82:346 7. doi: [10.1097/PSY.0000000000000789](https://doi.org/10.1097/PSY.0000000000000789)
+
+28. Wei,<a name="_page5_x61.00_y606.89"></a> YJ, Zhu, Y, Liu, W, Bussing, R, and Winterstein, AG. Prevalence of and factors 
+
+<a name="_page5_x316.00_y606.89"></a>associated with long-term concurrent use of stimulants and opioids among adults with attention-deficit/hyperactivity disorder.  JAMA Netw Open. (2018) 1:e181152. doi: [10.1001/jamanetworkopen.2018.1152](https://doi.org/10.1001/jamanetworkopen.2018.1152)
+
+29. Porreca,<a name="_page5_x61.00_y642.89"></a>  F,  Ossipov,  MH,  and  Gebhart,  GF.  Chronic  pain  and  medullary 
+
+<a name="_page5_x316.00_y642.89"></a>descending  facilitation.  Trends  Neurosci.  (2002)  25:319 25.  doi:  [10.1016/ s0166-2236(02)02157-4](https://doi.org/10.1016/s0166-2236\(02\)02157-4)
+
+30. Benarroch,<a name="_page5_x61.00_y670.89"></a>  EE.  Descending  monoaminergic  pain  modulation:  bidirectional 
+
+<a name="_page5_x316.00_y670.89"></a>control  and  clinical  relevance.  Neurology.  (2008)  71:217 21.  doi:  [10.1212/01. wnl.0000318225.51122.63](https://doi.org/10.1212/01.wnl.0000318225.51122.63)
+
+31. Kim,  JY,  Tillu,  D,  Quinn,  TL,  Mejia,  GL,  Shy,  A,  Asiedu,  M,  et  al.  Spinal 
+
+<a name="_page5_x316.00_y706.89"></a>dopaminergic projections control the transition to pathological pain plasticity via a D1/ D5-mediated  mechanism.  J  Neurosci.  (2015)  35:6307 17.  doi:  [10.1523/ JNEUROSCI.3481-14.2015](https://doi.org/10.1523/JNEUROSCI.3481-14.2015)
+
+32. Liu, S, Tang, Y, Shu, H, Tatum, D, Bai, Q, Crawford, J, et al. Dopamine receptor D2, 
+
+<a name="_page5_x316.00_y742.89"></a>but not D1, mediates descending dopaminergic pathway-produced analgesic effect in a trigeminal neuropathic pain mouse model. Pain. (2019) 160:334 44. doi: [10.1097/j. pain.0000000000001414](https://doi.org/10.1097/j.pain.0000000000001414)
+
+46. Navratilova,<a name="_page5_x61.00_y458.89"></a> E, and Porreca, F. Reward and motivation in pain and pain relief. Nat 
+
+Neurosci. (2014) 17:1304 12. doi:[ 10.1038/nn.3811](https://doi.org/10.1038/nn.3811)
+
+47. Neugebauer, V.  e amygdala: different pains. Diff. Mech. Pain. (2007) 127:1 2. 
+
+<a name="_page5_x61.00_y486.89"></a>doi: [10.1016/j.pain.2006.10.004](https://doi.org/10.1016/j.pain.2006.10.004)
+
+48. Lu, C, Yang, T, Zhao, H, Zhang, M, Meng, F, Fu, H, et al. Insular cortex is critical 
+
+for the perception, modulation, and Chronification of pain.  Neurosci Bull. (2016) <a name="_page5_x61.00_y514.89"></a>32:191 201. doi: [10.1007/s12264-016-0016-y](https://doi.org/10.1007/s12264-016-0016-y)
+
+49. Vetter, NC, Buse, J, Backhausen, LL, Rubia, K, Smolka, MN, and Roessner, V. 
+
+Anterior insula hyperactivation in ADHD when faced with distracting negative stimuli. Hum Brain Mapp. (2018) 39:2972 86. doi:[ 10.1002/hbm.24053](https://doi.org/10.1002/hbm.24053)
+
+50. Apkarian, VA, Hashmi, JA, and Baliki, MN. Pain and the brain: specificity and 
+
+plasticity of the brain in clinical chronic pain. Pain. (2011) 152:S49 64. doi:[ 10.1016/j. pain.2010.11.010](https://doi.org/10.1016/j.pain.2010.11.010)
+
+51. Burgmer,  M,  Pogatzki-Zahn,  E,  Gaubitz,  M,  Wessoleck,  E,  Heu ,  G,  and 
+
+Pfleiderer, B. Altered brain activity during pain processing in fibromyalgia. NeuroImage. (2009) 44:502 8. doi:[ 10.1016/j.neuroimage.2008.09.008](https://doi.org/10.1016/j.neuroimage.2008.09.008)
+
+52. Makris,  N,  Seidman,  LJ,  Valera,  EM,  Biederman,  J,  Monuteaux,  MC, 
+
+Kennedy, DN, et al. Anterior cingulate volumetric alterations in treatment-na ve adults with ADHD: a pilot study. J Atten Disord. (2010) 13:407 13. doi: [10.1177/](https://doi.org/10.1177/1087054709351671) [1087054709351671](https://doi.org/10.1177/1087054709351671)
+
+53. Blum, K, Chen, AL, Braverman, ER, Comings, DE, Chen, TJ, Arcuri, V, et al. 
+
+Attention-deficit-hyperactivity  disorder  and  reward  deficiency  syndrome. Neuropsychiatr Dis Treat. (2008) 4:893 918. doi:[ 10.2147/ndt.s2627](https://doi.org/10.2147/ndt.s2627)
+
+54. Faraone, SV.  e pharmacology of amphetamine and methylphenidate: relevance 
+
+to the neurobiology of attention-deficit/hyperactivity disorder and other psychiatric comorbidities.  Neurosci Biobehav Rev. (2018) 87:255 70. doi: [10.1016/j.neubiorev.](https://doi.org/10.1016/j.neubiorev.2018.02.001) <a name="_page5_x61.00_y698.89"></a>[2018.02.001](https://doi.org/10.1016/j.neubiorev.2018.02.001)
+
+55. Tomasi, D, Volkow, ND, Wang, GJ, Wang, R, Telang, F, Caparelli, EC, et al. 
+
+Methylphenidate  enhances  brain  activation  and  deactivation  responses  to  visual attention  and  working  memory  tasks  in  healthy  controls.  NeuroImage.  (2011) <a name="_page5_x61.00_y734.89"></a>54:3101 10. doi: [10.1016/j.neuroimage.2010.10.060](https://doi.org/10.1016/j.neuroimage.2010.10.060)
+
+56. YamamotovÆ, A, FricovÆ, J, Rokyta, R, and  lamberovÆ, R.  e effect of combined 
+
+treatment of opioids with methylphenidate on nociception in rats and pain in human. Physiol Res. (2016) 65:S567 75. doi:[ 10.33549/physiolres.933535](https://doi.org/10.33549/physiolres.933535)
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)
+Zain et al. 
+
+[10.3389/fpsyt.2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+57. Workman,<a name="_page6_x61.00_y74.89"></a> EA, Hubbard, JR, and Felker, BL. Comorbid psychiatric disorders and 
+
+<a name="_page6_x316.00_y74.89"></a>predictors of pain management program success in patients with chronic pain. Prim Care Companion J Clin Psychiatry. (2002) 4:137 40. doi:[ 10.4088/pcc.v04n0404](https://doi.org/10.4088/pcc.v04n0404)
+
+58. Desai,<a name="_page6_x61.00_y102.89"></a> G, Jaisoorya, TS, Sunil Kumar, G, Manoj, L, Gokul, GR, Aakash, B, et al. 
+
+<a name="_page6_x316.00_y102.89"></a>Disentangling comorbidity in chronic pain: a study in primary health Care settings from India. PLoS One. (2020) 15:e0242865. do[i: 10.1371/journal.pone.0242865](https://doi.org/10.1371/journal.pone.0242865)
+
+59. Morton, WA, and Stockton, GG. Methylphenidate abuse and psychiatric side 
+
+effects. Prim Care Companion J Clin Psychiatry. (2000) 2:159 64. doi: [10.4088/pcc. v02n0502](https://doi.org/10.4088/pcc.v02n0502)
+
+60. Bernstein, MH, Blease, C, and Vase, L. Editorial: placebo effect in pain  
+
+and pain treatment.  Front Pain Res. (2022) 3:884055. doi:[ 10.3389/fpain.2022.](https://doi.org/10.3389/fpain.2022.884055) [884055](https://doi.org/10.3389/fpain.2022.884055)
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)  fr[ontiersin.org](https://www.frontiersin.org)

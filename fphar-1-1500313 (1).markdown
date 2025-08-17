@@ -1,0 +1,423 @@
+﻿Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+[TYPE Mini Review](https://www.frontiersin.org/journals/pharmacology#editorial-board)![](0zw4huau.001.png)![](0zw4huau.002.png)![](0zw4huau.003.png)
+
+PUBLISHED 26 February 2025 ![](0zw4huau.004.png)DOI [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology)  [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+![](0zw4huau.005.png)
+
+OPEN ACCESS
+
+EDITED BY
+
+Fabio Turco,
+
+Cannabiscientia SA, Switzerland
+
+REVIEWED BY
+
+Rosmara Infantino,
+
+University of Galway, Ireland
+
+Kristen Willeumier,
+
+Independent Researcher, Beverly Hills, United States
+
+\*CORRESPONDENCE
+
+Satoshi Kasahara,
+
+![](0zw4huau.006.png)<namahagenator@gmail.com>
+
+RECEIVED 23 September 2024 ACCEPTED 07 February 2025 PUBLISHED 26 February 2025
+
+CITATION
+
+Kasahara S, Takahashi M, Suto T, Morita T, Obata H and Niwa S-I (2025) Innovative therapeutic strategies using ADHD medications tailored to the behavioral characteristics of patients with chronic pain.
+
+Front. Pharmacol. 16:1500313.
+
+doi: [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+COPYRIGHT
+
+' 2025 Kasahara, Takahashi, Suto, Morita, Obata and Niwa. This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY). T](https://creativecommons.org/licenses/by/4.0/)he use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+[Innovative therapeutic strategies using ADHD medications tailored to the behavioral characteristics of patients with chronic pain](https://www.frontiersin.org/articles/10.3389/fphar.2025.1500313/full)
+
+Satoshi Kasahara 1,2\*, Miwako Takahashi3, Takashi Suto 4, Taito Morita 1, Hideaki Obata5 and Shin-Ichi Niwa6
+
+1Department of Anesthesiology and Pain Relief Center, The University of Tokyo Hospital, Tokyo, Japan, 2Department of Pain Medicine, Fukushima Medical University School of Medicine, Fukushima, Japan, 3Institute for Quantum Medical Science, National Institutes for Quantum Science and Technology, Chiba, Japan, 4Department of Anesthesiology, Gunma University Graduate School of Medicine, Gunma, Japan, 5Department of Anesthesiology, Saitama Medical Center, Saitama Medical University, Saitama, Japan, 6Department of Psychiatry, Aizu Medical Center, Fukushima Medical University, Fukushima, Japan
+
+Chronic pain affects a signi  cant portion of adults and is linked to psychosocial issues, cognitive dysfunction, and psychiatric disorders, complicating treatment. Attention de  cit hyperactivity disorder (ADHD) is increasingly recognized as a contributing factor to chronic pain, particularly nociplastic pain, with a notable prevalence of comorbidity between ADHD and conditions like  bromyalgia and chronic low back pain. ADHD behaviors such as impulsivity and overactivity can exacerbate pain by leading patients to seek risky treatments or discontinue care prematurely. ADHD medications are expected to alleviate pain severity by improving associated cognitive dysfunction and addressing central sensitization, a fundamental mechanism in chronic pain. Brain abnormalities in ADHD contribute to increased spontaneous activity in the anterior cingulate cortex-posterior insular pathway due to neuroin  ammation, alterations in action potential  ring, and changes in transmission pathways in the spinal dorsal horn. Additionally, increased norepinephrine synthesis and reduced transmission ef  ciency amplify nociceptive information from the periphery and facilitate central sensitization in ADHD. Beyond typical ADHD medications like central stimulants, norepinephrine reuptake inhibitors, and alpha-2 receptor agonists, various antidepressants, mood stabilizers, antipsychotics, Parkinson s disease medications, and antidementia medications have proven effective in alleviating ADHD symptoms. These medications, effective for ADHD, may offer innovative solutions for managing chronic pain by targeting both the cognitive/behavioral dysfunction and central sensitization observed in chronic pain comorbid with
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology)  [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+Abbreviations: NP, nociplastic pain; 6-OHDA, 6-hydroxydopamine; SHR, spontaneously hypertensive rats;![](0zw4huau.007.png) NSIA, noxious stimulus-induced analgesia; NE, norepinephrine; ACC, anterior cingulate cortex; PI, posterior insula; ACC-PI pathway, anterior cingulate cortex posterior insula; DA, dopamine; NRI, norepinephrine reuptake inhibitor.
+
+ADHD. Further research into these mechanisms could lead to new, more effective pharmacological treatments for chronic pain with comorbid ADHD, a condition that is often overlooked.
+
+KEYWORDS
+
+nociplastic pain, central sensitization, attention de  cit hyperactivity disorder, ADHD medication, dopamine, norepinephrine, pain matrix, ergomania
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) 2 [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+1 Introduction
+
+Chronicpainaffects13%  50%ofadults[(Millsetal.,2019](#_page7_x305.00_y157.89))andis associated with psychosocial factors, cognitive dysfunction, and psychiatric disorders. Moreover, inadequate management of pain and the underlying physical conditions that cause it can also lead to cognitive impairment and psychiatric disorders. This complexity makes assessing and treating chronic pain particularly challenging and imposes an extremely high economic burden ([Sarria-Santamera et al., 2022](#_page7_x305.00_y324.89)). Consequently, elucidating the pathophysiological mechanisms of chronic pain is vital for discovering new pharmacological targets.
+
+Understanding the cognitive and behavioral characteristics of patients with chronic pain, both clinically and in daily life, alongside psychiatric disorders, is crucial for implementing effective pharmacological strategies targeting these mechanisms.
+
+Patients with chronic pain resistant to multidisciplinary treatment often experience repeated accidents ([Swanson et al., 1977](#_page7_x305.00_y567.89)), which has been linked to attention de  cit hyperactivity disorder (ADHD), a neurodevelopmental disorder ([Kaplan and Kaplan, 2006](#_page7_x50.00_y161.89)). Chronic pain patients frequently display three behavioral traits ([Flor and Turk, 2015](#_page6_x305.00_y661.89)): (1) overconcentration on pain and susceptibility to distraction, (2) overactivity exceeding personal limits (traditionally called ergomania ) ([Vlaeyen and Morley, 2004](#_page7_x305.00_y687.89)), and (3) persistent, intense anger  features also characteristic of ADHD [(American Psychiatric Association, 2013](#_page6_x50.00_y565.89)). Due to impulsivity and impatience, ADHD patients often pursue invasive, high-risk treatments (e.g., surgery, tooth extraction, opioids) for rapid relief or abandon treatments prematurely if results are not immediate, leading to doctor shopping  ([Kasahara et al., 2023d](#_page7_x50.00_y471.89)). Notably, 72.5% of chronic pain patients have comorbid ADHD, and ADHD medications can reduce the pain NRS score by 3.5 points (61.5%), indicating that ADHD comorbidity may drive cognitive and behavioral dysfunction in chronic pain ([Kasahara et al., 2020](#_page7_x50.00_y416.89)).
+
+Over 80% of adult ADHD cases go undiagnosed, especially in psychiatric settings [(Ginsberg et al., 2014](#_page6_x305.00_y721.89)). Because most chronic pain patients receive care from orthopedic surgeons, rheumatologists, and pain specialists with limited ADHD expertise, comorbid ADHD often remains overlooked. Recognizing this gap could provide a breakthrough for new, behaviorally tailored pharmacotherapies.
+
+Herein, we review clinical and basic research on the relationship between chronic pain and ADHD and explore the potential pathophysiological mechanisms involved. We also examine effective ADHD medications for chronic pain, offering insights into novel pharmacotherapeutic approaches.
+
+2 Findings from clinical studies
+
+An epidemiological study revealed an association between ADHD symptoms and work-related pain ([Stickley et al., 2016](#_page7_x305.00_y420.89)). In 2017, chronic pain  previously categorized as psychogenic or somatoform  was rede  ned as nociplastic pain (NP), recognized alongside nociceptive and neuropathic pain ([Kosek et al., 2016](#_page7_x50.00_y711.89); [Aydede and Shriver, 2018](#_page6_x50.00_y641.89)). NP is believed to result from central sensitization, involving plastic changes in central nervous system circuits that amplify nociceptive signals [(Kosek et al., 2021](#_page7_x50.00_y683.89); [Treede et al., 2019](#_page7_x305.00_y651.89);[Nijs et al., 2021](#_page7_x305.00_y185.89)). NP rarely appears in isolation, instead presenting with hyperalgesia, fatigue, sensory hypersensitivity, sleep disturbances, mood disorders, or cognitive dysfunction in concentration and memory ([Kosek et al., 2021](#_page7_x50.00_y683.89)), which  combined with psychosocial factors  makes treatment particularly challenging.
+
+Recent  ndings indicate ADHD, a developmental disorder, frequently coexists with representative NP-related conditions such as  bromyalgia ([Pallanti et al., 2021](#_page7_x305.00_y220.89)), chronic low back pain ([Kasahara et al., 2021b](#_page7_x50.00_y380.89)), idiopathic orofacial pain ([Kasahara et al., 2023b](#_page7_x50.00_y224.89)), chronic chest pain ([Zain et al., 2023](#_page7_x305.00_y726.89)), and chronic abdominal pain ([AsztØly et al., 2019](#_page6_x50.00_y613.89); [Kasahara et al., 2024](#_page7_x50.00_y535.89)). ADHD may contribute to central sensitization and cognitive impairments in NP, including attention de  cits and sensory hypersensitivity [(Ibrahim and Hefny, 2022](#_page7_x50.00_y105.89)). Historical  gures with NP, such as John F. Kennedy, who suffered from chronic low back pain ([Kasahara et al., 2022a](#_page7_x50.00_y352.89)), and Margaret Mitchell, the author of Gone with the Wind, who struggled with  bromyalgia and experiencedmultiplecaraccidents[(Kasaharaetal.,2021a](#_page7_x50.00_y324.89)),werealso speculated to have had comorbid ADHD.
+
+The coexistence of ADHD and chronic pain is thought to stem from dual impairments in cognitive-emotional factors and motor control associated with ADHD. ADHD exacerbates pain, and pain, in turn, worsens ADHD, with central nervous system in  ammation potentially perpetuating this relationship ([Battison et al., 2023](#_page6_x50.00_y697.89)) ([Figure 1](#_page2_x62.00_y270.89)). Individuals with ADHD have been shown to exhibit considerably more motor control issues and increased muscle tension than those without ADHD, which are also associated with widespread and severe pain [(Stray et al., 2013](#_page7_x305.00_y448.89)).
+
+Furthermore, when ADHD accompanies NP, ADHD medications have been reported to improve pain and the associated cognitive dysfunctions. [(Kasahara et al., 2017](#_page7_x50.00_y444.89); [Kasahara et al., 2022b](#_page7_x50.00_y579.89); [Kasahara et al., 2023a](#_page7_x50.00_y181.89); [Kasahara et al., 2023b](#_page7_x50.00_y224.89); [Kasahara et al., 2023c](#_page7_x50.00_y260.89); [Kasahara et al., 2023d](#_page7_x50.00_y471.89); [Kasahara et al., 2023e](#_page7_x50.00_y499.89); [Zain et al., 2023](#_page7_x305.00_y726.89); [Kasahara et al., 2024](#_page7_x50.00_y535.89)). ADHD medications administered to patients with NP have also been shown to regulate blood  ow in the prefrontal cortex, precuneus, anterior cingulate cortex, and insular cortex  regions involved in thecorepainmatrixandrelatedemotionalprocessingareas([Garcia-](#_page6_x305.00_y681.89)
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology)  [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+![](0zw4huau.008.jpeg)
+
+F<a name="_page2_x62.00_y270.89"></a>IGURE 1![](0zw4huau.009.png)
+
+Potential associations between chronic pain and ADHD over time. (Battison et al., 2023). ADHD, attention-de  cit hyperactivity disorder.
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology)  [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+[Larrea and Peyron, 2013](#_page6_x305.00_y681.89); [Kasahara et al., 2023a](#_page7_x50.00_y181.89); [Kasahara et al., 2023c](#_page7_x50.00_y260.89); [Kasahara et al., 2023e](#_page7_x50.00_y499.89); [Kasahara et al., 2024](#_page7_x50.00_y535.89)). Notably, increased blood  ow in the precuneus showed a positive correlation with NP severity scores. In the group that responded to methylphenidate, the precuneus was identi  ed as a region of signi  cantly elevated blood  ow before treatment compared to that of after treatment. In typical cases, a decrease in precuneus hyperperfusion was accompanied by an increase in blood  ow in the prefrontal cortex ([Takahashi et al., 2024](#_page7_x305.00_y587.89)). Moreover, methylphenidate has been shown to alleviate motor control issues and high muscle tension in individuals with ADHD ([Stray et al., 2009](#_page7_x305.00_y475.89). See Additional Video Files 1  4.). Additionally, ADHD medicationshavebeenfoundtoimprovefamilyrelationships,which are signi  cant psychosocial factors contributing to the maintenance and exacerbation of chronic pain ([Kasahara et al., 2024](#_page7_x50.00_y535.89)). Therefore, ADHD medications are gaining attention as a new approach for treating NP, which is often dif  cult to manage.
+
+However, as previously mentioned, many chronic pain patients are treated by non-psychiatric specialists such as orthopedic surgeons, rheumatologists, or pain specialists. For these physicians, diagnosing ADHD or prescribing ADHD medications is not straightforward. Therefore, when clinical behavioral characteristics of ADHD are observed, it is practical to use self- administered questionnaires such as the Adult ADHD Self-Report Scale[(Kessleretal.,2005](#_page7_x50.00_y615.89))ortheConners AdultADHDRatingScale ([Conners et al., 1999](#_page6_x305.00_y549.89)) for screening and to consult with a psychiatric specialist. Both scales have also been utilized in clinical research on chronic pain ([Stickley et al., 2016](#_page7_x305.00_y420.89); [Kasahara et al., 2021b](#_page7_x50.00_y380.89)). Patients with coexisting ADHD often exhibit the following behavioral characteristics ([Kooij and Francken, 2010](#_page7_x50.00_y663.89)): dif  culty maintaining attention and concentration, which leads to omissions when responding to questionnaires; a tendency to become bored easily andfrequentlychangejobs;procrastinationontasksrequiringeffort, such as returning to work or completing administrative procedures; reliance on family members for dif  cult tasks; disorganized speech, resulting in scattered conversations; tardiness or forgetting appointment dates; organizational dif  culties, leading to over  lled bags;  dgeting with hands or feet even while seated; hyperactivity,
+
+resulting in involvement in numerous activities and subsequent exhaustion; excessive talking; impatience and impulsive pursuit of high-risk treatments, with demands such as take the pain away immediately;  inability to control anger; over-involvement with others; and a dislike of waiting, resulting in a preference for the earliest possible appointment slots. 
+
+3 Findings from basic studies
+
+NP is associated with central sensitization [(Kosek et al., 2021](#_page7_x50.00_y683.89)). Recently, basic research suggests that ADHD is more likely to cause central sensitization. At least 21 types of rodent ADHD model animals have been reported in basic research, with eight frequently cited models being identi  ed as the most notable ([Kantak K. M., 2022](#_page7_x50.00_y133.89); [Table 1](#_page3_x50.00_y78.89)).
+
+In spontaneously hypertensive rats (SHR), an animal model for ADHD, noxious stimulus-induced analgesia (NSIA) [(Tambeli et al., 2009](#_page7_x305.00_y623.89)) was weaker compared to the control group. Additionally,in vivostudies have shown that the concentration of norepinephrine (NE) in the dorsal horn of the spinal cord, which increases in response to nociceptive stimuli, decreases in SHR [(Suto et al., 2023](#_page7_x305.00_y531.89)). This decrease suggests a weakened endogenous analgesia, including the descending inhibitory system, in ADHD.
+
+In spinal cord slices, SHR exhibited a larger immunostaining areaforNE-synthesizingenzymesinthedorsalhornthanthatofthe control group, alongside higher extracellular NE concentrations than those of the control group. This suggests more active NE synthesis under pain-free conditions ([Suto et al., 2023](#_page7_x305.00_y531.89)). Conversely, SHR exhibited a larger staining area for the norepinephrine transporter (NET) but a smaller staining area for the α2A receptor, the target receptor for NE, compared to the control group. This pattern indicates that excessive NE production in a pain-free state leads to NET overexpression and α2A receptor downregulation, resulting in diminished NE activity during NSIA and weakened descending inhibition.
+
+Similarly, 6-hydroxydopamine (6-OHDA) mice, another ADHD model, showed shorter latency and a lower threshold
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology)  [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+T<a name="_page3_x50.00_y78.89"></a>ABLE 1 Rodent models of ADHD.
+
+
+
+<table><tr><th colspan="1" rowspan="2" valign="top">Rat models</th><th colspan="3">ADHD features</th></tr>
+<tr><td colspan="1">Hyperactivity</td><td colspan="1">Impulsivity</td><td colspan="1">Inattention</td></tr>
+<tr><td colspan="1">Neonatal 6-OHDA</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1">+</td></tr>
+<tr><td colspan="1">Spontaneously Hypertensive Rat</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1">+</td></tr>
+<tr><td colspan="1">Poor performance in a 5-choice serial reaction time task</td><td colspan="1"></td><td colspan="1">+</td><td colspan="1">+</td></tr>
+<tr><td colspan="1">Naples High-Excitability Rat</td><td colspan="1">+</td><td colspan="1"></td><td colspan="1">+</td></tr>
+<tr><td colspan="1">Polychlorinated Biphenyl Exposure</td><td colspan="1">+</td><td colspan="1"></td><td colspan="1">+</td></tr>
+<tr><td colspan="1">Congenic Wiggling Rat</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">Prenatal Alcohol Exposure</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1">+</td></tr>
+<tr><td colspan="1">Prenatal Nicotine Exposure</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1">+</td></tr>
+<tr><td colspan="1">Lphn3 Knockout</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">Mouse models</td><td colspan="1">Hyperactivity</td><td colspan="1">Impulsivity</td><td colspan="1">Inattention</td></tr>
+<tr><td colspan="1">Coloboma Mutant</td><td colspan="1">+</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1">Thyroid Receptor β Mutant</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1">+</td></tr>
+<tr><td colspan="1">DAT Knockout</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">DAT Knockdown</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">NK1 Receptor Knockout</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">Prenatal Nicotine Exposure</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1">+</td></tr>
+<tr><td colspan="1">CdK5 Dysregulation</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">Git1 Knockout</td><td colspan="1">+</td><td colspan="1"></td><td colspan="1"></td></tr>
+<tr><td colspan="1">Lphn3 Knockout</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">High Active Line</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">DAT Val559 Knockin</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1"></td></tr>
+<tr><td colspan="1">Neonatal 6-OHDA</td><td colspan="1">+</td><td colspan="1">+</td><td colspan="1">+</td></tr>
+</table>
+
+The major models with more than 10 references are highlighted in bold. Cdk5, cyclin-dependent kinase 5; DAT, dopamine transporter; NK1, neurokinin-1; 6-OHDA, 6-hydroxydopamine ([Kantak 2022](#_page7_x50.00_y133.89)).
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) 4 [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+for licking hind limbs in response to thermal or mechanical stimuli than those shown by controls, indicating heightened baseline nociceptive sensitivity [(Bouchatta et al., 2022](#_page6_x50.00_y732.89)). In these mice, inhibitory synaptic connections in the spinal dorsal horn lamina II were similar to controls, but excitatory connections were signi  cantly increased ([Bouchatta et al., 2022](#_page6_x50.00_y732.89)). This suggests that ADHD-related anatomical changes, including increased excitatory pathways in the dorsal horn, may promote pain sensitization.
+
+Central sensitization mechanisms have also been studied by examining the pathway from the anterior cingulate cortex (ACC) to the posterior insula (PI), known as the ACC-PI pathway ([Bouchatta et al., 2022](#_page6_x50.00_y732.89)). In 6-OHDA-induced ADHD, spontaneous activity in this pathway was higher than that in controls, and ACC activity evokedbymechanicalstimulationofthecontralateralhindlimbwas stronger than that evoked in controls. This intensi  ed activity boosted  ring in second-order nociceptive neurons in the spinal dorsal horn, further lowering the pain threshold. Conversely,
+
+inhibiting the ACC-PI pathway in 6-OHDA mice more effectively suppressed dorsal horn action potentials and raised the pain threshold. Hence, ADHD-driven ACC-PI activity can both increase and reduce pain sensitivity, potentially triggering overactivity (ergomania).
+
+Regarding the cause of elevated spontaneous ACC-PI activity, a sex-speci  c neuroin  ammatory response to dopamine (DA) neuronal depletion in 6-OHDA mice has been reported ([Meseguer-BeltrÆn et al., 202](#_page7_x305.00_y121.89)3). In males, DA depletion triggered in  ammation only in the ACC, resulting in hyperactivity but no hyperalgesia. In females, in  ammation occurred in the ACC-PI pathway, leading to hyperalgesia but not hyperactivity; reducing this in  ammation alleviated hyperalgesia. These  ndings may explain why females experience higher rates of conditions like  bromyalgia ([Queiroz, 2013](#_page7_x305.00_y248.89)) or burning mouth syndrome ( [Khawaja et al., 2023](#_page7_x50.00_y643.89)), as DA dysfunction in females may manifest primarily as hyperalgesia rather than hyperactivity.
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology)  [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+T<a name="_page4_x50.00_y78.89"></a>ABLE 2 Medications effective for ADHD.
+
+
+
+|Compounds|Medicinal classi  cation|Main indications|Dosage|
+| - | - | - | - |
+|Methylphenidate|Psychostimulant|ADHD|20  60 mg/day|
+|Lisdexamfetamine|Psychostimulant|ADHD|30  70 mg/day|
+|Amphetamine|Psychostimulant|ADHD/Narcolepsy|5  40 mg/day|
+|Moda  nil|Psychostimulant|Narcolepsy|200 mg/day|
+|Pemoline|Psychostimulant|Narcolepsy|56\.25  75 mg/day|
+|Atomoxetine|NRI|ADHD|40  100 mg/day|
+|Reboxetine|NRI|Depression|8  10 mg/day|
+|Guanfacine|α2 agonist|ADHD|1  6 mg/day|
+|Clonidine|α2 agonist|Hypertension|0\.2  0.6 mg/day|
+|Bupropion|NDRI|Depression|150  450 mg/day|
+|Duloxetine|SNRI|Depression|30  120 mg/day|
+|Venlafaxine|SNRI|Depression|37\.5  300 mg/day|
+|Paroxetine|SSRI|Depression|20  60 mg/day|
+|Desipramine|TCA|Depression|100  200 mg/day|
+|Nortriptyline|TCA|Depression|75  150 mg/day|
+|Amitriptyline|TCA|Depression|50  150 mg/day|
+|Lithium|mood stabilizer|Bipolar Disorder|600  1200 mg/day|
+|Lamotrigine|mood stabilizer|Bipolar Disorder|100  200 mg/day|
+|Haloperidol|Antipsychotic|Schizophrenia|1  40 mg/day|
+|Chlorpromazine|Antipsychotic|Schizophrenia|200  800 mg/day|
+|Risperidone|Antipsychotic|Schizophrenia|2  8 mg/day|
+|Aripiprazole|Antipsychotic|Schizophrenia/Bipolar disorder|2  30 mg/day|
+|Pramipexole|Antiparkinsonism|Parkinson s disease|1\.5  4.5 mg/day|
+|Selegiline|Antiparkinsonism|Parkinson s disease|5  10 mg/day|
+|Donepezil|Antidementia|Dementia|5  10 mg/day|
+|Galantamine|Antidementia|Dementia|16  24 mg/day|
+|Memantine|Antidementia|Dementia|20 mg/day|
+
+ADHD, attention de  cit hyperactivity disorder; NDRI, norepinephrine-dopamine reuptake inhibitor; NRI, norepinephrine reuptake inhibitor; SNRI, serotonin norepinephrine reuptake inhibitor; SSRI, selective serotonin reuptake inhibitor; TCA, tricyclic antidepressant.
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) 5 [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al. [10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+In summary, in SHR and 6-OHDA mice, which have been reported to demonstrate a relationship between pain and ADHD, brain abnormalities in ADHD are thought to increase the spontaneous activity of the ACC-PI pathway owing to neuroin  ammation, changes in the  ring of action potentials and transmission pathways in the spinal dorsal horn, increased NE synthesis, and reduced transmission ef  ciency. These factors may amplifyperipheralnociceptiveinformation,increasingsusceptibility to central sensitization. Furthermore, it has been shown that in SHR and 6-OHDA mice, hyperalgesia caused by central sensitization and ADHD symptoms, such as hyperactivity and inattention, can be improved by atomoxetine  a selective norepinephrine reuptake inhibitor (NRI) used as an ADHD medication ([Sifeddine et al., 2023](#_page7_x305.00_y352.89); [Suto et al., 2023](#_page7_x305.00_y531.89)).
+
+However, among the ADHD models listed in[Table 1](#_page3_x50.00_y78.89), only the SHR and 6-OHDA mice have been reported to show a relationship between pain and ADHD, while such investigations have not been conducted for other ADHD model animals. Therefore, there is room to explore the relationship between pain and ADHD in these other models as well. Additionally, ADHD is believed to result from gene- environment interactions, highlighting the need to develop models that integrate both genetic and environmental factors. This integration remains a challenge for ADHD models as a whole ([Regan et al., 2022](#_page7_x305.00_y268.89)). Furthermore, since all rodent ADHD models exhibit hyperactivity or impulsivity, developing a model that speci  cally represents inattentive-type ADHD without hyperactivity or impulsivity remains an important task.
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology)  [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al.
+
+[10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+4 Discussion
+
+Medications that are effective for treating ADHD may also be effective in treating chronic pain and its associated cognitive dysfunction mediated by central sensitization. Here, we brie  y introduce the representative drug candidates ([Table 2](#_page4_x50.00_y78.89)).
+
+The main ADHD medications include the central stimulant methylphenidate, the selective NRI atomoxetine, the α2 receptor agonist guanfacine, and the central stimulant lisdexamfetamine ([Stahl, 2021](#_page7_x305.00_y400.89)). There have been reports that the  rst three of these drugs have shown improvements in chronic pain and its associated cognitive dysfunction [(Kasahara et al., 2023a](#_page7_x50.00_y181.89);[Kasahara et al., 2023e](#_page7_x50.00_y499.89); [Zain et al., 2023](#_page7_x305.00_y726.89)). However, even with these so-called ADHD medications approved by the Food and Drug Administration, more than 33% of children and over 50% of adults discontinue treatment within a year due to suboptimal ef  cacy or tolerance issues[(ChildressA.,2024](#_page6_x305.00_y521.89)).Therefore,alternativeADHDtreatments that have proven effective for ADHD, as discussed below, are also considered pertinent ([Buoli et al., 2016](#_page6_x305.00_y493.89)).
+
+Other central stimulants such as amphetamines, moda  nil, and pemoline are also considered effective for ADHD [(Stahl, 2020](#_page7_x305.00_y380.89)). It has been suggested that the amphetamine, which John F. Kennedy used to treat back pain, may have also inadvertently improved ADHD symptoms ([Kasahara et al., 2022a](#_page7_x50.00_y352.89)).
+
+Additionally, antidepressants, such as duloxetine and venlafaxine, which are norepinephrine-serotonin reuptake inhibitors, have been reported to improve ADHD symptoms ([Buoli et al., 2016](#_page6_x305.00_y493.89)) and NP ([Kasahara et al., 2024](#_page7_x50.00_y535.89)). Traditional tricyclic antidepressants (TCAs), used to treat chronic pain ([Feinmann and Harris, 1984](#_page6_x305.00_y641.89)), also improve ADHD ([Banaschewski et al., 2004](#_page6_x50.00_y669.89)). TCAs inhibit norepinephrine reuptake. Dopamine reuptake occurs via norepinephrine transporters in the prefrontal cortex. Consequently, TCAs enhance both norepinephrine and dopamine levels in this region. Among TCAs, desipramine is considered the most effective for ADHD, whereas imipramine, nortriptyline, and amitriptyline are slightly less effective. On the other hand, clomipramine and protriptyline are deemed less effective and generally unsuitable due to intolerable side effects. The effects of TCAs on ADHD primarily affect behavioral symptoms rather than cognitive symptoms. Furthermore, it has been suggested that their effectiveness in treating chronic pain may have been due to the improvement of undiagnosed coexisting ADHD ([Kasahara et al., 2023d](#_page7_x50.00_y471.89)). Other antidepressants, such as the selective serotonin reuptake inhibitor paroxetine, the NE-DA reuptake inhibitor bupropion, and the selective NRI reboxetine, are also considered effective for ADHD [(Buoli et al., 2016](#_page6_x305.00_y493.89)). Regarding the role of serotonin in ADHD treatment, studies report that hyperactivity caused by high extracellular dopamine levels in 6-OHDA mice is regulated and improved by enhancing serotonergic tone ([Regan et al., 2022](#_page7_x305.00_y268.89)). Furthermore, mood stabilizers such as lithium and lamotrigine are also considered effective for ADHD [(Buoli et al., 2016](#_page6_x305.00_y493.89); [Sablaban and Sivananthan, 2022](#_page7_x305.00_y296.89)). These agents have been shown to improve ADHD symptoms associated with addictive behaviors, intense anger, and comorbid bipolar disorder ([Buoli et al., 2016](#_page6_x305.00_y493.89)). Notably, the effectiveness of lithium in treating ADHD has been reported to be comparable to that of methylphenidate ([Dorrego et al., 2002](#_page6_x305.00_y569.89)).
+
+Haloperidol, chlorpromazine ([Stahl, 2020](#_page7_x305.00_y380.89)), risperidone, and aripiprazole ([Ghanizadeh, 2013](#_page6_x305.00_y701.89); [Lamberti et al., 2016](#_page7_x305.00_y77.89)) are effective treatments for ADHD. There have also been reports that risperidone ([Kasahara et al., 2022b](#_page7_x50.00_y579.89)) and aripiprazole ([Kasahara et al., 2011](#_page7_x50.00_y296.89); [Kasahara et al., 2023d](#_page7_x50.00_y471.89)) have improved chronic pain. Haloperidol and chlorpromazine are considered useful for managing hyperactivity and aggression in ADHD [(Stahl, 2020](#_page7_x305.00_y380.89)). Risperidone and aripiprazole have been found bene  cial for ADHD patients experiencing anxiety, irritability, depression, anger, or self- injurious behavior ([Alsayouf, 2024](#_page6_x50.00_y529.89)). Antipsychotics are thought to ameliorate ADHD by addressing these cognitive-emotional factors. Notably, the effectiveness of risperidone in treating ADHD symptoms has been reported to be comparable to that of methylphenidate ([Arabgol et al., 2015](#_page6_x50.00_y585.89)).
+
+Additionally,althoughantipsychoticsblockdopamineD2receptors and may initially seem counterproductive for ADHD, which is typically characterized by low dopamine levels, the Complex DA Model  has been proposed to explain this phenomenon ([Yanofski, 2010](#_page7_x305.00_y707.89)). According to this model, ADHD involves low tonic dopamine levels and high DA bursts. Stimulants act presynaptically to increase tonic dopamine, suppress DA bursts, and downregulate postsynaptic receptors. Conversely, antipsychotics like risperidone and aripiprazole function postsynaptically to increase tonic dopamine, suppress DA bursts, and upregulate postsynaptic receptors. Therefore, while stimulants and antipsychotics are each effective for ADHD when used alone, their combination proves particularly effective. This combined approach acts on both pre- and postsynaptic mechanisms, increasing tonic dopamine, suppressing DA bursts, and stabilizing postsynaptic receptor regulation. Consequently, this strategy is believed to prevent tolerance to treatment, minimize side effects due to receptor upregulation, and allow for low medication dosages.
+
+DA agonists such as pramipexole [(Kurlan et al., 2012](#_page7_x50.00_y738.89)) and the selective monoamine oxidase B inhibitor selegiline [(Buoli et al., 2016](#_page6_x305.00_y493.89); [Akhondzadeh et al., 2003](#_page6_x50.00_y493.89)), commonly used to treat Parkinson s disease, have also been found to be effective for ADHD by enhancing DA neurotransmission at the synapse. Pramipexole improves chronic low back pain [(Kasahara et al., 2023c](#_page7_x50.00_y260.89)) and  bromyalgia ([Holman and Myers, 2005](#_page7_x50.00_y77.89)). Clonidine, an α2 agonist like guanfacine and an antihypertensive, is considered effective for ADHD [(Stahl, 2020](#_page7_x305.00_y380.89)) and has shown ef  cacy in treating chronic pain ([Guay, 2001](#_page6_x305.00_y748.89)). Additionally, cholinesterase inhibitors such as donepezil ([Doyle et al., 2006](#_page6_x305.00_y605.89)) and galantamine ([Buoli et al., 2016](#_page6_x305.00_y493.89)), along with the N-methyl-D-aspartate receptor antagonist memantine ([Surman et al., 2013](#_page7_x305.00_y503.89)), typically used as anti-dementia drugs, are known to activate dopamine neurotransmission and have beenreportedtobeeffectiveagainstADHD.Thesemedicationsmay also potentially improve chronic pain.
+
+The contents of this mini-review can be summarized as follows: The cognitive-emotional and motor control issues associated with ADHD mutually amplify and exacerbate both ADHD and pain. Neuroin  ammationandalterationsinneurotransmissionwithinthe ADHD brain contribute to central sensitization, amplifying nociceptive input and promoting pain chronicity. ADHD medications can correct the increased blood  ow in the precuneus and decreased blood  ow in the prefrontal cortex, thereby improving cognitive-emotional factors such as anxiety, depression, anger, and aggression, as well as motor control issues
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) 6 [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al.
+
+[10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+likeincreasedmuscletension.Thesetreatmentshavethepotentialto alleviate not only chronic pain itself but also its associated psychosocial issues. However, it is assumed that the ADHD phenotype encompasses multiple models, each responding differently to medication. Therefore, instead of limiting treatment to a single medication, it is pertinent to implement a treatment algorithm composed of multiple medications with different mechanisms of action, as discussed in this review (e.g.,[Kasahara et al., 2023d](#_page7_x50.00_y471.89)).
+
+In the future, to develop innovative pharmacological treatments for chronic pain, it is considered important to discover approaches that utilize ADHD medications targeting the clinical features of ADHD coexisting with chronic pain and the pathophysiological mechanisms of central sensitization.
+
+Author contributions
+
+SK: Writing  original draft, Writing  review and editing. MT: Writing  original draft, Writing  review and editing. TS: Writing  original draft, Writing  review and editing. TM: Writing  original draft, Writing  review and editing. HO: Writing  original draft, Writing  review and editing. S-IN: Writing  original draft, Writing  review and editing.
+
+Funding
+
+The author(s) declare that  nancial support was received for the research, authorship, and/or publication of this article. This paper was supported by a Grant-in-Aid for Scienti  c Research (C) from
+
+References
+
+<a name="_page6_x50.00_y493.89"></a>Akhondzadeh, S., Tavakolian, R., Davari-Ashtiani, R., Arabgol, F., and Amini, H.<a name="_page6_x305.00_y493.89"></a>(2003). Selegiline in the treatment of attention de  cithyperactivity disorderin children: a double blind and randomized trial. Prog. Neuropsychopharmacol. Biol. Psychiatry27, 841  845. doi:[10.1016/S0278-5846(03)00117-](https://doi.org/10.1016/S0278-5846\(03\)00117-9)9
+
+Alsayouf, H. A. (2024). Growing evidence of pharmacotherapy effectiveness in managing attention-de  cit/hyperactivity disorder in young children with or without autism spectrum disorder: a minireview. Front. Psychiatry 15, 1408876. doi:[10.3389/fpsyt.2024.1408876](https://doi.org/10.3389/fpsyt.2024.1408876)
+
+<a name="_page6_x305.00_y549.89"></a>American Psychiatric Association (2013). Diagnostic and Statistical Manual of<a name="_page6_x305.00_y569.89"></a>Mental Disorders, DSM-5. Washington, DC: American Psychiatric Association.
+
+Arabgol, F., Panaghi, L., and Nikzad, V. (2015). Risperidone versus methylphenidate in treatment of preschool children with attention-De  cit Hyperactivity Disorder.Iran. J. Pediatr. 25, e265. doi[:10.5812/ijp.26](https://doi.org/10.5812/ijp.265)5
+
+<a name="_page6_x305.00_y605.89"></a>AsztØly, K., Kopp, S., Gillberg, C., Waern, M., and Bergman, S. (2019). Chronic pain and health-related quality of life in women with autism and/or ADHD: A prospective longitudinal study. J. Pain Res.12, 2925  2932. doi:[10.2147/jpr.s212422](https://doi.org/10.2147/jpr.s212422)
+
+<a name="_page6_x50.00_y641.89"></a>Aydede, M., and Shriver, A. (2018). Recently introduced de  nition of nociplastic<a name="_page6_x305.00_y641.89"></a>pain  by the International Association for the Study of Pain needs better formulation. Pain 159, 1176  1177. doi:[10.1097/j.pain.0000000000001184](https://doi.org/10.1097/j.pain.0000000000001184)
+
+Banaschewski, T., Roessner, V., Dittmann, R. W., Janardhanan Santosh, P., and Rothenberger, A. (2004). Non?stimulant medications in the treatment of ADHD. Eur.<a name="_page6_x305.00_y681.89"></a>Child Adolesc. Psychiatry13, I102  I116. doi:[10.1007/s00787-004-1010-x](https://doi.org/10.1007/s00787-004-1010-x)
+
+Battison, E. A. J., Brown, P. C. M., Holley, A. L., and Wilson, A. C. (2023).<a name="_page6_x305.00_y701.89"></a>Associations between chronic pain and Attention-De  cit Hyperactivity Disorder (ADHD) in youth: A scoping review. Child. (Basel) 10, 142. doi:[10.3390/ children10010142](https://doi.org/10.3390/children10010142)
+
+Bouchatta, O., Aby, F., Sifeddine, W., Bouali-Benazzouz, R., Brochoire, L., Manouze, H., et al. (2022). Pain hypersensitivity in a pharmacological mouse model of attention-<a name="_page6_x305.00_y748.89"></a>de  cit/hyperactivity disorder. Proc. Natl. Acad. Sci. U. S. A.119, e2114094119. [doi:10. 1073/pnas.2114094119](https://doi.org/10.1073/pnas.2114094119)
+
+the Japan Society for the Promotion of Science [Grant numbers: 20K07755, 24K13083].
+
+Acknowledgments
+
+We would like to thank Editage [(www.editage.com](http://www.editage.com)) for English language editing.
+
+Con  ict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or  nancial relationships that could be construed as a potential con  ict of interest.
+
+Generative AI statement
+
+The author(s) declare that no Generative AI was used in the creation of this manuscript.
+
+Publisher s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their af  liated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Buoli, M., Serati, M., and Cahn, W. (2016). Alternative pharmacological strategies for adultADHDtreatment:asystematicreview.ExpertRev.Neurother.16,131  144.doi:[10. 1586/14737175.2016.1135735](https://doi.org/10.1586/14737175.2016.1135735)
+
+<a name="_page6_x50.00_y529.89"></a><a name="_page6_x305.00_y521.89"></a>Childress, A. (2024). Recent advances in pharmacological management of attention- de  cit/hyperactivity disorder: moving beyond stimulants.Expert Opin. Pharmacother. 25, 853  866. doi:[10.1080/14656566.2024.2358987](https://doi.org/10.1080/14656566.2024.2358987)
+
+Conners, C. K., Erhardt, D., and Sparrow, E. P. (1999).Conners Adult ADHD Rating <a name="_page6_x50.00_y565.89"></a>Scales (CAARS): Technical Manual. North Tonawanda, NY: Multi-Health Systems Inc.
+
+Dorrego, M. F., Canevaro, L., Kuzis, G., Sabe, L., and Starkstein, S. E. (2002). A <a name="_page6_x50.00_y585.89"></a>randomized, double-blind, crossover study of methylphenidate and lithium in adults with attention-de  cit/hyperactivity disorder: preliminary  ndings. J. Neuropsychiatry Clin. Neurosci.14, 289  295. doi:[10.1176/jnp.14.3.289](https://doi.org/10.1176/jnp.14.3.289)
+
+<a name="_page6_x50.00_y613.89"></a>Doyle, R. L., Frazier, J., Spencer, T. J., Geller, D., Biederman, J., and Wilens, T. (2006). Donepezil in the treatment of ADHD-like symptoms in youths with pervasive developmental disorder: a case series. J. Atten. Disord. 9, 543  549. doi[:10.1177](https://doi.org/10.1177/1087054705284091)/ [1087054705284091](https://doi.org/10.1177/1087054705284091)
+
+Feinmann, C., and Harris, M. (1984). Psychogenic facial pain. Part 2: Management and prognosis. Br. Dent. J.156, 205  208. doi:[10.1038/sj.bdj.4805304](https://doi.org/10.1038/sj.bdj.4805304)
+
+<a name="_page6_x50.00_y669.89"></a><a name="_page6_x305.00_y661.89"></a>Flor,H.,andTurk,D.C.(2015).ChronicPain:AnIntegratedBiobehavioralApproach. Philadelphia, PA: Lippincott Williams and Wilkins.
+
+Garcia-Larrea, L., and Peyron, R. (2013). Pain matrices and neuropathic pain <a name="_page6_x50.00_y697.89"></a>matrices: a review.Pain 154 (Suppl. 1), S29  S43. [doi:10.1016/j.pain.2013.09.001](https://doi.org/10.1016/j.pain.2013.09.001)
+
+Ghanizadeh, A. (2013). Systematic review of clinical trials of aripiprazole for treating attention de  cit hyperactivity disorder. Neurosci. (Riyadh)18, 323  329.
+
+<a name="_page6_x305.00_y721.89"></a>Ginsberg, Y., Quintero, J., Anand, E., Casillas, M., and Upadhyaya, H. P. (2014). <a name="_page6_x50.00_y732.89"></a>Underdiagnosis of attention-de  cit/hyperactivity disorder in adult patients: A review of the literature. Prim. Care Companion CNS Disord16. doi[:10.4088/pcc.13r0160](https://doi.org/10.4088/pcc.13r01600)0
+
+Guay, D. R. P. (2001). Adjunctive agents in the management of chronic pain. Pharmacotherapy 21, 1070  1081. doi:[10.1592/phco.21.13.1070.34622](https://doi.org/10.1592/phco.21.13.1070.34622)
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) 7 [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al.
+
+[10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+<a name="_page7_x50.00_y77.89"></a>Holman, A. J., and Myers, R. R. (2005). A randomized, double-blind, placebo-controlled<a name="_page7_x305.00_y77.89"></a>trialofpramipexole,adopamineagonist,inpatientswith  bromyalgiareceivingconcomitant medications. Arthritis Rheum. 52, 2495  2505. doi[:10.1002/art.21191](https://doi.org/10.1002/art.21191)
+
+Ibrahim, M. E., and Hefny, M. A. (2022). Central sensitization and adult attention de  cit hyperactivity disorder in medical students with chronic back pain: a cross-<a name="_page7_x305.00_y121.89"></a>sectional study. Egypt. Rheumatol. Rehabil49, 24. doi:[10.1186/s43166-022-00124-2](https://doi.org/10.1186/s43166-022-00124-2)
+
+Kantak, K. M. (2022). Rodent models of attention-de  cit hyperactivity disorder: An updated framework for model validation and therapeutic drug discovery. Pharmacol. Biochem. Behav.216, 173378. doi:[10.1016/j.pbb.2022.173378](https://doi.org/10.1016/j.pbb.2022.173378)
+
+<a name="_page7_x305.00_y157.89"></a>Kaplan, M. S., and Kaplan, L. R. (2006). Why do chronic pain patients have multiple accidents? Pain Med 7, 466.1  466. doi[:10.1111/j.1526-4637.2006.00208_1](https://doi.org/10.1111/j.1526-4637.2006.00208_1.x).x
+
+<a name="_page7_x50.00_y181.89"></a>Kasahara, S., Kanda, S., Takahashi, M., Fujioka, M., Morita, T., Matsudaira, K., et al.<a name="_page7_x305.00_y185.89"></a>(2023a). Case Report: Guanfacine and methylphenidate improved chronic lower back pain in autosomal dominant polycystic kidney disease with comorbid attention de  cit hyperactivity disorder and autism spectrum disorder. Front. Pediatr. 11, 1283823. doi:[10.3389/fped.2023.1283823](https://doi.org/10.3389/fped.2023.1283823)
+
+Kasahara, S., Kato, Y., Takahashi, K., Matsudaira, K., Sato, N., Fukuda, K.-I., et al. (2023b). Improvement in persistent idiopathic facial pain with comorbid ADHD using the combination of a dopamine system stabilizer and psychostimulant: A case report.<a name="_page7_x305.00_y248.89"></a>Clin. Case Rep.11, e7552. doi:[10.1002/ccr3.7552](https://doi.org/10.1002/ccr3.7552)
+
+Kasahara, S., Kato, Y., Takahashi, M., Matsudaira, K., Sato, N., Niwa, S.-I., et al.<a name="_page7_x305.00_y268.89"></a>(2023c).Casereport:Remissionofchroniclowbackpainandoraldysesthesiacomorbid with attention de  cit/hyperactivity disorder by treatment with atomoxetine and pramipexole. Front. Pain Res. (Lausanne)4, 1159134. doi:[10.3389/fpain.2023.1159134](https://doi.org/10.3389/fpain.2023.1159134)
+
+<a name="_page7_x50.00_y296.89"></a>Kasahara, S., Kunii, Y., Mashiko, H., Otani, K., Konno, S.-I., and Niwa, S.-I. (2011).<a name="_page7_x305.00_y296.89"></a>Four cases of chronic pain that improved dramatically following low-dose aripiprazole administration. Prim. Care Companion CNS Disord13. doi:[10.4088/pcc.10l01078](https://doi.org/10.4088/pcc.10l01078)
+
+<a name="_page7_x50.00_y324.89"></a>Kasahara, S., Matsudaira, K., Sato, N., and Niwa, S.-I. (2021a). Pain and attention-<a name="_page7_x305.00_y324.89"></a>de  cit/hyperactivity disorder: The case of Margaret Mitchell.Psychosom. Med.83, 492  493. doi:[10.1097/psy.0000000000000947](https://doi.org/10.1097/psy.0000000000000947)
+
+<a name="_page7_x50.00_y352.89"></a>Kasahara, S., Matsudaira, K., Sato, N., and Niwa, S.-I. (2022a). Attention-De  cit/<a name="_page7_x305.00_y352.89"></a>hyperactivity disorder and centralized pain: A review of the case of John F. Kennedy. Clin. Case Rep.10, e6422. doi:[10.1002/ccr3.6422](https://doi.org/10.1002/ccr3.6422)
+
+<a name="_page7_x50.00_y380.89"></a>Kasahara,S.,Niwa,S.I.,Matsudaira,K.,Sato,N.,Oka,H.,Fujii,T.,etal.(2021b).High<a name="_page7_x305.00_y380.89"></a>attention-de  cit/hyperactivity disorder scale scores among patients with persistent chronic nonspeci  c low back pain. Pain Physician 24, E299  E307. doi:[10.36076/ppj. 2021/24/e299](https://doi.org/10.36076/ppj.2021/24/e299)
+
+Kasahara, S., Niwa, S.-I., Matsudaira, K., Sato, N., Oka, H., and Yamada, Y. (2020).<a name="_page7_x305.00_y420.89"></a>Attention-de  cit/hyperactivity disorder and chronic pain. Psychosom. Med. 82, 346  347. doi:[10.1097/psy.0000000000000789](https://doi.org/10.1097/psy.0000000000000789)
+
+Kasahara, S., Okamura, Y., Matsudaira, K., Oka, H., Suzuki, Y., Murakami, Y., et al.<a name="_page7_x305.00_y448.89"></a>(2017). Diagnosis and treatment of attention-de  cit hyperactivity disorder in patients with chronic pain. Open J. Psychiatr.07, 261  275. doi[:10.4236/ojpsych.2017.7402](https://doi.org/10.4236/ojpsych.2017.74023)3
+
+Kasahara, S., Takahashi, K., Matsudaira, K., Sato, N., Fukuda, K.-I., Toyofuku, A., et al.<a name="_page7_x305.00_y475.89"></a>(2023d). Diagnosis and treatment of intractable idiopathic orofacial pain with attention- de  cit/hyperactivity disorder. Sci. Rep.13, 1678. doi[:10.1038/s41598-023-28931-](https://doi.org/10.1038/s41598-023-28931-3)3
+
+Kasahara, S., Takahashi, M., Morita, T., Matsudaira, K., Sato, N., Momose, T., et al.<a name="_page7_x305.00_y503.89"></a>(2023e). Case report: Atomoxetine improves chronic pain with comorbid post- traumatic stress disorder and attention de  cit hyperactivity disorder. Front. Psychiatry14, 1221694. doi:[10.3389/fpsyt.2023.1221694](https://doi.org/10.3389/fpsyt.2023.1221694)
+
+Kasahara, S., Takahashi, M., Takahashi, K., Morita, T., Matsudaira, K., Sato, N., et al. (2024). Case Report: Methylphenidate andvenlafaxine improved abdominal nociplastic pain in an adult patient with attention de  cit hyperactivity disorder, autism spectrum disorder, and comorbid major depression. Front. Pain Res. (Lausanne) 5, 1394131.<a name="_page7_x305.00_y567.89"></a>doi:[10.3389/fpain.2024.1394131](https://doi.org/10.3389/fpain.2024.1394131)
+
+Kasahara, S., Takao, C., Matsudaira, K., Sato, N., Tu, T. T. H., Niwa, S.-I., et al.<a name="_page7_x305.00_y587.89"></a>(2022b). Case report: Treatment of persistent atypical odontalgia with attention de  cit hyperactivitydisorderandautismspectrum disorder withrisperidoneandatomoxetine. Front. Pain Res. (Lausanne)3, 926946. doi:[10.3389/fpain.2022.926946](https://doi.org/10.3389/fpain.2022.926946)
+
+Kessler, R. C., Adler, L., Ames, M., Demler, O., Faraone, S., Hiripi, E., et al. (2005). The<a name="_page7_x305.00_y623.89"></a>World Health Organization Adult ADHD Self-Report Scale (ASRS): a short screening scale foruseinthegeneralpopulation.Psychol.Med.35,245  256.doi[:10.1017/s003329170400289](https://doi.org/10.1017/s0033291704002892)2
+
+Khawaja, S. N., Alaswaiti, O. F., and Scrivani, S. J. (2023). Burning mouth syndrome.<a name="_page7_x305.00_y651.89"></a>Dent. Clin. North Am.67, 49  60. doi:[10.1016/j.cden.2022.07.004](https://doi.org/10.1016/j.cden.2022.07.004)
+
+Kooij, J. J., and Francken, M. H. (2010).Diagnostic Interview for ADHD in adults 2.0 (DIVA 2.0). The Hague, Netherlands: DIVA Foundation.
+
+<a name="_page7_x50.00_y683.89"></a>Kosek, E., Clauw, D., Nijs, J., Baron, R., Gilron, I., Harris, R. E., et al. (2021). Chronic<a name="_page7_x305.00_y687.89"></a>nociplastic pain affecting the musculoskeletal system: clinical criteria and grading system. Pain 162, 2629  2634. doi:[10.1097/j.pain.0000000000002324](https://doi.org/10.1097/j.pain.0000000000002324)
+
+Lamberti, M., Siracusano, R., Italiano, D., Alosi, N., Cucinotta, F., Di Rosa, G., et al. (2016). Head-to-head comparison of aripiprazole and risperidone in the treatment of ADHD symptoms in children with autistic spectrum disorder and ADHD: A pilot, <a name="_page7_x50.00_y105.89"></a>open-label, randomized controlled study. Paediatr. Drugs 18, 319  329. doi[:10.1007](https://doi.org/10.1007/s40272-016-0183-3)/ [s40272-016-0183-3](https://doi.org/10.1007/s40272-016-0183-3)
+
+Meseguer-BeltrÆn, M., SÆnchez-Sarasœa, S., Landry, M., Kerekes, N., and SÆnchez- <a name="_page7_x50.00_y133.89"></a>PØrez, A. M. (2023). Targeting neuroin  ammation with abscisic acid reduces pain sensitivity in females and hyperactivity in males ofan ADHD mice model.Cells12, 465. doi:[10.3390/cells12030465](https://doi.org/10.3390/cells12030465)
+
+<a name="_page7_x50.00_y161.89"></a>Mills, S. E. E., Nicolson, K. P., and Smith, B. H. (2019). Chronic pain: a review of its epidemiology and associated factors in population-based studies.Br. J. Anaesth.123, e273  e283. doi:[10.1016/j.bja.2019.03.023](https://doi.org/10.1016/j.bja.2019.03.023)
+
+Nijs, J., George, S. Z., Clauw, D. J., FernÆndez-de-Las-Peæas, C., Kosek, E., Ickmans, K., et al. (2021). Central sensitisation in chronic pain conditions: latest discoveries and their potential for precision medicine. Lancet Rheumatol 3, e383  e392. doi[:10.1016](https://doi.org/10.1016/S2665-9913\(21\)00032-1)/ [S2665-9913(21)00032-1](https://doi.org/10.1016/S2665-9913\(21\)00032-1)
+
+<a name="_page7_x50.00_y224.89"></a><a name="_page7_x305.00_y220.89"></a>Pallanti, S., Porta, F., and Salerno, L. (2021). Adult attention de  cit hyperactivity disorder in patients with  bromyalgia syndrome: Assessment and disabilities. J. Psychiatr. Res.136, 537  542. doi:[10.1016/j.jpsychires.2020.10.027](https://doi.org/10.1016/j.jpsychires.2020.10.027)
+
+Queiroz, L. P. (2013). Worldwide epidemiologyof  bromyalgia.Curr. Pain Headache <a name="_page7_x50.00_y260.89"></a>Rep17, 356. doi:[10.1007/s11916-013-0356-5](https://doi.org/10.1007/s11916-013-0356-5)
+
+Regan, S. L., Williams, M. T., and Vorhees, C. V. (2022). Review of rodent models of attention de  cit hyperactivity disorder.Neurosci. Biobehav. Rev.132, 621  637. doi[:10](https://doi.org/10.1016/j.neubiorev.2021.11.041). [1016/j.neubiorev.2021.11.041](https://doi.org/10.1016/j.neubiorev.2021.11.041)
+
+Sablaban, I. M., and Sivananthan, M. (2022). Attention-de  cit hyperactivity disorder  associated impulsive aggression treated with lamotrigine.Am. J. Ther.29, e747  e748. doi:[10.1097/mjt.0000000000001219](https://doi.org/10.1097/mjt.0000000000001219)
+
+Sarria-Santamera, A., Kuntuganova, A., and Alonso, M. (2022). Economic costs of pain in the Spanish working population. J. Occup. Environ. Med.64, e261  e266. doi:[10. 1097/jom.0000000000002497](https://doi.org/10.1097/jom.0000000000002497)
+
+Sifeddine, W., Ba-M hamed, S., Landry, M., and Bennis, M. (2023). Effect of atomoxetine on ADHD-pain hypersensitization comorbidity in 6-OHDA lesioned mice. Pharmacol. Rep.75, 342  357. doi:[10.1007/s43440-023-00459-3](https://doi.org/10.1007/s43440-023-00459-3)
+
+Stahl, S. M. (2020). Prescriber Guide: Stahl s Essential Psychopharmacology. Cambridge University Press.
+
+<a name="_page7_x305.00_y400.89"></a>Stahl, S. M. (2021).Stahl s Essential Psychopharmacology: Neuroscienti  c Basis and <a name="_page7_x50.00_y416.89"></a>Practical Applications. Cambridge University Press.
+
+Stickley, A., Koyanagi, A., Takahashi, H., and Kamio, Y. (2016). ADHD symptoms andpainamongadultsinEngland. Psychiatry Res246, 326  331.doi:[10.1016/j.psychres. 2016.10.004](https://doi.org/10.1016/j.psychres.2016.10.004)
+
+<a name="_page7_x50.00_y444.89"></a>Stray,L.L.,Kristensen, .,Lomeland,M.,Skorstad,M.,Stray,T.,andTłnnessen,F.E. (2013). Motor regulation problems and pain in adults diagnosed with ADHD. Behav. <a name="_page7_x50.00_y471.89"></a>Brain Funct. 9, 18. doi:[10.1186/1744-9081-9-18](https://doi.org/10.1186/1744-9081-9-18)
+
+Stray, L. L., Stray, T., Iversen, S., Ruud, A., and Ellertsen, B. (2009). Methylphenidate improves motor functions in children diagnosed with Hyperkinetic Disorder. Behav. <a name="_page7_x50.00_y499.89"></a>Brain Funct. 5, 21. doi:[10.1186/1744-9081-5-21](https://doi.org/10.1186/1744-9081-5-21)
+
+Surman, C. B. H., Hammerness, P. G., Petty, C., Spencer, T., Doyle, R., Napolean, S., et al. (2013). A pilot open label prospective study of memantine monotherapy in adults with ADHD. World J. Biol. Psychiatry14, 291  298. doi[:10.3109/15622975.2011.62371](https://doi.org/10.3109/15622975.2011.623716)6
+
+<a name="_page7_x50.00_y535.89"></a><a name="_page7_x305.00_y531.89"></a>Suto,T., Kato, D., Koibuchi, I., Arai, Y., Ohta, J., Hiroki, T., et al. (2023). Rat model of attention-de  cit hyperactivity disorder exhibits delayed recovery from acute incisional pain due to impaired descending noradrenergic inhibition. Sci. Rep.13, 5526. doi[:10](https://doi.org/10.1038/s41598-023-32512-9). [1038/s41598-023-32512-9](https://doi.org/10.1038/s41598-023-32512-9)
+
+Swanson, D. W., Swenson, W. M., Maruta, T., and Floreen, A. C. (1977). The dissatis  ed <a name="_page7_x50.00_y579.89"></a>patient with chronic pain. Pain 4, 367  378. doi[:10.1016/0304-3959(77)90147-](https://doi.org/10.1016/0304-3959\(77\)90147-6)6
+
+Takahashi, M., Kasahara, S., Soma, T., Morita, T., Sato, N., Matsudaira, K., et al. (2024). Precuneal hyperperfusion in patients with attention-de  cit/hyperactivity disorder-comorbid nociplastic pain. Front. Pharmacol. 15, 1480546. doi[:10.3389](https://doi.org/10.3389/fphar.2024.1480546)/ <a name="_page7_x50.00_y615.89"></a>[fphar.2024.1480546](https://doi.org/10.3389/fphar.2024.1480546)
+
+Tambeli, C. H., Levine, J. D., and Gear, R. W. (2009). Centralization of noxious stimulus-induced analgesia (NSIA) is related to activity at inhibitory synapses in the <a name="_page7_x50.00_y643.89"></a>spinal cord. Pain 143, 228  232. doi:[10.1016/j.pain.2009.03.005](https://doi.org/10.1016/j.pain.2009.03.005)
+
+Treede, R.-D., Rief, W., Barke, A., Aziz, Q., Bennett, M. I., Benoliel, R., et al. (2019). <a name="_page7_x50.00_y663.89"></a>Chronic pain as a symptom or a disease: the IASP classi  cation of Chronic pain for the International Classi  cation of diseases (ICD-11).Pain 160, 19  27. doi[:10.1097/j.pain](https://doi.org/10.1097/j.pain.0000000000001384). [0000000000001384](https://doi.org/10.1097/j.pain.0000000000001384)
+
+Vlaeyen, J. W. S., and Morley, S. (2004). Active despite pain: the putative role of stop- rules and current mood. Pain 110, 512  516. doi:[10.1016/j.pain.2004.04.037](https://doi.org/10.1016/j.pain.2004.04.037)
+
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) 8 [frontiersin.org](https://www.frontiersin.org)
+Kasahara et al.
+
+[10.3389/fphar.2025.1500313](https://doi.org/10.3389/fphar.2025.1500313)
+
+<a name="_page7_x50.00_y711.89"></a><a name="_page7_x305.00_y707.89"></a>Yanofski, J. (2010). The dopamine dilemma: using stimulants and antipsychotics Kosek,E.,Cohen,M.,Baron,R.,Gebhart,G.F.,Mico,J.-A.,Rice,A.S.C.,etal.(2016).
+
+concurrently. Psychiatry (Edgmont)7, 18  23. Doweneedathirdmechanisticdescriptorforchronicpainstates?Pain 157,1382  1386.
+
+<a name="_page7_x305.00_y726.89"></a>doi:[10.1097/j.pain.0000000000000507](https://doi.org/10.1097/j.pain.0000000000000507) Zain, E., Sugimoto, A., Egawa, J., and Someya, T. (2023). Case report: <a name="_page7_x50.00_y738.89"></a>Methylphenidate improved chronic pain in an adult patient with attention
+
+Kurlan, R., Crespi, G., Coffey, B., Mueller-Vahl, K., Koval, S., Wunderlich, G., et al.
+
+de  cit hyperactivity disorder. Front. Psychiatry 14, 1091399. doi[:10.3389/fpsy](https://doi.org/10.3389/fpsyt.2023.1091399)t. (2012). A multicenter randomized placebo-controlled clinical trial of pramipexole for
+
+[2023.1091399](https://doi.org/10.3389/fpsyt.2023.1091399)
+
+Tourette s syndrome. Mov. Disord.27, 775  778. doi:[10.1002/mds.24919](https://doi.org/10.1002/mds.24919)
+[Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology) 9 [frontiersin.org](https://www.frontiersin.org)

@@ -1,0 +1,101 @@
+﻿BJPsych Open
+
+Irritability and Risk-Taking Behaviour on the Cambridge Gambling Task (CGT) in Adolescents With a Family History of Depression
+
+Dr Ramya Srinivasan1\*, Prof Glyn Lewis1, Prof Jon Roiser1 and Prof Frances Rice2
+
+1UCL, London, United Kingdom and 2Cardiff University, Cardiff, United Kingdom
+
+\*Presenting author.
+
+doi: 10.1192/bjo.2024.250
+
+Aims. Irritability is a common symptom in children and ado- lescents, often resulting in referral to mental health services and is associated with depression. Depression in adolescents and adults at familial risk of, and with depression, is associated with reduced risk-taking on the Cambridge Gambling Task (CGT) particularly when the chance of winning is high. However, little is known about risk-taking in irritability. This study tests the hypothesis that increased irritability is longitu- dinally associated with later risk-taking behaviour on the CGT; specifically, that increasing irritability is associated with lower risk-taking when the chance of a favourable outcome is high.
+
+Methods. We conducted a longitudinal study of the biological off- spring of parents of children with depression (n=337). Irritability, the exposure, was measured at wave one using the Child and Adolescent Psychiatric Assessment (CAPA). The pri- mary outcome was risk-taking to obtain reward at varying prob- ability ratios (6:4, 7:3, 8:2 and 9:1) measured by the Cambridge Gambling Task (CGT) at waves two and three. We investigated the longitudinal association between irritability at wave one and average risk-taking at each ratio across waves two and three using multi-level models. The extent to which risk-taking accord- ing to probability ratio varied with irritability was tested with interaction terms. We ran univariable models and then multivari- able models.
+
+Results. In univariable (n=207; Coef. 0.006, 95%CI−0.011 0.023, p=0.470), and fully adjusted (Coef. 0.011, 95%CI −0.007  0.029, p=0.213) models there was no evidence of a main association between irritability and risk-taking on the CGT. There was evidence of an interaction between irritability and risk-taking ratio (p=0.019). In fully adjusted models including the interaction, a one-point increase in irritability was associated with relatively higher risk-taking at the less favourable ratios (6:4  0.018 (95%CI−0.002  0.037) and 7:3 0.015 (95%CI −0.005  0.035)) relative to the more favourable ratios (9:1  0.001 (95%CI −0.019  0.021) and 8:1  0.011 (95%CI −0.008-0.031)). Conclusion. We found no evidence of relationship between irritability and subsequent risk-taking on the CGT overall. However, there was some evidence that those with higher irrit- ability were relatively more risk-taking when less likely to win compared with when a favourable outcome was more likely. These findings warrant further investigation of the association between prior irritability and later depression in a larger com- munity cohort. If prior irritability and depression are both associated with risk-taking, this strengthens the case for focus- sing on risk-taking as a potential target for preventive intervention.![](blkcglz0.001.png)
+
+Abstracts were reviewed by the RCPsych Academic Faculty rather than by the standard BJPsych Openpeer review process and should not be quoted as peer-reviewed by BJPsych Openin any subsequent publication.
+
+S83
+
+Real-World Impact of Research Feedback Reports on CYP Mental Health for Families of Children With Rare Genetic Disorders and Intellectual and Developmental Disability
+
+Ms Harriet Housby, Dr Ramya Srinivasan\*, IMAGINE ID Consortium, Professor David Skuse
+
+and Dr Jeanne Wolstencroft1
+
+UCL Institute of Child Health, London, United Kingdom \*Presenting author.
+
+doi: 10.1192/bjo.2024.251
+
+Aims. Children and young people (CYP) with intellectual and developmental disabilities (IDD) of known genetic origin experi- ence complex physical and mental health problems; IMAGINE-ID has followed a national UK cohort from childhood to early adulthood. Parents completed structured online psychi- atric assessments on repeated occasions. From these assessments, semi-automated personalised reports were generated summaris- ing each child s strengths and difficulties, in collaboration with IMAGINE ID participants and the charity UNIQUE.
+
+We aimed to discover whether providing a structured summary of our mental health and behavioural assessments would be bene- ficial to families of children with rare genetic conditions and IDD. Methods. 574 of the CYP s caregivers completed an online  impact  survey, five years after receiving their initial report, com- prising four areas of potential benefit: Quality of Care (whether the report led to an improvement in the child s quality of mental and/or physical health care); Social Impact (whether the report was used as evidence to support an EHCP, disability benefits etc.), Psychological Impact (whether it led to any change in understanding of the child s condition), and Referrals (whether the report led to a referral for Autism/ADHD etc.). We also invited qualitative feedback.
+
+Results. 82% of respondents rated the reports as helpful. 35% reported they had led to an improvement in their CYP s quality of care, 24% reported social impact using the report as supporting evidence, 99% reported a psychological impact  a change in their understanding of the child, and 17% used the report to initiate a referral for an assessment of ADHD and/or autism. In our quali- tative analysis, families who found the report helpful mentioned it led to reflection  on their child s condition and that it provided  access to benefits . For those who did not find the report helpful, issues such as it lacked professional input  and forgetting the contents  of the report were identified.
+
+Conclusion. Personalised summary reports, based on a structured assessment of their child s behavioural, social and emotional adjustment, are valued by families of children with rare genetic conditions and IDD and can bring about tangible benefits to the child and the family s access to resources.![](blkcglz0.002.png)
+
+Abstracts were reviewed by the RCPsych Academic Faculty rather than by the standard BJPsych Openpeer review process and should not be quoted as peer-reviewed by BJPsych Openin any subsequent publication.
+
+The Prevalence of Attention-Deficit Hyperactivity Disorder in Functional Neurological Disorder: An Integrative Literature Review
+
+Miss Catriona Staunton1\*, Dr Roopa Rudrappa2 and Dr Mohanbabu Rathnaiah2
+
+S84
+
+1University of Nottingham, Nottingham, United Kingdom and 2Derbyshire Healthcare NHS Foundation Trust, Derby, United
+
+Kingdom
+
+\*Presenting author.
+
+doi: 10.1192/bjo.2024.252
+
+Aims. Functional Neurological Disorders (FNDs) affect motor or sensory functions without a detectable underlying disease. FNDs encompass a range of presentations including non-epileptic sei- zures, cognitive changes, weakness, and sensory symptoms. The prevalence of FND as a diagnosis is increasing rapidly. Following our clinical observations of a high prevalence of Attention-Deficit Hyperactivity Disorder (ADHD) in people referred with a previous diagnosis of FND to our tertiary Neuropsychiatry pilot service in Derbyshire, we conducted an integrative literature review with the aim to investigate the preva- lence of ADHD in people diagnosed with FND.
+
+Methods. We conducted an integrative literature review using a systematic approach. A literature search was performed on two databases, PubMed and ScienceDirect. The keywords Functional Neurological Disorder , Attention-Deficit Hyperactivity Disorder , Non-Epileptic Seizures , Functional  were used. Databases were searched for initial search on 31 November 2023 and the search was repeated on 31 January 2024. Only articles in English language were included. Studies were eligible if reporting the prevalence of ADHD in FND populations. Studies involving adults and children were included. A further search was conducted on reference lists from the selected articles.
+
+Results. Database searches on PubMed and ScienceDirect had 298 and 11,837 results, respectively. Only seven studies were iden- tified that explored the prevalence of ADHD in individuals diag- nosed with a FND and were included. In the adult population an association between a FND diagnosis, and ADHD traits identified on screening, or a final ADHD diagnosis was identified. The find- ings also demonstrate an increased incidence of comorbid ADHD and FND with the presence of another co-existing neurodevelop- mental disorder such as Autism Spectrum Disorder. Furthermore, results indicated that the prevalence of an ADHD diagnosis in children with a FND was higher compared with adults. The litera- ture suggests that, in both adults and children with FND-related functional seizures there is an increased prevalence of comorbid ADHD.
+
+Conclusion. In conclusion, the findings from this review demon- strate a lack of evidence looking into the prevalence of Attention-Deficit Hyperactivity Disorder in complex presenta- tions being labelled as Functional Neurological Disorder. However, the existing literature indicates there is an association between FND and ADHD. These findings highlight the import- ance of considering potential ADHD comorbidity in the assess- ment and management of FND, potentially informing targeted treatment approaches for affected individuals. Further research could explore the efficacy of ADHD medication and similar dopa- mine modulating molecules in treating sub-cohort of people with FND.![](blkcglz0.003.png)
+
+Abstracts were reviewed by the RCPsych Academic Faculty rather than by the standard BJPsych Openpeer review process and should not be quoted as peer-reviewed by BJPsych Openin any subsequent publication.
+
+Impact of Covid-19 on Referrals to Paediatric Liaison Psychiatry at Children s Health Ireland (CHI) at Crumlin as the Pandemic Moved to Endemic Status
+
+Mr Bohan Sun1\*, Dr Dimitrios Adamis2 and Dr Fiona McNicholas1,3,4
+
+Accepted posters
+
+1School of Medicine and Medical Science, University College Dublin, Dublin, Ireland; 2Sligo Mental Health Services, Sligo, Ireland; 3Department of Paediatric Liaison Psychiatry, Children s Health Ireland at Crumlin, Dublin, Ireland and 4Lucena Clinic Rathgar, St
+
+John of God Hospitaller Services, Dublin, Ireland
+
+\*Presenting author.
+
+doi: 10.1192/bjo.2024.253
+
+Aims. Rates of acute mental health presentations in youth were rising pre-pandemic internationally. Longitudinal studies follow- ing Covid-19 attest to ongoing deterioration in youth mental health, recognising adverse unintended consequences following public health restrictions.
+
+This study aimed to examine whether the initial reported post-Covid-19 increase in mental health presentations persisted following the reclassification of Covid-19 to endemic status, which was accompanied by removal of most restrictions. Methods. All referrals to paediatric liaison psychiatry (PLP) between Jan 2018  Dec 2022 in a Dublin tertiary children s hos- pital were included in the study. An interrupted time series ana- lysis was conducted examining referrals with respect to different phases of Covid-19 and application of public health restrictions. Results. 1,385 referrals to PLP were received over the 5-year study time-period. There was a significant decrease in PLP referrals immediately post Covid-19, following a significant and sustained increase as the pandemic progressed. Public health restriction phases had a unique effect on those presenting with suicidal idea- tion, with a significant increase in the number of referrals received. There was no effect of restrictions on other clinical profiles.
+
+Conclusion. Increased referrals for youth with mental health dif- ficulties, reported during the Covid-19 pandemic, persisted into the early endemic stage, after Covid-19 public health restriction have ceased. Potential impacts of restrictions on referrals of youth with suicidal ideation require further study. Investment in child and adolescent mental health services remain a priority, and future pandemic responses need to examine unintended con- sequences of any enforced public health measure.![](blkcglz0.004.png)
+
+Abstracts were reviewed by the RCPsych Academic Faculty rather than by the standard BJPsych Openpeer review process and should not be quoted as peer-reviewed by BJPsych Openin any subsequent publication.
+
+IRAMP: Investigation of Risk Assessment and Management Processes Using Datix Report Analysis and Observation of Clinical Team Meetings
+
+Dr Kay Sunderland1\*, Dr Emma Drysdale1, Dr Brian Gillatt1, Dr Alan Mackenzie1 and Dr Paula McCahon1
+
+1NHS Greater Glasgow and Clyde, Glasgow, United Kingdom \*Presenting author.
+
+doi: 10.1192/bjo.2024.254
+
+Aims. To investigate risk assessment and management processes across a health board in the context of the implementation of a new risk screening tool and risk policy using comparison of DATIX incidents before and after implementation of the CRAFT tool.
+
+In mental health services, risk assessment and management are key responsibilities for clinical staff. A risk management tool that is structured and evidence-based aims to assist staff in man- aging risks including violence, self-harm, suicide and self-neglect.
+
+It is not clear whether risk tools have clinical utility in influen- cing risk-related decision making and previous reviews within the

@@ -1,0 +1,1043 @@
+﻿Sharples et al. Dopamine modulation of rhythmic networks![ref1]
+
+[REVIEW ARTICLE ](http://www.frontiersin.org/Neural_Circuits/editorialboard)![](khfud3ql.002.png)NEU RAL CIR CUIT S [published: 16 June 2014](http://www.frontiersin.org/Neural_Circuits/editorialboard)
+
+[doi: 10.3389/fncir.2014.00055](http://www.frontiersin.org/Neural_Circuits/editorialboard)
+# [Dopamine: a parallel pathway for the modulation of spinal locomotor networks](http://www.frontiersin.org/Journal/10.3389/fncir.2014.00055/abstract)
+[**Simon A. Sharples1,2,](http://community.frontiersin.org/people/u/161672) **[Kathrin Koblinger 1,2,](http://community.frontiersin.org/people/u/161848) J[ennifer M. Humphreys1,2 and](http://community.frontiersin.org/people/u/161775) Patr[ick J. Whelan1,2,3,4***](http://community.frontiersin.org/people/u/118517)**
+
+1 Hotchkiss Brain Institute, University of Calgary, Calgary, AB, Canada
+
+2 Department of Comparative Biology and Experimental Medicine, University of Calgary, Calgary, AB, Canada 3 Department of Physiology and Pharmacology, University of Calgary, Calgary, AB, Canada
+
+4 Department of Clinical Neurosciences, University of Calgary, Calgary, AB, Canada
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)|** 
+Sharples et al. Dopamine modulation of rhythmic networks![ref1]
+
+**Edited by:**
+
+Brian R. Noga, University of Miami, USA
+
+**Reviewed by:**
+
+Ronald M. Harris-Warrick, Cornell University, USA
+
+Pierre Guertin, Laval University, Canada
+
+**\*Correspondence:**
+
+Patrick J. Whelan, Hotchkiss Brain Institute, University of Calgary, HSC 2119, 3330 Hospital Drive NW, Calgary, AB T2N 1N4, Canada e-mail: <whelan@ucalgary.ca>
+
+The spinal cord contains networks of neurons that can produce locomotor patterns. To readily respond to environmental conditions, these networks must be flexible yet at the same time robust. Neuromodulators play a key role in contributing to network flexibility in a variety of invertebrate and vertebrate networks. For example, neuromodulators contribute to altering intrinsic properties and synaptic weights that, in extreme cases, can lead to neurons switching between networks. Here we focus on the role of dopamine in the control of stepping networks in the spinal cord. We first review the role of dopamine in modulating rhythmic activity in the stomatogastric ganglion (STG) and the leech, since work from these preparations provides a foundation to understand its role in vertebrate systems. We then move to a discussion of dopamine’s role in modulation of swimming in aquatic species such as the larval xenopus, lamprey and zebrafish.The control of terrestrial walking in vertebrates by dopamine is less studied and we review current evidence in mammals with a focus on rodent species. We discuss data suggesting that the source of dopamine within the spinal cord is mainly from the A11 area of the diencephalon, and then turn to a discussion of dopamine’s role in modulating walking patterns from both in vivo and in vitro preparations. Similar to the descending serotonergic system, the dopaminergic system may serve as a potential target to promote recovery of locomotor function following spinal cord injury (SCI); evidence suggests that dopaminergic agonists can promote recovery of function following SCI. We discuss pharmacogenetic and optogenetic approaches that could be deployed in SCI and their potential tractability. Throughout the review we draw parallels with both noradrenergic and serotonergic modulatory effects on spinal cord networks. In all likelihood, a complementary monoaminergic enhancement strategy should be deployed following SCI.
+
+**Keywords: dopamine, monoamines, central pattern generator, locomotion, spinal cord**
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)|** 
+Sharples et al. Dopamine modulation of rhythmic networks![ref1]
+
+Neuromodulatorsarethekeyingredientallowingmotornetworks the flexibility to produce multiple patterns of output. When one considers a task such as stepping, a number of patterns need to be produced to run, walk, hop, go up and down inclines and walk in a circular pattern. While we focus on stepping in this review, neuromodulators contribute to the rhythmic opera- tion of most, if not all, biological networks. A complete under- standing of the role of neuromodulators in motor control must take into account the combinatorial effects of the complement of transmitters released both synaptically and extrasynaptically. This is an immense challenge for the field of motor control, especially when small invertebrate motor circuits are compared directly with their larger, less accessible and more complex mam- malian cousins. However, in the last decade new genetic tools have become available that allow spinal circuits that compose a motor network to be identified ([Goulding, 2009).](#_page12_x35.72_y483.67) In addition, the birth of optogenetics and pharmacogenetics has provided![ref1]
+
+advanced tools for activating and inactivating neuromodulatory systems [(Shapiro et al., 2012;](#_page14_x293.50_y237.59)[ Aston-Jones and Deisseroth, 2013](#_page11_x35.72_y275.33)). Even with these new tools it will still be a challenge to exam- ine and comprehend the combinatorial role of multiple neu- rotransmitters, but the task is more tractable than it has been historically.
+
+Although many neuropeptides, hormones or monoamines can modulate motor circuits, our review will focus on the role of dopamine. Dopamine plays an important role in the activation and modulation of the motor system across a wide range of invertebrate and vertebrate species ([Harris-Warrick et al.,](#_page12_x293.50_y190.27) [1998; ](#_page12_x293.50_y190.27)[Svensson et al., 2003;](#_page14_x293.50_y521.53)[ Puhl and Mesce, 2008;](#_page14_x35.72_y407.95)[ Miles and Sillar, 2011;](#_page13_x293.50_y568.85)[ Clemens et al., 2012;](#_page11_x293.50_y559.88)[ Lambert et al., 2012](#_page13_x35.72_y502.60)). In humans, movement disorders such as Parkinson’s disease and Restless Leg Syndrome provide prime examples of what can happen and how debilitating it can be for the individual when the dopaminergic systemiscompromised.Becauseofthis,alargedegreeofefforthas
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)|** 
+Sharples et al. Dopamine modulation of rhythmic networks![ref1]
+
+beenfocusedonunderstandingthecontributionandmechanisms frequency pyloric rhythm and a conditionally active and lower of supraspinal dopamine to motor control. Considerably less frequency gastric mill rhythm. Neuromodulation profoundly attention has been paid towards the descending dopaminergic reconfigures this small circuit, biasing individual neurons to par- projections to motor networks in the spinal cord compared ticipateinthedifferentmotorbehaviors.Withineventhesimplest to the descending serotonergic and noradrenergic systems. We of nervous systems rhythmic behaviors are not hard-wired, and will discuss and contrast current knowledge of the descend- neuromodulationimbuesnetworkswiththeflexibilitytogenerate ing dopaminergic system with the descending serotonergic and multiplepatternsofmotoroutput([Marder,2012;](#_page13_x293.50_y284.92)[Gutierrezetal., ](#_page12_x35.72_y616.17)noradrenergic system in the control of locomotion in a vari- [2013](#_page12_x35.72_y616.17)). Dopamine modulates every aspect of the pyloric cir- ety of species, with particular focus on work conducted in the cuit including intrinsic membrane properties such as IA([Harris- ](#_page12_x293.50_y142.95)rodent. [Warrick et al., 1995](#_page12_x293.50_y142.95);[ Kloppenburg et al.](#_page13_x35.72_y407.95),[ 1999](#_page13_x35.72_y407.95)), Ih ([Peck et al.](#_page14_x35.72_y247.06),
+
+[2006](#_page14_x35.72_y247.06)), ICAN ([Kadiri et al., 2011](#_page13_x35.72_y152.41)), IK(V) ([Gruhn et al.,](#_page12_x35.72_y549.92) [2005),](#_page12_x35.72_y549.92) the **DOPAMINE’S ROLE IN LOCOMOTION** strength and dynamics of graded and spike-dependent synaptic
+
+Across invertebrate and vertebrate species, dopamine has pro- transmission ([Johnson and Harris-Warrick, 1990; ](#_page12_x293.50_y663.50)[Johnson et al., ](#_page13_x35.72_y86.16)found and diverse effects on rhythmically active motor networks. [2005](#_page13_x35.72_y86.16),[ 2011](#_page12_x293.50_y625.64);[ Kvarta et al., 2012](#_page13_x35.72_y445.81)) and even properties of the axon Theseactionsarearesultofacomplexmodulationofintrinsiccel- spike initiation zone itself [(Bucher et al.](#_page11_x293.50_y257.02),[ 2003](#_page11_x293.50_y257.02)). It is pertinent to lular properties and synaptic connectivity (for review see[ Harris-](#_page12_x293.50_y190.27) acknowledge that dopamine produces concentration dependent [Warrick et al., 1998](#_page12_x293.50_y190.27)). Remarkably, in some species dopamine rhythms in both vertebrates and invertebrates ([Clemens et al., ](#_page11_x293.50_y559.88)demonstrates the ability to reconfigure circuits or networks to [2012](#_page11_x293.50_y559.88)) and therefore the state of the network can be affected generate completely different motor behaviors ([Puhl and Mesce,](#_page14_x35.72_y407.95) by neuromodulatory tone. [Harris-Warrick and Johnson (2010) ](#_page12_x293.50_y171.34)[2008](#_page14_x35.72_y407.95);[Crispetal.,2012](#_page11_x293.50_y663.99)[;Puhletal.,2012](#_page14_x35.72_y370.10)).Morerecentstudieshave have reviewed data demonstrating that dopamine can produce highlighted the ability of dopamine to shape a motor network opposing effects on multiple conductances in individual neurons during development, producing a change in motor behaviors of the circuit. This complex modulation depends on the cell type, from immature to more mature adult-like behaviors ([Lambert ](#_page13_x35.72_y502.60)but the central idea is that dopamine prevents (at least in the [et al., 2012](#_page13_x35.72_y502.60)). Furthermore, dopamine also possesses the capacity STG) runaway modulation of the circuits. Less is known about topromotedevelopmentalandadultmotorneurogenesis([Reimer ](#_page14_x35.72_y568.85)the role dopamine plays in the gastric mill rhythm. We still do [et al., 2013](#_page14_x35.72_y568.85)). not fully understand the role of dopamine within this circuit;
+
+Early exploration of the role of catecholamines in locomotor a sobering realization considering the complexity of spinal cord behaviors in the 1960’s determined that L-DOPA could modulate CPG circuits. What we can learn from work on invertebrates is reflex circuits and promote locomotor activity, although at the that a neuromodulator can have a strong influence on individual time it was thought to be of noradrenergic origin ([Jankowska ](#_page12_x293.50_y493.14)cells, and even differential effects on individual cells in a circuit. [et al., 1967a](#_page12_x293.50_y493.14)[,b](#_page12_x293.50_y530.99);[ Grillner and Zangger](#_page12_x35.72_y530.99),[ 1979](#_page12_x35.72_y530.99)). For many years, However,ifwearetounderstandtheoverallmodulationofmotor L-DOPA was used to evoke locomotor activity in spinalized behavior we need to consider the combinatorial actions of many cats. It was later demonstrated that L-DOPA could promote air neuromodulators on network function and not simply one in stepping in the neonatal rodent ([Sickles et al.,](#_page14_x293.50_y341.70) [1992;](#_page14_x293.50_y341.70)[ McCrea](#_page13_x293.50_y360.63) isolation. There is another factor at play, namely that network [et al., 1997](#_page13_x293.50_y360.63);[ McEwen et al.](#_page13_x293.50_y436.35),[ 1997](#_page13_x293.50_y436.35)), an effect that is blocked output often remain remarkably robust despite neuromodulatory by both noradrenergic ([Taylor et al.,](#_page14_x293.50_y616.17) [1994)](#_page14_x293.50_y616.17) and dopaminergic inputs. Furthermore, a change in network output pattern can antagonists ([Sickles et al.](#_page14_x293.50_y341.70),[ 1992](#_page14_x293.50_y341.70)). This work established that be elicited in multiple ways through degenerate mechanisms catecholamines act on networks that generate locomotion. This ([Gutierrez et al.,](#_page12_x35.72_y616.17) [2013](#_page12_x35.72_y616.17)). This work is an important extension work was unclear on the individual effects of dopamine, or of previous findings showing that a large number of solutions the products of dopamine synthesis (noradrenaline) on loco- exist even within a simple circuit for the production of a single motion and whether they were acting within the spinal cord. behavior ([Prinz et al., 2004](#_page14_x35.72_y351.17)).
+
+Additional studies now suggest that noradrenaline and dopamine Work from the laboratory of Karen Mesce in the medicinal both contribute to the control of locomotion in a different leech (*Hirudo Medicinalis)*illustrates that dopamine has a pro- way than the predominant spinal serotonergic system that con- found effect on locomotor behaviors, highlighting its ability to tributes to both evoking and modulating locomotor behav- bias the network toward a particular motor output or reinforce ior ([Forssberg and Grillner,](#_page12_x35.72_y247.06) [1973;](#_page12_x35.72_y247.06)[ Kiehn et al.](#_page13_x35.72_y379.56),[ 1999](#_page13_x35.72_y379.56);[ Whelan](#_page15_x35.72_y228.13) an ongoing behavior. Specifically, dopamine acts as a command [et al., 2000](#_page15_x35.72_y228.13);[ Jordan et al.](#_page13_x35.72_y124.02),[ 2008](#_page13_x35.72_y124.02);[ Humphreys and Whelan](#_page12_x293.50_y426.88), signal to elicit crawling along with suppression of swimming [2012](#_page12_x293.50_y426.88)). ([Puhl and Mesce, 2008;](#_page14_x35.72_y407.95)[ Crisp et al.](#_page11_x293.50_y663.99),[ 2012](#_page11_x293.50_y663.99)[; Puhl et al., 2012](#_page14_x35.72_y370.10)), and is
+
+an excellent example of the ability of dopamine to bias locomotor **DOPAMINE’S ROLE IN RHYTHMICITY: INVERTEBRATES**behavior ([Crisp and Mesce, 2004](#_page12_x35.72_y57.77)). Dopamine has a similar effect
+
+Workfrominvertebratespecieshaslargelyinfluencedthewaythat in nematodes (e.g., *Caenorhabditis elegans)*where it also acts to we view modulation of motor systems. For example, the stomato- bias locomotor activity to a crawl pattern of activity over swim- gastric nervous system is a well-defined series of interconnected ming ([Vidal-Gadea et al., 2011](#_page15_x35.72_y114.55)). Similar to neuromodulation of ganglia that controls the rhythmic filtering and chewing motor the STG, dopamine could be acting on overlapping populations patterns of the crab and lobster foregut. The effector ganglion, of neurons that are involved in two separate behaviors ([Briggman ](#_page11_x293.50_y133.98)specifically known as the stomatogastric ganglion (STG), con- [et al., 2005](#_page11_x293.50_y133.98)), biasing circuit configuration output toward one sists of 26–30 neurons that generate a pacemaker-driven higher output over the other.![ref2]
+
+**DOPAMINE’S ROLE IN LOCOMOTION: AQUATIC AND**reduce post-inhibitory rebound (PIR) on inhibitory commissural **AMPHIBIOUS SPECIES** interneurons that generate left-right alternation of swimming by In the lamprey, dopamine elicits a complex modulatory effect reducing the calcium conductance through the CaV1.3 channel on swimming behavior similar in some respects to rhythmi- ([Hill et al., 2003](#_page12_x293.50_y284.92);[ Wang et al.](#_page15_x35.72_y190.27),[ 2011](#_page15_x35.72_y190.27)). Assuming the organization cally active motor behaviors of invertebrates. Spinal dopamine is of a classical half center, the authors suggested that the reduc- released from a number of sources including small cells located tion in PIR would decrease the efficiency of the transition from around the central canal that send projections into the CSF of inhibitiontoexcitation,thusreducingtheoverallfrequencyofthe the central canal ([Ochi et al.,](#_page14_x35.72_y114.55) [1979;](#_page14_x35.72_y114.55)[ McPherson and Kemnitz,](#_page13_x293.50_y530.99) alternating pattern.
+
+[1994](#_page13_x293.50_y530.99);[ Pierre et al.](#_page14_x35.72_y303.84),[ 1997](#_page14_x35.72_y303.84)), and also in a more ventrally-located In contrast to the lamprey, spinal dopamine appears to have a plexus of cells that co-release serotonin and interact with the transient effect on swimming in the larval zebra fishwith depres- complex dendritic process of motor neurons ([Schotland et al.,](#_page14_x293.50_y209.20) sive effects at 3 days post fertilization (dpf) becoming less potent [1995](#_page14_x293.50_y209.20)). There are also descending dopaminergic projections from by 5 dpf [(Thirumalai and Cline,](#_page14_x293.50_y654.03) [2008).](#_page14_x293.50_y654.03) Further work demon- the hypothalamus that may play a role in modulating spinal strates that dopamine contributes to the development and mat- networks, but their role with respect to locomotion is not well uration of locomotor networks in the spinal cord ([Lambert et al., ](#_page13_x35.72_y502.60)understood ([Barreiro-Iglesias et al.,](#_page11_x35.72_y455.16) [2008](#_page11_x35.72_y455.16)). Therefore, the lam- [2012](#_page13_x35.72_y502.60)). The sole source of spinal dopamine in the zebrafish is the prey exhibits both intrinsic and extrinsic dopaminergic neu- Orthopedia (transcription factor, *otp*) neurons of the midbrain romodulation of spinal circuits. Because of the co-release of forming the dopaminergic diencephalospinal tract (DDT) that locally-produced spinal dopamine and serotonin, their effect senddescendingprojectionstothespinalcord([McLeanandSillar, ](#_page13_x293.50_y474.21)will be discussed in parallel. When bath applied to the spinal [2004a](#_page13_x293.50_y474.21)[,b](#_page13_x293.50_y502.60)). *Otp* transcription factors are conserved in mammalian cord *in vitro*, serotonin reduces the frequency and increases the species and are expressed in the A11 dopaminergic neurons of amplitude of locomotor bursting activity in a dose dependant the mouse, and analogous areas of the zebrafish,which project to manner ([Harris-Warrick and Cohen, 1985),](#_page12_x293.50_y114.55) an effect that is the spinal cord ([Ryu et al., 2007](#_page14_x293.50_y142.95)). In the zebrafish,it appears that mediated by 5-HT1A receptors and is readily reproduced in the these neurons develop around 3 dpf and act on the D4 receptor freely swimming animal [(Kemnitz et al.](#_page13_x35.72_y313.31),[ 1995](#_page13_x35.72_y313.31)). These effects to reconfigure the locomotor network to generate a more mature are elicited by presynaptic inhibition of descending Muller cells form of locomotor behavior; by 4 dpf the actions have switched, whichwouldresultinreduceddescendingexcitationoflocomotor from spontaneous swim episodes consisting of infrequent, long circuits [(Buchanan and Grillner,](#_page11_x293.50_y228.63) [1991;](#_page11_x293.50_y228.63)[ Shupliakov et al.](#_page14_x293.50_y303.84),[ 1995](#_page14_x293.50_y303.84)). duration bursts to frequent and short duration bursting episodes In addition, serotonin also directly reduces the late afterhyper- of swimming [(Lambert et al., 2012](#_page13_x35.72_y502.60)). Such a modification in polarization (AHP) in motor neurons, lateral interneurons (v[an ](#_page15_x35.72_y76.70)locomotorbehaviorispresumablycriticalforsurvival,asitwould [Dongen et al., 1986](#_page15_x35.72_y76.70)), crossed caudal commissural interneurons allow the animal to engage in more active locomotor behaviors and giant interneurons ([Wallén et al., 1989).](#_page15_x35.72_y152.41) Dopamine appears associated with foraging whereas the immature form is more to have more complex effects, whereby low concentrations (0.1– directed toward the escape from larger predatory fish. More 10 mM) result in an increase in locomotor frequency, higher recent investigation of the spinal dopaminergic system in the concentrations (10–100 mM) slow the rhythm, and concen- zebrafish has demonstrated that the D 4a receptor also acts on trations as high as 100 mM–1 mM can suppress the rhythm neural progenitor cells via sonic hedgehog signaling to promote ([Harris-Warrick and Cohen, 1985;](#_page12_x293.50_y114.55) [McPherson and Kemnitz,](#_page13_x293.50_y530.99) motor neuron generation over V2 interneurons during the first [1994](#_page13_x293.50_y530.99);[ Schotland et al.](#_page14_x293.50_y209.20),[ 1995](#_page14_x293.50_y209.20)[; Svensson et al., 2003](#_page14_x293.50_y521.53)). The increase 24–48 h post fertilization; an effect that can be recapitulated to in locomotor frequency can be reproduced in freely swimming promoteneuronalregenerationfollowingspinalcordinjury(SCI; animals ([Kemnitz et al., 1995](#_page13_x35.72_y313.31)) and is believed to be mediated [Reimer et al.](#_page14_x35.72_y568.85),[ 2013](#_page14_x35.72_y568.85)). Dopamine does not work alone in shaping by selective D2 receptor mechanisms ([McPherson and Kemnitz,](#_page13_x293.50_y530.99) the motor network during development. There is evidence that [1994](#_page13_x293.50_y530.99)). It was initially proposed that this effect was exerted by the descending serotonergic system also plays an important role decreasing the calcium-dependant potassium channel (SKCa) and inthedevelopmentofamatureswimmingpatternaftertheswitch reducing the late component of the AHP in neurons such as occursat4dpf([Brusteinetal.,2003](#_page11_x293.50_y200.23)).Thispointstothepossibility edgecells,dorsalcellsandgiantinterneurons,althoughthesecells thatdopaminemayplayaroleinpromotingthenetworkshiftand are not strong contributors to rhythmogenesis. It is more likely serotonin may play more of a role in the modulation of a more that the influence on rhythm frequency is due to a reduction mature network in the zebrafish. This is consistent with the idea in inhibitory drive from inhibitory commissural interneurons proposed from work in the STG whereby different monoamines ([Kemnitz, 1997](#_page13_x35.72_y294.38)). Concentration dependent dopamine effects are likely act simultaneously and rarely on their own.
+
+also observed in tadpoles, where effects on mainly D2 receptors More is known with respect to the monoaminergic modula- were observed at low concentrations with D1 effects emerging tion of locomotor networks by serotonin in the *Xenopus*tadpole. when concentrations of dopamine were increased ([Clemens et al.,](#_page11_x293.50_y559.88) In the larval *Xenopus*, the modulatory role of serotonin on fictive [2012](#_page11_x293.50_y559.88)). swimming activity is to increase burst duration and intensity with
+
+The slowing effect of dopamine on locomotor activity at no effect on cycle period, thus promoting a stronger swimming higher concentrations was unclear until recently, but is now pattern([Sillaretal.,1998](#_page14_x293.50_y370.10)).Thisisincontrasttothenoradrenergic believed that it may be acting on convergent mechanisms system which acts to bias the motor output toward a lower with that of 5-HT. Both 5-HT1A and D2 receptors appear to frequency and weaker bursting pattern of activity ([Sillar et al.,](#_page14_x293.50_y370.10)![ref2]
+
+[1998](#_page14_x293.50_y370.10)). Similar to the lamprey [(Wang et al., 2011](#_page15_x35.72_y190.27)), both serotonin staining against dopamine and noradrenaline ([Carlsson et al., ](#_page11_x293.50_y285.41)andnoradrenalinemodulatelocomotoractivitythroughconverg- [1962](#_page11_x293.50_y285.41);[ Dahlström and Fuxe, 1964b](#_page12_x35.72_y124.02)), later using more modern ing mechanisms. However, in the X*enopus* they influence the immunohistochemical approaches to detect the presence of the strength of inhibitory post synaptic potentials evoked by glycin- enzyme tyrosine-hydroxylase (TH;[ Hökfelt et al.](#_page12_x293.50_y379.56),[ 1984b](#_page12_x293.50_y379.56)). Based ergic commissural interneurons projecting to motor neurons via on such criteria, these cells were coined aminergic cells, or A-cells, modulation of presynaptic release of glycine from commissural and permitted discrete nuclei to be identified and named A1– terminals ([McDearmid et al.,](#_page13_x293.50_y398.49) [1997](#_page13_x293.50_y398.49)). More specifically, serotonin A17 [(Carlsson et al.](#_page11_x293.50_y285.41),[ 1962](#_page11_x293.50_y285.41);[ Dahlström and Fuxe](#_page12_x35.72_y86.16),[ 1964a](#_page12_x35.72_y86.16)[; Hökfelt ](#_page12_x293.50_y360.63)reduces release of glycine whereas noradrenaline increases glycine [et al., 1984a](#_page12_x293.50_y360.63)). Advances in immunohistochemical methods were release from these terminals onto motor neurons ([McDearmid ](#_page13_x293.50_y398.49)later used to identify cells that express other enzymes involved [et al., 1997](#_page13_x293.50_y398.49)). In the larval X*enopus*locomotor network, dopamine in the synthesis of catecholamines such as aromatic amino acid reduces locomotor activity via D2-like mechanisms at low con- decarboxylase (AADC), dopamine-b-hydroxylase (D H) and centrations (1–5 mM) and promotes locomotor activity at higher phenylethanolamine-N-methyl-transferase (PNMT; **[Figure 1**](#_page3_x346.62_y561.64)**). concentrations (10–50 mM) via D1-like mechanisms [(Clemens](#_page11_x293.50_y559.88) These developments allowed for further characterization between [et al., 2012](#_page11_x293.50_y559.88)). The precise neuronal populations being acted on the types of catecholamine-producing cells. The original view are unknown. The development of limbed locomotion in the frog that catecholamine-producing cell types consist of dopaminergic, from swimming in the tadpole affords a unique opportunity to noradrenergic, and adrenergic classes has been expanded and study the developmental and potentially evolutionary reconfig-
+
+uration of the neuronal networks mediating the two different, ![](khfud3ql.004.png)
+
+yet similar, forms of locomotion. In the metamorphosing froglet, ![](khfud3ql.005.jpeg)
+
+with both immature limbs and a tail for swimming still intact, 
+
+both noradrenaline and serotonin bias locomotor network output 
+
+controlling either the tail or the developing legs. Specifically, 
+
+serotonin acts to slow rhythmic tail-associated swimming activity 
+
+and speeds up the limb-associated activity, whereas noradrenaline 
+
+will speed up tail-associated swimming activity and slow down 
+
+limb-associated activity. This provides yet another example of 
+
+opposing aminergic modulation of distinct spinal locomotor cir- 
+
+cuits and their functional coupling during amphibian metamor- 
+
+phosis ([Rauscent et al., 2009](#_page14_x35.72_y530.99)). These are similar to modulatory 
+
+interactions influencing the pyloric and gastric mill rhythms in 
+
+the STG [(Gutierrez et al., 2013](#_page12_x35.72_y616.17)) and expression of swimming and 
+
+crawling behaviors in the medicinal leech [(Crisp and Mesce](#_page12_x35.72_y57.77),[ 2004](#_page12_x35.72_y57.77); 
+
+[Puhl and Mesce, 2008](#_page14_x35.72_y407.95)). 
+
+**BIOCHEMICAL AND NEUROANATOMICAL ASPECTS OF DESCENDING DOPAMINERGIC SYSTEMS IN MAMMALS**
+
+Walking behavior in terrestrial legged mammals recruits up to 80 
+
+individual muscles. While the activity of all of them has not been 
+
+measured during walking, all indications are that each muscle 
+
+generates a uniquely patterned burst. This adds another layer of 
+
+complexity to aquatic based species by adding on components 
+
+of the network that produce not only left-right alternation but 
+
+also coordination of flexor and extensor muscles within limbs. 
+
+In mammalian systems, the role of dopamine in rhythmic motor 
+
+behaviorsisless wellunderstood.Thatsaid, datacollectedthusfar **FIGURE 1 |<a name="_page3_x346.62_y561.64"></a> The canonical catecholaminergic neuron is one that** suggest a modulatory role qualitatively similar to that observed in **generates dopamine, noradrenaline or adrenaline**. Catecholamines are the lamprey. synthesized from tyrosine through a series of biosynthetic steps
+
+progressing from tyrosine hydroxylase (TH) producing L-DOPA, aromatic
+
+amino acid decarboxylase (AADC) producing dopamine, **CATECHOLAMINE-CONTAINING CELLS** dopamine- b-hydroxylase (DBH) producing noradrenaline and
+
+Around the same time that the robust influence of monoamines phenylethanolamine-N-methyl-transferase (PNMT) producing adrenaline. on long-latency flexor reflex afferents and their relationship These neurons also express the vesicular monoaminergic transporter
+
+to half-center function was being discovered in mammalian (VMAT2) to pump catecholamines into synaptic vesicles. A canonical
+
+dopaminergic neuron will also express dopamine reuptake transporters motor systems in the early 1960’s [(Jankowska et al.](#_page12_x293.50_y493.14),[ ](#_page12_x293.50_y493.14)[1967a,b](#_page12_x293.50_y530.99); (DAT) and inhibitory D2 autoreceptors to regulate presynaptic release of
+
+[Grillner and Zangger,](#_page12_x35.72_y530.99) [1979](#_page12_x35.72_y530.99);[ Baker et al.](#_page11_x35.72_y294.26),[ 1984](#_page11_x35.72_y294.26)), nuclei of dopamine. Post synaptic targets of dopamine include the excitatory D1-like serotonin and catecholamine-containing cells were described and inhibitory D2-like receptors that act through G-protein second
+
+in the mammalian midbrain and hindbrain. These findings messenger cascades, increasing and decreasing intracellular cAMP levels were largely based on approaches that utilized histochemical respectively.![ref2]
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)4| **4****
+Sharples et al.![ref1]
+
+Dopamine modulation of rhythmic networks
+
+there is evidence of enzymatic diversity within each class. For example, some TH positive cells lack any enzymes for conversion to traditional catecholamine neurons. Others have a portion, but not all, of the enzymatic machinery. A prime example of these cells are the D-cells which contain AADC but lack TH and are situated around the central canal of the spinal cord ([Jaeger et al.](#_page12_x293.50_y455.28),[ 1983](#_page12_x293.50_y455.28)). They are similar in location and structure to the dopamine-producing LC cells in the lamprey spinal cord ([Ochi et al., 1979](#_page14_x35.72_y114.55);[ McPherson and Kemnitz, 1994](#_page13_x293.50_y530.99);[ Pierre et al.](#_page14_x35.72_y303.84), [1997](#_page14_x35.72_y303.84)) and the AADCC/TH  D cells of the zebrafish spinal cord ([Chatelin et al., 2001](#_page11_x293.50_y332.74)). While the function of these cells is not clear, the bottom line is that catecholaminergic phenotypes are more complex than originally thought. Nevertheless, cells that express TH, AADC and are DbH negative can still provide a good indication that the cells may be dopaminergic whereas the DbH positive cells could be either noradrenergic or adrenergic. Such criteria permitted for the identification of nine major dopamin- ergic nuclei in the brain ([Björklund and Dunnett, 2007).](#_page11_x35.72_y588.16) The canonical dopaminergic cell would also express machinery for dopamine release such as a vesicular monoaminergic transporter (VMAT2) to pump dopamine into vesicles, a reuptake transporter like the dopamine transporter (DAT) and a means of regulat- ing release of dopamine such as presynaptic D2 autoreceptors ([Ugrumov,](#_page14_x293.50_y682.43) [2009](#_page14_x293.50_y682.43)). It is important to note however that some dopamine neurons differentially express D2 autoreceptors. The mechanisms of actions at the soma and terminals may also be different (G protein-coupled inwardly-rectifying potassium channel (GIRK) versus Kv1.2 respectively) and some THC neu- rons may not even express them at all ([Pappas et al.,](#_page14_x35.72_y171.34) [2008; ](#_page14_x35.72_y171.34)[Ford, 2014](#_page12_x35.72_y218.66)). Therefore, expression of D2 autoreceptors may not be a pre-requisite of a canonical dopamine cell, but may be a common feature. In fact, diversity appears the rule rather than the exception for catecholaminergic cell types [(Ugrumov, 2009](#_page14_x293.50_y682.43)).
+
+**DESCENDING CATECHOLAMINERGIC PROJECTIONS** The predominant sources of spinal dopamine and noradrenaline
+
+in mammals are the descending fibers projecting from the dopaminergic A10 and A11 nuclei of the posterior hypothalamus ([Björklund and Skagerberg, 1979](#_page11_x35.72_y607.09)[; Lindvall et al., 1983](#_page13_x293.50_y57.77)[; Skagerberg and Lindvall](#_page14_x293.50_y407.95),[ 1985](#_page14_x293.50_y407.95);[ Qu et al.](#_page14_x35.72_y436.35),[ 2006](#_page14_x35.72_y436.35);[ Pappas et al.](#_page14_x35.72_y171.34),[ 2008](#_page14_x35.72_y171.34)), the A13 of the dorsal hypothalamus ([Blessing and Chalmers](#_page11_x35.72_y645.45),[ 1979](#_page11_x35.72_y645.45)) and the pontine noradrenergic A5, A6 (locus coeruleus) and A7 nuclei ([Fritschy and Grzanna,](#_page12_x35.72_y275.45) [1990;](#_page12_x35.72_y275.45)[ Clark and Proudfit,](#_page11_x293.50_y522.03) [1991; ](#_page11_x293.50_y522.03)[Bruinstroop et al.,](#_page11_x293.50_y162.38) [2012](#_page11_x293.50_y162.38)). While these regions appear to be conserved in many mammalian species including primates and humans ([Moore and Bloom, 1979;](#_page13_x293.50_y654.03) [Barraud et al.,](#_page11_x35.72_y417.30) [2010),](#_page11_x35.72_y417.30) we will focus on these regions with emphasis on rodent anatomy as they are best described in these species. The A11 is a small nucleus in the posterior hypothalamus consisting of approximately 150– 300 neurons ([**Figure 2**)](#_page4_x88.84_y666.24) and is the primary source of spinal dopamine in mammalian species. A11 neurons are thought to
+
+be L-DOPAergic based on the absence of AADC in non-human primates, although the evidence in rodents is mixed ([Barraud](#_page11_x35.72_y417.30)
+
+[et al., 2010](#_page11_x35.72_y417.30)). This suggests a possibility that L-DOPA release in the spinal cord of the non-human primate could be converted
+
+to dopamine by other cells using spinally located AADC such as that present in the D cells near the central canal ([Jaeger et al., 1983](#_page12_x293.50_y455.28)).ItappearsthatdopaminergicneuronsintheA11goagainst what a canonical dopaminergic neuron would look like, since A11 neurons lack the reuptake transporter DAT ([Lorang et al., 1994; ](#_page13_x293.50_y124.02)[Ciliax et al.](#_page11_x293.50_y484.17),[ 1999](#_page11_x293.50_y484.17)) as well as D2 auto-receptors ([Pappas et al., 2008](#_page14_x35.72_y171.34)). The lack of D2 autoreceptors would presumably increase release probability for dopamine as well as TH enzyme activity ([Kehr et al., 1972](#_page13_x35.72_y256.52);[ Wolf and Roth](#_page15_x35.72_y294.38),[ 1990](#_page15_x35.72_y294.38);[ Benoit-Marand et al.](#_page11_x35.72_y559.77), [2001](#_page11_x35.72_y559.77);[ Ford](#_page12_x35.72_y218.66),[ 2014](#_page12_x35.72_y218.66)). One possibility is that the A11 phenotype serves as a compensatory adaptation given their few numbers in order to prolong the release, and increase synthesis, of dopamine
+
+to their targets in the ventral horn.
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)5| **5****
+Sharples et al.![ref1]
+
+Dopamine modulation of rhythmic networks
+
+![](khfud3ql.006.jpeg)
+
+**FIGURE 2 |<a name="_page4_x88.84_y666.24"></a> Descending dopaminergic fibres within the spinal** permission from [Zhu et al., ](#_page15_x293.50_y124.02)20[07). ](#_page15_x293.50_y124.02)Descending noradrenergic fibres ![](khfud3ql.007.png)**cord originate in the A11. (A)** Dopamine acts on all five originating in the A5, A6 and A7 nuclei of the pons innervate dopamine receptors that are distributed non-uniformly through the the spinal cord. Schematic adapted with permission from [Björklund ](#_page11_x35.72_y588.16)dorsal and ventral horns of the spinal cord (Adapted with [and Dunnett ](#_page11_x35.72_y588.16)([2007).](#_page11_x35.72_y588.16)![ref2]
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)|** 
+Sharples et al.![ref1]
+
+Dopamine modulation of rhythmic networks
+
+Although the A11 connectome is not well characterized, it has beenshown thatthe A11receivesinputs froma numberofregions including lateral septum, parabrachial nucleus, infralimbic cortex and the bed nucleus of the striata terminalis ([Abrahamson and Moore, 2001;](#_page11_x35.72_y218.55)[ Qu et al.](#_page14_x35.72_y436.35),[ 2006](#_page14_x35.72_y436.35)). The A11 also receives inputs from the suprachiasmatic nuclei (SCN), suggesting that A11 neurons maybemodulatedinacircadianpattern([Zhaoetal.,2007).](#_page15_x293.50_y86.16)There is evidence that this might be the case as the expression of the rate limiting enzyme TH is modulated in a circadian pattern, generating high levels of spinal dopamine during awake periods ([Hammar et al.,](#_page12_x35.72_y644.57) [2004).](#_page12_x35.72_y644.57) It has also been suggested that AADC is expressed in a circadian pattern, which may also describe the variable findings to date ([Björklund and Dunnett, 2007; ](#_page11_x35.72_y588.16)[Barraud et al., 2010](#_page11_x35.72_y417.30)).
+
+The best characterized of the A11 efferent projections are the descending axons that travel through the dorsal longitudinal fasciculus of Schutz, located in the periaqueductal gray, and descend unilaterally through the dorsolateral funiculus into the superficial dorsal horn. A small number of axons also descend in the regions around the central canal and into the ventral horn ([Björklund and Skagerberg,](#_page11_x35.72_y607.09) [1979;](#_page11_x35.72_y607.09)[ Commissiong et al., 1979](#_page11_x293.50_y635.60); [Skagerberg and Lindvall](#_page14_x293.50_y407.95),[ 1985](#_page14_x293.50_y407.95)), with higher densities in the lumbar region relative to the thoracic regions ([Pappas et al., 2008](#_page14_x35.72_y171.34)). Several examples have been provided by[ Pappas et al. ](#_page14_x35.72_y171.34)([2008,](#_page14_x35.72_y171.34)[ 2010](#_page14_x35.72_y209.20)), indicating sexual dimorphism of the descending A11 system whereby males have a greater number of dopamin- ergic neurons and a higher density of descending fibers with no apparent difference in dopamine metabolism ([Pappas et al., 2008, ](#_page14_x35.72_y171.34)[2010](#_page14_x35.72_y209.20)). Overall, it has been suggested that this dimorphism, which is androgen-dependant ([Pappas et al., 2010),](#_page14_x35.72_y209.20) may contribute to the higher female prevalence of restless leg syndrome, a motor disorder associated with impairments in the spinal dopaminergic system [(Pappas et al.](#_page14_x35.72_y171.34),[ 2008](#_page14_x35.72_y171.34)). To better understand how the A11 exerts its influence on locomotor behavior, the connectivity of the A11 with other locomotor-related regions in the brain needs to be established. In addition to the spinal cord, A11 neurons project collaterals to the dorsal raphe nucleus and the prefrontal cortex ([Peyron et al., 1995](#_page14_x35.72_y275.45)). It is possible that other targets are likely.
+
+In parallel to A11 projections, noradrenergic fibers of the A5, A6 and A7 travel through the lateral and ventral funiculi and dorsal surface of the dorsal horn. A particularly high density of fibers from the A5 can be found in the lateral region, A6 in the dorsal and ventral regions and A7 mainly in the lateral region. Previously the termination sites of descending noradrenergic pro- jections were controversial [(Fritschy and Grzanna, 1990](#_page12_x35.72_y275.45);[ Clark and Proudfit,](#_page11_x293.50_y522.03) [1991).](#_page11_x293.50_y522.03) More recent transgenic approaches have revealed that the A5 regions provides the densest innervation of the thoracic sympathetic preganglionic neurons, A6 densest in the dorsal horn at all levels of the spinal cord and the A7 densest in the ventral horn at all levels of the spinal cord ([Bruinstroop et al., 2012](#_page11_x293.50_y162.38)). Such an organization would suggest that the A5 nucleus would exert more of an influence over autonomic functions, A6 over modulation of sensory input and A7 to motor function. Interestingly, in regards to dopamine innervation of the spinal cord, there is also a clear autonomic innervation of the interme- diolateral nucleus of the spinal cord from the A11. Together with![ref2]
+
+noradrenaline this suggests multiple effects of catecholamines on most inputs and outputs of the spinal cord.
+
+Both descending dopaminergic and noradrenergic projections to the spinal cord share similarities in terms of fiber distribu- tion and points of innervation within the gray matter of the spinal cord, but there are differences in terms of fiber den- sity. Dopaminergic fibers appear to develop slower than nora- drenergic fibers. Noradrenergic fiber density appears to peak at 14 days after birth with some pruning taking place up to early adulthood. On the other hand dopamine fiber development occurs slowly throughout development in the spinal cord, peak- ing at early adulthood ([Commissiong,](#_page11_x293.50_y588.28) [1983).](#_page11_x293.50_y588.28) Generally speak- ing, the descending fibers heavily innervate the dorsal horns where catecholaminergic influence is exerted via diffuse paracrine release, whereas relatively less innervation of the ventral horn is reported, specifically in lamina IX where direct synaptic con- nections are made on medium to large dendrites with few axo- somatic synapses of motor neurons ([Yoshida and Tanaka,](#_page15_x293.50_y57.77) [1988; ](#_page15_x293.50_y57.77)[Rajaofetra et al.](#_page14_x35.72_y464.74),[ 1992](#_page14_x35.72_y464.74);[ Ridet et al., 1992](#_page14_x35.72_y644.57)). Much more is known about the nature of synaptic interaction of motor neurons by the descending noradrenergic and serotonergic fibers. Noradrenergic and serotonergic input to motor neuron pools have typically been described as diffuse [(Heckman et al.](#_page12_x293.50_y218.66),[ 2008](#_page12_x293.50_y218.66);[ Johnson and Heckman,](#_page13_x35.72_y57.77) [2010](#_page13_x35.72_y57.77)); however, recently the nature of synaptic targets was further described for noradrenergic and serotonergic neurons in cat splenius motor neurons ([Montague et al., 2013)](#_page13_x293.50_y616.17) and appear to be concentrated on small diameter distal dendrites of motor neurons with few located on somal targets. This distribution implies compartmentalization of synaptic contacts, which has also been suggested as playing an important role in regulating the input-output properties of motor neurons ([Montague et al., 2013](#_page13_x293.50_y616.17)).
+
+**TARGETS OF SPINAL DOPAMINE**
+
+Dopamine receptors are G-protein coupled receptors and are divided into two subfamilies; the D1-like receptors (D1 and D5) and the D2-like receptors (D2, D3, and D4). Generally, activation of the D1-like receptor subfamily elicits excitatory effects through a stimulatory G-protein (G sa) interacting with adenyl cyclase, subsequently increasing intracellular cAMP levels. In contrast, activation of the D2- receptor subfamily hyperpolarizes the cell membrane through an inhibitory G-protein (G ia) to close cal- cium channels, open potassium channels and reduce intracellular cAMP levels [(Missale et al.](#_page13_x293.50_y597.24),[ 1998](#_page13_x293.50_y597.24)). In the rodent, dopamine released from terminals in the lumbar spinal cord can act on all five dopamine receptors (D1–D5;[` `**Figure 2**)](#_page4_x88.84_y666.24) which are non-
+
+uniformly distributed across the transverse lumbar spinal cord ([Zhu et al.,](#_page15_x293.50_y124.02) [2007](#_page15_x293.50_y124.02)). Similar to other monoamines, the distribu- tion of receptors is species dependent ([Barraud et al.,](#_page11_x35.72_y417.30) [2010) ](#_page11_x35.72_y417.30)and their density is likely also developmentally regulated as dopaminergic receptors are in other areas of the brain ([Tarazi and Baldessarini](#_page14_x293.50_y587.78),[ 2000](#_page14_x293.50_y587.78)). Little is known in respect of the ros- trocaudal distribution but higher levels of dopamine are found in cervical, opposed to lumbar, segments of the spinal cord ([Karoum et al.,](#_page13_x35.72_y190.27) [1981](#_page13_x35.72_y190.27)). In the juvenile mouse, D2-like recep- tor subtypes are strongly expressed in lamina I-III of the dor- sal horn with the predominant subtype being the D3 receptor
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)6| **6****
+Sharples et al. Dopamine modulation of rhythmic networks![ref1]
+
+([Levant and McCarson,](#_page13_x35.72_y635.10) [2001](#_page13_x35.72_y635.10)). This distribution has been sug- in the cases where locomotor activity cannot be produced, these gested to mediate dopamine’s anti-nociceptive effects. D1-like two catecholamines generally elicit robust modulatory effects receptors are most strongly expressed in the ventral horn where on the lumbar networks ([Kiehn et al.,](#_page13_x35.72_y379.56) [1999;](#_page13_x35.72_y379.56) [Sqalli-Houssaini ](#_page14_x293.50_y464.74)the motor circuits reside with motor neurons in particular, [and Cazalets, 2000](#_page14_x293.50_y464.74);[ Gordon and Whelan, 2006](#_page12_x35.72_y455.28);[ Humphreys and ](#_page12_x293.50_y426.88)expressing all five receptor types [(Zhu et al.](#_page15_x293.50_y124.02),[ 2007](#_page15_x293.50_y124.02)). While [Whelan, 2012](#_page12_x293.50_y426.88)).
+
+*in situ* hybridization techniques have been able to describe The behavior of the catecholamines on mammalian motor the location in the spinal cord where dopamine receptors rhythms should not be surprising in the context of what has been are expressed, what remains unknown is whether receptors described in the STG where, in all likelihood, neuromodulators are compartmentalized within different regions of the identi- influence rhythmic motor behaviors in parallel and rarely in fied neurons such as is the case for noradrenergic and sero- isolation ([Marder,](#_page13_x293.50_y284.92) [2012).](#_page13_x293.50_y284.92) This combinatorial neuromodulation is tonergic receptors in cat motor neurons ([Montague et al.,](#_page13_x293.50_y616.17) more evident when ongoing locomotor activity elicited by sero- [2013](#_page13_x293.50_y616.17)). These factors could contribute to complex modulation tonin and NMA/NMDA is examined where both dopamine and of motor neuron input-output properties and network-based noradrenaline reduce the frequency of the rhythm and increase effects reflected by dopamine’s complex effects on locomotor burst amplitude, resulting in an overall more robust rhythm activity. More recently, when the non-human primate spinal ([Kiehn and Kjaerulff](#_page13_x35.72_y351.17),[ 1996](#_page13_x35.72_y351.17);[ Sqalli-Houssaini and Cazalets, 2000](#_page14_x293.50_y464.74); cord was examined for dopaminergic expression, a different [Barrière et al.](#_page11_x35.72_y530.88),[ 2004](#_page11_x35.72_y530.88);[ Gordon and Whelan, 2006](#_page12_x35.72_y455.28);[ Humphreys and ](#_page12_x293.50_y426.88)distribution pattern from rodents was observed. Specifically, no [Whelan, 2012](#_page12_x293.50_y426.88)). In other words, these two catecholamines may evidenceforD1 mRNAwasobservedanywhereinthespinalcord, be promoting ongoing locomotor activity and these qualities are although D5 mRNA was found in the dorsal horn. Overall there often exploited by incorporating dopamine into the “locomotor appears to be a dorsal horn emphasis for dopamine expression cocktail” to elicit robust locomotor activity in investigations that in non-human primates compared to rodents (B[arraud et al., ](#_page11_x35.72_y417.30)deploy*in vitro*isolated spinal cord models ([Whelan et al., 2000](#_page15_x35.72_y228.13)). [2010](#_page11_x35.72_y417.30)). Whileneurochemicalactivationofneonatallocomotorcircuits
+
+has provided a great amount of insight into the function of **FUNCTIONAL EFFECTS OF SPINAL DOPAMINE ON** locomotor circuits, studies that use models that allow for activa-
+
+**LOCOMOTOR NETWORKS** tion of endogenous neuromodulators are few. In particular, the Descendingcatecholaminereleasehasbeenobservedduringloco- generation of new models is lacking that allow activation of *in* motion ([Gerin et al.,](#_page12_x35.72_y379.56) [1995;](#_page12_x35.72_y379.56) [Gerin and Privat,](#_page12_x35.72_y417.42) [1998)](#_page12_x35.72_y417.42) and both *vitro* circuits by direct stimulation of supraspinal nuclei. While dopamine and noradrenaline are capable of promoting locomo- these types of studies have been published for serotonin through tion when exogenously introduced to the intact animal ([Barbeau ](#_page11_x35.72_y351.05)stimulation of the parapyramidal region of the medulla ([Liu and ](#_page13_x293.50_y86.16)[and Rossignol, 1991](#_page11_x35.72_y351.05),[ 1994](#_page11_x35.72_y388.91);[ Rossignol et al., 1998](#_page14_x35.72_y682.43)). That said, a [Jordan,](#_page13_x293.50_y86.16) [2005](#_page13_x293.50_y86.16)), comparable studies have not been performed for large amount of what we know about the influence of dopamine catecholamine systems. Furthermore, *in vivo* and developmental on the spinal locomotor networks has been derived from *in* studies are required to establish whether dopamine release onto *vitro* investigations of fictive locomotor activity of the neonatal spinalcircuitsis*necessary*forlocomotoractivity.Thisisespecially rodent spinal cord studied in isolation ([Whelan et al., 2000;](#_page15_x35.72_y228.13) true in neonatal rodents where monoaminergic innervation takes [Barrière et al.](#_page11_x35.72_y530.88),[ 2004](#_page11_x35.72_y530.88)[; Gordon and Whelan, 2006](#_page12_x35.72_y455.28);[ Humphreys and](#_page12_x293.50_y426.88) placeover3weeksfollowingbirth[(Commissiong,1983](#_page11_x293.50_y588.28)[;Bregman](#_page11_x293.50_y105.59), [Whelan,](#_page12_x293.50_y426.88) [2012](#_page12_x293.50_y426.88);[ Christie and Whelan, 2005](#_page11_x293.50_y455.78)). Unlike serotonin, [1987](#_page11_x293.50_y105.59);[ Rajaofetra et al., 1989](#_page14_x35.72_y502.60)).
+
+which is a potent activator of the locomotor central pattern The receptor mechanisms that mediate the network-based generator (CPG) network across a variety of mammalian species effects of dopamine on locomotor activity are not fully under- ([Harris-Warrick and Cohen, 1985;](#_page12_x293.50_y114.55) [Schmidt and Jordan, 2000;](#_page14_x293.50_y180.81) stood. It is likely that dopamine is acting to promote locomotor [Madriaga et al., 2004](#_page13_x293.50_y142.95);[ Liu and Jordan](#_page13_x293.50_y86.16),[ 2005](#_page13_x293.50_y86.16)[; Gabriel et al., 2009](#_page12_x35.72_y313.31)), activity through excitatory influences of D1-like receptors in dopamine alone can elicit fictive locomotor activity in the rat rodents,whereastheslowingeffectonfictivelocomotorfrequency ([Kiehn and Kjaerulff](#_page13_x35.72_y351.17),[ 1996](#_page13_x35.72_y351.17);[ Barrière et al., 2004](#_page11_x35.72_y530.88), but not in the is through inhibitory D2-like receptor mechanisms. Indeed, there mouse, although D1 agonists alone appear to be sufficient for is consistent evidence across adult and neonatal preparations locomotion ([Sharples et al., 2013](#_page14_x293.50_y265.99)). Bath application of dopamine that the D1-like receptor subfamily promotes locomotor activity on its own is sufficient to evoke rhythmic motor activity. How- ([Barrière et al., 2004](#_page11_x35.72_y530.88);[ Lapointe and Guertin, 2008](#_page13_x35.72_y540.46);[ Lapointe et al.](#_page13_x35.72_y568.85), ever, the low frequency rhythm does not resemble a functional [2009](#_page13_x35.72_y568.85)). In contrast, much less is known regarding the role of locomotor pattern characterized by left-right and flexor-extensor D2-like receptors in the control of locomotion ([Barrière et al., ](#_page11_x35.72_y530.88)alternation ([Sqalli-Houssaini and Cazalets,](#_page14_x293.50_y464.74) [2000;](#_page14_x293.50_y464.74)[` `**Figure 3**](#_page7_x88.84_y569.83)). The [2004](#_page11_x35.72_y530.88))despitetheirpresenceintheventralhorn([Zhuetal.,2007). ](#_page15_x293.50_y124.02)differential observations with respect to the ability of dopamine Activation of the D2-like receptor subfamily suppresses recurrent and D1 agonists to evoke locomotor activity are not yet clear. One excitatory feedback to the locomotor network, most likely via possibility is that non-specific binding of dopamine to both D1- presynaptic mechanisms ([Maitra et al., 1993; ](#_page13_x293.50_y180.81)[Humphreys and ](#_page12_x293.50_y426.88)like and D2-like receptor subtypes may act to suppress the full [Whelan,](#_page12_x293.50_y426.88) [2012](#_page12_x293.50_y426.88)), but the functional role in the modulation of expression of locomotor activity. Noradrenaline does not appear rhythmically active motor circuits in the mammalian spinal cord to be capable of eliciting stable locomotor activity in either the remains elusive. Further dissection of these receptor mechanisms isolated rat or mouse spinal cord ([Kiehn et al.,](#_page13_x35.72_y379.56) [1999;](#_page13_x35.72_y379.56) [Sqalli-](#_page14_x293.50_y464.74) requires examination of the dopaminergic influence of individual [Houssaini and Cazalets, 2000](#_page14_x293.50_y464.74)). The reasons for the differences spinal reflex circuits and known components of the spinal between rat and mice in the case of dopamine are unknown but, locomotornetwork.Dopaminedoeselicitpotenteffectsonspinal![ref2]
+
+![](khfud3ql.008.jpeg)
+
+**FIGURE 3 |<a name="_page7_x88.84_y569.83"></a> Dopaminergic modulation of spinal CPG activity**. **(A)** pre-existing rhythm (box 2 and 3). Rhythm frequency is displayed Schematic![](khfud3ql.009.png) of an in vitro isolated neonatal mouse spinal cord on the y-axis and rhythm power displayed as warm or cool colors showing ventral root neurograms from the left and right L2 with warmer colors representing higher power or more stable
+
+segment. **(B)** Spontaneous activity **(Bi)** is converted to a rhythmic rhythm. Dopamine also increases burst amplitude **(Ei** and **Eii)**. **(Ei)** slow non-locomotor rhythmic pattern **(Bii)** following bath application Graph displays an increase in burst amplitude over a 10 min
+
+of dopamine (DA). **(C and D)** When DA is bath-applied during period immediately following the addition of dopamine and **(Eii)** ongoing locomotor activity elicited by 5-HT and NMA it stabilizes shows an average L2 neurogram burst from a representative
+
+and reduces the frequency of the rhythm. The spectrogram **(D)** experiment with bursts evoked by 5-HT and NMA (black) and
+
+depicts a cross-wavelet analysis of a locomotor rhythm evoked by following addition of dopamine (red) (Adapted from [Humphreys and ](#_page12_x293.50_y426.88)5-HT and NMA (box 1) and effect of dopamine (DA) on the [Whelan, 2012).](#_page12_x293.50_y426.88)
+
+sensorimotor reflex circuits and has been an area of interest [1982](#_page11_x293.50_y304.34);[ Jensen and Yaksh, 1984](#_page12_x293.50_y568.85)[; Tamae et al., 2005](#_page14_x293.50_y549.92)[; Barriere et al.](#_page11_x35.72_y493.02), in the context of restless leg syndrome [(Carp and Anderson,](#_page11_x293.50_y304.34) [2008](#_page11_x35.72_y493.02);[ Keeler et al.](#_page13_x35.72_y218.66),[ 2012](#_page13_x35.72_y218.66)). D3 receptor suppression of primary![ref2] afferent input to the dorsal horn has been suggested to mediate **TARGETING MONOAMINERGIC SYSTEMS POST SCI TO** dopaminergic suppression of the monosynaptic reflex ([Hammar ](#_page12_x35.72_y644.57)**PROMOTE RECOVERY**
+
+[et al., 2004](#_page12_x35.72_y644.57)) and has been implicated with restless leg syndrome Motor impairment is particularly prominent following SCI when given that D3 receptor agonists exert potent therapeutic effects the influence from descending serotonergic, noradrenergic and
+
+at alleviating motor hyperactivity [(Manconi et al.,](#_page13_x293.50_y256.52) [2011](#_page13_x293.50_y256.52)). D2- dopaminergicinputstothelumbarcordarelostorcompromised. mediated inhibition of primary afferents and post synaptic A number of approaches have been tested experimentally and neurons in the substantia gelatinosa ([Tamae et al.,](#_page14_x293.50_y549.92) [2005)](#_page14_x293.50_y549.92) have clinically to promote recovery of motor function following injury
+
+been suggested to be anti-nociceptive acting at the dorsal horn; and include promoting regeneration of damaged tracts ([Hellal](#_page12_x293.50_y247.06)
+
+an influence that would work in parallel to excitation of motor [et al., 2011](#_page12_x293.50_y247.06)), reducing inflammation and subsequent secondary circuits to promote motor function. What is not well understood injury ([Rowland et al., 2008](#_page14_x293.50_y105.09);[ Kwon et al.](#_page13_x35.72_y474.21),[ 2011](#_page13_x35.72_y474.21)), and promoting
+
+is how dopamine may modulate proprioceptive inputs to spinal plasticity within the spinal motor networks ([Boulenguez and](#_page11_x293.50_y76.70)
+
+cord locomotor circuits. In work by Jankowska on the cat, nora- [Vinay](#_page11_x293.50_y76.70),[ 2009](#_page11_x293.50_y76.70);[ Fong et al.](#_page12_x35.72_y180.81),[ 2009](#_page12_x35.72_y180.81);[ Rossignol and Frigon, 2011](#_page14_x293.50_y76.70)). drenergic and serotonergic modulation is complex and consists Because monoamines are potent activators of motor networks,
+
+of both excitatory and inhibitory components onto commissural they may serve as a suitable target for exciting and promoting interneurons ([Hammar et al., 2004).](#_page12_x35.72_y644.57) Similar heterogeneity of recovery following an insult [(Rémy-Néris et al., 1999](#_page14_x35.72_y606.71)).
+
+dopamine actions is likely but remains underexplored. What Direct application of dopamine or noradrenaline is poten-
+
+is known is that L-DOPA, whether exerting its effect through tially a useful approach however both would need to be applied dopaminergic or noradrenergic systems, modulates afferent reflex intrathecally to spinal segments. For these reasons either agonists circuits by shutting down short latency reflexes and opening up orantagonistsofcatecholaminereceptorsthatcancrosstheblood
+
+long latency reflexes [(Jankowska et al., ](#_page12_x293.50_y493.14)[1967a,b](#_page12_x293.50_y530.99)). This classic work brain barrier have been investigated. In chronic spinalized cats,
+
+by Anders Lundberg and colleagues showed systemic injection administration of an a2 agonist, clonidine, was able to elicit
+
+of L-DOPA could reveal an interneuronal network that could walking in acute spinal cats and promote recovery of function result in flexor-extensor alternating movements when flexor and in chronic spinal animals ([Forssberg and Grillner,](#_page12_x35.72_y247.06) [1973;](#_page12_x35.72_y247.06)[ Barbeau ](#_page11_x35.72_y322.66)extensor afferents were stimulated simultaneously. This was taken [and Rossignol, 1987](#_page11_x35.72_y322.66);[ Chau et al.](#_page11_x293.50_y380.06),[ 1998](#_page11_x293.50_y380.06)), but had the opposite
+
+as cellular evidence for Graham-Brown’s half-center concept effectinspinalizedrats[(Musienkoetal.](#_page14_x35.72_y76.70),[2011](#_page14_x35.72_y76.70)).Inspinalizedmice, ([Graham-Brown,](#_page12_x35.72_y502.60) [1911;](#_page12_x35.72_y502.60)[ Stuart and Hultborn, 2008).](#_page14_x293.50_y493.14) locomotor movements were elicited following administration of
+
+Dopamine has also been shown to modulate synaptic agonists affecting the D1 receptor system ([Lapointe et al., 2009](#_page13_x35.72_y568.85)), connectivity and intrinsic properties of some known components and recent work demonstrates that administration of the D2 ago-
+
+of the locomotor network ([Han et al.,](#_page12_x293.50_y57.77) [2007;](#_page12_x293.50_y57.77) [Han and ](#_page12_x293.50_y86.16)nist quinpirole can stabilize gait and facilitate flexion. From these [Whelan,](#_page12_x293.50_y86.16) [2009](#_page12_x293.50_y86.16)). The ability of dopamine to promote ongoing studies we can conclude that dopaminergic agonists potentiate locomotor activity may be due to combined effects exerted on stepping with D1 agonists in particular boosting extensor activity motor neurons, premotor interneurons and Hb9-expressing and weight-bearing support ([Lapointe et al.,](#_page13_x35.72_y568.85) [2009;](#_page13_x35.72_y568.85) [Musienko ](#_page14_x35.72_y76.70)interneurons that participate at all levels of the spinal locomotor [et al., 2011](#_page14_x35.72_y76.70)). These data support findings of generalized excitation network ([**Figure 4**;](#_page9_x88.84_y407.28)[ Han et al., 2007](#_page12_x293.50_y57.77);[ Han and Whelan,](#_page12_x293.50_y86.16) [2009](#_page12_x293.50_y86.16)). of motor neurons ([Han et al., 2007;](#_page12_x293.50_y57.77) [Han and Whelan, 2009),](#_page12_x293.50_y86.16)
+
+In the neonatal mouse, dopamine acts to depolarize motor and stabilization of motor patterns with dopamine using *in vitro* neurons as well as premotor interneurons that project through mouse ([Jiang et al., 1999](#_page12_x293.50_y597.24);[ Whelan et al.](#_page15_x35.72_y228.13),[ 2000](#_page15_x35.72_y228.13);[ Madriaga et al.](#_page13_x293.50_y142.95),
+
+the ventrolateral funiculus ([Han et al.,](#_page12_x293.50_y57.77) [2007** ](#_page12_x293.50_y57.77)[Figure 4A**](#_page9_x88.84_y407.28)). It [2004](#_page13_x293.50_y142.95);[ Humphreys and Whelan, 2012)](#_page12_x293.50_y426.88) or rat ([Barrière et al.,](#_page11_x35.72_y530.88) [2004) ](#_page11_x35.72_y530.88)appears that dopamine is a necessary component to evoke stable preparations. Courtine and colleagues ([Musienko et al.,](#_page14_x35.72_y76.70) [2011) ](#_page14_x35.72_y76.70)rhythmic bursting activity in classes of genetically identified have recently shown that combinations of monoamines includ- spinal interneurons (Hb9 cells; [Hinckley et al., 2005](#_page12_x293.50_y322.77);[ Wilson](#_page15_x35.72_y256.52) ing agonists for 5-HT1A, 5-HT2A, D1 and antagonists for NA
+
+[et al., 2005](#_page15_x35.72_y256.52)) when introduced with 5-HT and NMDA but is not (a2) were particularly successful in producing locomotion that sufficient to do so on its own ([Han et al.,](#_page12_x293.50_y57.77) [2007);](#_page12_x293.50_y57.77) however, other resembled normal stepping in spinalized rats, supported by data studies suggest that NMDA alone is sufficient [(Masino et al.](#_page13_x293.50_y322.77), from *in vitro* preparations ([Madriaga et al.,](#_page13_x293.50_y142.95) [2004).](#_page13_x293.50_y142.95) A cautionary [2012](#_page13_x293.50_y322.77)). Dopamine also increases the excitability of motor neurons note is that tuning of these monoaminergic combinations will
+
+by reducing the potassium currents IA and SKca, but the receptor likely need to be performed before translation to humans in mechanisms mediating this effect are not known ([**Figure 4**;](#_page9_x88.84_y407.28) a non-human primate where the receptor expression resembles
+
+[Han et al.,](#_page12_x293.50_y57.77) [2007](#_page12_x293.50_y57.77)). In addition, dopamine increases synaptic humans ([Barraud et al.,](#_page11_x35.72_y417.30) [2010).](#_page11_x35.72_y417.30) A final note on this topic is AMPA currents onto motor neurons via D1-like receptor-PKA that there is evidence that monoamine receptors (5-HT2C) are mechanisms and is analogous to findings in embryonic chick constitutively expressed for months following a SCI in rodents motor neurons mediated by increases in kainite-gated channels and upregulation of these receptors may contribute to functional ([Smith et al.,](#_page14_x293.50_y436.35) [1995](#_page14_x293.50_y436.35)). Together, the combination of increased improvement in locomotion following injury ([Murray et al., ](#_page13_x293.50_y682.43)intrinsic excitability and excitatory synaptic input to motor [2010](#_page13_x293.50_y682.43)).Itisnotknownwhethercatecholaminergicreceptorscould neurons facilitate motor output; however, it remains unclear why contribute in a similar manner but dopamine D5 receptors do dopamine alone might not be sufficient to evoke locomotor like show high constitutive activity [(Demchyshyn et al.](#_page12_x35.72_y142.95),[ 2000](#_page12_x35.72_y142.95)). D5 activity. While these studies are instructive they have only begun receptors are known to be constitutively active in the rat subtha-
+
+to scratch the surface of the function of catecholamines *in vivo*. lamic nucleus after 6-OHDA treatment of the medial forebrain![ref2]
+
+![](khfud3ql.010.jpeg)
+
+**FIGURE 4 |<a name="_page9_x88.84_y407.28"></a> Known effects of dopamine on cellular components of the** indicated by an increase in the slope of the frequency-current relationship **(Bi locomotor![](khfud3ql.011.png) network.** Ventral root neurograms from the L2, L5 and S1 and **Bii)**. This effect is in part mediated by a reduction in IA and SKCa
+
+segments and ventrolateral funiculus (VLF) of a spinal cord isolation conductances. Dopamine also increases AMPA conductances **(Ci** and **Cii)** via preparation with fast synaptic transmission blocked (CNQX, AP5, PTX and a D1-like receptor mechanisms (Adapted with permission from Han [and](#_page12_x293.50_y86.16)
+
+Strychnine) indicates that dopamine increases the excitability of motor [Whelan, 2009). ](#_page12_x293.50_y86.16)Dopamine reduces recurrent excitatory feedback to the neurons projecting through ventral roots and interneurons projecting through locomotor CPG ([Humphreys and Whelan, 2012) and](#_page12_x293.50_y426.88) Renshaw cells via D2-like
+
+the VLF (A) (Adapted from [Han et al., 2007). ](#_page12_x293.50_y57.77)Intracellular recordings from receptor mechanisms ([Maitra et al., 1993). A ](#_page13_x293.50_y180.81)summary of all these effects are motor neurons show that dopamine increases motor neuron excitability depicted in panel **(D)**.
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)10| **10****
+Sharples et al. Dopamine modulation of rhythmic networks![ref1]
+
+bundle. D5 receptors are expressed in the spinal cord and this remains a possibility for intervention ([Chetrit et al.,](#_page11_x293.50_y408.45) [2013).](#_page11_x293.50_y408.45) In this regard, an early report of increased dopamine receptor dependent adenyl cyclase following SCI may be relevant[ (Gentleman et al.](#_page12_x35.72_y351.17), [1981](#_page12_x35.72_y351.17)).
+
+Another approach is using L-DOPA that is converted to dopamine and noradrenaline in catecholamine axon terminals and within D cells in the spinal cord. Even though descending catecholamine axons tend to degenerate following injury, D-cells may compensate by upregulating AADC [(Jaeger et al.](#_page12_x293.50_y455.28),[ 1983](#_page12_x293.50_y455.28)[; Li et al., 2014](#_page13_x35.72_y663.50)). In spinalized mice, administration of L-DOPA and buspirone (dopamine and 5-HT1 partial agonist) combined with apomorphine reliably elicited locomotor activity in mice with a complete spinal transection ([Guertin et al.,](#_page12_x35.72_y578.32) [2011).](#_page12_x35.72_y578.32) Work in decerebrate rats suggests that L-DOPA activation of locomotion is dopamine receptor dependent ([Sickles et al.,](#_page14_x293.50_y341.70) [1992;](#_page14_x293.50_y341.70)[ McCrea et al., 1997](#_page13_x293.50_y360.63)). In terms of translation, [Maric et al. ](#_page13_x293.50_y303.84)([2008)](#_page13_x293.50_y303.84) showed![ref2]
+
+that oral administration of L-DOPA did not produce any observ- able change in locomotor recovery following SCI. It is not clear why L-DOPA may have proven ineffective but it is likely that a combination of multiple catecholaminergic agonists will need to be developed for humans in combination with other therapies. In this regard, the use of embryonic cells from the dopamin- ergic ventral tegmental region may also be a useful strategy, similar to approaches that have used embryonic noradrenergic locus coeruleus [(Commissiong, 1984](#_page11_x293.50_y607.21)) or serotonergic raphe cells implantedintotheinjurysite([Majczynski´ etal.,2005](#_page13_x293.50_y218.66);[Boidoetal.](#_page11_x35.72_y673.84), [2009](#_page11_x35.72_y673.84)).
+
+It is useful to consider new genetic approaches that target monoaminergic sites. The field of optogenetics has developed methods to target classes of cells such that they can be excited or inhibited with light. This is accomplished by the insertion of light sensitive cation channels (e.g., Channelrhodopsin-2) for activation or proton pumps (e.g., archaerhodopsins) for
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)|** 
+Sharples et al. Dopamine modulation of rhythmic networks![ref1]
+|**FIGURE 5 |<a name="_page10_x88.84_y304.32"></a> Recovery of motor function following spinal cord injury may**|serotonergic raphe nucleus caudal to the site of injury, intrathecal injection of||
+| - | - | :- |
+|**be facilitated using combinatorial therapies to promote plasticity within**|catecholamines and systemic injection of L-DOPA. While these approaches||
+|**motor networks**. This could be accomplished by targeting monoaminergic|may not be optimal in isolation, they may serve as an effective||
+|systems through the activation of descending brain nuclei using optogenetic|complementary treatment with rehabilitation and other therapies to reduce||
+|or pharmacogenetic approaches, implantation of fetal or embryonic cells from|secondary injury and promote regeneration of damaged descending tracts to||
+|the dopaminergic ventral tegmental area, noradrenergic locus coeruleus or|promote the recovery of motor function.||
+|silencing of neuronal activity that can be expressed based on artificialligands that bind selectively to the artificialreceptors tar|||
+|cell-specifictranscription factors or promoter regions (for review getedtothemonoaminergicnucleusofinterest.Otherapproaches|||
+|see:[ Aston-Jones and Deisseroth](#_page11_x35.72_y275.33),[ 2013](#_page11_x35.72_y275.33)). The use of pharmacoge- to consider are the use of OptoXRs which activate similar cAM|||
+|netics which make use of engineered receptors that respond to processes as nativea2 receptors ([Airan et al., 2009](#_page11_x35.72_y246.94)). The OptoX non-endogenous ligands could address difficulties of translation, approach is light activated at the moment, but offers the oppor-|||
+|as optogenetic approaches require light fibers to be implanted tunity to selectively upregulatea2 receptors in motor neurons for and would most likely need to cover multiple cord segments. example. This technique would directly target second messenge|||
+|In addition, these non-endogenous ligands can be introduced pathways in targeted cells. In all likelihood, a combination o|||
+|intravenously, intraperitoneally or orally (for review see:[ Lee](#_page13_x35.72_y606.71) supraspinal plus spinal activation and inactivation strategies wil|||
+|[et al., 2014](#_page13_x35.72_y606.71)). The most commonly utilized form of this technol- needtobedeployedtoachieveoptimalresults.Inmostcasesmen-|||
+|ogy are the designer receptors exclusively activated by designer tioned the tools used combine Cre-driver mice lines coupled with|||
+|drugs (DREADDS), which are modified metabotropic mus- floxxed viral vectors. However, if translation is a consideratio|||
+|carinic receptors that respond to the non-endogenous ligand then it should be noted that delivery of DREADDs, opsins, and|||
+|clozapine-N-oxide (CNO). Similar to optogenetic approaches, optoXRs can be delivered using a viral vector with a cell specif|||
+|these receptors can be inserted into specific cell types under syntheticpromoter.Forexample,viralvectorswithaTHsynthetic|||
+|transcriptional control of cell-specific genes. Neuronal activity promoter have been designed to trace dopamine neuron pathways|||
+|can be facilitated through insertion of the hm3 receptor form or ([Ohetal.,2009](#_page14_x35.72_y142.95)).Thisproof-of-principleshowsthatthisapproach|||
+|silenced by insertion of the hm4 receptor form ([Shapiro et al.,](#_page14_x293.50_y237.59) could be used in different species including, over the long-term,|||
+|[2012](#_page14_x293.50_y237.59)) by administration of CNO. This approach is considerably humans.|||
+|simpler than optogenetics, since hardware need not be installed andtheCNOcanbeadministeredsystemically.Followingadmin- **CONCLUSIONS**|||
+|istration of the CNO, effects can be observed within tens of This review has focused on the role of dopamine in modu- minutes and can last for hours. The next day the CNO will be lating locomotor centers in the spinal cord. Our knowledge of metabolized and one can then repeat the experimental protocol. dopamine’s contribution to monoaminergic locomotor drive in Using this approach one can target supraspinal nuclei containing mammals is in its infancy. However, parallels to other vertebrate monoaminergic cells in patients with incomplete SCI or direct systems, such as the lamprey, clearly exist. activationofspinalcircuits[(**Figure5**](#_page10_x88.84_y304.32)).Thisapproachhaspromise Tools to specifically target dopaminergic and other sinceitallowsfortheremoteactivationoftargetsbyadministering monoaminergic descending populations now exist. Data from|||
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)11| **11****
+Sharples et al.![ref1]
+
+Dopamine modulation of rhythmic networks
+
+behaving animals suggests that while monoamines generally act to increase tone, they can act to promote specificpatterns on their<a name="_page11_x293.50_y76.70"></a>own. While the temptation is to examine each monoaminergic system in isolation, it will be necessary to examine combinatorial actions to start to understand the state-dependent role of<a name="_page11_x293.50_y105.59"></a>monoamines in the freely moving animal.
+
+**ACKNOWLEDGMENTS**
+
+We would like to acknowledge support from the Natural Sciences and Engineering Research Council of Canada and the Canadian Institutes of Health Research. We also acknowledge technical assistance provided by Ms. Jillian Ejdrygiewicz.
+
+<a name="_page11_x35.72_y218.55"></a>**REFERENCES**
+
+<a name="_page11_x293.50_y200.23"></a>Abrahamson, E. E., and Moore, R. Y. (2001). The posterior hypothalamic area:
+
+chemoarchitecture and afferent connections. *Brain Res.* 889, 1–22. doi: 10.<a name="_page11_x293.50_y228.63"></a><a name="_page11_x35.72_y246.94"></a>1016/s0006-8993(00)03015-8
+
+Airan, R. D., Thompson, K. R., Fenno, L. E., Bernstein, H., and Deisseroth, K.
+
+(2009). Temporally precise in vivo control of intracellular signalling.*Nature*458,<a name="_page11_x293.50_y257.02"></a><a name="_page11_x35.72_y275.33"></a>1025–1029. doi: 10.1038/nature07926
+
+Aston-Jones, G., and Deisseroth, K. (2013). Recent advances in optogenetics and
+
+<a name="_page11_x35.72_y294.26"></a>pharmacogenetics. *Brain Res.*1511, 1–5. doi: 10.1016/j.brainres.2013.01.026<a name="_page11_x293.50_y285.41"></a>     Baker, L. L., Chandler, S. H., and Goldberg, L. J. (1984). L-dopa-induced
+
+locomotor-like activity in ankle flexor and extensor nerves of chronic and acute
+
+<a name="_page11_x293.50_y304.34"></a><a name="_page11_x35.72_y322.66"></a>spinal cats.*Exp. Neurol.*86, 515–526. doi: 10.1016/0014-4886(84)90086-4        Barbeau, H., and Rossignol, S. (1987). Recovery of locomotion after chronic
+
+spinalization in the adult cat. *Brain Res.* 412, 84–95. doi: 10.1016/0006-
+
+<a name="_page11_x293.50_y332.74"></a><a name="_page11_x35.72_y351.05"></a>8993(87)91442-9
+
+Barbeau, H., and Rossignol, S. (1991). Initiation and modulation of the
+
+locomotor pattern in the adult chronic spinal cat by noradrenergic, seroton- ergic and dopaminergic drugs. *Brain Res.*546, 250–260. doi: 10.1016/0006- <a name="_page11_x35.72_y388.91"></a>8993(91)91489-n
+
+<a name="_page11_x293.50_y380.06"></a>Barbeau, H., and Rossignol, S. (1994). Enhancement of locomotor recovery fol-
+
+lowing spinal cord injury. *Curr. Opin. Neurobiol.*7, 517–524. doi: 10.1097/ <a name="_page11_x35.72_y417.30"></a>00019052-199412000-00008
+
+<a name="_page11_x293.50_y408.45"></a>Barraud, Q., Obeid, I., Aubert, I., Barrière, G., Contamin, H., Mcguire, S.,
+
+et al. (2010). Neuroanatomical study of the A11 diencephalospinal pathway in the non-human primate. *PLoS One* 5:e13306. doi: 10.1371/journal.pone. <a name="_page11_x35.72_y455.16"></a>0013306
+
+Barreiro-Iglesias, A., Villar-Cerviño, V., Anadón, R., and Rodicio, M. C. (2008).
+
+<a name="_page11_x293.50_y455.78"></a>Descending brain-spinal cord projections in a primitive vertebrate, the lamprey: cerebrospinal fluid-contacting and dopaminergic neurons. *J. Comp. Neurol.*511, <a name="_page11_x35.72_y493.02"></a>711–723. doi: 10.1002/cne.21863
+
+<a name="_page11_x293.50_y484.17"></a>Barriere, G., Leblond, H., Provencher, J., and Rossignol, S. (2008). Prominent role
+
+of the spinal central pattern generator in the recovery of locomotion after partial spinal cord injuries. *J. Neurosci.*28, 3976–3987. doi: 10.1523/jneurosci.5692-07. <a name="_page11_x35.72_y530.88"></a>2008
+
+<a name="_page11_x293.50_y522.03"></a>Barrière, G., Mellen, N., and Cazalets, J.-R. (2004). Neuromodulation of the
+
+locomotor network by dopamine in the isolated spinal cord of newborn rat.
+
+*Eur. J. Neurosci.*19, 1325–1335. doi: 10.1111/j.1460-9568.2004.03210.x          <a name="_page11_x35.72_y559.77"></a>Benoit-Marand, M., Borrelli, E., and Gonon, F. (2001). Inhibition of dopamine
+
+<a name="_page11_x293.50_y559.88"></a>release via presynaptic D2 receptors: time course and functional characteristics
+
+<a name="_page11_x35.72_y588.16"></a>in vivo.*J. Neurosci.*21, 9134–9141.
+
+<a name="_page11_x293.50_y588.28"></a>Björklund, A., and Dunnett, S. B. (2007). Dopamine neuron systems in the brain:
+
+<a name="_page11_x35.72_y607.09"></a>an update. *Trends Neurosci.*30, 194–202. doi: 10.1016/j.tins.2007.03.006<a name="_page11_x293.50_y607.21"></a>           Björklund, A., and Skagerberg, G. (1979). Evidence for a major spinal cord
+
+projection from the diencephalic A11 dopamine cell group in the rat using
+
+transmitter-specific fluorescent retrograde tracing. *Brain Res.* 177, 170–175.
+
+<a name="_page11_x293.50_y635.60"></a>doi: 10.1016/0006-8993(79)90927-2
+
+<a name="_page11_x35.72_y645.45"></a>Blessing, W. W., and Chalmers, J. P. (1979). Direct projection of catecholamine
+
+(presumably dopamine)-containing neurons from hypothalamus to spinal cord.<a name="_page11_x293.50_y663.99"></a><a name="_page11_x35.72_y673.84"></a>*Neurosci. Lett.*11, 35–40. doi: 10.1016/0304-3940(79)90052-1
+
+Boido, M., Rupa, R., Garbossa, D., Fontanella, M., Ducati, A., and Vercelli, A. (2009). Embryonic and adult stem cells promote raphespinal axon outgrowth![ref2]
+
+and improve functional outcome following spinal hemisection in mice. *Eur. J. Neurosci.*30, 833–846. doi: 10.1111/j.1460-9568.2009.06879.x
+
+Boulenguez, P., and Vinay, L. (2009). Strategies to restore motor functions after
+
+spinal cord injury. *Curr. Opin. Neurobiol.*19, 587–600. doi: 10.1016/j.conb.2009. 10.005
+
+Bregman, B. S. (1987). Development of serotonin immunoreactivity in the rat
+
+spinal cord and its plasticity after neonatal spinal cord lesions. *Brain Res.*431, <a name="_page11_x293.50_y133.98"></a>245–263. doi: 10.1016/0165-3806(87)90213-6
+
+Briggman, K. L., Abarbanel, H. D. I., and Kristan, W. B. (2005). Optical imaging
+
+of neuronal populations during decision-making. *Science*307, 896–901. doi: 10.
+
+<a name="_page11_x293.50_y162.38"></a>1126/science.1103736 Bruinstroop,E.,Cano,G.,Vanderhorst,V.G.J.M.,Cavalcante,J.C.,Wirth,J.,Sena-
+
+Esteves, M., et al. (2012). Spinal projections of the A5, A6 (locus coeruleus) and
+
+A7 noradrenergic cell groups in rats. *J. Comp. Neurol.*520, 1985–2001. doi: 10.
+
+1002/cne.23024
+
+Brustein, E., Saint-Amant, L., Buss, R. R., Chong, M., McDearmid, J. R., and
+
+Drapeau, P. (2003). Steps during the development of the zebrafish locomotor
+
+network. *J. Physiol. Paris*97, 77–86. doi: 10.1016/j.jphysparis.2003.10.009        Buchanan, J. T., and Grillner, S. (1991). 5-Hydroxytryptamine depresses retic-
+
+ulospinal excitatory postsynaptic potentials in motoneurons of the lamprey.
+
+*Neurosci. Lett.*122, 71–74. doi: 10.1016/0304-3940(91)90196-z
+
+Bucher, D., Thirumalai, V., and Marder, E. (2003). Axonal dopamine receptors acti-
+
+vateperipheralspikeinitiationinastomatogastricmotorneuron. *J.Neurosci.*23, 6866–6875.
+
+Carlsson, A., Falck, B., and Hillarp, N. A. (1962). Cellular localization of brain
+
+monoamines. *Acta Physiol. Scand. Suppl.*56, 1–28.
+
+Carp, J. S., and Anderson, R. J. (1982). Dopamine receptor-mediated depression of
+
+spinal monosynaptic transmission. *Brain Res.*242, 247–254. doi: 10.1016/0006-
+
+8993(82)90307-9 Chatelin,S.,Wehrlé,R.,Mercier,P.,Morello,D.,Sotelo,C.,andWeber,M.J.(2001).
+
+NeuronalpromoterofhumanaromaticL-aminoaciddecarboxylasegenedirects
+
+transgene expression to the adult floor plate and aminergic nuclei induced
+
+by the isthmus. *Brain Res. Mol. Brain Res.*97, 149–160. doi: 10.1016/s0169-
+
+328x(01)00318-7
+
+Chau, C., Barbeau, H., and Rossignol, S. (1998). Effects of intrathecal alpha1- and
+
+alpha2-noradrenergic agonists and norepinephrine on locomotion in chronic spinal cats.*J. Neurophysiol.*79, 2941–2963.
+
+Chetrit, J., Taupignon, A., Froux, L., Morin, S., Bouali-Benazzouz, R., Naudet, F.,
+
+et al. (2013). Inhibiting subthalamic D5 receptor constitutive activity alleviates abnormal electrical activity and reverses motor impairment in a rat model of Parkinson’s disease. *J. Neurosci.*33, 14840–14849. doi: 10.1523/JNEUROSCI. 0453-13.2013
+
+Christie, K. J., and Whelan, P. J. (2005). Monoaminergic establishment of rostro-
+
+caudal gradients of rhythmicity in the neonatal mouse spinal cord. *J. Neuro- physiol.*94, 1554–1564. doi: 10.1152/jn.00299.2005
+
+Ciliax, B. J., Drash, G. W., Staley, J. K., Haber, S., Mobley, C. J., Miller,
+
+G. W., et al. (1999). Immunocytochemical localization of the dopamine trans- porter in human brain. *J. Comp. Neurol.*409, 38–56. doi: 10.1002/(sici)1096- 9861(19990621)409:1< 38::aid-cne4> 3.0.co;2-1
+
+Clark, F. M., and Proudfit, H. K. (1991). The projection of locus coeruleus
+
+neurons to the spinal cord in the rat determined by anterograde tracing com- bined with immunocytochemistry. *Brain Res.*538, 231–245. doi: 10.1016/0006- 8993(91)90435-x
+
+Clemens, S., Belin-Rauscent, A., Simmers, J., and Combes, D. (2012). Opposing
+
+modulatory effects of D1- and D2-like receptor activation on a spinal central
+
+pattern generator. *J. Neurophysiol.*107, 2250–2259. doi: 10.1152/jn.00366.2011 Commissiong, J. W. (1983). Development of catecholaminergic nerves in the spinal
+
+cord of the rat. *Brain Res.*264, 197–208. doi: 10.1016/0006-8993(83)90817-x Commissiong, J. W. (1984). Fetal locus coeruleus transplanted into the transected
+
+spinal cord of the adult rat: some observations and implications. *Neuroscience*
+
+12, 839–853. doi: 10.1016/0306-4522(84)90174-x Commissiong,J.W.,Gentleman,S.,andNeff,N.H.(1979).Spinalcorddopaminer-
+
+gicneurons:evidenceforanuncrossednigrospinalpathway. *Neuropharmacology*
+
+18, 565–568. doi: 10.1016/0028-3908(79)90102-3
+
+Crisp, K. M., Gallagher, B. R., and Mesce, K. A. (2012). Mechanisms contributing
+
+to the dopamine induction of crawl-like bursting in leech motoneurons. *J. Exp. Biol.*215, 3028–3036. doi: 10.1242/jeb.069245
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)12| **12****
+Sharples et al.![ref1]
+
+Dopamine modulation of rhythmic networks
+
+<a name="_page12_x35.72_y57.77"></a>Crisp, K. M., and Mesce, K. A. (2004). A cephalic projection neuron involved in
+
+<a name="_page12_x293.50_y57.77"></a>locomotion is dye coupled to the dopaminergic neural network in the medicinal <a name="_page12_x35.72_y86.16"></a>leech.*J. Exp. Biol.*207, 4535–4542. doi: 10.1242/jeb.01315
+
+<a name="_page12_x293.50_y86.16"></a>Dahlström, A., and Fuxe, K. (1964a). Evidence for the existence of monoamine-
+
+containing neurons in the central nervous system. I. Demonstration of monoamines in the cell bodies of brain stem neurons. *Acta Physiol. Scand. Suppl.<a name="_page12_x293.50_y114.55"></a><a name="_page12_x35.72_y124.02"></a>*232, 1–55.
+
+Dahlström, A., and Fuxe, K. (1964b). Localization of monoamines in the lower
+
+<a name="_page12_x35.72_y142.95"></a>brain stem. *Experientia*20, 398–399. doi: 10.1007/bf02147990
+
+<a name="_page12_x293.50_y142.95"></a>Demchyshyn, L. L., McConkey, F., and Niznik, H. B. (2000). Dopamine D5 receptor
+
+agonist high affinity and constitutive activity profile conferred by carboxyl- terminal tail sequence. *J. Biol. Chem.* 275, 23446–23455. doi: 10.1074/jbc.<a name="_page12_x293.50_y171.34"></a><a name="_page12_x35.72_y180.81"></a>m000157200
+
+Fong, A. J., Roy, R. R., Ichiyama, R. M., Lavrov, I., Courtine, G., Gerasimenko, Y.,
+
+<a name="_page12_x293.50_y190.27"></a>et al. (2009). Recovery of control of posture and locomotion after a spinal cord injury: solutions staring us in the face. *Prog. Brain Res.*175, 393–418. doi: 10. <a name="_page12_x35.72_y218.66"></a>1016/S0079-6123(09)17526-X
+
+<a name="_page12_x293.50_y218.66"></a>Ford, C. P. (2014). The role of D2-autoreceptors in regulating dopamine neuron
+
+activity and transmission. *Neuroscience*doi: 10.1016/j.neuroscience.2014.01. <a name="_page12_x35.72_y247.06"></a>025. [Epub ahead of print].
+
+<a name="_page12_x293.50_y247.06"></a>Forssberg, H., and Grillner, S. (1973). The locomotion of the acute spinal
+
+cat injected with clonidine i.v. *Brain Res.* 50, 184–186. doi: 10.1016/0006- <a name="_page12_x35.72_y275.45"></a>8993(73)90606-9
+
+Fritschy, J. M., and Grzanna, R. (1990). Demonstration of two separate descending<a name="_page12_x293.50_y284.92"></a>noradrenergic pathways to the rat spinal cord: evidence for an intragriseal trajectory of locus coeruleus axons in the superficial layers of the dorsal horn.
+
+<a name="_page12_x35.72_y313.31"></a>*J. Comp. Neurol.*291, 553–582. doi: 10.1002/cne.902910406
+
+Gabriel, J. P., Mahmood, R., Kyriakatos, A., Söll, I., Hauptmann, G., Calabrese,
+
+<a name="_page12_x293.50_y322.77"></a>R. L., et al. (2009). Serotonergic modulation of locomotion in zebrafish:endoge- nous release and synaptic mechanisms. *J. Neurosci.*29, 10387–10395. doi: 10. <a name="_page12_x35.72_y351.17"></a>1523/JNEUROSCI.1978-09.2009
+
+Gentleman,S.,Parenti,M.,Commissiong,J.W.,andNeff,N.H.(1981).Dopamine-
+
+<a name="_page12_x293.50_y360.63"></a>activated adenylate cyclase of spinal cord: supersensitivity following transection
+
+<a name="_page12_x35.72_y379.56"></a>of the cord. *Brain Res.*210, 271–275. doi: 10.1016/0006-8993(81)90900-8<a name="_page12_x293.50_y379.56"></a>         Gerin, C., Becquet, D., and Privat, A. (1995). Direct evidence for the link between
+
+monoaminergic descending pathways and motor activity. I. A study with micro-
+
+dialysis probes implanted in the ventral funiculus of the spinal cord. *Brain Res.*
+
+<a name="_page12_x35.72_y417.42"></a>704, 191–201. doi: 10.1016/0006-8993(95)01111-0
+
+Gerin, C., and Privat, A. (1998). Direct evidence for the link between monoamin-
+
+<a name="_page12_x293.50_y426.88"></a>ergic descending pathways and motor activity: II. A study with microdialysis probes implanted in the ventral horn of the spinal cord. *Brain Res.*794, 169– <a name="_page12_x35.72_y455.28"></a>173. doi: 10.1016/s0006-8993(98)00278-9
+
+<a name="_page12_x293.50_y455.28"></a>Gordon, I. T., and Whelan, P. J. (2006). Monoaminergic control of cauda-equina-
+
+evokedlocomotionintheneonatalmousespinalcord. *J.Neurophysiol.*96,3122– <a name="_page12_x35.72_y483.67"></a>3129. doi: 10.1152/jn.00606.2006
+
+Goulding, M. (2009). Circuits controlling vertebrate locomotion: moving in a new
+
+<a name="_page12_x293.50_y493.14"></a><a name="_page12_x35.72_y502.60"></a>direction. *Nat. Rev. Neurosci.*10, 507–518. doi: 10.1038/nrn2608 Graham-Brown, T. (1911). The intrinsic factors in the act of progression in the
+
+mammal. *Proc. R. Soc. Lond. B Biol. Sci.*84, 308–319. doi: 10.1098/rspb.1911.
+
+<a name="_page12_x35.72_y530.99"></a>0077
+
+<a name="_page12_x293.50_y530.99"></a>Grillner, S., and Zangger, P. (1979). On the central generation of locomotion in the
+
+<a name="_page12_x35.72_y549.92"></a>low spinal cat.*Exp. Brain Res.*34, 241–261. doi: 10.1007/bf00235671
+
+Gruhn, M., Guckenheimer, J., Land, B., and Harris-Warrick, R. M. (2005).
+
+Dopamine modulation of two delayed rectifier potassium currents in a small
+
+<a name="_page12_x293.50_y568.85"></a><a name="_page12_x35.72_y578.32"></a>neural network. *J. Neurophysiol.*94, 2888–2900. doi: 10.1152/jn.00434.2005     Guertin, P. A., Ung, R.-V., Rouleau, P., and Steuer, I. (2011). Effects on locomotion,
+
+muscle, bone and blood induced by a combination therapy eliciting weight-
+
+<a name="_page12_x293.50_y597.24"></a>bearing stepping in nonassisted spinal cord-transected mice. *Neurorehabil.*
+
+<a name="_page12_x35.72_y616.17"></a>*Neural Repair*25, 234–242. doi: 10.1177/1545968310378753
+
+Gutierrez, G. J., O’Leary, T., and Marder, E. (2013). Multiple mechanisms switch an
+
+<a name="_page12_x293.50_y625.64"></a>electrically coupled, synaptically inhibited neuron between competing rhythmic <a name="_page12_x35.72_y644.57"></a>oscillators.*Neuron* 77, 845–858. doi: 10.1016/j.neuron.2013.01.016
+
+Hammar, I., Bannatyne, B. A., Maxwell, D. J., Edgley, S. A., and Jankowska, E. (2004). The actions of monoamines and distribution of noradrenergic and sero-<a name="_page12_x293.50_y663.50"></a>     toninergic contacts on different subpopulations of commissural interneurons
+
+in the cat spinal cord. *Eur. J. Neurosci.*19, 1305–1316. doi: 10.1111/j.1460- 9568.2004.03239.x![ref2]
+
+Han, P., Nakanishi, S. T., Tran, M. A., and Whelan, P. J. (2007). Dopaminergic
+
+modulation of spinal neuronal excitability. *J. Neurosci.*27, 13192–13204. doi: 10. 1523/jneurosci.1279-07.2007
+
+Han, P., and Whelan, P. J. (2009). Modulation of AMPA currents by D(1)-like but
+
+not D(2)-like receptors in spinal motoneurons. *Neuroscience*158, 1699–1707. doi: 10.1016/j.neuroscience.2008.11.040
+
+Harris-Warrick, R. M., and Cohen, A. H. (1985). Serotonin modulates the central
+
+patterngeneratorforlocomotionintheisolatedlampreyspinalcord. *J.Exp.Biol.* 116, 27–46.
+
+Harris-Warrick, R. M., Coniglio, L. M., Barazangi, N., Guckenheimer, J., and
+
+Gueron,S.(1995).Dopaminemodulationoftransientpotassiumcurrentevokes
+
+phase shifts in a central pattern generator network. *J. Neurosci.*15, 342–358. Harris-Warrick, R. M., and Johnson, B. R. (2010). Checks and balances neuromod-
+
+ulation. *Front. Behav. Neurosci.*4, 1–9. doi: 10.3389/fnbeh.2010.00047 Harris-Warrick, R. M., Johnson, B. R., Peck, J. H., Kloppenburg, P., Ayali, A.,
+
+and Skarbinski, J. (1998). Distributed effects of dopamine modulation in the
+
+crustacean pyloric network. *Ann. N. Y. Acad. Sci.*860, 155–167.
+
+Heckman, C. J., Hyngstrom, A. S., and Johnson, M. D. (2008). Active properties
+
+of motoneurone dendrites: diffuse descending neuromodulation, focused local inhibition. *J. Physiol.*586, 1225–1231. doi: 10.1113/jphysiol.2007.145078
+
+Hellal, F., Hurtado, A., Ruschel, J., Flynn, K. C., Laskowski, C. J., Umlauf, M.,
+
+et al. (2011). Microtubule stabilization reduces scarring and causes axon regen- eration after spinal cord injury. *Science*331, 928–931. doi: 10.1126/science.12 01148
+
+Hill, R. H., Svensson, E., Dewael, Y., and Grillner, S. (2003). 5-HT inhibits
+
+N-type but not L-type Ca(2+) channels via 5-HT1A receptors in lamprey
+
+spinal neurons. *Eur. J. Neurosci.*18, 2919–2924. doi: 10.1111/j.1460-9568.2003.
+
+03051\.x Hinckley,C.A.,Hartley,R.,Wu,L.,Todd,A.J.,andZiskind-Conhaim,L.H.(2005).
+
+Locomotor-like rhythms in a genetically distinct cluster of interneurons in the
+
+mammalian spinal cord. *J. Neurophysiol.*93, 1439–1449. doi: 10.1152/jn.00647.
+
+2004
+
+Hökfelt, T., Johansson, O., and Goldstein, M. (1984a). Chemical anatomy of the
+
+brain. *Science*225, 1326–1334. doi: 10.1126/science.6147896 Hökfelt,T.,Martensson,M.,Björklund,A.,Kleineau,S.,andGoldstein,M.(1984b).
+
+“Distributional maps of tyrosine-hydroxylase-immunoreactive neurons in the
+
+rat brain,” in *Handbook of Chemical Neuroanatomy (Classical Transmitters in the*
+
+*CNS, Part 1)* (Vol. 2), eds A. Björklund and T. Hökfelt (Amsterdam: Elsevier
+
+Science), 277–379.
+
+Humphreys, J. M., and Whelan, P. J. (2012). Dopamine exerts activation-dependent
+
+modulation of spinal locomotor circuits in the neonatal mouse. *J. Neurophysiol.* 108, 3370–3381. doi: 10.1152/jn.00482.2012
+
+Jaeger, C. B., Teitelman, G., Joh, T. H., Albert, V. R., Park, D. H., and Reis, D. J.
+
+(1983). Some neurons of the rat central nervous system contain aromatic- L-amino-acid decarboxylase but not monoamines. *Science*219, 1233–1235. doi: 10.1126/science.6131537
+
+Jankowska, E., Jukes, M. G., Lund, S., and Lundberg, A. (1967a). The effect of
+
+DOPA on the spinal cord. 5. Reciprocal organization of pathways transmitting excitatory action to alpha motoneurones of flexors and extensors. *Acta Physiol. Scand.*70, 369–388. doi: 10.1111/j.1748-1716.1967.tb03636.x
+
+Jankowska, E., Jukes, M. G., Lund, S., and Lundberg, A. (1967b). The effect
+
+of DOPA on the spinal cord. 6. Half-centre organization of interneurones transmitting effects from the flexor reflex afferents.*Acta Physiol. Scand.*70, 389– 402. doi: 10.1111/j.1748-1716.1967.tb03637.x
+
+Jensen, T. S., and Yaksh, T. L. (1984). Effects of an intrathecal dopamine agonist,
+
+apomorphine, on thermal and chemical evoked noxious responses in rats. *Brain Res.*296, 285–293. doi: 10.1016/0006-8993(84)90064-7
+
+Jiang, Z., Carlin, K. P., and Brownstone, R. M. (1999). An in vitro functionally
+
+mature mouse spinal cord preparation for the study of spinal motor networks. *Brain Res.*816, 493–499. doi: 10.1016/s0006-8993(98)01199-8
+
+Johnson, B. R., Brown, J. M., Kvarta, M. D., Lu, J. Y. J., Schneider, L. R., Nadim, F.,
+
+et al. (2011). Differential modulation of synaptic strength and timing regulate synaptic efficacy in a motor network. *J. Neurophysiol.*105, 293–304. doi: 10. 1152/jn.00809.2010
+
+Johnson, B. R., and Harris-Warrick, R. M. (1990). Aminergic modulation of graded
+
+synaptic transmission in the lobster stomatogastric ganglion. *J. Neurosci.*10, 2066–2076.
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)13| **13****
+Sharples et al.![ref1]
+
+Dopamine modulation of rhythmic networks
+
+<a name="_page13_x35.72_y57.77"></a>Johnson, M. D., and Heckman, C. J. (2010). Interactions between focused synaptic
+
+<a name="_page13_x293.50_y57.77"></a>inputsanddiffuseneuromodulationinthespinalcord. *Ann.NYAcad.Sci.*1198, <a name="_page13_x35.72_y86.16"></a>35–41. doi: 10.1111/j.1749-6632.2010.05430.x
+
+<a name="_page13_x293.50_y86.16"></a>Johnson, B. R., Schneider, L. R., Nadim, F., and Harris-Warrick, R. M. (2005).
+
+Dopamine modulation of phasing of activity in a rhythmic motor network: contribution of synaptic and intrinsic modulatory actions. *J. Neurophysiol.*94, <a name="_page13_x35.72_y124.02"></a>3101–3111. doi: 10.1152/jn.00440.2005
+
+<a name="_page13_x293.50_y124.02"></a>Jordan, L. M., Liu, J., Hedlund, P. B., Akay, T., and Pearson, K. G. (2008).
+
+Descending command systems for the initiation of locomotion in mammals.<a name="_page13_x293.50_y142.95"></a><a name="_page13_x35.72_y152.41"></a>*Brain Res. Rev.*57, 183–191. doi: 10.1016/j.brainresrev.2007.07.019
+
+Kadiri, L. R., Kwan, A. C., Webb, W. W., and Harris-Warrick, R. M. (2011).
+
+Dopamine-induced oscillations of the pyloric pacemaker neuron rely on release of calcium from intracellular stores. *J. Neurophysiol.*106, 1288–1298. doi: 10.<a name="_page13_x293.50_y180.81"></a><a name="_page13_x35.72_y190.27"></a>1152/jn.00456.2011
+
+Karoum, F., Commissiong, J. C., Neff, N. H., and Wyatt, R. J. (1981). Regional
+
+differences in catecholamine formation and metabolism in the rat spinal cord. <a name="_page13_x35.72_y218.66"></a>*Brain Res.*212, 316–366. doi: 10.1016/0006-8993(81)90468-6
+
+<a name="_page13_x293.50_y218.66"></a>Keeler, B. E., Baran, C. A., Brewer, K. L., and Clemens, S. (2012). Increased
+
+excitability of spinal pain reflexes and altered frequency-dependent modulation in the dopamine D3-receptor knockout mouse. *Exp. Neurol.* 238, 273–283. <a name="_page13_x35.72_y256.52"></a>doi: 10.1016/j.expneurol.2012.09.002
+
+<a name="_page13_x293.50_y256.52"></a>Kehr, W., Carlsson, A., Lindqvist, M., Magnusson, T., and Atack, C. (1972).
+
+Evidence for a receptor-mediated feedback control of striatal tyrosine hydrox- ylase activity.*J. Pharm. Pharmacol.*24, 744–747. doi: 10.1111/j.2042-7158.1972.<a name="_page13_x293.50_y284.92"></a><a name="_page13_x35.72_y294.38"></a>tb09104.x
+
+Kemnitz, C. P. (1997). Dopaminergic modulation of spinal neurons and synaptic
+
+<a name="_page13_x293.50_y303.84"></a><a name="_page13_x35.72_y313.31"></a>potentials in the lamprey spinal cord. *J. Neurophysiol.*77, 289–298.
+
+Kemnitz, C. P., Strauss, T. R., Hosford, D. M., and Buchanan, J. T. (1995).
+
+<a name="_page13_x293.50_y322.77"></a>Modulation of swimming in the lamprey, Petromyzon marinus, by serotonergic and dopaminergic drugs. *Neurosci. Lett.* 201, 115–118. doi: 10.1016/0304- <a name="_page13_x35.72_y351.17"></a>3940(95)12147-1
+
+Kiehn, O., and Kjaerulff, O. (1996). Spatiotemporal characteristics of 5-HT and
+
+<a name="_page13_x293.50_y360.63"></a>dopamine-induced rhythmic hindlimb activity in the in vitro neonatal rat. *J. <a name="_page13_x35.72_y379.56"></a>Neurophysiol.*75, 1472–1482.
+
+Kiehn, O., Sillar, K. T., Kjaerulff, O., and McDearmid, J. R. (1999). Effects of nora-
+
+drenaline on locomotor rhythm-generating networks in the isolated neonatal<a name="_page13_x293.50_y398.49"></a><a name="_page13_x35.72_y407.95"></a>rat spinal cord. *J. Neurophysiol.*82, 741–746.
+
+Kloppenburg, P., Levini, R. M., and Harris-Warrick, R. M. (1999). Dopamine mod-
+
+ulates two potassium currents and inhibits the intrinsic firing properties of an identified motor neuron in a central pattern generator network. *J. Neurophysiol.<a name="_page13_x293.50_y436.35"></a><a name="_page13_x35.72_y445.81"></a>*81, 29–38.
+
+Kvarta, M. D., Harris-Warrick, R. M., and Johnson, B. R. (2012). Neuromodulator-
+
+evoked synaptic metaplasticity within a central pattern generator network. *J. <a name="_page13_x35.72_y474.21"></a>Neurophysiol.*108, 2846–2856. doi: 10.1152/jn.00586.2012
+
+<a name="_page13_x293.50_y474.21"></a>Kwon, B. K., Casha, S., Hurlbert, R. J., and Yong, V. W. (2011). Inflammatory and
+
+structural biomarkers in acute traumatic spinal cord injury. *Clin. Chem. Lab. <a name="_page13_x35.72_y502.60"></a>Med.*49, 425–433. doi: 10.1515/CCLM.2011.068
+
+<a name="_page13_x293.50_y502.60"></a>Lambert, A. M., Bonkowsky, J. L., and Masino, M. A. (2012). The conserved
+
+dopaminergic diencephalospinal tract mediates vertebrate locomotor develop- ment in zebrafish larvae. *J. Neurosci.*32, 13488–13500. doi: 10.1523/jneurosci.<a name="_page13_x293.50_y530.99"></a><a name="_page13_x35.72_y540.46"></a>1638-12.2012
+
+Lapointe, N. P., and Guertin, P. A. (2008). Synergistic effects of D1/5 and 5-HT1A/7
+
+receptor agonists on locomotor movement induction in complete spinal cord-
+
+<a name="_page13_x35.72_y568.85"></a>transected mice. *J. Neurophysiol.*100, 160–168. doi: 10.1152/jn.90339.2008<a name="_page13_x293.50_y568.85"></a>       Lapointe, N. P., Rouleau, P., Ung, R.-V., and Guertin, P. A. (2009). Specific role of
+
+dopamine D1 receptors in spinal network activation and rhythmic movement
+
+induction in vertebrates. *J. Physiol.*587, 1499–1511. doi: 10.1113/jphysiol.2008.
+
+<a name="_page13_x293.50_y597.24"></a><a name="_page13_x35.72_y606.71"></a>166314
+
+Lee, H.-M., Giguere, P. M., and Roth, B. L. (2014). DREADDs: novel tools for drug
+
+<a name="_page13_x293.50_y616.17"></a>discovery and development. *Drug Discov. Today*19, 469–473. doi: 10.1016/j.
+
+<a name="_page13_x35.72_y635.10"></a>drudis.2013.10.018 Levant,B.,andMcCarson,K.E.(2001).D(3)dopaminereceptorsinratspinalcord:
+
+implications for sensory and motor function. *Neurosci. Lett.*303, 9–12. doi: 10.
+
+<a name="_page13_x293.50_y654.03"></a><a name="_page13_x35.72_y663.50"></a>1016/s0304-3940(01)01692-5
+
+Li, Y., Li, L., Stephens, M. J., Zenner, D., Murray, K. C., Winship, I. R., et al. (2014).
+
+Synthesis, transport, and metabolism of serotonin formed from exogenously<a name="_page13_x293.50_y682.43"></a>applied 5-HTP after spinal cord injury in rats. *J. Neurophysiol.*111, 145–163. doi: 10.1152/jn.00508.2013![ref2]
+
+Lindvall, O., Björklund, A., and Skagerberg, G. (1983). Dopamine-containing
+
+neurons in the spinal cord: anatomy and some functional aspects. *Ann. Neurol.* 14, 255–260. doi: 10.1002/ana.410140302
+
+Liu, J., and Jordan, L. M. (2005). Stimulation of the parapyramidal region of the
+
+neonatal rat brain stem produces locomotor-like activity involving spinal 5-HT7 and 5-HT2A receptors. *J. Neurophysiol.*94, 1392–1404. doi: 10.1152/jn.00136. 2005
+
+Lorang, D., Amara, S. G., and Simerly, R. B. (1994). Cell-type-specific expression
+
+of catecholamine transporters in the rat brain. *J. Neurosci.*14, 4903–4914.           Madriaga, M. A., McPhee, L. C., Chersa, T., Christie, K. J., and Whelan, P. J. (2004).
+
+Modulation of locomotor activity by multiple 5-HT and dopaminergic receptor
+
+subtypes in the neonatal mouse spinal cord. *J. Neurophysiol.*92, 1566–1576.
+
+doi: 10.1152/jn.01181.2003
+
+Maitra, K. K., Seth, P., Thewissen, M., Ross, H. G., and Ganguly, D. K. (1993).
+
+Dopaminergic influence on the excitability of antidromically activated Renshaw cells in the lumbar spinal cord of the rat. *Acta Physiol. Scand.*148, 101–107. doi: 10.1111/j.1748-1716.1993.tb09538.x
+
+Majczynski,K H., Maleszak, K., Cabaj, A., and SŁawinska,K U. (2005). Serotonin-
+
+related enhancement of recovery of hind limb motor functions in spinal rats after grafting of embryonic raphe nuclei. *J. Neurotrauma*22, 590–604. doi: 10. 1089/neu.2005.22.590
+
+Manconi, M., Ferri, R., Zucconi, M., Clemens, S., Giarolli, L., Bottasini, V., et al.
+
+(2011). Preferential D2 or preferential D3 dopamine agonists in restless legs
+
+syndrome. *Neurology*77, 110–117. doi: 10.1212/WNL.0b013e3182242d91     Marder, E. (2012). Neuromodulation of neuronal circuits: back to the future.
+
+*Neuron* 76, 1–11. doi: 10.1016/j.neuron.2012.09.010
+
+Maric, O., Zörner, B., and Dietz, V. (2008). Levodopa therapy in incomplete spinal
+
+cord injury. *J. Neurotrauma*25, 1303–1307. doi: 10.1089/neu.2008.0583           Masino, M. A., Abbinanti, M. D., Eian, J., and Harris-Warrick, R. M. (2012).
+
+TTX-resistant NMDA receptor-mediated membrane potential oscillations in
+
+neonatal mouse Hb9 interneurons. *PLoS One*7:e47940. doi: 10.1371/journal.
+
+pone.0047940
+
+McCrea, A. E., Stehouwer, D. J., and van Hartesveldt, C. (1997). Dopamine
+
+D1 and D2 antagonists block L-DOPA-induced air-stepping in decerebrate neonatal rats. *Brain Res. Dev. Brain Res.*100, 130–132. doi: 10.1016/s0165- 3806(97)00027-8
+
+McDearmid, J. R., Scrymgeour-Wedderburn, J. F., and Sillar, K. T. (1997). Amin-
+
+ergic modulation of glycine release in a spinal network controlling swimming in Xenopus laevis. *J. Physiol.*503, 111–117. doi: 10.1111/j.1469-7793.1997. 111bi.x
+
+McEwen, M. L., van Hartesveldt, C., and Stehouwer, D. J. (1997). L-DOPA
+
+and quipazine elicit air-stepping in neonatal rats with spinal cord transec-
+
+tions. *Behav. Neurosci.*111, 825–33111, 825–833. doi: 10.1037//0735-7044.111.
+
+4\.825 McLean,D.L.,andSillar,K.T.(2004a).Divergentactionsofserotoninreceptoracti-
+
+vation during fictive swimming in frog embryos. *J. Comp. Physiol. A Neuroethol.*
+
+*Sens. Neural Behav. Physiol.*190, 391–402. doi: 10.1007/s00359-004-0504-9      McLean, D. L., and Sillar, K. T. (2004b). Metamodulation of a spinal locomotor
+
+networkbynitricoxide. *J.Neurosci.*24,9561–9571.doi:10.1523/jneurosci.1817-
+
+04\.2004
+
+McPherson, D. R., and Kemnitz, C. P. (1994). Modulation of lamprey fictive swim-
+
+ming and motoneuron physiology by dopamine and its immunocytochemical localization in the spinal cord. *Neurosci. Lett.*166, 23–26. doi: 10.1016/0304- 3940(94)90831-1
+
+Miles, G. B., and Sillar, K. T. (2011). Neuromodulation of vertebrate loco-
+
+motor control networks. *Physiology (Bethesda, Md)*26, 393–411. doi: 10. 1152/physiol.00013.2011
+
+Missale, C., Nash, S. R., Robinson, S. W., Jaber, M., and Caron, M. G. (1998).
+
+Dopamine receptors: from structure to function. *Physiol. Rev.*78, 189–225.        Montague, S. J., Fenrich, K. K., Mayer-Macaulay, C., Maratta, R., Neuber-Hess,
+
+M. S., and Rose, P. K. (2013). Nonuniform distribution of contacts from noradrenergic and serotonergic boutons on the dendrites of cat splenius motoneurons. *J. Comp. Neurol.*521, 638–656. doi: 10.1002/cne.23196
+
+Moore, R. Y., and Bloom, F. E. (1979). Central catecholamine neuron systems:
+
+anatomy and physiology of the norepinephrine and epinephrine systems. *Annu. Rev. Neurosci.*2, 113–168. doi: 10.1146/annurev.ne.02.030179.000553
+
+Murray, K. C., Nakae, A., Stephens, M. J., Rank, M., D’Amico, J., Harvey, P. J., et al. (2010). Recovery of motoneuron and locomotor function after spinal cord
+
+injury depends on constitutive activity in 5-HT2C receptors. *Nat. Med.* 16, 694– <a name="_page14_x35.72_y76.70"></a>700. doi: 10.1038/nm.2160
+
+<a name="_page14_x293.50_y76.70"></a>Musienko, P., van den Brand, R., Märzendorfer, O., Roy, R. R., Gerasimenko, Y.,
+
+Edgerton, V. R., et al. (2011). Controlling specificlocomotor behaviors through multidimensional monoaminergic modulation of spinal circuitries. *J. Neurosci.<a name="_page14_x293.50_y105.09"></a><a name="_page14_x35.72_y114.55"></a>*31, 9264–9278. doi: 10.1523/JNEUROSCI.5796-10.2011
+
+Ochi, J., Yamamoto, T., and Hosoya, Y. (1979). Comparative study of the
+
+monoamine neuron system in the spinal cord of the lamprey and hagfish. *Arch. <a name="_page14_x35.72_y142.95"></a>Histol. Jpn.*42, 327–336. doi: 10.1679/aohc1950.42.327
+
+<a name="_page14_x293.50_y142.95"></a>Oh, M. S., Hong, S. J., Huh, Y., and Kim, K.-S. (2009). Expression of transgenes
+
+in midbrain dopamine neurons using the tyrosine hydroxylase promoter. *Gene <a name="_page14_x35.72_y171.34"></a>Ther.*16, 437–440. doi: 10.1038/gt.2008.148
+
+Pappas, S. S., Behrouz, B., Janis, K. L., Goudreau, J. L., and Lookingland, K. J.
+
+<a name="_page14_x293.50_y180.81"></a>(2008). Lack of D2 receptor mediated regulation of dopamine synthesis in A11 diencephalospinal neurons in male and female mice. *Brain Res.*1214, 1–10. <a name="_page14_x35.72_y209.20"></a>doi: 10.1016/j.brainres.2008.03.010
+
+<a name="_page14_x293.50_y209.20"></a>Pappas, S. S., Tiernan, C. T., Behrouz, B., Jordan, C. L., Breedlove, S. M., Goudreau,
+
+J. L., et al. (2010). Neonatal androgen-dependent sex differences in lumbar spinal cord dopamine concentrations and the number of A11 diencephalospinal<a name="_page14_x293.50_y237.59"></a><a name="_page14_x35.72_y247.06"></a>dopamine neurons. *J. Comp. Neurol.*518, 2423–2436. doi: 10.1002/cne.22340
+
+Peck, J. H., Gaier, E., Stevens, E., Repicky, S., and Harris-Warrick, R. M. (2006).
+
+Amine modulation of Ih in a small neural network. *J. Neurophysiol.*96, 2931–<a name="_page14_x293.50_y265.99"></a><a name="_page14_x35.72_y275.45"></a>2940. doi: 10.1152/jn.00423.2005
+
+Peyron, C., Luppi, P. H., Kitahama, K., Fort, P., Hermann, D. M., and Jouvet, M.
+
+(1995). Origin of the dopaminergic innervation of the rat dorsal raphe nucleus. <a name="_page14_x35.72_y303.84"></a>*Neuroreport*6, 2527–2531. doi: 10.1097/00001756-199512150-00019
+
+<a name="_page14_x293.50_y303.84"></a>Pierre, J., Mahouche, M., Suderevskaya, E. I., Reperant, J., and Ward, R. (1997).
+
+Immunocytochemical localization of dopamine and its synthetic enzymes in the central nervous system of the lamprey Lampetra fluviatilis. *J. Comp. Neurol.* 380, 119–135. doi: 10.1002/(sici)1096-9861(19970331)380:1< 119::aid-cne9> 3.<a name="_page14_x293.50_y341.70"></a><a name="_page14_x35.72_y351.17"></a>3.co;2-j
+
+Prinz, A. A., Bucher, D., and Marder, E. (2004). Similar network activity from
+
+<a name="_page14_x35.72_y370.10"></a>disparate circuit parameters. *Nat. Neurosci.*7, 1345–1352. doi: 10.1038/nn1352<a name="_page14_x293.50_y370.10"></a>Puhl, J. G., Masino, M. A., and Mesce, K. A. (2012). Necessary, sufficient and
+
+permissive: a single locomotor command neuron important for intersegmental
+
+coordination. *J. Neurosci.*32, 17646–17657. doi: 10.1523/JNEUROSCI.2249-
+
+<a name="_page14_x35.72_y407.95"></a>12.2012
+
+<a name="_page14_x293.50_y407.95"></a>Puhl, J. G., and Mesce, K. A. (2008). Dopamine activates the motor pattern
+
+for crawling in the medicinal leech. *J. Neurosci.*28, 4192–4200. doi: 10.1523/ <a name="_page14_x35.72_y436.35"></a>JNEUROSCI.0136-08.2008
+
+<a name="_page14_x293.50_y436.35"></a>Qu, S., Ondo, W. G., Zhang, X., Xie, W. J., Pan, T. H., and Le, W. D. (2006).
+
+Projections of diencephalic dopamine neurons into the spinal cord in mice. *Exp. <a name="_page14_x35.72_y464.74"></a>Brain Res.*168, 152–156. doi: 10.1007/s00221-005-0075-1
+
+<a name="_page14_x293.50_y464.74"></a>Rajaofetra, N., Ridet, J. L., Poulat, P., Marlier, L., Sandillon, F., Geffard, M., et al.
+
+(1992). Immunocytochemical mapping of noradrenergic projections to the rat spinal cord with an antiserum against noradrenaline. *J. Neurocytol.*21, 481–494.<a name="_page14_x293.50_y493.14"></a><a name="_page14_x35.72_y502.60"></a>doi: 10.1007/bf01186952
+
+Rajaofetra, N., Sandillon, F., Geffard, M., and Privat, A. (1989). Pre- and post-natal
+
+ontogeny of serotonergic projections to the rat spinal cord. *J. Neurosci. Res.*22,<a name="_page14_x293.50_y521.53"></a><a name="_page14_x35.72_y530.99"></a>305–321. doi: 10.1002/jnr.490220311
+
+Rauscent, A., Einum, J., Le Ray, D., Simmers, J., and Combes, D. (2009). Opposing
+
+aminergic modulation of distinct spinal locomotor circuits and their functional<a name="_page14_x293.50_y549.92"></a>coupling during amphibian metamorphosis. *J. Neurosci.*29, 1163–1174. doi: 10. <a name="_page14_x35.72_y568.85"></a>1523/JNEUROSCI.5255-08.2009
+
+Reimer, M. M., Norris, A., Ohnmacht, J., Patani, R., Zhong, Z., Dias, T. B., et al.
+
+(2013). Dopamine from the brain promotes spinal motor neuron generation<a name="_page14_x293.50_y587.78"></a>during development and adult regeneration. *Dev. Cell*25, 478–491. doi: 10. <a name="_page14_x35.72_y606.71"></a>1016/j.devcel.2013.04.012
+
+Rémy-Néris, O., Barbeau, H., Daniel, O., Boiteau, F., and Bussel, B. (1999). Effects<a name="_page14_x293.50_y616.17"></a>of intrathecal clonidine injection on spinal reflexes and human locomotion
+
+in incomplete paraplegic subjects. *Exp. Brain Res.* 129, 433–440. doi: 10. <a name="_page14_x35.72_y644.57"></a>1007/s002210050910
+
+Ridet, J. L., Sandillon, F., Rajaofetra, N., Geffard, M., and Privat, A. (1992). Spinal
+
+<a name="_page14_x293.50_y654.03"></a>dopaminergic system of the rat: light and electron microscopic study using an antiserum against dopamine, with particular emphasis on synaptic incidence. <a name="_page14_x35.72_y682.43"></a>*Brain Res.*598, 233–241. doi: 10.1016/0006-8993(92)90188-f
+
+<a name="_page14_x293.50_y682.43"></a>Rossignol, S., Chau, C., Brustein, E., Giroux, N., Bouyer, L., Barbeau, H., et al. (1998). Pharmacological activation and modulation of the central pattern![ref2]
+
+generator for locomotion in the cat. *Ann. N Y Acad. Sci.*860, 346–359. doi: 10. 1111/j.1749-6632.1998.tb09061.x
+
+Rossignol, S., and Frigon, A. (2011). Recovery of locomotion after spinal cord
+
+injury: some facts and mechanisms. *Annu. Rev. Neurosci.*34, 413–440. doi: 10. 1146/annurev-neuro-061010-113746
+
+Rowland, J. W., Hawryluk, G. W. J., Kwon, B., and Fehlings, M. G. (2008). Current
+
+status of acute spinal cord injury pathophysiology and emerging therapies: promise on the horizon. *Neurosurg. Focus*25:E2. doi: 10.3171/FOC.2008.25.11. E2
+
+Ryu, S., Mahler, J., Acampora, D., Holzschuh, J., Erhardt, S., Omodei, D.,
+
+et al. (2007). Orthopedia homeodomain protein is essential for diencephalic dopaminergic neuron development. *Curr. Biol.*17, 873–880. doi: 10.1016/j.cub. 2007.04.003
+
+Schmidt, B. J., and Jordan, L. M. (2000). The role of serotonin in reflex modulation
+
+and locomotor rhythm production in the mammalian spinal cord. *Brain Res. Bull.*53, 689–710. doi: 10.1016/s0361-9230(00)00402-0
+
+Schotland, J., Shupliakov, O., Wikström, M. A., Brodin, L., Srinivasan, M., You,
+
+Z. B., et al. (1995). Control of lamprey locomotor neurons by colocalized monoamine transmitters. *Nature* 374, 266–268. doi: 10.1038/374266a0
+
+Shapiro,M.G.,Frazier,S.J.,andLester,H.A.(2012).Unparalleledcontrolofneural
+
+activity using orthogonal pharmacogenetics. *ACS Chem. Neurosci.*3, 619–629. doi: 10.1021/cn300053q
+
+Sharples, S. A., Humphreys, J. M., Mayr, K., Krajacic, A., Dhoopar, S. A., Delaloye,
+
+N., et al. (2013). Dopaminergic contribution to locomotion in the neonatal and adult mouse. (Poster 559.11/ZZ15, Society for Neuroscience, San Diego, California, USA).
+
+Shupliakov, O., Pieribone, V. A., Gad, H., and Brodin, L. (1995). Synaptic vesicle
+
+depletion in reticulospinal axons is reduced by 5-hydroxytryptamine: direct evidence for presynaptic modulation of glutamatergic transmission. *Eur. J. Neurosci.*7, 1111–1116. doi: 10.1111/j.1460-9568.1995.tb01099.x
+
+Sickles, A. E., Stehouwer, D. J., and van Hartesveldt, C. (1992). Dopamine D1 and
+
+D2 antagonists block L-dopa-elicited air-stepping in neonatal rats. *Brain Res. Dev. Brain Res.*68, 17–22. doi: 10.1016/0165-3806(92)90243-p
+
+Sillar, K. T., Reith, C. A., and McDearmid, J. R. (1998). Development and aminergic
+
+neuromodulation of a spinal locomotor network controlling swimming in Xenopus larvae. *Ann. N Y Acad. Sci.* 860, 318–332. doi: 10.1111/j.1749-6632. 1998.tb09059.x
+
+Skagerberg, G., and Lindvall, O. (1985). Organization of diencephalic dopamine
+
+neurones projecting to the spinal cord in the rat. *Brain Res.*342, 340–351. doi: 10.1016/0006-8993(85)91134-5
+
+Smith, D. O., Lowe, D., Temkin, R., Jensen, P., and Hatt, H. (1995). Dopamine
+
+enhances glutamate-activated currents in spinal motoneurons. *J. Neurosci.*15, 3905–3912.
+
+Sqalli-Houssaini, Y., and Cazalets, J. R. (2000). Noradrenergic control of locomotor
+
+networks in the in vitro spinal cord of the neonatal rat. *Brain Res.*852, 100–109. doi: 10.1016/s0006-8993(99)02219-2
+
+Stuart, D. G., and Hultborn, H. (2008). Thomas Graham Brown (1882–1965),
+
+Anders Lundberg (1920-) and the neural control of stepping. *Brain Res. Rev.* 59, 74–95. doi: 10.1016/j.brainresrev.2008.06.001
+
+Svensson, E., Woolley, J., Wikström, M. A., and Grillner, S. (2003). Endogenous
+
+dopaminergic modulation of the lamprey spinal locomotor network. *Brain Res.* 970, 1–8. doi: 10.1016/s0006-8993(02)04216-6
+
+Tamae, A., Nakatsuka, T., Koga, K., Kato, G., Furue, H., Katafuchi, T., et al. (2005).
+
+Direct inhibition of substantia gelatinosa neurones in the rat spinal cord by activation of dopamine D2-like receptors. *J. Physiol.*568, 243–253. doi: 10. 1113/jphysiol.2005.091843
+
+Tarazi, F. I., and Baldessarini, R. J. (2000). Comparative postnatal development of
+
+dopamine D(1), D(2) and D(4) receptors in rat forebrain. *Int. J. Dev. Neurosci.* 18, 29–37. doi: 10.1016/s0736-5748(99)00108-2
+
+Taylor, L. L., Sickles, A. E., Stehouwer, D. J., and Van Hartesveldt, C. (1994). Nora- drenergic alpha-1 and alpha-2 antagonists block L-dopa-induced air-stepping
+
+in neonatal rats. *Brain Res. Dev. Brain Res.* 79, 242–248. doi: 10.1016/0165- 3806(94)90128-7
+
+Thirumalai, V., and Cline, H. T. (2008). Endogenous dopamine suppresses
+
+initiation of swimming in prefeeding zebrafish larvae. *J. Neurophysiol.*100, 1635–1648. doi: 10.1152/jn.90568.2008
+
+Ugrumov, M. V. (2009). Non-dopaminergic neurons partly expressing dopamin- ergic phenotype: distribution in the brain, development and functional
+
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)15| **15****
+
+Sharples et al. Dopamine modulation of rhythmic networks![ref1]
+
+significance. *J. Chem. Neuroanat.*38, 241–256. doi: 10.1016/j.jchemneu.2009.<a name="_page15_x293.50_y57.77"></a> Yoshida, M., and Tanaka, M. (1988). Existence of new dopaminergic terminal <a name="_page15_x35.72_y76.70"></a>08.004 plexus in the rat spinal cord: assessment by immunohistochemistry using anti- van Dongen, P. A., Grillner, S., and Hokfelt, T. (1986). 5-Hydroxytryptamine<a name="_page15_x293.50_y86.16"></a> dopamine serum. *Neurosci. Lett.*94, 5–9. doi: 10.1016/0304-3940(88)90261-3
+
+(serotonin)causesareductionintheafterhyperpolarizationfollowingtheaction Zhao, H., Zhu, W., Pan, T., Xie, W., Zhang, A., Ondo, W. G., et al. (2007). Spinal
+
+potential in lamprey motoneurons and premotor interneurons. *Brain Res.*366, cord dopamine receptor expression and function in mice with 6-OHDA lesion
+
+<a name="_page15_x35.72_y114.55"></a>320–325. doi: 10.1016/0006-8993(86)91310-7 of the A11 nucleus and dietary iron deprivation. *J. Neurosci. Res.*85, 1065–1076. Vidal-Gadea, A., Topper, S., Young, L., Crisp, A., Kressin, L., Elbel, E., et al.<a name="_page15_x293.50_y124.02"></a> doi: 10.1002/jnr.21207
+
+(2011). Caenorhabditis elegans selects distinct crawling and swimming gaits via Zhu, H., Clemens, S., Sawchuk, M. A., and Hochman, S. (2007). Expres-
+
+dopamine and serotonin. *Proc. Natl. Acad. Sci. U S A*108, 17504–17509. doi: 10. sion and distribution of all dopamine receptor subtypes (D(1)-D(5)) in
+
+<a name="_page15_x35.72_y152.41"></a>1073/pnas.1108673108 the mouse lumbar spinal cord: a real-time polymerase chain reaction and Wallén, P., Buchanan, J. T., Grillner, S., Hill, R. H., Christenson, J., and Hokfelt, non-autoradiographic in situ hybridization study. *Neuroscience*149, 885–897.
+
+T. (1989). Effects of 5-hydroxytryptamine on the afterhyperpolarization, spike doi: 10.1016/j.neuroscience.2007.07.052 frequency regulation and oscillatory membrane properties in lamprey spinal
+
+<a name="_page15_x35.72_y190.27"></a>cord neurons. *J. Neurophysiol.*61, 759–768. **Conflict of Interest Statement:**The authors declare that the research was con- Wang, D., Grillner, S., and Wallén, P. (2011). 5-HT and dopamine modulates ducted in the absence of any commercial or financial relationships that could be
+
+CaV1.3 calcium channels involved in postinhibitory rebound in the spinal construed as a potential conflict of interest.
+
+network for locomotion in lamprey. *J. Neurophysiol.*105, 1212–1224. doi: 10.
+
+<a name="_page15_x35.72_y228.13"></a>1152/jn.00324.2009 *Received: 18 March 2014; accepted: 11 May 2014; published online: 16 June 2014*. Whelan, P., Bonnot, A., and O’Donovan, M. J. (2000). Properties of rhythmic activ- *Citation: Sharples SA, Koblinger K, Humphreys JM and Whelan PJ (2014) Dopamine:*
+
+ity generated by the isolated spinal cord of the neonatal mouse. *J. Neurophysiol. a parallel pathway for the modulation of spinal locomotor networks. Front. Neural*
+
+<a name="_page15_x35.72_y256.52"></a>84, 2821–2833. *Circuits**8**:55.[ doi: 10.3389/fncir.2014.00055* ](http://dx.doi.org/10.3389/fncir.2014.00055)*Wilson,J.M.,Hartley,R.,Maxwell,D.J.,Todd,A.J.,Lieberam,I.,Kaltschmidt,J.A., *This article was submitted to the journal Frontiers in Neural Circuits*.
+
+et al. (2005). Conditional rhythmicity of ventral spinal interneurons defined *Copyright©2014Sharples,Koblinger,HumphreysandWhelan.Thisisanopen-access*
+
+by expression of the Hb9 homeodomain protein. *J. Neurosci.*25, 5710–5719. *article distributed under the terms of [the Creative Commons Attribution License (C](http://creativecommons.org/licenses/by/3.0/)C*
+
+<a name="_page15_x35.72_y294.38"></a>doi: 10.1523/jneurosci.0274-05.2005 *[BY).](http://creativecommons.org/licenses/by/3.0/) The use, distribution or reproduction in other forums is permitted, provided the* Wolf, M. E., and Roth, R. H. (1990). Autoreceptor regulation of dopamine *original author(s) or licensor are credited and that the original publication in this*
+
+synthesis. *Ann. N Y Acad. Sci.* 604, 323–343. doi: 10.1111/j.1749-6632.1990. *journal is cited, in accordance with accepted academic practice. No use, distribution*
+
+tb32003.x *or reproduction is permitted which does not comply with these terms*.![ref2]
+[**Frontiers in Neural Circuits](http://www.frontiersin.org/Neural_Circuits) **[www.frontiersin.org**](http://www.frontiersin.org/)** [June 2014 | Volume  | Article 55 ](http://www.frontiersin.org/Neural_Circuits/archive)16| **16****
+
+[ref1]: khfud3ql.001.png
+[ref2]: khfud3ql.003.png

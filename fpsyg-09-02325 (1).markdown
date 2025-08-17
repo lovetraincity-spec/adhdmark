@@ -1,0 +1,502 @@
+﻿[ORIGINAL RESEARCH published: 27 November 2018 ](https://www.frontiersin.org/journals/psychology#editorial-board)![](1e3slbav.001.png)[doi: 10.3389/fpsyg.2018.02325](https://doi.org/10.3389/fpsyg.2018.02325)
+
+![](1e3slbav.002.png)
+
+[Proprioceptive Indicators of Personality and Individual Differences in Behavior in Children With ADHD](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02325/full)
+
+[Liudmila Liutsko1,2,3](http://loop.frontiersin.org/people/110494/overview)\*, [Tania Iglesias4,5](http://loop.frontiersin.org/people/642838/overview), Josep Maria Tous Ral3 and [Alexander Veraksa2](http://loop.frontiersin.org/people/642896/overview)
+
+1 Instituto Salud Global Barcelona, Barcelona, Spain,2 Faculty of Psychology, Lomonosov Moscow State University, Moscow, Russia,3 Department of Personality, Assessment and Psychological Treatments, University of Barcelona, Barcelona, Spain,4 Department of Psychology/Faculty of Humanities and Social Sciences, Universidad Del Norte, Barranquilla, Colombia,5 Faculty of Fine Arts, Universidad del Atlántico, Barranquilla, Colombia
+
+Researchers have suggested that the link between personality traits and Attention- Deficit/Hyperactivity Disorder (ADHD) could be a crucial factor in understanding the
+
+disorder’s diatheses. The aim of our study was to contribute to research on personality differences (based on fine motor precision – a novel approach) in children with
+
+and without ADHD symptoms. The Children Sustained Attention Task (CSAT) and Proprioceptive Diagnostics of Temperament and Character (DP-TC) were administered
+
+to children with an ADHD diagnosis and age-matched controls. Correlational and ANOVA analyses were performed to see the association between the results of both tests and the groups’ performance. Correlational analysis suggests significant relationships![](1e3slbav.003.png) between some personality dimensions (DP-TC) and correct detection
+
+Edited by: in a sustained attention task (CSAT). Statistically significant differences were found Jesus de la Fuente,
+
+Universidad de Navarra, Spain between the groups on the personality dimensions (DP-TC), with the following Reviewed by: characteristics for ADHD children: (a) temperamental tendency to pessimism; (b) high
+
+Roland Mergl, temperamental excitability; (c) high Emotionality, and (d) Behavioral Rigidity (meaning Universitätsklinikum Leipzig,QiyongGermanyGong, also less adaptation to changes in the environment, in temperament and character).
+
+Sichuan University, China Correctdetectioninthesustainedattentiontestwassignificantlycorrelatedwithreaction \*Correspondence: time and the personality variables Style of Attention and Irritability. The results also
+
+Liudmila Liutsko showed high proprioceptive Emotionality and lack of emotional control in children with Liudmila.Liutsko@ISGlobal.org
+
+ADHD. This is an exploratory study, investigating for the first time the differences in Specialty section: personality (based on fine motor precision) and the relation of personality traits to scores
+
+This article was submitted to in sustained attention for children with and without ADHD.
+
+Educational Psychology,
+
+a section of the journal Keywords: ADHD, proprioceptive diagnostic of temperament and character, individual differences, personality, Frontiers in Psychology temperament, fine motor behavior, reaction time, sustained attention, emotional control
+
+Received: 15 December 2017
+
+Accepted: 06 November 2018
+
+Published: 27 November 2018 INTRODUCTION
+
+Citation:
+
+Liutsko L, Iglesias T, Persons With ADHD: Studies of Personality and Individual
+
+Tous Ral JM and Veraksa A (2018) Differences
+
+Proprioceptive Indicators of Theory and research state that both temperament and personality systems can be useful to describe Personality and Individual Differences
+
+in Behavior in Children With ADHD. endogenous basic tendencies of thoughts, emotions, and behaviors in children ([Caspi et al., 2005; ](#_page8_x35.25_y275.97)Front. Psychol. 9:2325. [De Pauw et al.](#_page8_x35.25_y370.61),[ 2009](#_page8_x35.25_y370.61)) and adults [(Evans and Rothbart,](#_page8_x35.25_y446.33) [2007](#_page8_x35.25_y446.33)). However, there is still a lack of
+
+doi:[ 10.3389/fpsyg.2018.02325](https://doi.org/10.3389/fpsyg.2018.02325) comparativeempiricalresearchthatanalyzestheconnectionbetweentemperamentandpersonality![ref1]
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 10 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)10
+
+Liutsko et al. Proprioceptive Graphomotor Differences in ADHD![ref2]
+
+of children with Attention-Deficit/Hyperactivity Disorder Since ADHD diagnosis is not accurate before the age of (ADHD) ([Mervielde and De Pauw,](#_page8_x293.63_y607.25) [2010](#_page8_x293.63_y607.25)).[ Martel and Nigg](#_page8_x293.63_y503.14) four ([Lahey et al.](#_page8_x293.63_y228.67),[ 1998](#_page8_x293.63_y228.67)), research related to temperament [(2006](#_page8_x293.63_y503.14)) explained that some of the difficulties in diagnosing can help with investigation of its developmental features in ADHD are due to the overlapping of the symptoms with infancy. Lahey and colleagues suggested that combining the normal childhood characteristics. The authors suggested a knowledge of developmental and clinical sciences could clarify link between primary symptoms of inattentive, disorganized, how the biological and socialization processes were involved, and hyperactive/impulsive behaviors and certain aspects of how they affect the problems of children with ADHD. ADHD personality and temperament. We found a similar perspective diagnosis and temperament in children have rarely been studied, in the study of [Martínez et al. ](#_page8_x293.63_y541.00)([2010)](#_page8_x293.63_y541.00), which indicated that since such research has mainly been performed with adults ADHD is a chronic disorder that begins in childhood and that [(Nigg et al.](#_page9_x35.25_y164.41),[ 2004](#_page9_x35.25_y164.41);[ Cho et al.](#_page8_x35.25_y304.36),[ 2008](#_page8_x35.25_y304.36)).[ Cho et al.](#_page8_x35.25_y304.36) [(2008](#_page8_x35.25_y304.36)) the symptoms persist throughout life - i.e., considering the showed that Korean children with greater ADHD symptoms personality as relatively stable (without changes in emotional, had some correlations between temperament, character, and the cognitive, and behavioral patterns throughout life). main ADHD symptoms such as inattention, hyperactivity, and
+
+[McKinney et al.](#_page8_x293.63_y578.86) [(2011](#_page8_x293.63_y578.86)) pointed out that prior empirical impulsivity.
+
+research suggested a complex relationship between ADHD and [González et al.](#_page8_x35.25_y607.23) [(2012](#_page8_x35.25_y607.23)), in their study aiming to identify temperament([Niggetal.,2004)](#_page9_x35.25_y164.41)andthematurepersonality([Nigg ](#_page9_x35.25_y192.81)children’s temperament dimensions that are associated with [et al., 2002](#_page9_x35.25_y192.81);[ Martel et al.](#_page8_x293.63_y465.28),[ 2010](#_page8_x293.63_y465.28)).[ Nigg and Goldsmith](#_page9_x35.25_y230.66) [(1998](#_page9_x35.25_y230.66)) ADHD in the school years, found that their temperament profile explained that research in the field of temperament and ADHD was described by low attentional, behavioral, and emotional self- had proceeded independently from one another, but studies regulation, as well as high emotional reactivity. The authors integrating them could shine more light on our understanding explain that a deficit in the executive functions involved in of ADHD [(Nigg et al.](#_page9_x35.25_y164.41),[ 2004](#_page9_x35.25_y164.41)). effortful control underlie this pattern of behaviors.
+
+[Martínez et al.](#_page8_x293.63_y541.00) [(2010](#_page8_x293.63_y541.00)) reported growing attention to [Tamm et al. ](#_page9_x35.25_y401.02)([2012)](#_page9_x35.25_y401.02) underlined that intra-individual variability the relationship between personality and ADHD from the in reaction times on computerized tasks had become a perspective of different theoretical models of personality. central focus of cognitive research on ADHD for the previous For example, following the model of[ Costa and McCrae](#_page8_x35.25_y342.22) decade. Greater variability in reaction time is also common in [(1992](#_page8_x35.25_y342.22)), ADHD was correlated with high scores on the other groups, such as individuals with traumatic brain injury, Neuroticism dimension, and low scores for Responsibility and high functioning autism, schizophrenia, bipolar disorder with Agreeableness [(Ranseen et al.](#_page9_x35.25_y287.45),[ 1998](#_page9_x35.25_y287.45);[ Nigg et al.](#_page9_x35.25_y192.81),[ 2002](#_page9_x35.25_y192.81)[; Ret](#_page9_x35.25_y315.84)z psychoticsymptoms,earlystageAlzheimer’sdementia,andaging [et al., 2004](#_page9_x35.25_y315.84);[ Jacob et al.](#_page8_x35.25_y645.08),[ 2007](#_page8_x35.25_y645.08);[ Miller et al., 2008](#_page8_x293.63_y635.64)[; Gome](#_page8_x35.25_y588.30)z [(Tamm et al.,](#_page9_x35.25_y401.02) [2012](#_page9_x35.25_y401.02)). However, the precise psychological and [and Corr,](#_page8_x35.25_y588.30) [2014).](#_page8_x35.25_y588.30) Moreover, a tendency to experience negative neurophysiological meaning of the variable reaction time in emotions as well as emotional lability was reported to be ADHDis controversial;althoughmoreconsistency wasobserved the crucial component in most of the important models in the relationship between reaction time and inattention for the Neuroticism construct ([Eysenck and Eysenck,](#_page8_x35.25_y465.26) [1985;](#_page8_x35.25_y465.26) (a dysfunctional failure to maintain attentional control) and [Goldberg,](#_page8_x35.25_y559.90) [1990](#_page8_x35.25_y559.90);[ Costa and McCrae](#_page8_x35.25_y342.22),[ 1992](#_page8_x35.25_y342.22);[ White](#_page9_x293.63_y306.38),[ 1999](#_page9_x293.63_y306.38)). executive function (frontal lobe dysfunction) ([Johnson et al., ](#_page8_x35.25_y692.41)[Parker et al. (2004](#_page9_x35.25_y259.06)), in their study of the link between adult [2007](#_page8_x35.25_y692.41);[ Tamm et al.](#_page9_x35.25_y401.02),[ 2012](#_page9_x35.25_y401.02)), that could also be reflected in the ADHD symptomatology and the personality dimensions of problems with organization, a part of arousal ([Nigg,](#_page9_x35.25_y136.02) [1999).](#_page9_x35.25_y136.02)
+
+the Five-Factor Model of personality [(Costa and McCrae,](#_page8_x35.25_y342.22) Most researchers agree on the importance of studies [1992](#_page8_x35.25_y342.22)), also found that high Extraversion and Neuroticism were of the relationships between personality, temperament, signi?cant predictors of ADHD symptomatology, as well as low and ADHD. Our research aim is to study the relationship Conscientiousness and Agreeableness, which were important for between proprioceptive individual differences in personality hyperactivity/impulsivity scores. (temperament and character) in children with ADHD and
+
+Studies based on the [Millon](#_page8_x293.63_y664.04) ([1969)](#_page8_x293.63_y664.04) Model reported age-matched control groups and to explore the relationship moderately high scores on the Histrionics scale in the ADHD of these personality indicators to variables of the sustained group and studies following the Cloninger personality model attention test (reaction time, correct detection, errors). As showed high scores in the Novelty Search and Harm Avoidance [Kagan](#_page8_x293.63_y209.74) [(2005](#_page8_x293.63_y209.74)) has pointed out to predict behavior and to dimensions in adults with ADHD ([Downey et al.,](#_page8_x35.25_y408.47) [1996;](#_page8_x35.25_y408.47)[ Braaten](#_page8_x35.25_y247.57) intervene successfully in it, it is more important to look at the [and Rosen, 1997](#_page8_x35.25_y247.57);[ Anckarsater et al.](#_page8_x35.25_y209.72),[ 2006](#_page8_x35.25_y209.72)[; Jacob et al., 2007](#_page8_x35.25_y645.08)). behavior itself rather than to collect information about what
+
+[Martínez et al. (2010](#_page8_x293.63_y541.00)), who studied the traits of personality the person thinks about him or herself. We hypothesized that differences among clinical subtypes of ADHD in adults the endogenous basic tendencies of thoughts, emotions, and (inattention, hyperactivity/impulsivity, and combined), found behaviors described by[ Mervielde and De Pauw](#_page8_x293.63_y607.25) [(2010](#_page8_x293.63_y607.25)) can that ADHD was not a homogeneous entity. It was dependent be studied by looking at the role of proprioceptive indicators upon differences in personality traits among the three ADHD of temperament and character, to find specific individual subtypes on the dimensions of Activity, Aggression, and differences in the behavior of children with and without ADHD. Hostility of the Zuckerman-Kuhlman Personality Questionnaire Since the proprioceptive individual differences and especially (ZKPQ) and on the Histrionic, Narcissistic, Aggressive/Sadistic the focus on personality based on proprioceptive feedback Passive/Aggressive, Borderline, and Paranoid scales of the Millon were not studied systematically, this study is of an exploratory Clinical Multiaxial Inventory (MCMI-II). character.![ref1]
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 9 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)9
+Liutsko et al.![ref2]
+
+Proprioceptive Graphomotor Differences in ADHD
+
+MATERIALS AND METHODS Participants
+
+One hundred and five children (37% girls), aged 7-14 years (9.5  1.5) participated in the case-control study with the permission of their parents (with about a 50% split: 52 children with diagnosed ADHD, 13 of whom were not medicated; and 53 as a control group, matched in age and without showing the typical ADHD symptoms according to their parents’ and teachers’ evaluation).
+
+Most of the experimental group sample data was collected thanks to the collaboration of the ADANA Fundació[1,](#_page2_x48.12_y675.50) a foundation which is deeply involved in ADHD and invests much effortand interest in supporting research about this disorder.
+
+The data were treated anonymously and confidentially, following the accepted institutional ethical committees of the participating centers for carrying out the study with consent of the children’s parents.
+
+Instruments
+
+The participants took two types of tests: (a) the CSAT (Children Sustained Attention Task) ([Servera and Llabres, 2004](#_page9_x35.25_y382.10)) and (b) the DP-TC (Proprioceptive Diagnostics of Temperament and Character) ([Tous Ral et al., 2012b](#_page9_x293.63_y192.81)).
+
+CSAT Method
+
+To measure and assess sustained attention, we administered the Children Sustained Attention Task (CSAT), which is a version of the CPTs (continuous performance tests) that measures sustained attention capacity in childhood through a monitoring task. The performance of a subject is evaluated by direct scoring of successes (correct identifications/omissions), errors (false alarms), and reaction time (latent period to response in msecs). The CSAT has been shown to have good psychometric indices (with test–retest reliability ranging from 0.59 to 0.88) and is recommended for application to clinical studies ([Servera and Cardo,](#_page9_x35.25_y363.17) [2006).](#_page9_x35.25_y363.17) As to its validity, the CSAT measures are more related to inattention and academic performance than to hyperactivity itself [(Servera and Cardo, 2006](#_page9_x35.25_y363.17)).
+
+DP-TC Test
+
+**Background and methodology** Weusedtheproprioceptive(myokinetic)indicatorsofindividual differences in personality (mainly endogenous or temperamental ones and those that had changed due to environmental adaptation,whichreflectorarelinkedtocharacter).Thismethod goes back to Mira y López’s initial work, Las correlaciones somáticas del trabajo mental (somatic correlations of mental work) [(Mira, 1923](#_page8_x293.63_y682.97)), some insights of which were later developed in his hypothesis of individual differences in fine motor control. These ideas were confirmed experimentally by Mira y López’s own observation of pilots’ performance ([Liutsko,](#_page8_x293.63_y285.46) [2014](#_page8_x293.63_y285.46)), as well during his work with Luria’s polygraph [(Luria](#_page8_x293.63_y455.82),[ 1932](#_page8_x293.63_y455.82)).![](1e3slbav.006.png)
+
+1<a name="_page2_x48.12_y675.50"></a>TheADANAFoundationinBarcelona,foundedin1997,isnon-profitfoundation whose aim is to improve the quality of life of persons with ADHD. It helped in this<a name="_page2_x306.80_y693.43"></a>study by recruiting volunteers with ADHD. Other schools that helped to provide a control group are listed in the Acknowledgments.![ref1]
+
+This all contributed to creating the method of myokinetic psychodiagnosis(MKP) [(Mira, 1958](#_page9_x35.25_y60.30)). The tests that we included intheProprioceptiveDiagnosticsofTemperamentandCharacter (DP-TC) were statistically validated in[ Muiños’](#_page9_x35.25_y107.62)s [(2008](#_page9_x35.25_y107.62)) PhD thesis work. The reliability coefficientswere not very high (test– retest within 30 days), ranging from 0.40 to 0.67, but all were statistically significant [(Tous Ral et al.](#_page9_x293.63_y192.81),[ 2012b](#_page9_x293.63_y192.81);[ Tous Ral and Liutsko, 2014](#_page9_x293.63_y268.52)). DP-TC is a sensitive tool for measuring any slight changes that can occur in human behavior due to either external or internal factors. Human behavior is not stable (especially the emotions), but also can be influenced by many factors. For this reason, coffee consumption and medication intake, for example, were controlled prior to testing. The DP-TC method is a digital version of the MKP Mira y Lopez test (lineograms and parallels), which has fewer errors in output measures since it was digitalized (reducing the human error in measurements). The MKP method itself was used widely during the last century, mainly in exploratory and experimental studies, with more than 300 articles published about it (mostly in Portuguese and Spanish) [(Liutsko, 2014](#_page8_x293.63_y285.46)).
+
+The diagnostic meaning of the MKP results has also been explained by other researchers (e.g.,[ Miroshnikov,](#_page9_x35.25_y69.77) [1973](#_page9_x35.25_y69.77)) and the method has been used in the observation of adaptation processes, such as in the flight of sportsmen to the Far East with a 7 h time difference from their departure point ([Ezhov and Krivoshchekov](#_page8_x35.25_y493.65),[ 2004](#_page8_x35.25_y493.65)). Ezhov and Krivoshchekov observed the changes in finemotor performance in both of the subjects’ hands (lineogramsfromtheMKPbyMirayLópez)toseethecoefficient ofcongruence/non-congruencebetweenthetwohands.Thenon- dominanthandwasmorestableinitsperformanceforfinemotor precision tasks, whereas the dominant hand appeared to be more reactive to changes created by the time zone shift and showed changes.
+
+TousRalwithinthisMirayLopeztradition,alsoattributesthe observed measures in the non-dominant hand to temperamental factors, and those in the dominant hand to character-related factors [(Tous Ral et al.](#_page9_x293.63_y192.81),[ 2012b](#_page9_x293.63_y192.81);[ Tous Ral and Liutsko](#_page9_x293.63_y268.52),[ 2014](#_page9_x293.63_y268.52)). Changes in the precision of fine motor performance can occur due to changes in the environment and/or individual differences [(Tous Ral and Liutsko, 2014](#_page9_x293.63_y268.52)), stress and/or illness in patients with cancer ([Liutsko et al., 2016](#_page8_x293.63_y342.25)), Parkinson’s disease [(Gironell et al., 2012](#_page8_x35.25_y522.05)), multiple sclerosis [(Liutsko and Tous Ral](#_page8_x293.63_y427.43),[ 2013](#_page8_x293.63_y427.43)), and developmental/maturation and aging processes ([Liutsko, 2014](#_page8_x293.63_y285.46);[ Liutsko et al.](#_page8_x293.63_y304.39),[ ](#_page8_x293.63_y304.39)[2014a,b](#_page8_x293.63_y370.64)). Moreover, stress created by the simultaneous performance of tasks, such as the addition of a cognitive task like counting backwards from 100, to a fine motor performance task, also affected the fine motor precision of students on the Irritability dimension of DP-TC, causing an increase in Line Length performance[2 ](#_page2_x306.80_y693.43)similar to what is observed due to aging processes [(Liutsko et al.](#_page8_x293.63_y408.50),[ 2014c](#_page8_x293.63_y408.50)).
+
+[Tous Ral et al.](#_page9_x293.63_y192.81) [(2012b](#_page9_x293.63_y192.81)) explained that proprioceptive information does not depend on the variability of our exteroceptive organs, but rather on the variability of our bodily changes, and therefore the variability of the miokinetic response![](1e3slbav.007.png)
+
+2Tracing(withvision)anddrawinglinesbyproprioceptiveormyokineticmemory (without vision).
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 9 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)9
+Liutsko et al.![ref2]
+
+Proprioceptive Graphomotor Differences in ADHD
+
+of each person. The authors pointed out that the instrument may be used today in a direct assessment of temperament and character as a non-verbal tool (a test for personality assessment). The new point of this system is to assess indirectly (through movementsofthehandingraphicalresponsetostimuli)behavior also can be affected by posture and emotions. Systematic biases, measured in fine motor precision tasks, are observable in the performance of every person ([Tous Ral et al., 2012a](#_page9_x293.63_y154.95);[ Liutsko](#_page8_x293.63_y266.53), [2013](#_page8_x293.63_y266.53)).
+
+4) Decision Making– directional bias in sagittal movement type, with the corresponding indexes: DSd and DSnd;
+4) Style of Attention – directional bias in transversal movementtype,withthecorrespondingindexes:DTdand DTnd;
+4) Emotionality – formal bias (perpendicular to the model line), with the corresponding indexes: FFd and FFnd.
+
+Data Analysis
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 9 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)9
+Liutsko et al.![ref2]
+
+Proprioceptive Graphomotor Differences in ADHD
+
+The descriptive statistics, ANOVA, and correlation analyses **DP-TC method in this study** were calculated to represent the results of this study and were DP-TC is a graphical test based on fine motor precision ([Tous](#_page9_x293.63_y192.81) performed with the use of SPSS v.19.
+
+[Ral et al.](#_page9_x293.63_y192.81),[ 2012b](#_page9_x293.63_y192.81)). The test consists of tracing lines of models
+
+that appear on a touch screen, with or without visual guidance.
+
+The method was developed on the basis of the manual tests - RESULTS
+
+lineograms and parallels - of Mira y López’s MKP, in different
+
+stages of digitization [(Tous Ral et al.](#_page9_x293.63_y230.66),[ 2007](#_page9_x293.63_y230.66),[ 2012b](#_page9_x293.63_y192.81);[ Muiños](#_page9_x35.25_y107.62), The results of the CSAT (Children Sustained Attention Task) [2008](#_page9_x35.25_y107.62)) and validation ([Tous Ral et al.](#_page9_x293.63_y117.09),[ 2005b](#_page9_x293.63_y117.09)). It has been used performance between the ADHD and control group revealed for personality and impulsivity assessment together with verbal statistically significant differences in mean values for success tests, since the results complement the information obtained by (correctdetection)(p=0.019),withamediumeffectsize(Cohen’s other methods ([Tous Ral et al.,](#_page9_x35.25_y429.42) [2004,](#_page9_x35.25_y429.42)[ 2005a](#_page9_x293.63_y88.70)). The computerized d = -0.47), and with worse indicators for the children with measures of the DP-TC facilitate both direct measurements ADHD, but not in errors (false identification) or reaction time and posterior interpretation and comparison of data (raw or [(**Table 1**](#_page3_x44.98_y592.30)).
+
+standardized). As for the results in the fine motor precision test linked to
+
+The instruction given to participants was to trace the model individual Behavioral Variability (DP-TC), based on representing linesandcontinuethesamepatternasaccuratelyaspossiblewhile lines(inlineogramsandparallels)intheproprioceptivecondition performing all the tasks, starting with the visual-proprioceptive (without visual guidance), we observed the following most and followed by the proprioceptive sensory condition. significant differences between the two groups:
+
+Observable variables were obtained by the DP-TC test along the
+
+following dimensions: (1) In the directional bias, frontal movement in the non-
+
+dominant hand (temperament): a tendency toward the pessimism pole (Mood dimension) in the ADHD group;
+
+1) Irritability – line length (LL): Change in line (2) In the formal bias, frontal movement for both hands length (compared to the 40-mm-long model), (temperament and character3[):](#_page3_x306.81_y545.47) a tendency toward being with the corresponding indexes: LLd and LLnd, for “warmer”inaffectiveanddependentbehaviorwithaneed dominant hands (character) and non-dominant hands to be “affiliated” in the ADHD group, or “colder” or more (temperament), respectively; distant in relations with others and more independent in
+1) Behavioral Variability/rigidity - Line Length Variability the control group;
+
+   (LLV): The variability of line length in parallels, with the (3) In Line Length Variability (parallels), both hands corresponding indexes: LVd and LVnd, for dominant and (temperament and character): a tendency toward more non-dominant hands, respectively; rigid behavior in the children with ADHD ([**Table 2**).](#_page4_x44.98_y62.79)
+
+3) Mood – directional bias (parallel to the model line) in
+
+   frontal movement type, with the corresponding indexes: ![](1e3slbav.008.png)
+
+   <a name="_page3_x306.81_y545.47"></a>DFd and DFnd for dominant and non-dominant hands, 3reForfer tothetheirchildren,“charactersince,” wetheirmeancharathecterchangeis stills inintheirformation,personalitywhendue weto respectively; education/environmental effects and their development.![](1e3slbav.009.png)
+
+<a name="_page3_x44.98_y592.30"></a>TABLE 1 | Descriptive statistics and ANOVA differences in CSAT (Children Sustained Attention Task) between ADHD and control groups.
+
+
+
+|CSAT variables Groups|M|SD Cohen’s d F(1, 103) p-value|
+| - | - | - |
+|Correct detection (success) ADHD|68:60|15:36  0:47 5.71 0.019|
+|Control|75:04|12:10|
+|Errors (false replies) ADHD|60:63|139:88 0:30 2.27 0.135|
+|Control|28:91|62:12|
+|Reaction time (msec) ADHD|391:10|59:31  0:01 0.00 0.964|
+|Control|391:37|6:11|
+|Numbers in bold are for p-values of a significant level.|||
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 10 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)10
+Liutsko et al. Proprioceptive Graphomotor Differences in ADHD![ref2]
+
+<a name="_page4_x44.98_y62.79"></a>TABLE 2 | Descriptive statistics and ANOVA differences in DP-TC (proprioceptive fine motor control) between ADHD and control groups.
+
+
+
+|DP-TC variables|Movement type|Groups|M|SD|Cohen’s d|F|p-value|
+| - | - | - | - | - | - | - | - |
+|Mood (pessimism – optimism)|DFnd|ADHD| 15:48|23:66| 0:41|4\.30|0\.041|
+|||Control| 6:87|18:63||||
+||DFd|ADHD| 5:77|16:85|0:19|0\.94|0\.335|
+|||Control| 9:11|18:44||||
+|Style of Attention (intra – extra)|DTnd|ADHD|3:23|33:18| 0:06|0\.08|0\.777|
+|||Control|4:75|20:30||||
+||DTd|ADHD| 2:85|30:68|0:03|0\.02|0\.878|
+|||Control| 3:60|18:36||||
+|Decision making (submission – dominance)|DSnd|ADHD|12:63|22:08| 0:16|0\.69|0\.407|
+|||Control|15:83|17:00||||
+||DSnd|ADHD|13:69|20:78| 0:08|0\.15|0\.704|
+|||Control|15:02|14:34||||
+|Emotionality (distant - affectionate)|FFnd|ADHD|23:06|26:70|0:60|9\.19|0\.003|
+|||Control|10:96|11:31||||
+||FFd|ADHD|22:77|29:40|0:67|11\.42|0\.001|
+|||Control|8:60|8:13||||
+|Irritability (inhibition – excitability)|LLnd|ADHD|48:90|15:52|0:39|3\.86|0\.052|
+|||Control|43:36|13:33||||
+||LLd|ADHD|42:12|15:30| 0:02|0\.01|0\.933|
+|||Control|42:34|11:73||||
+|Behavioral flexibility (rigidity – variability)|LLVnd|ADHD|15:25|15:31| 0:65|10\.77|0\.001|
+|||Control|22:85|7:00||||
+||LLVd|ADHD|18:96|15:56| 0:56|8\.11|0\.005|
+|||Control|25:62|6:85||||
+|Indexes nd – non-dominant hand (corresponds to temperament variables in the DP-TC) and d – dominant hand (corresponds to character variables in the DP||||||||
+|Numbers in bold are for p-values of a significant level. Alpha = 0.05.||||||||
+|Moreover, a difference in LL (Line Length) performance zr = (1/2)[loge(1Cr) – loge(1–r)] and standard error: was observed in the non-dominant hand (48.90  15.52 mm SEzr = 1/sqrt[N-3] online calculator, available at: average value in the ADHD group vs. 43.36 13.33 mm in the [http://vassarstats.net/tabs_rz.html)](http://vassarstats.net/tabs_rz.html)||||||||
+|<p>control group), however, this difference did not reach statistical</p><p>significance (p = 0.052) [(**Table 2**](#_page4_x44.98_y62.79)). The results are given in[` `**Table 4**.](#_page5_x44.98_y332.06)</p><p>The correlation analysis when comparing the two groups (the The corresponding standard errors (SEzr) are the following column “all” in[` `**Table 3**](#_page5_x44.98_y62.79)), between the observable variables of per each group (ADHD and control), both are rounded to 0.14, CSAT/CSAT and CSAT/DP-TC tests, showed that: and in general (both together), 0.099.</p><p>If we consider the analysis by each group separately, w</p>||||||||
+|<p>observe that the children from the ADHD group have stronger</p><p>(1) Within the CSAT test variables, a negative relationship relationships with a negative sign between correct detection exists between the frequency of committing errors (CSAT) and reaction time (CSAT), Irritability dimension (false identifications) and correct identifications, as well (excitability, DP-TC), and Decision-Making (dominance or as between reaction time and correct identification aggressiveness, DP-TC); whereas the children from the control (indicator of good sustained attention); group showed a significant relationship with a positive sign for</p><p>(2) Style of Attention (in using the dominant hand), a Style of Attention (Extratension, DP-TC) ([**Tables 3**,](#_page5_x44.98_y62.79)[**4**](#_page5_x44.98_y332.06)). dimension of the DP-TC test, had a weak but statistically</p>||||||||
+|significant relationship with correct detection (good||||||||
+|<p>sustained attention) of the CSAT test; and DISCUSSION</p><p>(3) The Irritability dimension of the DP-TC was related to</p>||||||||
+|<p>thecorrectidentification(goodsustainedattention)ofthe Descriptive and ANOVA Analysis</p><p>CSAT test for both hands, statistically significant, with a While the relationships between temperament and character or negative sign [(**Table 3**](#_page5_x44.98_y62.79)). personality and the severity of ADHD symptoms have been</p>||||||||
+|studied mainly in adult populations ([Nigg et al.,](#_page9_x35.25_y164.41) [2004),](#_page9_x35.25_y164.41) our||||||||
+|In order for the correlations to be distributed normally, we study contributes to research on the situation with children.||||||||
+|also performed the Fisher r-to-z transformation of Pearson’s r, This study is novel due to its methodology (based on fine||||||||
+|according to the formula: motor precision performances) and provides a new outlook for||||||||
+
+-TC).
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 10 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)10
+Liutsko et al. Proprioceptive Graphomotor Differences in ADHD![ref2]
+
+<a name="_page5_x44.98_y62.79"></a>TABLE 3 | Correlational analysis between CSAT and DP-TC tests.![](1e3slbav.010.png)
+
+CSAT variables Correct detection Errors Reaction time![](1e3slbav.011.png)![](1e3slbav.012.png)![](1e3slbav.013.png)
+
+Groups ADHD Control All ADHD Control All ADHD Control All
+
+
+
+|CSAT|||||||||||
+| - | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+|Correct detection||1|1|1|||||||
+|Errors|| 0.10| 0.27| 00.17|1|1|1||||
+|Reaction time|| 0.56|0\.06| 0.26| 0:07| 0:14| 0:09|1|1|1|
+|DP-TC|||||||||||
+|Mood|DFnd| 0.10|0\.12| 0.06| 0:10|0:13| 0:06|0:25|0:00|0:13|
+|(Pessimism – optimism)|DFd| 0.05|0\.04| 0.03| 0:06| 0:24| 0:09|0:08|0:09|0:09|
+|Style of Attention|DTnd| 0.19| 0.01| 0.12| 0:10| 0:19| 0:12|0:09|0:08|0:08|
+|(Intra – extra)|DTd|0\.14|0\.28|0\.18| 0:06| 0:22| 0:09| 0:08|0:06| 0:03|
+|Decision making|DSnd| 0.26| 0.06| 0.16|0:07| 0:18| 0:01| 0:05| 0:10| 0:07|
+|(Submission – dominance)|DSd| 0.14| 0.18| 0.14|0:04|0:08|0:04|0:02| 0:02|0:01|
+|Emotionality|FFnd|0\.01|0\.01| 0.06| 0:09| 0:10| 0:05| 0:07|0:02| 0:04|
+|(Distant – affectionate)|FFd|0\.01|0\.05|-0.06| 0:03|0:01|0:02| 0:01| 0:27|0:04|
+|Irritability|LLnd| 0.23| 0.25| 0.27|0:10|0:14|0:13|0:09| 0:20| 0:05|
+|(Inhibition – excitability)|LLd| 0.34| 0.17| 0.26| 0:08| 0:04| 0:07|0:13|0:06|0:10|
+|Impulsivity/Variability (rigidity – variability)|LLVnd|0\.01| 0.11|0\.05|0:16| 0:07|0:07|0:05| 0:20| 0:03|
+||LLVd|0\.06|0\.05|0\.11|0:15| 0:01|0:08|0:11|0:11|0:10|
+|p-values with statistical significance at< 0.05 and < 0.01.|||||||||||
+|<a name="_page5_x44.98_y332.06"></a>TABLE 4 | Fisher’s r-to-z between CSAT and DP-TC tests.|||||||||||
+CSAT variables Correct detection Errors Reaction time![](1e3slbav.014.png)![](1e3slbav.015.png)![](1e3slbav.016.png)![](1e3slbav.017.png)
+
+Groups ADHD Control All ADHD Control All ADHD Control All
+
+
+
+|CSAT||||||||||||
+| - | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
+|Correct detection||1|1|1||||||||
+|Errors|| 0.10| 0.28| 00.17|1|1|1|||||
+|Reaction time|| 0.63|0\.06| 0.27| 0:07| 0:14| 0:09|1|1|1||
+|DP-TC||||||||||||
+|Mood|DFnd| 0.10|0\.12| 0.06| 0:10|0:13| 0:06|0:25|0:00|0:13||
+|(Pessimism – optimism)|DFd| 0.05|0\.04| 0.03| 0:06| 0:24| 0:09|0:08|0:09|0:09||
+|Style of Attention|DTnd| 0.19| 0.01| 0.12| 0:10| 0:19| 0:12|0:09|0:08|0:08||
+|(Intra – extra)|DTd|0\.14|0\.29|0\.18| 0:06| 0:22| 0:09| 0:08|0:06| 0:03||
+|Decision Making|DSnd| 0.26| 0.06| 0.16|0:07| 0:18| 0:01| 0:05| 0:10| 0:07||
+|(Submission – dominance)|DSd| 0.14| 0.18| 0.14|0:04|0:08|0:04|0:02| 0:02|0:01||
+|Emotionality|FFnd|0\.01|0\.01| 0.06| 0:09| 0:10| 0:05| 0:07|0:02| 0:04||
+|(Distant – affectionate)|FFd|0\.01|0\.05| 0.06| 0:03|0:01|0:02| 0:01| 0:27|0:04||
+|Irritability|LLnd| 0.23| 0.26| 0.28|0:10|0:14|0:13|0:09| 0:20| 0:05||
+|(Inhibition – excitability)|LLd| 0.35|-0.17| 0.27| 0:08| 0:04| 0:07|0:13|0:06|0:10||
+|Impulsivity/Variability (rigidity – variability)|LLVnd|0\.01| 0.11|0\.05|0:16| 0:07|0:07|0:05| 0:20| 0:03||
+||LLVd|0\.06|0\.05|0\.11|0:15| 0:01|0:08|0:11|0:11|0:10||
+|Numbers in bold are for p-values of a significant level.||||||||||||
+|the understanding of ADHD from the standpoint of individual|study limitation. However, this provides information that the|||||||||||
+|differencesinpersonality(temperamentandcharacter).Children|children with ADHD are much more variable in their behavior|||||||||||
+|with ADHD differ among themselves as well as being similar|than the control group, whose members are more similar in their|||||||||||
+|to children without ADHD, which could create controversies in|fine motor behavior and corresponding personality dimensions|||||||||||
+|ADHDdiagnosis,asmentionedby[MartelandNigg](#_page8_x293.63_y503.14)([2006)](#_page8_x293.63_y503.14),either|(the basis of the DP-TC).|||||||||||
+|because there would belittlehomogeneity([Martínezetal.,2010](#_page8_x293.63_y541.00)),|Higher variability within the ADHD group was also observed|||||||||||
+|since we observed high within-group variability in responses|in the performance of the CSAT test. If we compare just|||||||||||
+|reflected in SDs, which may be considered controversial and a|mean values for errors (false identifications) in the CSAT, there|||||||||||
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 10 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)10
+Liutsko et al.![ref2]
+
+Proprioceptive Graphomotor Differences in ADHD
+
+is a difference between the average values for each group’s performance: 61 (ADHD) vs. 29 (control). However, the variance was greater within the ADHD group, showing that this group included participants whose CSAT points ranged from very low (compared with controls) to very high, meaning that some respondersfromtheADHDgroupcouldhaveresultscomparable to or even better than the control group. This concerned only a very limited number of children, since the average results for the ADHD group were worse than the average results of the control group.
+
+A similar situation for intra-group variability (in ADHD only) was observed for reaction time (CSAT), which is congruent with many other studies’ results for reaction time and attention (e.g., [Johnson et al.,](#_page8_x35.25_y692.41) [2007)](#_page8_x35.25_y692.41) and other cognitive tasks (reviewed by[ Tamm et al.](#_page9_x35.25_y401.02),[ 2012](#_page9_x35.25_y401.02)). In our study, the mean values for the two groups are almost identical; the variance for the ADHD group is higher. This point makes it more difficult to compare them quantitatively; nevertheless, it is important for qualitative observation. For this reason, it makes sense to describe the ADHD group as diverse in their individual behaviors for some observable variables: in the CSAT test for reaction time and errors (false identifications), whereas correct detection (good sustained attention) was quite homogeneous in terms of within-group individual variability.
+
+Our results obtained from the DP-TC test confirmthe idea of other authors about personality differences in children with and without ADHD ([Parker et al.,](#_page9_x35.25_y259.06) [2004).](#_page9_x35.25_y259.06) In terms of adaptive vs. less adaptivebehaviorinchildrenwithADHD,wecanseethechanges from more stable (temperamental) features to more flexible ones (character), which show adaptation processes, as the DP-TC variables changed in performance by the non-dominant hand (corresponding to more stable or temperamental characteristics) vs. the dominant hand (corresponding to character or reflecting behavior more reactive to environmental changes) ([Ezhov and Krivoshchekov](#_page8_x35.25_y493.65),[ 2004](#_page8_x35.25_y493.65)[; Tous Ral et al., 2012b](#_page9_x293.63_y192.81)).
+
+The tendency for pessimism on the Mood dimension of the DP-TC was shown in the children from the ADHD group only with the non-dominant hand (-15.48  23.66 mm) if comparing both the dominant one and average values of the control group in both hands). This suggests a more temperamental, endogenous, or biological tendency to pessimism, confirming the idea of[ Caspi et al.](#_page8_x35.25_y275.97) [(2005](#_page8_x35.25_y275.97)) about endogenous temperamental tendencies in the emotions and behavior of children with ADHD. However, this is balanced in the ADHD group, since there were no significant differences observed for the dominant hand (character or more “state” features). These results suggest that for these children (or at least those in the ADHD group), their endogenous temperamental tendency to pessimism was controlled in their current behavioral state.
+
+A similar tendency was also observed for Irritability (inhibition-excitability), which was higher in the non-dominant hand (temperament). In raw average values: Line Length performance was 48.90  15.52 mm in the ADHD group in the non-dominant hand vs. 42.12  15.30 mm in the dominant hand, which was closer to the control group’s performance![ref1]
+
+(42.34 11.73mminthedominanthandvs.43.3  13.33mmin the non-dominant hand), and model Line Length itself (40 mm). Here the tendency to higher endogenous excitability in ADHD children was also somehow adapted, as per the results of the “reactive” hand performance. In both cases we can speak of adaptive, favorable processes that occurred due to education, therapy, and/or medication. Moreover, high excitability does not always have a negative interpretation: People with a high IQ were also found with it ([Liutsko, 2014](#_page8_x293.63_y285.46)).
+
+Nevertheless, two other differences, most significant since they were big and statistically significant, observed between the groups did not have such adaptive changes, since similar results persisted in both hands on the DP-TC dimensions of Emotionality and Behavioral Variability. Greater emotional lability was shown in the ADHD group, indicating congruence with the observations and results mentioned by other authors who mentioned emotional lability and low maturity (compared with a control group of similar ages) in persons with ADHD [(Nigg et al.](#_page9_x35.25_y192.81),[ 2002](#_page9_x35.25_y192.81);[ Martel et al.](#_page8_x293.63_y465.28),[ 2010](#_page8_x293.63_y465.28)[; González et al., 2012](#_page8_x35.25_y607.23)). On the dimension of Behavioral Variability, the results revealed more rigid patterns in the ADHD group average for each group values on the dimension, though with greater variability in individual performance within the same group, indicating non-homogenous individual performance and behavior of these children. Both of these dimensions (Emotionality and Behavioral Rigidness/Flexibility) are important to consider in treatment to reduce the symptoms of ADHD, since they were not shown to have been modified yet by educational or medical interventions (significant differences were shown for both hands).
+
+Correlational Analysis
+
+Withregardtocorrelationanalysis,althoughreactiontime(latent period to reply) was almost identical in the two groups, it had a significant relationship (p < 0.001) to the number of correct answers on the CSAT test in the ADHD group only. However, reaction time had no significant relationship in the controlgroupforcorrectanswers,andthuswasnotsoimportant. This suggests that only the ADHD children, when they respond more quickly, give more correct responses due to a negative sign relationship, and vice versa – the longer they take to respond, the less correct are their responses. Possibly in this context, the longer time spent by the children from the ADHD group on answering (longer latent period to reply) could be related to greater distraction or loss of motivation, with resulting worse scores on the CSAT test. Alternatively, sustained attention and better concentration might be maintained for a short time, while getting worse as the time increased. No similar studies have been performed in this context (showing the relationship between latent response time and correct answers in the children with ADHD), so our results could be considered as the first step in this direction.
+
+A weak but statistically significant relationship was observed only in the control group between Style of Attention (DP-TC) and correct responses (CSAT), meaning that the more attention was paid to the external world, the larger the number of correct
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 9 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)9
+Liutsko et al.![ref2]
+
+Proprioceptive Graphomotor Differences in ADHD
+
+responses on the sustained attention test. This tendency was not as pronounced in the children with ADHD.
+
+Another important tendency that can be considered as an indicator of more pronounced temperamental submission (or less dominance and aggressiveness, DP-TC) in the ADHD group might be related to an increase in correct detection (an indicator of good sustained attention) in the CSAT test (although this correlationdidnotreachastatisticallysignificantvalue, p=0.052, r = -0.26).
+
+Since the Irritability dimension (DP-TC) had a weak, but statistically significant relationship (with a negative sign in both groups) with correct detection on the CSAT, it would be a considerable general feature, however, with more weight (due to a little bit higher correlation value) in the adaptive behavior (dominant hand) of the children with ADHD. Thus, less excitability/more inhibition would be reflected in a higher percentage of correct answers on the CSAT.
+
+No statistically significant relationship was observed between the dimension of Variability in Behavior (DP-TC) and the indicators of good sustained attention, showing that this feature is just an indicator of individual differences between the ADHD and control groups, but this does not greatly influencethe results of the sustained attention test in this study.
+
+Limitations
+
+We analyzed data in the full subgroups, otherwise the sample size would have been reduced significantly, and for this first exploratory study, the aim was to observe the general situation in children. But this approach has several limitations that should be considered when interpreting or generalizing the results. The first is that the range age is quite big and children in the preadolescent period can differ from those who are younger. The second limitation is that we did not have an opportunity to split the groups into other, smaller subgroups, such as different subtypesofADHDorthosechildrentakingmedication,although we controlled for the time of medication uptake and the tests were performed when the least effects of medication were seen (before the next uptake). Finally, the control group consisted of children selected by teachers as “without visible ADHD symptomsortendencies”;theygenerallyalsohadbetteracademic performance and motor coordination than the children with ADHD. Some of the participants in the control group were attending musical or dance classes, which could have been a reason for better proprioceptive motor precision compared to those with ADHD. Thus, further studies are needed with a more homogenous control group, or split by design into those who had better and worse academic and motor performance. Also it would be appropriate to see whether the music or dance classes could be beneficial as an alternative therapy for children with ADHD.
+
+CONCLUSION
+
+Significant individual differences in behavior were observed between the ADHD children and the control group, based on the Proprioceptive Diagnosis of Temperament and Character![ref1]
+
+(DP-TC). Two variables – Mood (endogenous or temperamental tendency to pessimism) and Irritability (endogenous or temperamental tendency to excitability) in the performance of the group with ADHD were shown to be more adaptive, since these tendencies were not pronounced in the subject’s character (dominant hand) and were similar to the control group’s average results. On the other hand, two DP-TC dimensions, Emotionality (higher Emotionality in the ADHD group) and Variability in Behavior (higher rigidness in the average value, but with wider dispersion in interval of individual performance in the ADHD group) were non-adaptive, since the performance persisted at the same level in both hands (non-dominant and dominant) and with a statistically significant difference from the control group. The correlational analysis of the individual differences revealed that not all differences were important for the quality of performance of the sustained attention task, supporting mainly a significant relationship with Irritability (balanced excitability/inhibition) among all of them.
+
+This is an exploratory study and requires more research along these lines and exploration of the Emotionality dimension in children with ADHD. High Emotionality can induce more physical movement among children, which could compensate or be a part of therapy instead. This study is a pioneer in the context of proprioceptive indicators (individual differences in personality) of children with ADHD and the control group of children who have not been so diagnosed, and have better academicaswellasmotorperformance.Theresultscouldprovide an orientation in work with children who are diagnosed with ADHD. Moreover, physical activity and music or art therapy for children with ADHD could be considered means of “emotional discharge,” tohelp them copewith theiremotions, however, more studies with this focus are needed.
+
+ETHICS STATEMENT
+
+This study was carried out in accordance with the recommendations of Ethical committee of the University of Barcelona with written informed consent from all subjects (parents of the childrens involved in the study) in accordance with the Declaration of Helsinki. The protocol was approved by the Ethical committee of the University of Barcelona and the educational centers (the Europa International School and the Rosa dels Vents school in Barcleona, Spain).
+
+AUTHOR CONTRIBUTIONS
+
+LL and JR made substantial contributions to the conception or design of the work or the acquisition. JR proved the study at the Ethics Committee of the University of Barcelona. TI recruited volunteers, performed all the testings, contributed to the literature review and writing the Introduction part, and reviewed and proved the manuscripts’ drafts. LL analyzed and interpreted the data for the study, and drafted the work. AV revised the draft critically for important intellectual content, approved the final version to be
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 9 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)9
+Liutsko et al.![ref2]
+
+Proprioceptive Graphomotor Differences in ADHD
+
+published,œ and agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+
+ACKNOWLEDGMENTS
+
+We are grateful to the Adana Foundation, the directors of Oriol Martorell School, the Europa International School, and
+
+the Rosa dels Vents School for their continuous support throughout the process of sample selection. Always receptive to the research, they gave us the time and space to administer the tests. We would also like to thank the parents for their interest and collaboration. Finally, we would like to thank the Lomonosov Moscow State University (the research was supported by Russian Scientific Fund grant 16-18-00073) for their financial support during the publication of the article.
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 9 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)9
+Liutsko et al.![ref2]
+
+Proprioceptive Graphomotor Differences in ADHD
+
+REFERENCES for neuropsychological heterogeneity. Neuropsychologia45, 630–638.[ doi: 10.](https://doi.org/10.1016/j.neuropsychologia.2006.03.034)
+
+<a name="_page8_x35.25_y209.72"></a><a name="_page8_x293.63_y209.74"></a>[1016/j.neuropsychologia.2006.03.034](https://doi.org/10.1016/j.neuropsychologia.2006.03.034)
+
+Anckarsater, H., Stahlberg, O., Larson, T., Hakansson, C., Jutblad, S. B., and Kagan, J. (2005). A time for specificity.J. Pers. Assess.85, 125-127.[ doi: 10.1207/](https://doi.org/10.1207/s15327752jpa8502_03)
+
+Niklasson, L. (2006). The impact of ADHD and autism spectrum disorders on<a name="_page8_x293.63_y228.67"></a> [s15327752jpa8502_03](https://doi.org/10.1207/s15327752jpa8502_03)
+
+temperament, character, and personality development. Am. J. Psychiatry163, Lahey, B. B., Pelham, W. E., Stein, M. A., Loney, J., Trapani, C., and
+
+<a name="_page8_x35.25_y247.57"></a>1239–1244.[ doi: 10.1176/ajp.2006.163.7.1239](https://doi.org/10.1176/ajp.2006.163.7.1239) Nugent,K.(1998).ValidityofDSAf-ZVattention-deficit/hyperactivitydisorder Braaten, E. B., and Rosen, L. A. (1997). Emotional reactions in adults with for younger children. J. Am. Acad. Child Adolesc. Psychiatry37, 695–702.
+
+symptoms of attention deficit hyperactivity disorder. Pers. Individ. Differ.22,<a name="_page8_x293.63_y266.53"></a> [doi: 10.1097/00004583-199807000-00008](https://doi.org/10.1097/00004583-199807000-00008)
+
+<a name="_page8_x35.25_y275.97"></a>355–361.[ doi: 10.1016/S0191-8869(96)00217-](https://doi.org/10.1016/S0191-8869\(96\)00217-6)6 Liutsko, L. (2013). Proprioception as a basis for individual differences. Psychol. Caspi, A., Roberts, B. W., and Shiner, R. L. (2005). Personality development:<a name="_page8_x293.63_y285.46"></a> Russia6, 107–119.[ doi: 10.11621/pir.2013.0310](https://doi.org/10.11621/pir.2013.0310)
+
+stability and change. Annu. Rev. Psychol.56, 453–484.[ doi: 10.1146/annurev.](https://doi.org/10.1146/annurev.psych.55.090902.141913) Liutsko, L. (2014). Age and Sex Differences in Proprioception (Fine Motor <a name="_page8_x35.25_y304.36"></a>[psych.55.090902.141913](https://doi.org/10.1146/annurev.psych.55.090902.141913)<a name="_page8_x293.63_y304.39"></a> Performance). Riga: Scholars’ Press.
+
+Cho, S. C., Hwang, J. W., Lyoo, I. K., Yoo, H. J., Kin, B. N., and Kim, J. W. Liutsko, L., Gutiérrez, J., Malova, Y. U., and Tous Ral, J. M. (2014a). “Changes in
+
+(2008). Patterns of temperament and character in a clinical sample of Korean proprioceptivepersonalitywithage,”ProceedingsoftheInternationalConference children with attention-deficithyperactivity disorder. Psychiatry Clin. Neurosci. on the “Problems of Personality Development (Problemy razvitiya lichnosti)”, <a name="_page8_x35.25_y342.22"></a>62, 160–166.[ doi: 10.1111/j.1440-1819.2008.01749.x](https://doi.org/10.1111/j.1440-1819.2008.01749.x)<a name="_page8_x293.63_y342.25"></a> Prague: Czech Republic.
+
+Costa, P. T., and McCrae, R. R. (1992).Revised NEO Personality Inventory (NEO- Liutsko, L., Malova, Y. V., Poddubnij, S. E., Rozhkova, N. I., and Maldonado,
+
+PI-R) and NEO Five-Factor Inventory (NEO-FFI): Professional Manual.Odessa, J. G. (2016). Proprioceptive indicators of stress resistance.Pers. Individ. Differ. <a name="_page8_x35.25_y370.61"></a>FL: Psychological Assessment Resources.<a name="_page8_x293.63_y370.64"></a> 101:496.[ doi: 10.1016/j.paid.2016.05.214](https://doi.org/10.1016/j.paid.2016.05.214)
+
+De Pauw, S. S. W., Mervielde, I., and Van Leeuwen, K. G. (2009). How are Liutsko, L., Muiños, R., and Tous, J. M. (2014b). Age-related differences
+
+traits related to problem behavior in preschoolers? Similarities and contrasts in proprioceptive and visuo-proprioceptive function in relation to fine between temperament and personality. J. Abnorm. Child Psychol.37, 309–325. motor behaviour. Eur. J. Ageing 11, 221–232.[ doi: 10.1007/s10433-013- ](https://doi.org/10.1007/s10433-013-0304-6)<a name="_page8_x35.25_y408.47"></a>[doi: 10.1007/s10802-008-9290-0](https://doi.org/10.1007/s10802-008-9290-0)<a name="_page8_x293.63_y408.50"></a> [0304-6](https://doi.org/10.1007/s10433-013-0304-6)
+
+Downey, K. K., Pomerleau, C. S., and Pomerleau, O. F. (1996). Personality Liutsko, L., Tous Ral, J. M., and Segura, S. (2014c). Effects of dual (motor precision
+
+differences related to smoking and adult attention deficit hyperactivity<a name="_page8_x293.63_y427.43"></a> C cognitive) task on proprioception. Pol. J. Educ. Cult. Soc.1, 79–86.
+
+disorder. J. Substance Abuse 8, 129–135.[ doi: 10.1016/S0899-3289(96)](https://doi.org/10.1016/S0899-3289\(96\)90139-X) Liutsko, L., and Tous Ral, J. M. (2013). Quantitative and qualitative proprioceptive
+
+<a name="_page8_x35.25_y446.33"></a>[90139-X](https://doi.org/10.1016/S0899-3289\(96\)90139-X) analysis of individual differences (description of multiple sclerosis case study). Evans, D. E., and Rothbart, M. K. (2007). Developing a model for adult<a name="_page8_x293.63_y455.82"></a> Acta Neuropsychol.11, 315–323.
+
+<a name="_page8_x35.25_y465.26"></a>temperament. J. Res. Pers.41, 868–888.[ doi: 10.1016/j.jrp.2006.11.002](https://doi.org/10.1016/j.jrp.2006.11.002)<a name="_page8_x293.63_y465.28"></a> Luria, A. R. (1932).The Nature of Human Conflicts.New York, NY: Liverlight.      Eysenck, H. J., and Eysenck, M. W. (1985).Personality and Individual Differences: Martel, M., Goth-Owens, T., Martinez-Torteya, C., and Nigg, J. T. (2010).
+
+a Natural Science Approach. New York, NY: Plenum.[ doi: 10.1007/978-1-4613-](https://doi.org/10.1007/978-1-4613-2413-3) A person-centered personality approach to heterogeneity in attention-
+
+<a name="_page8_x35.25_y493.65"></a>[2413-3](https://doi.org/10.1007/978-1-4613-2413-3) deficit/hyperactivity disorder (ADHD). J. Abnorm. Psychol.119, 186–196. Ezhov, S. N., and Krivoshchekov, S. G. (2004). Features of psychomotor responses<a name="_page8_x293.63_y503.14"></a> [doi: 10.1037/a0017511](https://doi.org/10.1037/a0017511)
+
+andinterhemisphericrelationshipsatvariousstagesofadaptationtoanewtime Martel, M., and Nigg, J. T. (2006). Child ADHD and personality/temperament
+
+<a name="_page8_x35.25_y522.05"></a>zone. Hum. Physiol.30, 172–175.[ doi: 10.1023/B:HUMP.0000021645.62494.0c](https://doi.org/10.1023/B:HUMP.0000021645.62494.0c) traits of reactive and effortful control, resiliency, and emotionality. Gironell, A., Luitsko, L., Muiños, R., and Tous Ral, J. M. (2012). Differences based J. Child Psychol. Psychiatry47, 1175–1183.[ doi: 10.1111/j.1469-7610.2006.](https://doi.org/10.1111/j.1469-7610.2006.01629.x)
+
+on fine motor behavior in Parkinson’s patients compared to an age matched<a name="_page8_x293.63_y541.00"></a> [01629.x](https://doi.org/10.1111/j.1469-7610.2006.01629.x)
+
+control group in proprioceptive and visuo-proprioceptive test conditions. Martínez, Y., Bosch, R., Gomà-i-Freixanet, M.,Valero, S., Ramos, J. A.,
+
+<a name="_page8_x35.25_y559.90"></a>Anuario de Psicología42,183–197. Nogueira, M., et al. (2010). Variables diferenciales de personalidad en los Goldberg, L. R. (1990). An alternative “description of personality”: the big five subtipos de TDAH en la edad adulta [Variables of personality differences in
+
+factor structure. J. Pers. Soc. Psychol.59, 1216–1229.[ doi: 10.1037/0022-3514.](https://doi.org/10.1037/0022-3514.59.6.1216)<a name="_page8_x293.63_y578.86"></a> ADHD subtypes in adulthood]. Psicothema22, 236–241.
+
+<a name="_page8_x35.25_y588.30"></a>[59.6.1216](https://doi.org/10.1037/0022-3514.59.6.1216) McKinney, A., Canu, W., and Schneider, H. G. (2011). Distinct ADHD symptom Gomez, R., and Corr, P. J. (2014). ADHD and personality: a meta-analytic review. clusters differentially associated with personality traits. J. Attent. Disord. 17,
+
+<a name="_page8_x35.25_y607.23"></a>Clin. Psychol. Rev.34, 376–388.[ doi: 10.1016/j.cpr.2014.05.002](https://doi.org/10.1016/j.cpr.2014.05.002)<a name="_page8_x293.63_y607.25"></a> 358–366.[ doi: 10.1177/1087054711430842](https://doi.org/10.1177/1087054711430842)
+
+González, C., Valero, A., Carranza, J., Sánchez, N., Bajo, T., Carreiras, M., and Mervielde, I., and De Pauw, S. (2010). The role of temperament and personality
+
+Fuentes, L. (2012). “Temperament profiles in ADHD: low effortful control and in problem behaviors of children with ADHD. J. Abnorm. Child Psychol.39, poor emotional regulation,” Proceedings of the Conference Paper on SEPEX-<a name="_page8_x293.63_y635.64"></a> 277–291.
+
+<a name="_page8_x35.25_y645.08"></a>BASC Congress, Liège. Miller, C. J., Miller, S. R., Newcorn, J. H., and Halperin, J. M. (2008). Personality Jacob, C., Romanos, J., Dempfle, A., Heine, M., Windemuth-Kieselbach, C., and characteristics associated with persistent ADHD in late adolescence. J. Abnorm.
+
+Kruse, A. (2007). Co-morbidity of adult attention-deficithyperactivity disorder<a name="_page8_x293.63_y664.04"></a> Child Psychol.36, 165–173.[ doi: 10.1007/s10802-007-9167-7](https://doi.org/10.1007/s10802-007-9167-7)
+
+withfocusonpersonalitytraitsandrelateddisordersinatertiaryreferralcenter. Millon, T. (1969).Modern Psychopathology: a Biosocial Approach to Maladaptive
+
+Eur. Arch. Psychiatry Clin. Neurosci.257, 309–317.[ doi: 10.1007/s00406-007-](https://doi.org/10.1007/s00406-007-0722-6)<a name="_page8_x293.63_y682.97"></a> Learning and Functioning. Philadelphia, PA: Saunders.
+
+<a name="_page8_x35.25_y692.41"></a>[0722-6](https://doi.org/10.1007/s00406-007-0722-6) Mira, E. (1923). Las Correlaciones Somáticas del Trabajo Mental [Somatic Johnson, K. A., Kelly, S. P., Bellgrove, M. A., Barry, E., Cox, M., Gill, M., et al. corelations of mental work]. Doctoral thesis, Universidad de Barcelona,
+
+(2007).Responsevariabilityinattentiondeficithyperactivitydisorder:evidence Barcelona.![ref1]
+
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/)  [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)
+
+Liutsko et al. Proprioceptive Graphomotor Differences in ADHD![ref2]
+
+<a name="_page9_x35.25_y60.30"></a><a name="_page9_x35.25_y69.77"></a>Mira, E. (1958).Myokinetic Psychodiagnosis (M.K.P.).New York, NY: Logos. Penitenciarios [Impulsivity assessment through PMK-R, BFI and F / DIE in a Miroshnikov, M. P. (1973). “Diagnosticheskoe znachenie psijomotoriki i ee sample of prison inmates],” in Proceedings of the VII European Conference on
+
+issledovanie s pomoschiu miokineticheskogo testa [Diagnodtic meaning of<a name="_page9_x293.63_y88.70"></a> Psychological Assessment, Malaga.
+
+psychomotricity and its study with use of miokinetic test],” in Psychology and Tous Ral, J. M., Grau, A., Viadé, A., and Muiños, R. (2005a). “Kinematic
+
+<a name="_page9_x35.25_y107.62"></a>Psychogigiene in Sported. L. Gissen (Moscow: Fizkultura i Sport), 15–32. analysis of proprioceptive handwriting in patients with personality disorders,” Muiños, R. (2008). Myokinetic Psychoodiagnosis: Development, Description and<a name="_page9_x293.63_y117.09"></a> in Proceedings of the 9th European Congress of Psychology, Granada.
+
+Confirmatory Factorial Analysis. Doctoral thesis, University of Barcelona, Tous Ral, J. M., Viadé, A., Pont, N., and Muiños, R. (2005b). Normalización
+
+<a name="_page9_x35.25_y136.02"></a>Barcelona. de los lineogramas del PMK para Barcelona y su comparación con Recife. Nigg, J. T. (1999). The ADHD response-inhibition deficitas measured by the stop [StandardizationoftheMKPlineogramsforBarcelonaanditscomparisonwith
+
+task: replication with DSM–IV combined type, extension, and qualification.<a name="_page9_x293.63_y154.95"></a> Recife] PSIC.Rev. Psicol. Vetor Editora6, 1-15.
+
+<a name="_page9_x35.25_y164.41"></a>J. Abnorm. Child Psychol.27, 393-402.[ doi: 10.1023/A:1021980002473](https://doi.org/10.1023/A:1021980002473) Tous Ral, J. M., Muiños, R., Liutsko, L., and Forero, C. G. (2012a). Effects
+
+Nigg,J.T.,Goldsmith,H.,andSachek,J.(2004).Temperamentandattentiondeficit of sensory information, movement direction, and hand use on fine motor
+
+hyperactivity disorder: the development of a multiple pathway model. J. Clin. precision. Percept. Mot. Skills115, 261-272.[ doi: 10.2466/25.22.24.PMS.115.4. ](https://doi.org/10.2466/25.22.24.PMS.115.4.261-272)<a name="_page9_x35.25_y192.81"></a>Child Adolesc. Psychol.33, 42-53.[ doi: 10.1207/S15374424JCCP3301_5](https://doi.org/10.1207/S15374424JCCP3301_5)<a name="_page9_x293.63_y192.81"></a> [261-272](https://doi.org/10.2466/25.22.24.PMS.115.4.261-272)
+
+Nigg, J. T., John, O. P., Blaskey, L. G., Huang-Pollock, C. L., Willcutt, E. G., and Tous Ral, J. M., Muiños, R., Tous, O., and Tous Rovirosa, J. (2012b).Diagnóstico
+
+Hinshaw,S.P.(2002).BigfivedimensionsandADHDsymptoms:linksbetween Propioceptivo del Temperamento y el Carácter [Proprioceptive Diagnostics personality traits and clinical symptoms. J. Pers. Soc. Psychol.83, 451-469. of Temperament and Character]. Barcelona: Publicacions i Edicions de la <a name="_page9_x35.25_y230.66"></a>[doi: 10.1037/0022-3514.83.2.451](https://doi.org/10.1037/0022-3514.83.2.451)<a name="_page9_x293.63_y230.66"></a> Universidad de Barcelona.
+
+Nigg, J., and Goldsmith, H. H. (1998). Developmental psychopathology, Tous Ral, J. M., Viadé, A., and Muiños, R. (2007). Validez estructural de los
+
+personality, and temperament: reflections on recent behavioral genetics lineogramas del psicodiagnóstico miocinético, revisado y digitalizado (PMK-
+
+<a name="_page9_x35.25_y259.06"></a>research. Hum. Biol.70, 387-412. RD) [Structural validity of lineograms of myokinetic psychodiagnosis, revised Parker, J. D. A., Majeski, S. A., and Collin, V. T. (2004). ADHD symptoms and<a name="_page9_x293.63_y268.52"></a> and digitalized (PMK-RD)]. Psicothema19, 350-356.
+
+personality: relationships with the five-factor model. Pers. Individ. Differ.36, Tous Ral, J. M., and Liutsko, L. (2014). Human errors: their psychophysical
+
+<a name="_page9_x35.25_y287.45"></a>977-987.[ doi: 10.1016/S0191-8869(03)00166-](https://doi.org/10.1016/S0191-8869\(03\)00166-1)1 bases and the proprioceptive diagnosis of temperament and character (DP- Ranseen, J. D., Campbell, D. A., and Baer, R. A. (1998). NEO PI-R profiles TC) as a tool for measuring. Psychol. Russia7, 48-63.[ doi: 10.11621/pir.](https://doi.org/10.11621/pir.2014.0205)
+
+of adults with attention deficit disorder. Assessment5, 19-24.[ doi: 10.1177/](https://doi.org/10.1177/107319119800500104)<a name="_page9_x293.63_y306.38"></a> [2014.0205](https://doi.org/10.11621/pir.2014.0205)
+
+<a name="_page9_x35.25_y315.84"></a>[107319119800500104](https://doi.org/10.1177/107319119800500104) White, J. D. (1999). Personality, temperament and ADHD: a review of the Retz, W., Retz-Junginger, P., Hengesch, G., Schneider, M., Thome, J., and Pajonk, literature. Pers. Individ. Differ. 27, 589-598.[ doi: 10.1016/S0191-8869(98)](https://doi.org/10.1016/S0191-8869\(98\)00273-6)
+
+F. G. (2004). Psychometric and psychopathological characterization of young [00273-6 ](https://doi.org/10.1016/S0191-8869\(98\)00273-6)male prison inmates with and without attention deficit/hyperactivity disorder.
+
+Eur. Arch. Psychiatry Clin. Neurosci.254, 201-208.[ doi: 10.1007/s00406-004-](https://doi.org/10.1007/s00406-004-0470-9) **Conflict of Interest Statement:** The authors declare that the research was
+
+<a name="_page9_x35.25_y363.17"></a>[0470-9](https://doi.org/10.1007/s00406-004-0470-9) conducted in the absence of any commercial or financial relationships that could Servera, M., and Cardo, E. (2006). Children Sustained Attention Task (CSAT): be construed as a potential conflictof interest.
+
+<a name="_page9_x35.25_y382.10"></a>normative, reliability, and validity data. Int. J. Clin. Health Psychol.6, 697–707.
+
+Servera,M.,andLlabres,J.(2004).CSATTareadeAtenciónSostenidaenlaInfancia Copyright © 2018 Liutsko, Iglesias, Tous Ral and Veraksa. This is an open-access
+
+<a name="_page9_x35.25_y401.02"></a>[CSAT Task of Sustained Attention in Childhood].Madrid: TEA ediciones. article distributed under the terms of the[ Creative Commons Attribution License ](http://creativecommons.org/licenses/by/4.0/)Tamm, L., Narad, M. E., Antonini, T. N., O’Brien, K. M., Hawk, L. W. Jr., [(CCBY)](http://creativecommons.org/licenses/by/4.0/).Theuse,distributionorreproductioninotherforumsispermitted,provided
+
+and Epstein, J. N. (2012). Reaction time variability in ADHD: a review. the original author(s) and the copyright owner(s) are credited and that the original
+
+<a name="_page9_x35.25_y429.42"></a>Neurotherapeutics9, 500-508.[ doi: 10.1007/s13311-012-0138-5](https://doi.org/10.1007/s13311-012-0138-5) publication in this journal is cited, in accordance with accepted academic practice. Tous Ral, J. M., Muiños, R., Chico, E., and Viadé, A. (2004). “Evaluación de la No use, distribution or reproduction is permitted which does not comply with these
+
+ImpulsividadaTravésdelPMK-R,elBFIylaF/DIEenunaMuestradeInternos terms.![ref1]
+[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/)[ | www.frontiersin.org](https://www.frontiersin.org/) 9 [November 2018 | Volume  | Article 2325](https://www.frontiersin.org/journals/psychology#articles)9
+
+[ref1]: 1e3slbav.004.png
+[ref2]: 1e3slbav.005.png

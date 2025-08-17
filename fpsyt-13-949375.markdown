@@ -1,0 +1,432 @@
+﻿TYPE[ Perspective ](https://www.frontiersin.org/journals/psychiatry#editorial-board)![](tav5uqpl.001.png)![](tav5uqpl.002.png)![](tav5uqpl.003.png)PUBLISHED[   August    ](https://www.frontiersin.org/journals/psychiatry#editorial-board)![](tav5uqpl.004.png)DOI[  .    /fpsyt.    .      ](https://doi.org/10.3389/fpsyt.2022.949375)
+
+![](tav5uqpl.005.png)
+
+OPEN ACCESS
+
+EDITED BY
+
+Michele Fornaro,
+
+University of Naples Federico II, Italy
+
+REVIEWED BY
+
+Claudio Caiazza,
+
+University of Naples Federico II, Italy Xenia Gonda,
+
+Semmelweis University, Hungary
+
+\*CORRESPONDENCE
+
+Anna Comparelli [anna.comparelli@uniroma .it](mailto:anna.comparelli@uniroma1.it)
+
+SPECIALTY SECTION
+
+This article was submitted to Mood Disorders,
+
+a section of the journal Frontiers in Psychiatry
+
+RECEIVED   May    ACCEPTED   July    PUBLISHED   August    
+
+CITATION
+
+Comparelli A, Polidori L, Sarli G, Pistollato A and Pompili M (    ) Differentiation and comorbidity of bipolar disorder and attention deficit and hyperactivity disorder in children, adolescents, and adults: A clinical and nosological perspective.
+
+*Front. Psychiatry*  :      .
+
+doi: [ .    /fpsyt.    .      ](https://doi.org/10.3389/fpsyt.2022.949375)
+
+COPYRIGHT
+
+'     Comparelli, Polidori, Sarli, Pistollato and Pompili. This is an open-access article distributed under the terms of the [Creative Commons Attribution License (CC BY). T](http://creativecommons.org/licenses/by/4.0/)he use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+[Differentiation and comorbidity of bipolar disorder and attention deficit and hyperactivity disorder in children, adolescents, and adults: A clinical and nosological perspective](https://www.frontiersin.org/articles/10.3389/fpsyt.2022.949375/full)
+
+Anna Comparelli \*, Lorenzo Polidori , Giuseppe Sarli , Andrea Pistollato and Maurizio Pompili
+
+Department of Psychiatry, Sant’Andrea Hospital of Rome, Rome, Italy, Psychiatry Residency Training Program, Faculty of Medicine and Psychology, Sapienza University of Rome, Rome, Italy,
+
+Department of Neurosciences, Mental Health and Sensory Organs, Faculty of Medicine and Psychology, Suicide Prevention Centre, Sant’Andrea Hospital, Sapienza University of Rome, Rome, Italy
+
+Bipolar Disorder (BD) and Attention Deficit and Hyperactivity Disorder (ADHD) are mental disorders with high degree of lifetime comorbidity. Both BD and ADHD are disorders with onset in childhood and early adolescence. Both disorders are often undiagnosed, misdiagnosed, and sometimes overdiagnosed, leading to high rates of morbidity and disability. The psychiatric and behavioral symptoms associated with ADHD and BD have significant overlap. Albeit the existence of a large body of literature, it is far from being clear whether comorbidity can be explained by the confounding overlap of operationally defined criteria or whether it reflects a genuine comorbidity of two biologically distinct disorders. The aim of this paper is to recognize and/or differentiate the pattern of ADHD across the course of BD from a nosological point of view, focusing on specific clinical and neurobiological dimensions. We found that some critical issues may help to fulfill the purpose of our perspective. We suggest that the relationship between ADHD and BD, based on clinical, developmental, and epidemiological commonalities, can be better clarified using four different scenarios.
+
+KEYWORDS
+
+bipolar disorder, ADHD, comorbidity, nosology and classification of mental disorders, neurodevelopment
+
+Introduction
+
+Bipolar Disorder (BD) and Attention-Deficit/Hyperactivity Disorder (ADHD) are often recognized as mental disorders with a high degree of comorbidity [(1 ](#_page5_x56.73_y128.92)[4)](#_page5_x56.73_y236.92). Bipolar disorders are chronic diseases characterized by the alternance of episodes of mania or hypomania and depression. Bipolar disorders have an early mean age of onset and are a major cause for disability in young people. Early recognition of the disease leads tomore effective treatment and prevents greater disability [(5)](#_page5_x56.73_y272.92). The definition of bipolar disorder
+
+[Frontiersin Psychiatry](https://www.frontiersin.org/journals/psychiatry) [frontiersin.org](https://www.frontiersin.org)
+
+Comparelli et al.
+
+- [/fpsyt.    .      ](https://doi.org/10.3389/fpsyt.2022.949375)
+
+in pre-pubertal children (pediatric bipolar disorder, PBD) is still the object of an ongoing debate. There is a controversy concerning what is the definition of a pre-pubertal bipolar disorder, if there is a continuity of pediatric BD with adult BD, and if symptoms explained by a diagnosis of PBD could be better explained by other diagnoses, such as ADHD [(6,](#_page5_x56.73_y292.92)[ 7](#_page5_x56.73_y320.92)).
+
+ADHD is defined by the DSM-5 as an early-onset  neurodevelopmental disorder defined by impairing levels of inattention, disorganization and/or hyperactivity-impulsivity [(8)](#_page5_x56.73_y348.92). ADHD is a common childhood mental health disorder, even if its prevalence varies widely across different clinical settings and countries, partly due to differences in classifications and methods to diagnose it [(9)](#_page5_x56.73_y376.92). About 50 65% of children with ADHD will continue to meet diagnostic criteria for ADHD in adulthood [(4,](#_page5_x56.73_y236.92)[ 10](#_page5_x56.73_y404.92)).
+
+There is an overlap between symptoms of ADHD and BD, and in particular (hypo) manic mood episodes features, such as hyperactivity, distractibility, lack of inhibition, restlessness, racing thoughts, rapid speech, talkativeness, and irritability. The overlap of symptoms and diagnostic criteria could make the distinction between the two disorders difficult, even if ADHD is a disorder with persistent symptoms, whereas symptoms in BD are episodic [(4,](#_page5_x56.73_y236.92)[ 11](#_page5_x56.73_y432.92),[ 12](#_page5_x56.73_y476.92)).
+
+Many children are diagnosed with comorbid ADHD and PBD; comorbidity rates are estimated to be around 20% [(1,](#_page5_x56.73_y128.92)[ 4](#_page5_x56.73_y236.92)), and children with ADHD are more likely to be diagnosed with BD later in life[(4)](#_page5_x56.73_y236.92). BD with comorbid ADHD presents a more severe course of illness, with earlier onset, a shorter interval between episodes, and a shorter time of euthymia [(11)](#_page5_x56.73_y432.92).
+
+In this perspective paper, we focused on specific clinical and developmental dimensions in order to recognize and/or differentiate the pattern of ADHD across the course of BD in a nosological perspective. We found that some issues may help to fulfillthe purpose of our perspective; we described the results in sections according to the crucial points raised.
+
+Shared background between BD and ADHD
+
+Thereisawell-establishedpsychopathologicalbondbetween ADHD and BD, even if some studies show controversial results regarding their longitudinal relationship. Rates of comorbidity are very heterogeneous; this is influenced by several aspects. Interestingly, a difference can be detected between continents. ForBD, itwassuggestedthattheprevalence maybehigherinthe Americas compared with Asia and European nations [(13,](#_page5_x56.73_y504.92)[ 14](#_page5_x56.73_y540.92)); this is not the same for ADHD. Geographic factors only seem to play a marginal role, while all the important differences between countries might be better explained by the adoption of different methodological approaches [(9)](#_page5_x56.73_y376.92). A high proportion of ADHD patients, about 10%, receive a BD diagnosis throughout their life [(2)](#_page5_x56.73_y164.92). One out of 13 patients with ADHD have BD, and nearly 1 in
+
+6 patients with BD are diagnosed with ADHD. The prevalence of ADHD in BD patients differs when comparing distinct age groups: 73% in childhood, 43% in adolescence, and 17% in adulthood [(3)](#_page5_x56.73_y200.92).ThelifetimeprevalenceofADHDisaround6.5%, while that of BD reaches 1 2% [(9,](#_page5_x56.73_y376.92)[ 15](#_page5_x56.73_y568.92),[ 16](#_page5_x56.73_y605.92)). All these data suggest that comorbid BD and ADHD can occur in around 0.12% of the generalpopulation,orupto0.38%ifconsideringsmallerstudies; this would correspond to nearly 4 million persons affected in US and Europe [(16)](#_page5_x56.73_y605.92), representing a large burden as a comorbid nosological entity.
+
+There are genetic implications involved in ADHD and BD comorbidity. Relatives of patients with BD had a significantly higher chance of having ADHD, and among relatives of ADHD patients BD occurred more frequently [(17)](#_page5_x56.73_y642.92); the relative risk was about 2-fold higher for both situations. The existence of a familiarity suggests a genetic vulnerability for both the diseases. In fact, up to 33 loci were found to be involved in both ADHD and BD [(18 ](#_page5_x56.73_y679.93)[21)](#_page5_x309.79_y164.92).
+
+Shared additional risk factors are related to the prenatal, perinatal, and childhood periods. Maternal substance abuse exposes children to both conditions, and one study showed that this risk factor can be associated with the symptoms of ADHD, but not with a clinical diagnosis [(22,](#_page5_x309.79_y192.93)[ 23](#_page5_x309.79_y220.92)). Maternal stress exposure during the first trimester was found to correlate with an increased risk of BD [(22)](#_page5_x309.79_y192.93); the same association emerged with ADHD [(24)](#_page5_x309.79_y248.93). However, this finding can be also attributed to genetic factors. Mothers suffering from BD or ADHD might experience more maternal stress; genetic background could indirectly impact the offspring [(25)](#_page5_x309.79_y284.92). Individuals with childhood adversities and trauma were found more likely to develop ADHD and BD [(26)](#_page5_x309.79_y320.92); regarding the latter, this risk factor may also lead to worse clinical outcomes[(27)](#_page5_x309.79_y348.92).
+
+ADHD: Developmental trajectories
+
+The clinical course of ADHD to adulthood is characterized by the development of several psychiatric comorbidities during the transition from childhood/adolescence, impairment of social functioning, and deviant or rule-breaking behaviors. In adolescence, distinct cognitive profiles may emerge both reflecting continuation or potential recovery of ADHD, with or without an emotional dysregulation profile [(28)](#_page5_x309.79_y376.92). Five different neurobiological developmental models explain the highly variable course of the symptomatology of ADHD during the transition from childhood to adolescence have been supposed [(29)](#_page5_x309.79_y404.92). These models try to disentangle the reasons that define remission or persistence of symptoms. The first  convergence  posits that improvement follows
+
+the convergence of atypical neural features toward more typical brain features. The second  compensation  views symptomatic improvement as a consequence of the recruitment of new brain systems, compensating the core symptoms
+
+of ADHD. The third model  carried forward  postulates different adolescent neural trajectories that take origin during childhood. Adolescents showing improvement or remission appear to have more typical neural features, while those showing persistence had more childhood anomalies. The fourth model  cascading anomalies  holds that early symptoms of ADHD may worsen neural anomalies and generate neural dysfunction. The last model  fixed anomalies  hypothesizes that the presence of childhood ADHD may be seen as a neural imprint that will persist regardless of the clinical course during the transition toward adolescence.
+
+Several clinically informed factors such as gender, pre-mature birth, maternal education, school readiness, peer and conduct problems, cognitive and temperamental factors, early comorbidities, social context and medication could differentiate individuals following different ADHD symptom trajectories [(29,](#_page5_x309.79_y404.92)[ 30](#_page5_x309.79_y432.92)). Genetic factors are major drivers for ADHD symptoms persistence during adolescence [(31)](#_page5_x309.79_y460.92); conduct problems and comorbidities seems to play a major role for the future development of Bipolar Disorder [(32)](#_page5_x309.79_y488.92).
+
+Clinical trajectories from childhood ADHD to adult ADHD: Syndromatic and symptomatic ADHD
+
+A large body of literature [(28 ](#_page5_x309.79_y376.92)[30)](#_page5_x309.79_y432.92) suggests that ADHD tends to persist from childhood to adulthood in many cases. Some questions have been raised about the need for a proper definition of persistence.  According to Faraone et al. [(29)](#_page5_x309.79_y404.92), syndromatic persistence is the permanence of a full diagnostic status, referring to individuals continuing to meet ADHD diagnostic criteria, even after the adulthood transition. On the other hand, symptomatic persistence is the presence of a partial diagnostic status along with impairment, referring to individuals who fail to meet full blown diagnostic criteria for ADHD, but who continue to have impairing symptoms.
+
+A 10-year follow-up study by Biederman et al. [(28) ](#_page5_x309.79_y376.92)demonstrated that the majority of ADHD individuals continue to experience symptoms and functional impairment when moving into adulthood. Persistence at follow-up was associated with psychiatric comorbidity, functional impairments, familiarity, comorbid Conduct Disorder (CD), Major Depressive Disorder (MDD), treatment for ADHD and Oppositional-Defiant Disorder [(33,](#_page5_x309.79_y516.92)[ 34](#_page5_x309.79_y544.93)).
+
+A recent global systematic review and meta-analysis [(30) ](#_page5_x309.79_y432.92)estimated the prevalence of persistent adult ADHD (considering a childhood onset) and symptomatic adult ADHD (not considering childhood onset). Both measures showed a decrease with advancing age. Prevalence of persistent adult ADHD was 2.58%; prevalence of symptomatic adult ADHD was 6.76% globally.
+
+Bipolar disorder developmental trajectory: Homotypic trajectory and heterotypic trajectory 
+
+Many studies, including systematic reviews, meta-analyses, prospective and retrospective studies, have evaluated the developmental trajectory ADHD-BD [(2,](#_page5_x56.73_y164.92)[ 11](#_page5_x56.73_y432.92),[ 32](#_page5_x309.79_y488.92),[ 35](#_page5_x309.79_y572.92) [38)](#_page5_x309.79_y688.92).
+
+A recent systematic meta-analytic review [(2)](#_page5_x56.73_y164.92) estimated that about 10 12% of individuals with ADHD will be later diagnosed with BD; this transition mostly occurs during development. According to another follow-up study including a total of 17,285 subjects with ADHD conducted in Taiwan [(35)](#_page5_x309.79_y572.92) the progression rate from ADHD to BD was 5.12%. Interestingly, among all participants, 62.16% progressed within the first 3 years, following the ADHD onset. Geographical features and sample sizes could explain progression rates differences. From a retrospective view Nierenberg et al.[(11)](#_page5_x56.73_y432.92)estimated a 9.5% overall lifetime prevalence of comorbid ADHD in adults with BD.
+
+Predictors of BD, considering the psychopathological characteristics that forewent the disorder, could be evaluated following the model proposed by Faedda et al. [(32)](#_page5_x309.79_y488.92). More specifically, this involved a homotypic trajectory  moving from affective psychopathology toward BDI/II, and an heterotypic trajectory  moving from non-affective psychopathology. Evidence from the aforementioned paper showed a heterotypic developmental trajectory from prodromal sub-syndromal and syndromal Disruptive Behavior Disorders (ADHD, Conduct Disorder) and Anxiety Disorders (early-onset panic attacks, separation anxiety, and social phobia) toward BD. ADHD or anxiety increased the risk of developing BD in adulthood by 10-fold, while the combination of ADHD and anxiety increased the risk by 30-fold [(38)](#_page5_x309.79_y688.92). This suggests that early manifestations of both externalizing and internalizing psychopathology could be related with the risk of future BD, considering internalizing psychopathology as an expression of conditions associated with negative emotions and externalizing psychopathology as an expression of conditions characterized by disinhibition [(39)](#_page5_x309.79_y724.92). This dysregulation profile is characterized by a combination of externalizing (inattention and hyperactivity) and internalizing (anxiety) psychopathology that may indicate youth with propensity to BD. Dysregulation profile is currently conceptualized as a broad syndrome of difficulties in regulating affect, behavior, and cognition [(40,](#_page6_x452.02_y92.72)[ 41](#_page6_x56.73_y120.72)). According to Brancati et al. [(2)](#_page5_x56.73_y164.92), moving from this pattern of prodromal features emotional dysregulation can be considered as a trans- nosographic psychopathological dimension that facilitates the progression from ADHD to BD.
+
+Several conditions and psychiatric comorbidities elevate the risk of progression from ADHD to BD. Among these are family history of BD, older age, Major Depressive Disorder (MDD), Anxiety Disorder, Autism Spectrum Disorder (ASD), Intelligence Disability (ID), Disruptive Behavior Disorder
+
+(DBD), Oppositional-Defiant Disorder (ODD), Conduct Disorder (CD), criminal behavior, Alcohol Use Disorder (AUD), and Cluster A or B Personality Disorder [(32,](#_page5_x309.79_y488.92)[ 35](#_page5_x309.79_y572.92),[ 36](#_page5_x309.79_y608.92)[, 38](#_page5_x309.79_y688.92)).
+
+Comorbidity between BD and ADHD
+
+There are significant clinical differences between patients diagnosed with both ADHD and BD and patients with BD without comorbid ADHD. Compared with the pure  BD counterpart, patients with BD and ADHD have shorter period of wellness and stability [(37)](#_page5_x309.79_y644.92), are younger when experiencing their first psychiatric symptoms [(2,](#_page5_x56.73_y164.92)[ 11](#_page5_x56.73_y432.92)), show earlier treatment implementation [(2)](#_page5_x56.73_y164.92) and are less successful at school and more unemployed [(42)](#_page6_x56.73_y156.72). Talking about behavioral and properly ADHD features, patients with comorbid ADHD-BD exhibit a younger age of ADHD onset [(2,](#_page5_x56.73_y164.92)[ 11](#_page5_x56.73_y432.92)), more externalizing problems [(2, ](#_page5_x56.73_y164.92)[43](#_page6_x56.73_y184.72)), a higher severity of hyperactive/impulsive and inattentive symptoms [(2)](#_page5_x56.73_y164.92), more reactivity and verbal aggressiveness [(44) ](#_page6_x56.73_y212.72)and a history of violence, legal troubles, and rule-breaking behaviors [(2,](#_page5_x56.73_y164.92)[ 37](#_page5_x309.79_y644.92)). Moreover, referring only to affective episodes, individuals with comorbid ADHD-BD experience significantly more depressive, mixed, hypo-manic, and total number of mood episodes [(2,](#_page5_x56.73_y164.92)[ 37](#_page5_x309.79_y644.92),[ 45](#_page6_x56.73_y240.72)), shorter euthymic intervals [(2)](#_page5_x56.73_y164.92), earlier age of onsetofmooddisorder,moresevereandchronicmooddisorder, poorer response to mood stabilizer, and are more irritable [(2,](#_page5_x56.73_y164.92)[ 37](#_page5_x309.79_y644.92), [45,](#_page6_x56.73_y240.72)[ 46](#_page6_x56.73_y276.72)); the psychotic features are, however, less likely compared to pure  bipolar patients [(37)](#_page5_x309.79_y644.92). At last, for these patients more suicide attempts, more additional psychopathology (Anxiety, Disruptive Behavior Disorders, Substance Use Disorder and Alcohol Abuse) and more psychiatric hospitalizations are documented [(2,](#_page5_x56.73_y164.92)[ 3,](#_page5_x56.73_y200.92)[ 11](#_page5_x56.73_y432.92),[ 47](#_page6_x56.73_y312.72)).
+
+A recent systematic review and meta-analysis [(16)](#_page5_x56.73_y605.92) reported that there is no difference in comorbidity between ADHD and BD type I or BD type II. Nevertheless, differential diagnosis between ADHD and BD type II appears to be challenging due to the presence of sub-syndromal phenomena and mood states such as hypomania, rapid cycling, mixed episodes, and high- frequency mood swings, which are particularly common in BD type II. The trait-like nature of ADHD must be considered when comparing with state-like features of BD. A positive history of childhood ADHD can impact both the phenotype and the onset of depressive disorder, increasing the risk of bipolar spectrum features. Screening for lifetime ADHD in depressed individuals with treatment refractoriness and mixed features should be mandatory; on the other hand, young adults with ADHD along with a familiar load for mood disorder or with anxiety disorders should be candidates for depressive disorder prevention [(36)](#_page5_x309.79_y608.92).
+
+Discussion
+
+Herein,weaimedtofocusonspecificclinical,developmental and neurobiological dimensions to recognize and/or
+
+differentiate the pattern of ADHD across the course of BD from a nosological perspective.
+
+We are inclined to propose four scenarios that aim to clarify possible different relationships in clinical and research settings:
+
+1) Overestimated comorbidity of ADHD or BD due to overlap of symptoms (especially in childhood and youth);
+1) ADHD can be a prodrome of BD;
+1) Comorbidity of syndromatic ADHD with strictly defined BD;
+1) ADHD-BD is a full entity.
+
+Regarding the first point, some authors [(48,](#_page6_x56.73_y348.72)[ 49](#_page6_x56.73_y376.72)) have highlighted the possibility of a diagnostic artifact rather than a genuine finding when considering BD and ADHD in comorbidity. The adoption of a categorical approach instead of a dimensional one, over-splitting of symptoms (artificial subdivision of syndromes), and the overlapping symptoms such as impulsivity, irritable mood, and poor concentration might contribute to the development of a false comorbidity. In childhood and youth, differential diagnosis is clinically the most difficult due to the large overlap of the symptomatic and family patterns of both disorders; currently, there is substantial consensus that episodes are one of the hallmarks of BD and that phenotypes characterized by chronic irritability and lack of episodicity, are not consistent with a diagnosis of BD [(50)](#_page6_x56.73_y412.73). In adulthood, a correct differential diagnosis between BD and ADHD, is pivotal, because irritability, inattention and hyperactivity improve with specific medications, and patients often do not need a mood stabilizer (that might be given with an overestimated comorbidity of BD) [(51)](#_page6_x309.79_y92.72). A wrong BD diagnosis in adults with ADHD can lead to mood stabilizers that do not usually improve attention and memory, whilst the stimulant therapy can improve overall symptomatology, including irritability and hyperactivity [(52)](#_page6_x309.79_y128.72).
+
+Considering the second scenario, misleading comorbidity may be also related to developmental sequencing, which is an example of heterotypic continuity  in which the same developmental process has different phenotypes at different stages of life. In this case, ADHD may represent a BD precursor in a heterotypic trajectory. Unfortunately, we are not currently able to accurately predict which patients with ADHD are prone to subsequent development of BD. In fact, on one hand, a specifically increased risk of BD can be confirmed in ADHD patients compared to healthy controls, which is higher than what expected based on the general predisposing effect on other kinds of psychopathology. On the other hand, BD following ADHD may be a specific, pediatric-onset, neurodevelopmentally- based, form of BD, different from adult-onset or older-age (neurodegenerative)-onsetBD,despitephenotypicalsimilarities. Early neurodevelopmental disorders, such as co-occurring
+
+[Frontiersin Psychiatry](https://www.frontiersin.org/journals/psychiatry)
+
+[frontiersin.org](https://www.frontiersin.org)
+Comparelli et al.
+
+- [/fpsyt.    .      ](https://doi.org/10.3389/fpsyt.2022.949375)
+
+ADHD and emotional dysregulation, may be considered a precursor in the pathway to neurodevelopmental, early-onset, bipolarity [(2)](#_page5_x56.73_y164.92).
+
+As regard to the third scenario, although the higher known rates of ADHD and BD comorbidity is in childhood [(3)](#_page5_x56.73_y200.92), we suggest that further studies are needed to establish the timing of emergence of different forms of BD in ADHD patients and vice-versa. Lower but still rather high comorbidity rates have been reported at later ages. Therefore, in adult patients with a recent diagnosis of BD, but with an unknown history of ADHD, an accurate assessment for a previous or current diagnosis of ADHD appears mandatory [(3)](#_page5_x56.73_y200.92); if a history of childhood or adolescent ADHD emerges, clinicians should carefully ascertain whether the ADHD persists in a symptomatic or syndromatic form; only in the latter should a diagnosis of comorbidity be made [(32)](#_page5_x309.79_y488.92).
+
+The hypothesis of a full entity ADHD-BD, different from both ADHD and BD, is supported by several familial [(53,](#_page6_x309.79_y148.72)[ 54](#_page6_x309.79_y184.72)) and genetic [(55)](#_page6_x309.79_y228.72) studies. These findings suggest a mixed BD-ADHD disorder, with its own evolution, continuous rather than cyclic [(56)](#_page6_x309.79_y272.72), earlier onset, male predominance, more frequent episodes with mixed states, irritability as a main feature, more severe manic symptoms, increased psychosocial problems, and necessitating a sequential treatment. Interestingly, this hypothesis is also in line with recent dimensional approaches to nosology, such as the Hierarchical Taxonomy of Psychopathology (HiTOP), which aims to identify psychopathology constructs based on patterns of co- variation among signs and symptoms [(57)](#_page6_x309.79_y300.72), in contrast to the DSM/ICD nosography. In a dimensional perspective, in fact, ADHD and bipolar disorder may fall on a genetic continuum of severity, with patients with ADHD but not bipolar disorder being at the mild end, patients with bipolar disorder but not ADHD having greater severity and patients with both ADHD and bipolar disorder having the greatest severity[(58)](#_page6_x309.79_y336.72).
+
+Apart from theoretical and nosological issues, therapeutic implications may arise from perspective paper such as the present one.
+
+Treatment of concurrent ADHD and BD, regardless of the phase of illness, remains an unresolved challenge; in a developmental perspective view, treatment may require a staged approach. By staging the introduction of treatments, one can reduce the risk of overmedicating patients and better assess the effect of each individual treatment [(59)](#_page6_x309.79_y364.72). On the other hand, in case of real comorbidity, a hierarchical approach to treatment should be followed. At present, data on treatment response of comorbid ADHD-BD are very limited. In clinical practice, most adult patients presenting
+
+with symptoms of both ADHD and BD tend to be treated only for the mood disorder [(60)](#_page6_x309.79_y384.72). The use of BD medications in ADHD-BD patients may be problematic, with high rates of non-response and residual functional impairment. Patients should be treated hierarchically: BD should be treated first, while ADHD should be treated combining ADHD medications and mood stabilizers after mood stabilization [(61)](#_page6_x309.79_y412.73). A proper mood stabilizing therapy can reduce the chance of positive mood episodes that might arise if we only use ADHD specific medications and that is why we actually follow a hierarchical approach.
+
+Our perspective is focused on the clinical and developmental aspects of ADHD and BD; genetic, neurobiological, neurocognitive and therapeutic aspects were not part of the aims of this perspective paper. We hope that better clinical and developmental characterization is coming and that parallel efforts through nosology can be useful.
+
+Data availability statement
+
+The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+Author contributions
+
+AC: conception, original draft, and revision. LP, GS, and AP: drafting and collecting data. MP: final revision. All authors contributed to the article and approved the submitted version.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+[Frontiersin Psychiatry](https://www.frontiersin.org/journals/psychiatry)
+
+[frontiersin.org](https://www.frontiersin.org)
+
+Comparelli et al. [ .    /fpsyt.    .      ](https://doi.org/10.3389/fpsyt.2022.949375)
+
+References
+
+[Frontiersin Psychiatry](https://www.frontiersin.org/journals/psychiatry)
+
+[frontiersin.org](https://www.frontiersin.org)
+
+1. Franke<a name="_page5_x56.73_y128.92"></a> B, Michelini G, Asherson P, Banaschewski T, Bilbow A, Buitelaar
+
+JK, et al. Live fast, die young? A review on the developmental trajectories of ADHD across the lifespan. Eur Neuropsychopharmacol. (2018) 28:1059 88. doi:[ 10.1016/j.euroneuro.2018.08.001](https://doi.org/10.1016/j.euroneuro.2018.08.001)
+
+2. Brancati<a name="_page5_x56.73_y164.92"></a> GE, Perugi G, Milone A, Masi G, Sesso G. Development of bipolar
+
+disorder in patients with attention-deficit/hyperactivity disorder: a systematic review and meta-analysis of prospective studies.J Affect Disord.(2021) 293:186 96. doi:[ 10.1016/j.jad.2021.06.033](https://doi.org/10.1016/j.jad.2021.06.033)
+
+3. Sandstrom A, Perroud N, Alda M, Uher R, Pavlova B. Prevalence of attention-
+
+deficit/hyperactivity disorder in people with mood disorders: a systematic review and meta-analysis. Acta Psychiatrica Scandinavica. (2021) 143:380 91. doi:[ 10.1111/acps.13283](https://doi.org/10.1111/acps.13283)
+
+4. Edinoff AN, Apgar TL, Rogers JJ, Harper JD, Cornett EM, Kaye AM, et al.
+
+Attentiondeficithyperactivitydisorderandbipolardisorder:diagnosis,treatments, and clinical considerations: a narrative review. Psychiatry Int. (2021) 3:17 28. doi:[ 10.3390/psychiatryint3010002](https://doi.org/10.3390/psychiatryint3010002)
+
+5. Vieta E, Berk M, Schulze TG, Carvalho AF, Suppes T, Calabrese JR, et al.
+
+Bipolar disorders. Nat Rev Dis Prim.(2018) 4:18008. doi[: 10.1038/nrdp.2018.8](https://doi.org/10.1038/nrdp.2018.8)
+
+6. Duffy A, Carlson G, Dubicka B, Hillegers MHJ. Pre-pubertal bipolardisorder:
+
+origins and current status of the controversy. Int J Bipolar Disord. (2020) 8:18. doi:[ 10.1186/s40345-020-00185-2](https://doi.org/10.1186/s40345-020-00185-2)
+
+7. Carlson<a name="_page5_x56.73_y320.92"></a> GA, Klein DN. How to understand divergent views on
+
+bipolar disorder in youth. Ann Rev Clin Psychol. (2014) 10:529 51. doi:[ 10.1146/annurev-clinpsy-032813-153702](https://doi.org/10.1146/annurev-clinpsy-032813-153702)
+
+8. American<a name="_page5_x56.73_y348.92"></a> Psychiatric Association. Diagnostic and Statistical Manual of
+
+Mental Disorders (DSM-5 (R)), 5th Edn. Arlington, TX: American Psychiatric Association (2013).
+
+9. Polanczyk<a name="_page5_x56.73_y376.92"></a> G v, Willcutt EG, Salum GA, Kieling C, Rohde LA. ADHD
+
+prevalence estimates across three decades: an updated systematic review and meta-regressionanalysis.IntJEpidemiol.(2014)43:434 42.doi:[10.1093/ije/dyt261](https://doi.org/10.1093/ije/dyt261)
+
+10. Asherson<a name="_page5_x56.73_y404.92"></a> P, Buitelaar J, Faraone SV, Rohde LA. Adult attention-deficit
+
+hyperactivity disorder: key conceptual issues. Lancet Psychiatry.(2016) 3:568 78. doi:[ 10.1016/S2215-0366(16)30032-3](https://doi.org/10.1016/S2215-0366\(16\)30032-3)
+
+11. Nierenberg<a name="_page5_x56.73_y432.92"></a> AA, Miyahara S, Spencer T, Wisniewski SR, Otto MW,
+
+Simon N, et al. Clinical and diagnostic implications of lifetime attention- deficit/ hyperactivity disorder comorbidity in adults with bipolar disorder: data from the first 1000 STEP-BD participants. Biol Psychiatry.(2005) 57:1467 73. doi:[ 10.1016/j.biopsych.2005.01.036](https://doi.org/10.1016/j.biopsych.2005.01.036)
+
+12. Zaravinos-Tsakos F, Kolaitis G. Disentangling pediatric bipolar disorder
+
+and attention deficit-hyperactivity disorder: a neuropsychological approach. Psychiatriki. (2020) 31:332 40. doi:[ 10.22365/jpsych.2020.314.332](https://doi.org/10.22365/jpsych.2020.314.332)
+
+13. Merikangas KR, Jin R, He J-P, Kessler RC, Lee S, Sampson NA,
+
+et al. Prevalence and correlates of bipolar spectrum disorder in the world mental health survey initiative. Arch Gen Psychiatry. (2011) 68:241 51. doi:[ 10.1001/archgenpsychiatry.2011.12](https://doi.org/10.1001/archgenpsychiatry.2011.12)
+
+14. Rehm<a name="_page5_x56.73_y540.92"></a> J, Shield KD. Global burden of disease and the impact
+
+of mental and addictive disorders. Curr Psychiatry Rep. (2019) 21:10. doi:[ 10.1007/s11920-019-0997-0](https://doi.org/10.1007/s11920-019-0997-0)
+
+15. Fayyad<a name="_page5_x56.73_y568.92"></a> J, Sampson NA, Hwang I, Adamowski T, Aguilar-GaxiolaS, Al-
+
+Hamzawi A, et al. The descriptive epidemiology of DSM-IV adult ADHD in the world health organization world mental health surveys. Attent Deficit Hyperact Disord.(2017) 9:47 65. doi:[ 10.1007/s12402-016-0208-3](https://doi.org/10.1007/s12402-016-0208-3)
+
+16. Schiweck<a name="_page5_x56.73_y605.92"></a> C, Arteaga-Henriquez G, Aichholzer M, Edwin Thanarajah S,
+
+Vargas-CÆceres S, Matura S, et al. Comorbidity of ADHD and adult bipolar disorder: a systematic review and meta-analysis. Neurosci Biobehav Rev.(2021) 124:100 23. doi:[ 10.1016/j.neubiorev.2021.01.017](https://doi.org/10.1016/j.neubiorev.2021.01.017)
+
+17. Faraone<a name="_page5_x56.73_y642.92"></a> S v., Biederman J, Wozniak J. Examining the comorbidity
+
+between attention deficit hyperactivity disorder and bipolar i disorder: a meta-analysis of family genetic studies. Am J Psychiatry. (2012) 169:1256 66. doi:[ 10.1176/appi.ajp.2012.12010087](https://doi.org/10.1176/appi.ajp.2012.12010087)
+
+18. O’Connell KS, Shadrin A, Bahrami S, Smeland OB, Bettella F, Frei
+
+O, et al. Identification of genetic overlap and novel risk loci for attention- deficit/hyperactivitydisorderandbipolardisorder. MolPsychiatry.(2021)26:4055 65. doi:[ 10.1038/s41380-019-0613-z](https://doi.org/10.1038/s41380-019-0613-z)
+
+19. Fahira A, Li Z, Liu N, Shi Y. Prediction of causal genes andgene expression
+
+analysis of attention-deficit hyperactivity disorder in the different brain region, a comprehensive integrative analysis of ADHD.Behav Brain Res.(2019) 364:183 92. doi:[ 10.1016/j.bbr.2019.02.010](https://doi.org/10.1016/j.bbr.2019.02.010)
+
+20. Hitomi Y, Nakatani K, Kojima K, Nishida N, Kawai Y, Kawashima M, et al.
+
+NFKB1 and MANBA confer disease susceptibility to primary biliary cholangitis via independent putative primary functional variants. Cell Mol Gastroenterol Hepatol. (2019) 7:515 32. doi:[ 10.1016/j.jcmgh.2018.11.006](https://doi.org/10.1016/j.jcmgh.2018.11.006)
+
+21. MacArthur<a name="_page5_x309.79_y164.92"></a> J, Bowler E, Cerezo M, Gil L, Hall P, Hastings E, et al. The
+
+new NHGRI-EBI catalog of published genome-wide association studies (GWAS Catalog).Nucleic Acids Res.(2017) 45:D896 901. doi:[ 10.1093/nar/gkw1133](https://doi.org/10.1093/nar/gkw1133)
+
+22. Marangoni<a name="_page5_x309.79_y192.93"></a> C, Hernandez M, Faedda GL. The role of environmental
+
+<a name="_page5_x56.73_y200.92"></a>exposures as risk factors for bipolar disorder: a systematic review of longitudinal studies. J Affect Disord.(2016) 193:165 74. doi:[ 10.1016/j.jad.2015.12.055](https://doi.org/10.1016/j.jad.2015.12.055)
+
+23. Sciberras<a name="_page5_x309.79_y220.92"></a> E, Mulraney M, Silva D, Coghill D. Prenatal risk factors and the
+
+etiology of ADHD review of existing evidence. Curr Psychiatry Rep.(2017) 19:1. <a name="_page5_x56.73_y236.92"></a>doi:[ 10.1007/s11920-017-0753-2](https://doi.org/10.1007/s11920-017-0753-2)
+
+24. Manzari<a name="_page5_x309.79_y248.93"></a> N, Matvienko-Sikar K, Baldoni F, O’Keeffe GW, Khashan AS.
+
+Prenatal maternal stress and risk of neurodevelopmental disorders in the offspring: a systematic review and meta-analysis.Soc Psychiatry Psychiatric Epidemiol.(2019) <a name="_page5_x56.73_y272.92"></a>54:1299 309. doi:[ 10.1007/s00127-019-01745-3](https://doi.org/10.1007/s00127-019-01745-3)
+
+25. Perez<a name="_page5_x309.79_y284.92"></a> Algorta G, Kragh CA, Arnold LE, Molina BSG, Hinshaw SP, Swanson
+
+<a name="_page5_x56.73_y292.92"></a>JM, et al. Maternal ADHD symptoms, personality, and parenting str ess: differences between mothers of children with ADHD and mothers of comparison children. J Attent Disord.(2018) 22:1266 77. doi:[ 10.1177/1087054714561290](https://doi.org/10.1177/1087054714561290)
+
+26. Brown<a name="_page5_x309.79_y320.92"></a> NM, Brown SN, Briggs RD, GermÆn M, Belamarich PF, Oyeku SO.
+
+Associations between adverse childhood experiences and ADHD diagnosis and severity.Acad Pediatr. (2017) 17:349 55. doi:[ 10.1016/j.acap.2016.08.013](https://doi.org/10.1016/j.acap.2016.08.013)
+
+27. Agnew-Blais<a name="_page5_x309.79_y348.92"></a> J, Danese A. Childhood maltreatment and unfavourable clinical
+
+outcomes in bipolar disorder: a systematic review and meta-an alysis. Lancet Psychiatry.(2016) 3:342 9. doi:[ 10.1016/S2215-0366(15)00544-1](https://doi.org/10.1016/S2215-0366\(15\)00544-1)
+
+28. Biederman<a name="_page5_x309.79_y376.92"></a> J, Petty CR, Evans M, Small J, Faraone SV. How persistent is
+
+ADHD? A controlled 10-year follow-up study of boys with ADHD.Psychiatry Res. (2010) 177:299 304. doi:[ 10.1016/j.psychres.2009.12.010](https://doi.org/10.1016/j.psychres.2009.12.010)
+
+29. Faraone<a name="_page5_x309.79_y404.92"></a> SV, Biederman J, Mick E. The age-dependent declineof attention
+
+deficit hyperactivity disorder: a meta-analysis of follow-up studies. Psychol Med. (2006) 36:159 65. doi:[ 10.1017/S003329170500471X](https://doi.org/10.1017/S003329170500471X)
+
+30. Song<a name="_page5_x309.79_y432.92"></a> P, Zha M, Yang Q, Zhang Y, Li X, Rudan I. The prevalence ofadult
+
+attention-deficit hyperactivity disorder: a global systematic review and meta- analysis.J Global Health.(2021) 11:1 9. doi:[ 10.7189/jogh.11.04009](https://doi.org/10.7189/jogh.11.04009)
+
+31. Shaw<a name="_page5_x309.79_y460.92"></a> P, Sudre G. Adolescent attention-deficit/hyperactivity disorder:
+
+understanding teenage symptom trajectories. Biol Psychiatry.(2021) 89:152 161. <a name="_page5_x56.73_y476.92"></a>doi:[ 10.1016/j.biopsych.2020.06.004](https://doi.org/10.1016/j.biopsych.2020.06.004)
+
+32. Faedda<a name="_page5_x309.79_y488.92"></a> GL, Serra G, Marangoni C, Salvatore P, Sani G, VÆzquez GH,et al.
+
+Clinical risk factors for bipolar disorders: a systematic review of prospective <a name="_page5_x56.73_y504.92"></a>studies. J Affect Disord.(2014) 168:314 21. doi:[ 10.1016/j.jad.2014.07.013](https://doi.org/10.1016/j.jad.2014.07.013)
+
+33. Caye<a name="_page5_x309.79_y516.92"></a> A, Swanson J, Thapar A, Sibley M, Arseneault L, HechtmanL, et al. Life
+
+span studies of ADHD conceptual challenges and predictors of persistence and outcome. Curr Psychiatry Rep.(2016) 18:111. doi[: 10.1007/s11920-016-0750-](https://doi.org/10.1007/s11920-016-0750-x)x
+
+<a name="_page5_x309.79_y544.93"></a>34.TandonM, TillmanR,AgrawalA,LubyJ.Trajectories ofADHDseverity over 10 years from childhood into adulthood. ADHD Attent Deficit Hyperact Disord. (2016) 8:121 30. doi:[ 10.1007/s12402-016-0191-8](https://doi.org/10.1007/s12402-016-0191-8)
+
+35. Chu<a name="_page5_x309.79_y572.92"></a> CS, Tsai SJ, Hsu JW, Huang KL, Cheng CM, Su TP, et al. Diagnostic
+
+progression to bipolar disorder in 17,285 adolescents and young adults with attention deficit hyperactivity disorder: a longitudinal follow-up study. J Affect Disord.(2021) 295:1072 8. doi:[ 10.1016/j.jad.2021.08.097](https://doi.org/10.1016/j.jad.2021.08.097)
+
+36. Purper-Ouakil<a name="_page5_x309.79_y608.92"></a> D, Porfirio MC, le Strat Y, Falissard B, Gorwood P, Masi
+7. What do childhood attention deficit/hyperactivity symptoms in depressed adults tell us about the bipolar spectrum? Psychiatry Res.(2017) 249:244 51. doi:[ 10.1016/j.psychres.2016.12.055](https://doi.org/10.1016/j.psychres.2016.12.055)
+   36. RydØn<a name="_page5_x309.79_y644.92"></a> E, Thase ME, Str ht D, ¯berg-Wistedt A, Bejerot S, LandØn
+   1000. A history of childhood attention-deficit hyperactivity disorder (ADHD) impacts clinical outcome in adult bipolar patients regardless of current ADHD. Acta Psychiatrica Scandinavica. (2009) 120:239 46. <a name="_page5_x56.73_y679.93"></a>doi:[ 10.1111/j.1600-0447.2009.01399.](https://doi.org/10.1111/j.1600-0447.2009.01399.x)x
+         36. Meier<a name="_page5_x309.79_y688.92"></a> SM, Pavlova B, Dalsgaard S, Nordentoft M, Mors O, Mortensen PB,
+
+et al. Attention-deficit hyperactivity disorder and anxiety disorders as precursors of bipolar disorder onset in adulthood. Brit J Psychiatry. (2018) 213:555 60. doi:[ 10.1192/bjp.2018.111](https://doi.org/10.1192/bjp.2018.111)
+
+39. Krueger<a name="_page5_x309.79_y724.92"></a> RF, Markon KE. Understanding psychopathology: melding behavior
+
+genetics, personality, and quantitative psychology to develop an empirically based model. Curr Dir Psychol Sci.(2006) 15:113. doi[: 10.1111/j.0963-7214.2006.00418.](https://doi.org/10.1111/j.0963-7214.2006.00418.x)x
+
+[Frontiersin Psychiatry](https://www.frontiersin.org/journals/psychiatry)
+
+[frontiersin.org](https://www.frontiersin.org)
+Comparelli et al.
+
+- [/fpsyt.    .      ](https://doi.org/10.3389/fpsyt.2022.949375)
+40. Althoff RR, Verhulst FC, Rettew DC, Hudziak JJ, van der Ende J. Adult
+
+outcomes of childhood dysregulation: a 14-year follow-up study. J Am Acad Child Adolesc Psychiatry.(2010) 49:1105 16. doi:[ 10.1016/j.jaac.2010.08.006](https://doi.org/10.1016/j.jaac.2010.08.006)
+
+41. Deutz MHF, Geeraerts SB, Belsky J, Dekovi·c M, van Baar AL, Prinzie P, et al.
+
+General psychopathology and dysregulation profile in a longitudinal community sample: stability, antecedents and outcomes. Child Psychiatry Hum Dev.(2020) 51:114 26. doi:[ 10.1007/s10578-019-00916-2](https://doi.org/10.1007/s10578-019-00916-2)
+
+42. Pinna M, Visioli C, Rago CM, Manchia M, Tondo L, Baldessarini RJ.
+
+Attention deficit-hyperactivity disorder in adult bipolar diso rder patients. J Affect Disord.(2019) 243:391 6. doi:[ 10.1016/j.jad.2018.09.038](https://doi.org/10.1016/j.jad.2018.09.038)
+
+43. Serrano<a name="_page6_x56.73_y184.72"></a> E, Ezpeleta L, Castro-Fornieles J. Comorbidity andphenomenology
+
+of bipolar disorder in children with ADHD. J Attent Disord. (2013) 17:330 8. doi:[ 10.1177/1087054711427553](https://doi.org/10.1177/1087054711427553)
+
+44. Doerfler LA, Connor DF, Toscano PF. Aggression, ADHD symptoms, and
+
+dysphoria inchildren and adolescents diagnosed withbipolar disorder andADHD. J Affect Disord.(2011) 131:312 9. doi:[ 10.1016/j.jad.2010.11.029](https://doi.org/10.1016/j.jad.2010.11.029)
+
+45. Bernardi S, Cortese S, Solanto M, Hollander E, Pallanti S. Bipolar
+
+disorder and comorbid attention deficit hyperactivity disorder. A distinct clinical phenotype? Clinical characteristics and temperamental traits . World J Biol Psychiatry.(2010) 11:656 66. doi:[ 10.3109/15622971003653238](https://doi.org/10.3109/15622971003653238)
+
+46. Perugi G, Ceraudo G, Vannucchi G, Rizzato S, Toni C, Dell’Osso
+50. Attention deficit/hyperactivity disorder symptoms in italian bipolar adult patients: a preliminary report. J Affect Disord. (2013) 149:430 4. doi:[ 10.1016/j.jad.2012.12.010](https://doi.org/10.1016/j.jad.2012.12.010)
+    46. Karaahmet E, Konuk N, Dalkilic A, Saracli O, Atasoy N, Kur er
+
+MA, et al. The comorbidity of adult attention-deficit/hyperactivity disorder in bipolar disorder patients. Comp Psychiatry. (2013) 54:549 55. doi:[ 10.1016/j.comppsych.2012.11.005](https://doi.org/10.1016/j.comppsych.2012.11.005)
+
+48. Youngstrom EA, Arnold LE, Frazier TW. Bipolar and ADHD comorbidity:
+
+both artifact and outgrowth of shared mechanisms. Clin Psychol Sci Pract.(2010) 17:350 9. doi:[ 10.1111/j.1468-2850.2010.01226.x](https://doi.org/10.1111/j.1468-2850.2010.01226.x)
+
+49. Lus G, Mukaddes NM. Co-morbidity of bipolar disorder in children
+
+and adolescents with attention deficit/hyperactivity disorder (ADHD) in an outpatient Turkish sample. World J Biol Psychiatry. (2009) 10:488 94. doi:[ 10.1080/15622970902929876](https://doi.org/10.1080/15622970902929876)
+
+50. Leibenluft<a name="_page6_x56.73_y412.73"></a> E. Severe mood dysregulation, irritability, and the diagnostic
+
+boundaries of bipolar disorder in youths. Am J Psychiatry.(2011) 168:129 42. doi:[ 10.1176/appi.ajp.2010.10050766](https://doi.org/10.1176/appi.ajp.2010.10050766)
+
+51. Perugi<a name="_page6_x309.79_y92.72"></a> G, Pallucchini A, Rizzato S, Pinzo<a name="_page6_x452.02_y92.72"></a>ne V, De Rossi P. Curent
+
+and emerging pharmacotherapy for the treatment of adult attention deficit hyperactivity disorder (ADHD). Expert Opin Pharmacother. (2019) 20:1457 70. <a name="_page6_x56.73_y120.72"></a>doi:[ 10.1080/14656566.2019.161827](https://doi.org/10.1080/14656566.2019.1618270)0
+
+52. Wender<a name="_page6_x309.79_y128.72"></a> PH, Wolf LE, Wasserstein J. Adults with ADHD. An overview.Ann
+
+N Y Acad Sci.(2001) 931:1 16. doi:[ 10.1111/j.1749-6632.2001.tb05770.x](https://doi.org/10.1111/j.1749-6632.2001.tb05770.x)
+
+53. Larsson<a name="_page6_x309.79_y148.72"></a> H, RydØn E, Boman M, L ngstr m N, Lichtenstein P, LandØn
+1000. Risk<a name="_page6_x56.73_y156.72"></a> of bipolar disorder and schizophrenia in relatives of people with attention-deficit hyperactivity disorder. Br J Psychiatry. (2013) 203:103 6. doi:[ 10.1192/bjp.bp.112.120808](https://doi.org/10.1192/bjp.bp.112.120808)
+      53. Biederman<a name="_page6_x309.79_y184.72"></a> J, Faraone SV, Petty C, Martelon MK, Woodworth KY,
+
+Wozniak J. Further evidence that pediatric-onset bipolar disorder comorbid with ADHD represents a distinct subtype: results from a large controlled <a name="_page6_x56.73_y212.72"></a>[family study. J Psychiatr Res. (2013) 47:15. doi: 10.1016/j.jpsychires.2012](https://doi.org/10.1016/j.jpsychires.2012.08.002). [08.002](https://doi.org/10.1016/j.jpsychires.2012.08.002)
+
+55. van<a name="_page6_x309.79_y228.72"></a> Hulzen KJE, Scholz CJ, Franke B, Ripke S, Klein M, McQuillin
+
+<a name="_page6_x56.73_y240.72"></a>A, et al. Genetic overlap between attention-deficit/hyperactivity disorder and bipolar disorder: evidence from genome-wide association study meta- [analysis. Biol Psychiatry. (2017) 82:634 41. doi: 10.1016/j.biopsych.2016. 08.040](https://doi.org/10.1016/j.biopsych.2016.08.040)
+
+56. Masi<a name="_page6_x56.73_y276.72"></a><a name="_page6_x309.79_y272.72"></a> G, Perugi G, Toni C, Millepiedi S, Mucci M, Bertini N, et al. Attention-
+
+deficit hyperactivity disorder  bipolar comorbidity in children and adolescents. Bipolar Disord.(2006) 8:373 81. doi:[ 10.1111/j.1399-5618.2006.00342.](https://doi.org/10.1111/j.1399-5618.2006.00342.x)x
+
+57. Kotov<a name="_page6_x309.79_y300.72"></a> R, Waszczuk MA, Krueger RF, Forbes MK, Watson D, Clark LA,
+
+<a name="_page6_x56.73_y312.72"></a>et al. The hierarchical taxonomy of psychopathology (HiTOP): a dimensional alternative to traditional nosologies. J Abnorm Psychol. (2017) 126:454 77. doi:[ 10.1037/abn0000258](https://doi.org/10.1037/abn0000258)
+
+58. Faraone<a name="_page6_x309.79_y336.72"></a> SV. Attention-deficit hyperactivity disorder and the
+
+<a name="_page6_x56.73_y348.72"></a>shifting sands of psychiatric nosology. Br J Psychiatry. (2013) 203:81 3. doi:[ 10.1192/bjp.bp.113.126524](https://doi.org/10.1192/bjp.bp.113.126524)
+
+59. Scheffer<a name="_page6_x309.79_y364.72"></a> RF. Concurrent ADHD and bipolar disorder. Curr Psychiatry Rep.
+
+<a name="_page6_x56.73_y376.72"></a>(2007) 9:415 9. doi:[ 10.1007/s11920-007-0054-2](https://doi.org/10.1007/s11920-007-0054-2)
+
+60. Klassen<a name="_page6_x309.79_y384.72"></a> LJ, Katzman MA, Chokka P. Adult ADHD and its comorbidities,
+
+with a focus on bipolar disorder. J Affect Disord. (2010) 124:1 8. doi:[ 10.1016/j.jad.2009.06.036](https://doi.org/10.1016/j.jad.2009.06.036)
+
+61. Perugi<a name="_page6_x309.79_y412.73"></a> G, Vannucchi G. The use of stimulants and atomoxetine in adults
+
+with comorbid ADHD and bipolar disorder. Expert Opin Pharmacother. (2015) 16:2193 204. doi:[ 10.1517/14656566.2015.1079620](https://doi.org/10.1517/14656566.2015.1079620)
+[Frontiersin Psychiatry](https://www.frontiersin.org/journals/psychiatry)
+
+[frontiersin.org](https://www.frontiersin.org)

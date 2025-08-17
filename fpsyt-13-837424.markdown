@@ -1,0 +1,221 @@
+﻿Hours et al.![ref1]
+
+ASD and ADHD Comorbidity
+
+[PERSPECTIVE published: 28 February 2022](https://www.frontiersin.org/journals/psychiatry#editorial-board)![](ntu1leuo.002.png)
+
+[doi: 10.3389/fpsyt.2022.837424](https://doi.org/10.3389/fpsyt.2022.837424)
+
+![](ntu1leuo.003.png)
+
+[ASD and ADHD Comorbidity: What Are We Talking About?](https://www.frontiersin.org/articles/10.3389/fpsyt.2022.837424/full)
+
+Camille Hours\*, Christophe Recasens and Jean-Marc Baleyte
+
+Service universitaire de Psychiatrie de l’Enfant et de l’Adolescent, Centre hospitalier Intercomunal de Créteil, Créteil, France
+
+According to the scientific literature, 50 to 70% of individuals with autism spectrum disorder(ASD)alsopresentwithcomorbidattentiondeficithyperactivitydisorder(ADHD). From a clinical perspective, this high rate of comorbidity is intriguing. What is the real significance of this dual diagnosis? Is ADHD in fact always present in such cases? Might the attentional impairment reported among our ASD patients actually be a distinct trait of their ASD—namely, impaired joint attention—rather than an ADHD attention deficit? Could their agitation be the consequence of this joint attention impairment or related to a physical restlessness etiologically very different from the agitation typical of ADHD? The neurobiological reality of ASD-ADHD comorbidityis a subject of debate, and amphetamine-based treatment can have paradoxical or undesirable effects in the ASD population. Consequently, does a dual diagnosis, notwithstanding its currency in the literature, prevent us from shedding sufficient light on major physiopathologic questions raised by the clinical picture of ASD?
+
+![](ntu1leuo.004.png) Keywords: autism, attention deficit and hyperactivity disorder, attention, agitation, restlessness, comorbidity,
+
+autism spectrum disorder
+
+Edited by:
+
+Jeffrey C. Glennon,
+
+University College Dublin, Ireland INTRODUCTION
+
+Reviewed by:
+
+Say How Ong, The semiology of autism spectrum disorder (ASD) and attention deficit hyperactivity disorder Institute of Mental Health, Singapore (ADHD) presented in current nosography, which helps clinician s to identify these disorders, makes \*Correspondence: it clear that they are different entities, affecting children and their developmental histories in ways
+
+Camille Hours that are clearly distinct. In the first case, we are primarily describing distracted children who pay [camille.hours@chicreteil.f](mailto:camille.hours@chicreteil.fr)r little attention in academic settings, lose their belongings, and have difficulty sustaining mental effort. In the second case, we are talking about children who seldom associate with others, have
+
+Specialty section: a hard time interacting and communicating, and may display unique motor or verbal behaviors, This article was submitted to including stereotypies, echolalia, and idiosyncratic language. Whereas, children with ADHD tend Child and Adolescent Psychiatry, to be relatively boisterous and talkative, and eager rather than apprehensive of interactions with aFsroencttiieornsoinf tPhseycjohuiarntrayl peersoradults,autisticchildrenmaybedistinguishedbyth eirrepetitiveandlesscoordinatedmotor
+
+function,difficultycommunicating,emotionsinsyncwiththeirsensoryrealitymorethanwiththeir Received: 16 December 2021 social setting, and uniform behaviors that keep the unpredictable at bay.
+
+PAucbclieshpetedd::2284FJeabnruuaarryy22002222 Epidemiologically, these two disorders also differ in their incidence. Their diagnoses are made at different ages. Children with ASD can be identified before they are 3 years old, while ADHD
+
+Citation: is diagnosed later on. Both fall into the wider category of neurodevelopmental disorders, within Baleyte J-HMou(2rs02C2,)RAeScDasaennds ACDaHnDd which comorbidities  are considered relatively frequent .
+
+Comorbidity: What Are We Talking The prevalence of ADHD in people with ASD ranges from 50 to 70%, according to the literature About? Front. Psychiatry 13:837424. [(1)](#_page4_x48.33_y540.05).Wheredoesthisfigurecomefrom?Howwasitobtained,which studiesandsemiologicalcriteria doi:[ 10.3389/fpsyt.2022.837424](https://doi.org/10.3389/fpsyt.2022.837424) were applied, and how were the relevant clinical data collected?![](ntu1leuo.005.png)
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)[ | www.frontiersin.or](https://www.frontiersin.org)g  [February 2022 | Volume 13 | Article 83742](https://www.frontiersin.org/journals/psychiatry#articles)4
+Hours et al.![ref1]
+
+ASD and ADHD Comorbidity
+
+This figure is the product of meta-analyses. It is important to note the variability of findings between studies more than
+
+a mean prevalence, a precise yet illusory value reflecting the viewthatthiscomorbidityisaclearlymeasurableentity because it admits an alternative interpretation of the phenomenon in question. Indeed, reported rates of comorbidity range from 10 to 90%. In the logic of meta-analysis, variation is often explained through methodological arguments: studies diverging from the mean are said to describe different populations, apply less valid methods of measurement, or gather their data in atypical ways. Yet, in part, what may be described as bias  could betray an unsound theoretical foundation, accommodating a multitude of experimental paradigms measuring what is thought to be the same phenomenon.
+
+Thisarticlethusaimstorecalltheattentionalfeaturesinherent to ASD; to describe and analyze the variability of data reported in the literature; and finally, to draw on studies of factors related to attention, such as memory, sensorimotor function, executive functioning, and intellectual disability, for a better understanding of the role these variables play in the expression of cognitive capacity within the ASD population.
+
+AUTISM AND ATTENTION
+
+Attention is defined as a process of selection applied to the product of perception, and may even be directed toward memories. To direct attention on a perceptual or internally represented entity, our working memory must be trained on a goal for the duration of the task at hand. Attention encompasses essential elements of the executive functions and can be further broken down into sustained attention; focused attention; visual search, whereby the target of attention is defined using a template stored in working memory; voluntary or reflexive orienting and disengagement; attentional filtering; and expectation ([2)](#_page4_x48.33_y568.55).
+
+In people with ASD, these components of attention have a characteristic profile: sustained and focused attention is stronger thaninnormalsubjects; visualsearchisalso,thoughthisseemsto reflect the quality of perceptual processing more than attention; and the ability to orient attention toward non-social stimuli is deficient, as are reflexive and voluntary disengagement, in certain settings. Attentional filtering is not compromised in ASD patients having no intellectual disability. Higher-functioning ASDpatientshaveaspecificattentionalimpairmentnotobserved among other ASD patients ([3)](#_page4_x48.33_y597.05). Joint attention also appears to be lacking.
+
+Can the comorbidity of ASD and ADHD truly be established by considering executive functions alone, as several studies suggested [(4)](#_page4_x48.33_y635.05)? The developmental cognitive specificities of ASD have been well described as they are linked with perception aspects but their executive or attentional aspects have been relatively neglected. Attentional impairments in autism tend to be more of the ‘not listening’ and ‘difficulty shifting focus’type than of the ‘short attention span’ and ‘excessive distractibility’
+
+type[1](#_page1_x309.22_y701.21).  These distinct clinical particulars suggest attentional symptoms inherent to ASD rather than comorbid ADHD.
+
+WHAT DO COMORBIDITY STUDIES ADDRESS?
+
+While the DSM-4 and ICD-10 give mutually exclusive diagnoses of ADHD and ASD, the DSM-5 mentions each condition in its description of the other, admitting the possibility of comorbidity.
+
+Sprenger et al. [(5)](#_page4_x48.33_y663.55) concluded that autistic symptoms were significantly more severe, especially in the area of social interaction (as evaluated by the social responsiveness scale and autism diagnostic interview), in patients with dual ASD-ADHD diagnoses than in those with ASD alone. Yet this conclusion might also illustrate the frequent clinical confusion of these disorders: could the severe autism they describe not just as well itself be the cause of a more symptomatic attention deficit, without suggesting the presence of ADHD? Similarly, Green et al. [(6)](#_page4_x309.59_y521.05) stated that autistic symptoms were more prevalent in children with ADHD. Their study considered a group of children aged 6 to 10 divided into an ADHD subgroup and a control subgroup without ADHD. It seems questionable to conclude that autistic symptoms are more prevalent in ADHD patients without recognizing that the severity of ASD is independently at the origin of pronounced attentional deficiencies. The study also concluded that the intensity of hyperactive and impulsive symptoms directly impacts the severity of ASD symptoms, without inversely considering that, again, the severity of ASD might independently explain signs of psychomotor agitation and attentional deficiencies. Furthermore, findings did not differ by ADHD subtype, which further supports the hypothesis that the observed attentional deficit and motor hyperactivity are more directly explained by severe autism than comorbid ADHD.
+
+Some studies have reported structural differences in attentional functions between ASD and ADHD patients, while others suggest these disorders present identical deficiencies [(7,](#_page4_x309.59_y559.05)[ 8)](#_page4_x309.59_y587.55).
+
+Barnard-Brak ([9)](#_page4_x309.59_y616.05) reported varying ability to distinguish individuals with ASD from those with ADHD on the basis of their performance on different cognitive tasks that assess sustained attention. However, the rapid letter naming task, which is thought to predict surface reading ability and other reading skills, did reveal significant differences between ASD and ADHD children: the former spent more time on the task and performed better. Thus, the interpretation of performance on cognitive - attentional tasks evaluating sustained attention requires special caution to avoid confusing the two disorders. This study also highlighted the effect of environment on the performance of attentional tasks by those with ASD: the setting under which individualscompletediagnostictestscangreatlyinfluenceresults.
+
+Hochhauser et al. ([10)](#_page4_x305.98_y644.55) described specific attentional traits related to social interaction in young adults with ASD that may, however, be the consequences of another form of cognitive impairment. Several studies have reported cognitive
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)[ | www.frontiersin.or](https://www.frontiersin.org)g  [February 2022 | Volume 13 | Article 83742](https://www.frontiersin.org/journals/psychiatry#articles)4
+Hours et al.![ref1]
+
+ASD and ADHD Comorbidity
+
+**Abbreviations:** ADHD, attention deficit hyperactivity disorder; ASD, autism<a name="_page1_x309.22_y701.21"></a> ![](ntu1leuo.006.png)![](ntu1leuo.007.png)
+
+spectrum disorder. 1[https://caddra.ca/pdfs/caddraGuidelines2011Chapter02.pdf.](https://caddra.ca/pdfs/caddraGuidelines2011Chapter02.pdf)![ref2]
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)[ | www.frontiersin.or](https://www.frontiersin.org)g  [February 2022 | Volume 13 | Article 83742](https://www.frontiersin.org/journals/psychiatry#articles)4
+Hours et al.![ref1]
+
+ASD and ADHD Comorbidity
+
+characteristics affecting attentional skills in the ASD population, including difficulty disengaging, significantly greater processing of local details, or heightened perception yet context blindness . These elements in turn influence processing speed. Processing speed is therefore not impaired directly, but rather, differences in how perceptual data are processed have an impact on attention. Hence, it would seem more appropriate to speak of attentional traits of ASD, rather than attentional anomalies or deficits, thereby distinguishing them from ADHD.
+
+Mayes et al. [(11)](#_page4_x305.98_y682.55) demonstrated that disruptive mood dysregulation disorder was extremely prevalent among children with ASD, significantly more so than among ADHD and neurotypical children. Moreover, 91% of the children with disruptive mood dysregulation disorder symptoms also satisfied criteria for oppositional defiant disorder, revealing the very high prevalence of externalizing behaviors in ASD. The presence of psychomotor agitation cannot be automatically attributed to ADHD motor hyperactivity but does suggest an emotional dysregulation disorder more directly linked to the behavioral effects of irritability.
+
+PHYSIOPATHOLOGIC ASPECTS: IMAGING AND EEG DATA
+
+Is observed agitation then a sign of the prefrontal inhibitory deficit underlying ADHD or rather a state of restlessness, a minimal expression of cerebellar dysfunction, characterizing an etiologically distinct entity? The association of ASD with alterations in specific brain regions is becoming increasingly clearer. The affected regions include the orbitofrontal cort ex, superior temporal sulcus, fusiform gyrus, amygdala, and cerebellum [(12)](#_page5_x44.73_y90.69), and the latter plays a role in learning processes, memorization, several executive functions, and cognition. In light of these facts, might it not be risky to diagnose ADHD, a disorder linked with an altered prefrontal cortex, in the ASD population?
+
+ADHD and ASD are described as frequently co-occurring, sharing certain cognitive phenotypes. However, it is important to be able to trace these shared features back to a common physiopathology and identify the physiopathologic characteristics of comorbidity, which may present additional neurofunctional deficits. Chantiluke et al. ([13)](#_page5_x44.73_y119.18) compared prefrontal function in four groups of youth with ASD, ADHD, comorbid ASD and ADHD, or neither disorder (controls) through a temporal discounting task, using fMRI. They revealed anomalies shared by the non-control groups, in addition to distinct features unique to each of these three groups. In comparison with the non-comorbid and control groups, the comorbid group presented unique and more severe impairments affecting the lateral and ventromedial prefrontal cortex, ventral striatum, and anterior cingulate cortex. These physiopathologic findings suggest that ASD-ADHD comorbidity does not correspond to a mere combination or addition of both disorders: it is neurofunctionally distinct and merits further study for more accurate characterization.![ref2]
+
+As shown by Lau-Zhu et al. [(14)](#_page5_x44.73_y166.68), ASD and ADHD are each associated with unique attention processing traits. Studies of event-related potentials (ERPs) concerned with inhibitory control and performance monitoring in ADHD (1[5 1](#_page5_x44.73_y214.19)[7), ](#_page5_x44.73_y290.18)and social or emotional processing as well as executive functioning in ASD [(18)](#_page5_x44.73_y318.68) mostly involving adolescents have reported distinct abnormal cognitive profiles for ADHD and ASD. Both disorders are associated with atypical allocation of attentional resources and atypical performance monitoring. However, the structural impairments underlying them are very different. With regards to attention, ADHD impairment tends to reflect difficulty detecting clues that would otherwise enable anticipation, while ASD impairment is more directly related to a heightened perceptual capacity and weaker orientation toward new inputs, with longer retention of stimuli in working memory and unique social, emotional, and executive functioning features. ADHD, unlike ASD, is more immediately linked to impaired inhibition. It is important to recall that impaired inhibition, the root physiopathologic feature of ADHD, has not been studied in cohorts of ASD patients. Sensory processing impairments, such as those observed in ASD, ultimately have repercussions on attentional processes. The causes of the attentional deficiencies seen in these two disorders would thus appear to be very distinct.
+
+Research applying quantitative EEG has demonstrated atypical profiles for ADHD, principally concerning theta and beta frequency bands ([17,](#_page5_x44.73_y290.18)[ 19)](#_page5_x44.73_y347.19), and for ASD, mainly related to alpha, beta, and gamma frequency bands ([20)](#_page5_x44.73_y394.69). ASD and ADHD have distinct and overlapping features in four neurocognitive domains: attention processing, performance monitoring, face processing and sensory processing  ([14)](#_page5_x44.73_y166.68). Yet studies comparing the two disorders or considering dual diagnoses have yet to be undertaken. Further investigation into the neural bases of co-occurring ADHD and ASD would be of particular interest.
+
+To better understand the distinct neuropsychological profiles of ADHD and ASD patients, it seems appropriate to consider visuospatial exploration strategies. In terms of visuospatial abilities, ADHD patients in a study by Cardillo et al. [(21) ](#_page5_x44.73_y432.69)exhibited a heterogeneous profile with more severely impaired visuospatial processing speed, while ASD patients and typically developing subjects had similar profiles. The authors also state that the local-global processing index effectively distinguishes these groups on the basis of performance on visuo-constructive tasks. Accordingly, a more detailed understanding of the neurocognitivespecificitiesofeachdisordermightbeacquiredby accounting for the various domains of visuospatial processing.
+
+DISCUSSION
+
+It has often been stated in the literature that ASD and ADHD are difficult to distinguish when making a diagnosis. Mayes et al. [(22)](#_page5_x44.73_y470.69), considering 847 children with ASD and 158 with ADHD, report that ADHD symptoms were commonly observed in ASD youth. Ratings of attention deficit, impulsivity, and hyperactivity were no different between children with ASD of any severity and children with ADHD-Combined type. Autism is very distinct from ADHD, but the core symptoms of ADHD-Combined type,
+
+i.e.,attentiondeficit,impulsivity,andhyperactivity,wouldappear toalsobefeaturesofautism.ASDandADHDareneurobiological disorderscharacterizedbysimilarunderlyingneuropsychological  deficits . A similar observation is made by Van der Meer et al. [(23)](#_page5_x44.73_y499.19). According to the authors, ASD and ADHD are different manifestations of one overarching disorder. They made the hypothesis there is a single continuum in which emotion regulation is a crucial common factor. In the same way, Ghirardi et al. [(24)](#_page5_x305.98_y62.19) demonstrated there do exist a genetic overlap between clinical ASD and ADHD, suggesting an underestimation of this overlap by genomic studies. Van der Meer et al. also added that children with a ADHD phenotype without ASD symptoms can clearly be identified while the opposite is not true. These observations corroborated the assumption attention disorder is aninherentfeatureofASD.ThoughMayesetal.quicklyconclude that attention deficits  in ASD and ADHD are similar, they do report an interesting difference between ASD and ADHD children in this domain: selective attention is significantly more common among children with ASD (98%), no matter the severity of their disorder, than among those with ADHD-Inattentive type or ADHD-Combined type (21%). Whereas, children with ADHD have difficulty fixing their attention on a given task, those with ASD do have the capacity to focus on activities that interest them, e.g., puzzle assembly, reading, or repetitive drawing. Consequently, the authors reach the conclusion that ASD and ADHD can be distinguished by certain symptoms that differ considerably. While autistic symptoms are rarely seen in ADHD, there are specific ADHD symptoms that are particularly common in autism. Accordingly, we maintain that the definition of autism must take into account those symptoms that mirror or overlap with symptoms of ADHD, thereby better representing boththeclinicalrealityofASD,whosesymptomsvaryinintensity along a spectrum, and its neurobiological reality, i.e., the cortical dysfunction of which the clinical symptoms are an expression.
+
+Mayes et al. also found no significant difference between children of normal intelligence with ASD, ADHD-Combined type, or ASD-Inattentive type in terms of performance on neuropsychological tests that evaluated attention, working memory, processing speed, and graphomotor skills.
+
+Can comorbidity of ASD and ADHD truly be established by considering executive functions alone, as suggested by some studies [(3)](#_page4_x48.33_y597.05)? Carter Leno et al. [(25)](#_page5_x305.98_y90.69) reported that multiple executive functioning impairments typically associated with ADHD are also found in people with ASD. Neuropsychological evaluations of executive functions do not fully account for the complexity of symptoms, and broader studies that consider additional brain functions could provide more clinical data essential for diagnoses. The study by Carter Leno et al. emphasized the limits of executive function exploration for discriminating ASD, ADHD, and oppositional defiant disorder subgroups. The authors evaluated the performance of four groups of youth ages 10 to 16 a typically developing group (N = 43) and three groups of individuals clinically diagnosed with ADHD (N = 21), oppositional defiant disorder (N = 26), and ASD (N = 41), respectively on go-no-go and switch tasks, and detected deficits shared by the ADHD, oppositional defiant disorder, and ASD groups, such as increased reaction![ref2]
+
+time variability. After controlling for symptoms of ADHD and oppositional defiant disorder, differences in reaction time variability between groups were no longer significant. For cognitive flexibility, as evaluated by the switch task, there was also no observed difference between groups. The ASD group alone exhibited impaired response inhibition and premature responsiveness, relative to the typically developing group. Carter Leno et al. thus concluded that executive functioning impairments specifically described as present in ADHD are also found in ASD. This stresses the need to explore and precisely define the characteristics of attentional impairment in autism. Thesecharacteristics,theircauses,andtheirconsequencesshould beincludedinthedefinitionofASD,tomoreaccuratelyrepresent its specificities.
+
+These findings are supported by those of Rosello et al. [(26)](#_page5_x305.98_y128.69), who reported significantly more ADHD symptoms and poorer learning behaviors in ASD children than in those exhibiting typical development. Furthermore, behavioral regulation problems and impaired executive functioning associated with ADHD symptoms significantly impacted performance for ASD children, objectively demonstrating the effect of ADHD symptoms on these children’s learning behaviors.
+
+The attentional impairment best described for ASD is diminished joint attention. It is also said to give rise to later social communication impairments, especially in connection with oromotor skills ([27 ](#_page5_x305.98_y166.68)[29)](#_page5_x305.98_y214.19). Recent functional neuroimaging studies reveal the influence of neural mechanisms through which sensory processing and attention may be modulated by the affective impact of a stimulus. The amygdala plays a central role in the production of direct and indirect top- down signals along sensory pathways, shaping how emotional events are represented. These modulatory effects implement specialized mechanisms of ‘emotional attention’ that might supplement but also compete with other sources of top-down control on perception ([30)](#_page5_x305.98_y252.19).  When interpreting attentional abilities, it therefore seems necessary to account for the role of neural processes and temporo-spatial dynamics of the brain determining how cognitive and affective elements are integrated into attention and behavior. These factors are fundamental to the study of attentional abilities in ASD patients in whom amygdalar dysfunction has been described. We may refer to the findings of Liss et al. [(31)](#_page5_x305.98_y271.19), who demonstrated that sensory overreactivity is associated with overselective, hyperreactive and overfocused attention; perseverative and stereotyped behaviors; and excellent memory skills but also with major social deficits. Sensory-seeking behaviors are strongly linked to overfocused attention. This kind of excessive attention can be mistaken for ADHD inattention.
+
+With respect to psychomotor agitation, it has been posited that ASD patients have atypical arousal systems, their state of overexcitement reflecting both excessive and fluctuating cortical activation by the brain stem. Dopaminergic hyperactivity along the nigrostriatal (explaining stereotypies) and mesolimbic (explaining interpersonal and perceptual deficits) pathways is a hypothesis gaining wider support. It would explain the perceived effectiveness of dopamine antagonists, vs. agonists, on all symptoms of autism. The above confirms the need to
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)[ | www.frontiersin.or](https://www.frontiersin.org)g 4 [February 2022 | Volume 13 | Article 83742](https://www.frontiersin.org/journals/psychiatry#articles)4
+Hours et al.![ref1]
+
+ASD and ADHD Comorbidity
+
+include the characteristics of hyperfocus among the diagnostic criteria for autism. Hyperfocus is a dimension also suggested by MEG studies [(32)](#_page5_x305.98_y299.69) pointing to long-range underconnectivity in ASD patients.
+
+Mundy et al. ([33)](#_page5_x305.98_y328.19) explain that joint attention plays a key role in the functional development of a distributed cortical system involving both anterior (prefrontal and insular cortices) and posterior (temporal and parietal cortices) neural networks. Hence, early impairment of joint attention has direct repercussions on all aspects of intero- and exteroceptive data integration, altering cortical processing. Interestingly, ASD patients are described as being slow to orient their attention. Harris et al. ([34)](#_page5_x305.98_y356.69) show, in children with ASD, that delay in orienting attention to visual stimuli correlates with severity of cerebellar hypoplasia, as evaluated by MRI. No correlations were found with the sizes of other brain regions. When interpreting the unique cognitive traits of people with ASD, particular attention must be paid to the role of the cerebellum. This may afford a broader understanding of the neurocognitive processes involved in ASD and a clinical perspective that better reflects the neurobiological facts.
+
+CONCLUSION
+
+To date, the mixed findings of etiologic ASD-ADHD comorbidity studies do not permit a clinical description of the physiopathologic comorbidity of these disorders. When speaking of comorbidity, are we not rather describing the severity of an attentional trait, with disabling functional effects, present in all ASD children?
+
+Thesestudies themselves demonstrate that childrendiagnosed with a comorbid disorder have more severe ASD. This suggests that rather than an ASD-ADHD comorbidity, as authors conclude the causes and consequences of a major attentional deficit typical of ASD are responsible for these patients’ profiles. If so, this attentional trait should be included in the clinical definition and description of ASD. Instead of an ADHD
+
+REFERENCES
+
+1. Rong Y, Yang C-J, Jin Y, Wang Y. Prevalence of attention-deficit/hyperactivity disorder in individuals with autism spectrum disorder: a meta-analysis.Res Autism Spectr Disord.(2021) 83:101759. doi[: 10.1016/j.rasd.2021.10175](https://doi.org/10.1016/j.rasd.2021.101759)9
+1. Rosenberg MD, Finn ES, Scheinost D, Constable RT, Chun MM. Characterizing attention with predictive networks models. Trends Cogn Sci. (2017) 21:290 302. doi:[ 10.1016/j.tics.2017.01.011](https://doi.org/10.1016/j.tics.2017.01.011)
+1. Mansour R, Ward AR, Lane DM, Loveland KA, Aman MG, Jerger S, et al. Severity as a predictor of cognitive task performance in children with autism spectrum disorder (ASD). Res Dev Disabil.(2021) 111:103882. doi[: 10.1016/j.ridd.2021.10388](https://doi.org/10.1016/j.ridd.2021.103882)2
+1. Gargaro BA, Rinehart NJ, Bradshaw JL, Tonge BJ, Sheppard DM. Autism and ADHD: how far have we come in the comorbidity debate? Neurosci Biobehav Rev.(2011) 35:1081 8. doi:[ 10.1016/j.neubiorev.2010.11.002](https://doi.org/10.1016/j.neubiorev.2010.11.002)
+1. Sprenger L, B hler E, Poustka L, Bach C, Heinzel-Gutenbrunner M, Kamp-Becker I, et al. Impact of ADHD symptoms on autism spectrum disorder symptom severity. Res Dev Disabil. (2013) 34:3545 52. doi:[ 10.1016/j.ridd.2013.07.028](https://doi.org/10.1016/j.ridd.2013.07.028)![ref2]
+
+explanation, we might then adopt an alternative etiologic perspective on these neurocognitive peculiarities and more fully account for the various brain impairments observed. As we have shown, children with ASD are affected much more by heightened attentional abilities than by a primary attention deficit, although thelattermaybemistakenly(anddangerously)suggestedby their clinical presentation. Therefore, we highlight the urgent need to develop new clinical and electrophysiological instruments to best fractionate and analyze these important neuropsychological features. This would be of crucial interest in particular for those modeling aspects of the co-morbidity in IPSC lines or animal models but also for the optimization of treatments use.
+
+The attentional specificities observed in ASD, and their consequences, which are a direct reflection of unique brain functioning again challenge the validity of polythetic diagnoses in psychiatry. Attention deficits are key behavioral phenotypes of a considerable number of neurological and genetic diseases characterized by complex psychiatric disorders. Might the error lie in conflating such deficits with the unique, and very different, attentional traits of autism? In other words, are the attentional characteristics of disorders ignored by making an erroneous generalization?
+
+Though further description of these characteristics is necessary, are they not key clinical symptoms of ASD in their own right justifying their inclusion in the definition of this disorder and potentially sufficient for its diagnosis?
+
+DATA AVAILABILITY STATEMENT
+
+The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.
+
+AUTHOR CONTRIBUTIONS
+
+All authors listed have made a substantial, direct, and intellectual contribution to the work and approved it for publication.
+
+6. Green<a name="_page4_x309.59_y521.05"></a> JL, Rinehart N, Anderson V, Nicholson JM, Jongeling B, Sciberras E. Autism spectrum disorder symptoms in children <a name="_page4_x48.33_y540.05"></a>with ADHD: a community-based study. Res Dev Disabil. (2015) 47:175 84. doi:[ 10.1016/j.ridd.2015.09.016](https://doi.org/10.1016/j.ridd.2015.09.016)
+6. Landry<a name="_page4_x309.59_y559.05"></a> R, Bryson SE. Impaired disengagement of attention in <a name="_page4_x48.33_y568.55"></a>young children with autism. J Child Psychol Psychiatry. (2004) 45:1115 22. doi:[ 10.1111/j.1469-7610.2004.00304.](https://doi.org/10.1111/j.1469-7610.2004.00304.x)x
+6. Kennedy<a name="_page4_x309.59_y587.55"></a> DM, Banks RS.The ADHD Autism Connection: a Step Toward <a name="_page4_x48.33_y597.05"></a>More Accurate Diagnosis and Effective Treatment. Colorado Spings, Colo: Waterbrook Press (2002).
+6. Barnard-Brak<a name="_page4_x309.59_y616.05"></a> L. The difference between autism and ADHD is in the eye of the cognitive task? Personal Individ Differ. (2011) 50:1305 
+
+   8. doi:<a name="_page4_x48.33_y635.05"></a>[ 10.1016/j.paid.2011.02.007](https://doi.org/10.1016/j.paid.2011.02.007)
+6. Hochhauser<a name="_page4_x305.98_y644.55"></a> M, Aran A, Grynszpan O. Investigating attention in young adults with autism spectrum disorder (ASD) using change <a name="_page4_x48.33_y663.55"></a>blindness and eye tracking. Res Autism Spectr Disord. (2021) 84:101771. doi[: 10.1016/j.rasd.2021.10177](https://doi.org/10.1016/j.rasd.2021.101771)1
+6. Mayes<a name="_page4_x305.98_y682.55"></a> SD, Waxmonsky J, Calhoun SL, Kokotovich C, Mathiowetz C, Baweja
+
+   R. Disruptive mood dysregulation disorder (DMDD) symptoms in children
+
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)[ | www.frontiersin.or](https://www.frontiersin.org)g  [February 2022 | Volume 13 | Article 83742](https://www.frontiersin.org/journals/psychiatry#articles)4
+Hours et al.![ref1]
+
+ASD and ADHD Comorbidity
+
+with autism, ADHD, and neurotypical development and impact of co-<a name="_page5_x305.98_y62.19"></a>occurring ODD, depression, and anxiety. Res Autism Spectr Disord.(2015) 18:64 72. doi:[ 10.1016/j.rasd.2015.07.003](https://doi.org/10.1016/j.rasd.2015.07.003)
+
+12. Li<a name="_page5_x44.73_y90.69"></a> D, Karnath H-O, Xu X. Candidate biomarkers in children with autism spectrum disorder: a review of MRI studies. Neurosci Bull.(2017) 33:219 
+
+    37. doi:[ 10.1007/s12264-017-0118-1](https://doi.org/10.1007/s12264-017-0118-1)
+12. Chantiluke<a name="_page5_x44.73_y119.18"></a> K, Christakou A, Murphy CM, Giampietro V, Daly EM, Ecker C, et al. Disorder-specific functional abnormalities during temporal discounting in youth with attention deficit hyperactivity disorder (ADHD), autism and comorbid ADHD and Autism . Psychiatry Res.(2014) 223:113 
+
+    37. doi:[ 10.1016/j.pscychresns.2014.04.006](https://doi.org/10.1016/j.pscychresns.2014.04.006)
+12. Lau-Zhu<a name="_page5_x44.73_y166.68"></a> A, Fritz A, McLoughlin G. Overlaps and distinctions between attention deficit/hyperactivity disorder and autism spectrum disorder in young adulthood: Systematic review and guiding framework for EEG-imaging research. Neurosci Biobehav Rev. (2019) 96:93 115. doi:[ 10.1016/j.neubiorev.2018.10.009](https://doi.org/10.1016/j.neubiorev.2018.10.009)
+12. Barry<a name="_page5_x44.73_y214.19"></a> RJ, Clarke AR, McCarthy R, Selikowitz M, Brown CR, Heaven PCL. Event-related potentials in adults with attention-deficit/hyperactivity disorder: an investigation using an inter-modal auditory/visual oddball task. Int J Psychophysiol Off J Int Organ Psychophysiol.(2009) 71:124 
+
+    37. doi:[ 10.1016/j.ijpsycho.2008.09.009](https://doi.org/10.1016/j.ijpsycho.2008.09.009)
+12. Johnstone SJ, Barry RJ, Clarke AR. Ten years on: a follow-up review of ERP research in attention-deficit/hyperactivity disorder. Clin Neurophysiol OffJ Int Fed Clin Neurophysiol.(2013) 124:644 57. doi:[ 10.1016/j.clinph.2012.09.006](https://doi.org/10.1016/j.clinph.2012.09.006)
+12. Tye<a name="_page5_x44.73_y290.18"></a> C, McLoughlin G, Kuntsi J, Asherson P. Electrophysiological markers of genetic risk for attention deficit hyperactivity disorder. Expert Rev Mol Med. (2011) 13:e9. doi[: 10.1017/S146239941100179](https://doi.org/10.1017/S1462399411001797)7
+12. Jeste<a name="_page5_x44.73_y318.68"></a> SS, Nelson CA. Event related potentials in the understanding of autism spectrum disorders: an analytical review. J Autism Dev Disord.(2009) 39:495 510. doi:[ 10.1007/s10803-008-0652-9](https://doi.org/10.1007/s10803-008-0652-9)
+12. Barry<a name="_page5_x44.73_y347.19"></a> RJ, Clarke AR, Johnstone SJ. A review of electrophysiology in attention-deficit/hyperactivity disorder: I. Qualitative and quantitative electroencephalography. Clin Neurophysiol Off J Int Fed Clin [Neurophysiol. (2003) 114:171 83. doi: 10.1016/S1388-2457(02)0 0362-0](https://doi.org/10.1016/S1388-2457\(02\)00362-0)
+12. Billeci L, Sicca F, Maharatna K, Apicella F, Narzisi A, Campatelli G, et al. On the application of quantitative EEG for characterizing autistic brain: a systematic review. Front Hum Neurosci. (2013) 7:442. doi[: 10.3389/fnhum.2013.00442](https://doi.org/10.3389/fnhum.2013.00442)
+12. Cardillo R, Vio C, Mammarella IC. A comparison of local-global visuospatial processing in autism spectrum disorder, nonverbal learning disability, ADHD and typical development. Res Dev Disabil. (2020) 103:103682. doi[: 10.1016/j.ridd.2020.10368](https://doi.org/10.1016/j.ridd.2020.103682)2
+12. Mayes SD, Calhoun SL, Mayes RD, Molitoris S. Autism and ADHD: Overlapping and discriminating symptoms. Res Autism Spectr Disord.(2012) 6:277 85. doi:[ 10.1016/j.rasd.2011.05.009](https://doi.org/10.1016/j.rasd.2011.05.009)
+12. Van der Meer JMJ, Oerlemans AM, Van Steijn DJ, Lappenschaar MGA, de Sonneville LMJ, Buitelaar JK, et al. Are autism spectrum disorder and attention-deficit/hyperactivity disorder different manifestations of one overarching disorder? Cognitive and symptom evidence from a clinical and population-based sample. J Am Acad Child [Adolesc Psychiatry. (2012) 51:1160 72.e3. doi: 10.1016/j.jaac.2012. 08.024](https://doi.org/10.1016/j.jaac.2012.08.024)![ref2]
+24. Ghirardi L, Brikell I, Kuja-Halkola R, Freitag CM, Franke B, Asherson P et al. The familial co-aggregation of ASDand ADHD: a register-basedcohort study. Mol Psychiatry.(2017) 23:257 62. doi:[ 10.1038/mp.2017.17](https://doi.org/10.1038/mp.2017.17)
+24. Carter<a name="_page5_x305.98_y90.69"></a> Leno V, Chandler S, White P, Pickles A, Baird G, Hobson C, et al. Testing the specificity of executive functioning impairments in adolescents withADHD,ODD/CDandASD. EurChildAdolescPsychiatry.(2018)27:899 908. doi:[ 10.1007/s00787-017-1089-5](https://doi.org/10.1007/s00787-017-1089-5)
+24. Rosello<a name="_page5_x305.98_y128.69"></a> B, Berenguer C, Baixauli I, Colomer C, Miranda A. ADHD symptoms and learning behaviors in children with ASD without intellectual disability. A mediation analysis of executive functions. PloS ONE. (2018) 13:e0207286. doi[: 10.1371/journal.pone.0207286](https://doi.org/10.1371/journal.pone.0207286)
+24. Dalton<a name="_page5_x305.98_y166.68"></a> JC, Crais ER, Velleman SL. Joint attention and oromotor abilities in young children with and without autism spectrum disorder. J Commun Disord.(2017) 69:27 43. doi:[ 10.1016/j.jcomdis.2017.06.002](https://doi.org/10.1016/j.jcomdis.2017.06.002)
+24. Charman T. Why is joint attention a pivotal skill in autism? Philos Trans R Soc Lond B Biol Sci.(2003) 358:315 24. doi:[ 10.1098/rstb.2002.1199](https://doi.org/10.1098/rstb.2002.1199)
+24. Oberwelland<a name="_page5_x305.98_y214.19"></a> E, Schilbach L, Barisic I, Krall SC, Vogeley K, Fink GR, et al. Young adolescents with autism show abnormal joint attention network: a gaze contingent fMRI study. NeuroImage Clin. (2017) 14:112 
+
+    21. doi:[ 10.1016/j.nicl.2017.01.006](https://doi.org/10.1016/j.nicl.2017.01.006)
+24. Vuilleumier<a name="_page5_x305.98_y252.19"></a> P. How brains beware: neural mechanisms of emotional attention. Trends Cogn Sci.(2005) 9:585 94. doi:[ 10.1016/j.tics.2005.10.011](https://doi.org/10.1016/j.tics.2005.10.011)
+24. Liss<a name="_page5_x305.98_y271.19"></a> M, Saulnier C, Fein D, Kinsbourne M. Sensory and attention abnormalities in autistic spectrum disorders. Autism Int J Res Pract.(2006) 10:155 72. doi:[ 10.1177/1362361306062021](https://doi.org/10.1177/1362361306062021)
+24. O’Reilly<a name="_page5_x305.98_y299.69"></a> C, Lewis JD, Elsabbagh M. Is functional brain connectivity atypical in autism? A systematic review of EEG and MEG studies.PloS One.(2017) 12:e0175870. doi[: 10.1371/journal.pone.0175870](https://doi.org/10.1371/journal.pone.0175870)
+24. Mundy<a name="_page5_x305.98_y328.19"></a> P, Gwaltney M, Henderson H. Self-referenced processing, neurodevelopment and joint attention in autism. Autism Int J Res Pract. (2010) 14:408 29. doi:[ 10.1177/1362361310366315](https://doi.org/10.1177/1362361310366315)
+24. Harris<a name="_page5_x305.98_y356.69"></a> NS, Courchesne E, Townsend J, Carper RA, Lord C. Neuroanatomic contributions to slowed orienting of attention in children with autism. Brain Res Cogn Brain Res.(1999) 8:61 71. doi:[ 10.1016/S0926-6410(99)00006-3](https://doi.org/10.1016/S0926-6410\(99\)00006-3)
+
+<a name="_page5_x44.73_y394.69"></a>**Conflict of Interest:** The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+<a name="_page5_x44.73_y432.69"></a>**Publisher’s Note:**All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in <a name="_page5_x44.73_y470.69"></a>this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+<a name="_page5_x44.73_y499.19"></a>Copyright ' 2022 Hours, Recasens and Baleyte. This is an open-acces article distributed under the terms of the[ Creative Commons Attribution License (CC BY](http://creativecommons.org/licenses/by/4.0/)). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+[Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry)[ | www.frontiersin.or](https://www.frontiersin.org)g  [February 2022 | Volume 13 | Article 83742](https://www.frontiersin.org/journals/psychiatry#articles)4
+
+[ref1]: ntu1leuo.001.png
+[ref2]: ntu1leuo.008.png

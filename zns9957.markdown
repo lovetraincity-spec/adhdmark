@@ -1,0 +1,591 @@
+﻿TheJournalofNeuroscience,July8,2015¥35(27):9957—9965 ¥**9957**
+
+**NeurobiologyofDisease**
+
+**ChronicBackPainIsAssociatedwithAlterationsin DopamineNeurotransmissionintheVentralStriatum**
+
+**IlkkaK.Martikainen,**1 **EmilyB.Nuechterlein,**1,7**MartaPecina,**1,2**TiffanyM.Love,**1,2**ChelseaM.Cummiford,**1 **CarmenR.Green,**3,4,5**ChristianS.Stohler,**8 **andJon-KarZubieta**1,2,6
+
+1MolecularandBehavioralNeuroscienceInstitute,2DepartmentofPsychiatry,3DepartmentofAnesthesiology,4DepartmentofObstetricsandGynecology, 5DepartmentofHealthManagementandPolicy,SchoolofPublicHealth,and6DepartmentofRadiology,UniversityofMichigan,AnnArbor,Michigan 48109,7NeuroscienceGraduateProgram,UniversityofMichigan,AnnArbor,Michigan48104,and8CollegeofDentalMedicine,ColumbiaUniversity,New York,NewYork10032
+
+**Backpainiscommoninthegeneralpopulation,butonlyasubgroupofbackpainpatientsdevelopsadisablingchronicpainstate.The reasons for this are incompletely understood, but recent evidence implies that both preexisting and pain-related variations in the structureandfunctionofthenervoussystemmaycontributesignificantlytothedevelopmentofchronicpain.Here,weaddressedtherole ofstriataldopamine(DA)D2/D3receptor(D2/D3R)functioninchronicnon-neuropathicbackpain(CNBP)bycomparingCNBPpatients andhealthycontrolsusingPETandtheD2/D3R-selectiveradioligand[11C]raclopride.D2/D3Ravailabilitywasmeasuredatbaselineand duringapainchallenge,yielding*invivo*measuresofreceptoravailability(bindingpotential,*BP*ND)andDArelease(changein*BP*NDfrom baselinetoactivatedstate).Atbaseline,CNBPpatientsdemonstratedreductionsinD2/D3R*BP*NDintheventralstriatumcomparedwith**
+
+**controls. These reductions were associated with greater positive affect scores and pain tolerance measures. The reductions in D2/D3R *BP*NDwerealsocorrelatedwith**  **-opioidreceptor*BP*NDandpain-inducedendogenousopioidsystemactivationintheamygdala,further associated with measures of positive affect, the affective component of back pain and pain tolerance. During the pain challenge, lower magnitudesofDArelease,andthereforeD2/D3Ractivation,werealsofoundintheventralstriatumintheCNBPsamplecomparedwith controls.OurresultsshowthatCNBPisassociatedwithadaptationsinventralstriatalD2/D3Rfunction,which,togetherwithendogenous opioidsystemfunction,contributetothesensoryandaffective-motivationalfeaturesofCNBP.**
+
+***Keywords:*amygdala;chronicpain;dopamine;endogenousopioid;striatum**
+
+**SignificanceStatement![](d3d5br1i.001.png)**
+
+**Theneuralsystemsthatunderliechronicpainremainpoorlyunderstood.Here,usingPET,weprovideinsightintothemolecular mechanisms that regulate sensory and affective dimensions of pain in chronic back pain patients. We found that patients with backpainhavealterationsinbraindopaminefunctionthatareassociatedwithmeasuresofpainsensitivityandaffectivestate,but alsowithbrainendogenousopioidsystemfunctionalmeasures.Thesefindingssuggestthatbraindopamine—opioidinteractions are involved in the pathophysiology of chronic pain, which has potential therapeutic implications. Our results may also help to explainindividualvariationinsusceptibilitytoopioidmedicationmisuseandeventualaddictioninthecontextofchronicpain.**
+
+**Introduction** associated symptoms are poorly understood. Recently, it has Theneuralmechanismsunderpinninginterindividualvariability been shown that one of the critical brain regions associated with
+
+in the development and clinical course of chronic back pain and thedevelopmentofchronicbackpainisthestriatum,anareathat participatesintheformationofcoherentbehavioralresponsesby
+
+[integrating](#_page7_x291.00_y405.00)[sensorimotor,emotional,](#_page7_x36.00_y615.00)[andmotivational](#_page7_x36.00_y653.00)functions
+
+ReceivedNov.6,2014;revisedMay28,2015;acceptedJune2,2015. (Haber,[2003;](#_page7_x291.00_y405.00)Baliki[etal.,2010;](#_page7_x36.00_y615.00)Baliki[etal.,2012).](#_page7_x36.00_y653.00)Striatalfunc-
+
+Authorcontributions:C.S.S.andJ.-K.Z.designedresearch;I.K.M.,E.B.N.,C.M.C.,C.R.G.,andJ.-K.Z.performedtion is strongly regulated by dopaminergic projections from the research;I.K.M.,E.B.N.,M.P.,T.M.L.,andJ.-K.Z.analyzeddata;I.K.M.andJ.-K.Z.wrotethepaper.midbrain, the activity of which has been linked to pain control
+
+ThisworkwassupportedbytheNationalInstituteonDrugAbuse—NationalInstitutesofHealth(GrantsR01DA 022520andR01027494)andthePhilF.JenkinsFoundation.E.B.N.wassupportedinpartbytheNationalInstitutes ofHealth(Grants5T32EY017878and5T32DA007281).WethanknursesKathleenSingerandLaurieCarrforpatientCorrespondenceshouldbeaddressedtoDr.Jon-KarZubieta,MolecularandBehavioralNeuroscienceInstitute, screeningandrecruitmentandthenuclearmedicinetechnologistsatthePositronEmissionTomographyCenteratUniversityofMichigan,205ZinaPitcherPlace,AnnArbor,MI48109-0720.E-mail:zubieta@umich.edu. theUniversityofMichiganfortheassistanceinPETdataacquisitionandreconstruction. DOI:10.1523/JNEUROSCI.4605-14.2015
+
+Theauthorsdeclarenocompetingfinancialinterests. Copyright'2015theauthors 0270-6474/15/359957-09$15.00/0
+
+**9958¥**J.Neurosci.,July8,2015¥35(27):9957—9965
+
+mechanisms, including endogenous [opioid,  -opioid receptor ](#_page8_x36.00_y193.00)[(MOR)-mediated ](#_page7_x291.00_y348.00)[antinociception (Morgan](#_page8_x36.00_y372.00)[ and Franklin, 1990; ](#_page8_x36.00_y193.00)Gear[ et al., 1999; ](#_page7_x291.00_y348.00)Schmidt[ et al., 2002). ](#_page8_x36.00_y372.00)The effects of striatal dopamine (DA) on pain are thought to be mediated by the DA D-2 receptor (D2R) because striatal administration of selective D2R agonists reduced, and D2R antagonists [enhanced, pain re- sponsesin](#_page8_x36.00_y231.00)[animalmodelsofpersistentpain(](#_page8_x36.00_y52.00)[MorganandFrank- ](#_page8_x291.00_y234.00)lin,[ 1991; ](#_page8_x36.00_y231.00)[Magnusson and Fisher, 2000; ](#_page8_x36.00_y52.00)Taylor[ et al., 2003). ](#_page8_x291.00_y234.00)Furthermore, the development of an experimental chronic pain state in animal models has been found to parallel reductions in both D2R expression and excitatory[ drive in ](#_page7_x291.00_y129.00)[D2R-expressing neurons in the](#_page8_x36.00_y410.00) nucleus accumbens ( Chang[ et al., 2014;](#_page7_x291.00_y129.00)Schwartz et [al., 2014).](#_page8_x36.00_y410.00)
+
+PET imaging studies in healthy humans using [ 11C]raclo- pride,aradioligandselectiveforD2RsandD3Rs,haveshownthat striatalD2/D3Ravailability(bindingpotential,*BP[ND)atbaseline ](#_page7_x291.00_y453.00)*is[ positively](#_page7_x291.00_y453.00) correlated with pain sensitivity (Hagelberg[ et al., ](#_page7_x291.00_y453.00)2002[), ](#_page7_x291.00_y453.00)whereas activation of this neurotransmitter system, as- sessed as acute reductions in*BP*ND during painful stimulation, is associated with greater pain report in the dorsal striatum and [with negative affect](#_page8_x36.00_y447.00) and fear ratings in the nucleus accumbens (Scott[etal.,2006).](#_page8_x36.00_y447.00)Inchronicpainpatients,increases[inbaseline striatal](#_page7_x291.00_y491.00)[D2/D3R*BP*ND werefoundin](#_page7_x291.00_y529.00)orofacialpain(Hagelberg[et ](#_page7_x291.00_y491.00)al.,[ 2003a; ](#_page7_x291.00_y491.00)Hagelberg[ et al., 2003b), ](#_page7_x291.00_y529.00)whereas fibromyalgia [(FM) wasassociated](#_page8_x291.00_y436.00)withreductions[inbaselineD2/D3R](#_page8_x291.00_y436.00)*BP*ND (Wood et [al., 2007). ](#_page8_x291.00_y436.00)The study by Wood[ et al. (2007) ](#_page8_x291.00_y436.00)also found that, whereas painful stimulation led to significant activation of D2/ D3R-mediatedneurotransmissioninhealthycontrols(HCs),less activation was observed in the FM sample, suggesting a blunted response of this neurotransmitter system in FM.
+
+Here, we investigated whether patients with chronic non- neuropathic back pain (CNBP) display alterations in striatal D2/ D3R*BP*ND and pain-induced activation of DA neurotransmission. WehypothesizedthatCNBPwouldbeassociatedwithreductions in baseline D2/D3R *BP*ND and in the activation of D2/D3R- mediated neurotransmission during experimental pain in a manner similar to patients with FM, a disorder that is also char- acterized by chronic[ musculoskeletal ](#_page8_x291.00_y436.00)pain but that is typically more widespread (Wood[ et al., 2007). ](#_page8_x291.00_y436.00)In addition, [based on the known](#_page7_x291.00_y167.00)[interactionsbetweenDA](#_page8_x291.00_y110.00)[andopioidsystems(Chenetal., ](#_page8_x291.00_y52.00)1993[;](#_page7_x291.00_y167.00)Steiner[andGerfen,1998;](#_page8_x291.00_y110.00)Soderman[andUnterwald,2009) ](#_page8_x291.00_y52.00)andthespecificroleofMOR[neurotransmissionintheregulation ](#_page8_x36.00_y81.00)of clinical pain in CNBP patients ([Martikainen et al., 2013), ](#_page8_x36.00_y81.00)we also investigated whether brain MOR measures at baseline and during painful stimulation are associated with D2/D3R- mediated neurotransmission in CNBP.
+
+**MaterialsandMethods**
+
+*Subjects*. We compared 16 CNBP patients (9 males and 7 females, age 35  11years,mean  SD)with16age-andsex-matchedHCsubjects(9 malesand7females,age35  10years).Thepatientswerepartofalarger sample of CNBP patients [from which the patient ](#_page8_x36.00_y81.00)sample of our earlier study was also derived (Martikainen et al., 2013). All participants were right-handednonsmokerswhodrank  10unitsofalcoholperweek,did notperformphysicalexerciseinexcessthan1h/d,andhadnohistoryof recreational drug use. The HC subjects had no current or past history of medical illness and were not taking any regular medications.
+
+TheCNBPpatientswererecruitedfromauniversity-basedpainclinic with the following main inclusion criteria: current average back or neck pain intensity between 3 and 8 on a 0 to 10 visual analog rating scale (VAS) with 0 representing no pain and 10 representing the greatest pain intensity imaginable, pain duration of at least 1 year, no current or pre- viousopioidusewithinthepastyear,andnohistoryofpsychiatricdisease with the exception of mild depressive symptoms not meeting the diag-
+
+Martikainenetal.￿StriatalDopamineandBackPain
+
+nosticcriteriaformajordepression.Thebackpainwasclinicallycharac- terized as nonspecific and patients with spinal cord injury, nonspinal etiology,orradicularsymptomswerenotincludedinthestudy.Thepain was limited to the low back in seven patients, to the neck area in three patients,andtolargerareasinthebackandneckinsixpatients.Themost intense pain was localized in the lower back region in 12/16 patients. CNBP patients had a median pain duration of 6 years (interquartile range: 5), with average pain intensity of 49  21 units on a 0 to 100 VAS scale.Thepainvariedfrom57  19atworstto35  18atbest.Atthetime of PET imaging, back pain intensity and pain unpleasantness were rated at 48  23 and 53  20 (0 to 100 VAS), respectively.
+
+ToincludeCNBPpatientsrepresentativeofthoseencounteredinrou- tine practice, the use of nonopioid analgesic medications was allowed during the study. The most common analgesic medications used by the CNBP patients were nonsteroidal anti-inflammatory drugs and acet- aminophen(5/16),musclerelaxants(3/16),selectiveserotoninreuptake inhibitors (2/16), and gabapentin/pregabalin (2/16). Duloxetine (a serotonin-norepinephrine reuptake inhibitor) was used by one patient and topiramate (an anticonvulsant) was also used by one patient.
+
+All participants provided written informed consent before entering the study. The study protocol was approved by the Institutional Review BoardandtheRadioactiveDrugResearchCommitteeattheUniversityof Michigan.
+
+*Neuroimagingmethods*.PETscanswereacquiredwithaSiemensHR scanner in 3D mode with septa retracted and scatter correction. The reconstructed full width at half-maximum (FWHM) resolution was 5.5 mm in-plane and 5.0 mm axially. Each participant was positioned com- fortably in the PET scanner gantry and an antecubital intravenous line was placed in the right arm. Movement during the scan was minimized by using a light forehead restraint. [ 11C]raclopride was synthesized at high specific activity by the reaction of*O*-desmethyl raclopride with [ 11C]methyltriflate. Fifty percent of the [11C]raclopride dose was ad- ministered as a bolus and the remaining 50% was administered by con- tinuousinfusionfortheremainderofthestudy.Thetotaldosewas16 0.6 mCi (592  24 MBq). Under these conditions, [equilibrium condi- tions are](#_page7_x291.00_y90.00) achieved 35 min after tracer administration (Carson et al., 1997).Twenty-eightframesofimageswereacquiredover90minwithan increasing duration (30 s up to 10 min). The HC subjects and CNBP patients underwent a 90 min PET scan with [ 11C]raclopride, which in- cluded two experimental conditions: a control condition with nonpain- ful isotonic saline infusion (baseline) and a pain condition with noxious hypertonic 5% saline.
+
+PET images were reconstructed using iterative algorithms (brain mode; Fourier rebinning with ordered subsets-expectation maximiza- tion, four iterations, 16 subsets; no smoothing) into a 128  128 pixel matrixina28.8cmdiameterfieldofview(FOV).Attenuationcorrection was performed through a 6 min transmission scan ( 68Ge source) ob- tained before the PET study and with iterative reconstruction of the blank/transmission data, which was followed by segmentation of the attenuationimage.Beforeanalysis,smallheadmotionswerecorrectedby anautomatedcomputer[algorithmandtheimages](#_page8_x36.00_y156.00)werecoregisteredwith the same software (Minoshima et al., 1993). Time points were decay corrected during reconstruction of the PET data.
+
+The[ 11C]racloprideimagedataweretransformedonavoxel-by-voxel basisintotwosetsofparametricmaps:(1)atracertransportmeasure(*K*1 ratio) and (2) a receptor-related measure at equilibrium (distribution volume ratio at equilibrium, *DVR*eq). The *DVR*eq measure was [calcu- latedusingthe](#_page7_x291.00_y90.00)[ratioofbrainactivity](#_page8_x291.00_y378.00)toactivityinthecerebellum(Carson et al., 1997;Watabe et al., 2000) using values obtained from 35 45 min (isotonic infusion) and 60 80 min (hypertonic infusion) after tracer administration. *DVR*eq-1 ( *f*2*B*max/*K*d) is the receptor-related measure (D2/D3R availability *in vivo* or nondisplaceable binding potential, *BP*ND). *B*max is the concentration of receptors and *K*d their affinity. The term *f*2 refers to the concentration of free radiotracer in the extracellular fluid and is considered to represent a constant and very small value.
+
+[ 11C]raclopride *BP*ND reflects binding exclusively to D2 receptors in the dorsal striatum, whereas in the ventral striatum, one-[third of the](#_page8_x36.00_y541.00)
+
+[ 1[1C\]ra](#_page8_x36.00_y541.00)clopride *BP* may be contributed by D3Rs (Seeman et al.,
+
+ND
+
+2006).
+
+Martikainenetal.￿StriatalDopamineandBackPain
+
+Of the 16 CNBP patients who participated in the [ 11C]raclopride scans,15alsoparticipatedinthePETscansperformedwith[ 11C]carfen- tanil, a radiotracer selective for MORs. [11C]carfentanil PET scans were acquired with the same scanner using identical methods for data acqui- sition, image reconstruction, and processing. [ 11C]carfentanil was syn- thesizedathighspecific[activitybythereaction](#_page7_x291.00_y634.00)of[11C]methyliodideand a nonmethyl precursor ( Jewett, 2001); 15  1.0 mCi (555  37 MBq) were administered during the scan, with a mass of carfentanil injected of  0.03  g/kgperscan.TheCNBPpatientsunderwenttwo90minPET scanswith[11C]carfentanil,onescanwithoutanyinterventionforbase - line MOR *BP*ND assessment and another for the measurement of MOR activation during painful hypertonic saline infusion, with a preceding nonpainful [isotonic saline infusion as a](#_page8_x36.00_y81.00) control condition, as described previously (Martikainen et al., 2013). Scan order was randomized and counterbalanced.
+
+[ 11C]carfentanil PET data were transformed into a tracer transport measure(*K*1 ratio)andareceptor-relatedmeasure[(distributionvolume ](#_page7_x291.00_y710.00)ratio, *DVR*)usingmodifiedLogangraphicalanalysis(Loganetal.,1996). The occipital cortex, an area devoid of MORs, was used as the reference region. The slope of the Logan plot was used for the estimation of the
+
+*DVR* ( *f B* /*K*  1; as with [11C]raclopride, *f B* /*K* is the measure
+
+2 max d 2 max d
+
+of receptor availability, MOR*BP*ND).
+
+Anatomical T1-weighted MRI data were acquired on a 3 T scanner (Signa LX; General Electric) using axial 3D inversion recovery-prepared fast-spoiled gradient-recalled acquisition [repetition time (TR)  9.2 ms,echotime(TE)  1.9ms,inversiontime  500ms,flipangle(FA) 15 ,bandwidth  16kHz,numberofexcitations  1,256  256matrix, FOV  25/26 cm, number of contiguous images  154, isotropic voxel size  1 mm 3].
+
+MR and PET images were coregistered to each other and to the Mon- treal Neurological Institute (MNI) stereotactic atlas orientation using StatisticalParametricMappingsoftware(SPM8;WellcomeTrustCentre for Neuroimaging, London, UK; http://www.fil.ion.ucl.ac.uk/spm/). The D2/D3R and MOR *BP*ND maps were normalized with the deforma- tionfieldobtainedfromthenormalizationoftheMRimagestotheMNI atlas orientation using VBM8 toolbox (http://dbm.neuro.uni-jena.de/ vbm/). The accuracy of the coregistration and normalization algorithms was confirmed for each subject individually by comparing the trans- formed images with each other and with the MNI atlas template. Statis- tical parametric maps of group differences were generated with SPM8. No global normalization was applied to the data, so the calculations presented are based on absolute *BP*ND estimates. Only regions with spe- cific D2/D3R and MOR*BP*ND were included in the analyses (i.e., voxels with *BP*ND values  0.1). A 6 mm FWHM Gaussian filter was applied to each PET scan to compensate for small residual anatomic variations across subjects and to improve signal-to-noise ratios.
+
+*Infusion paradigm*. The infusion paradigm during the PET scan con- sistedofanonpainfulcontrolconditionandapaincondition.Inthepain condition,moderatemusclepainwasmaintainedfor20minafterradio- traceradministration(45 65minafterthestartofthescan)bytheinfu- sion of a small amount of 5% hypertonic saline into [the left masseter ](#_page8_x291.00_y503.00)[muscleviaacomputer-controlled](#_page8_x291.00_y139.00)closed-loopsystem(Zhangetal.,1993; Stohler and Kowalski, 1999). This method of sustained painful stimula- tion during the PET scan allows the determination of acute changes in D2/D3R and MOR *BP*ND associated with the activation of DA and en- dogenousopioidrelease,respectively,[whicharerelatedtothe](#_page8_x291.00_y531.00)[individual assessments](#_page8_x36.00_y447.00) of the pain experience (Zubieta et al., 2001; Scott et al., 2006). The feedback mechanism ensures that the pain [intensity is stan- dardized across](#_page8_x291.00_y139.00) individual subjects and subject groups (Stohler and Ko- walski, 1999).
+
+Inthisstudy,acomputer-controlledpumpinjectedanaveragevolume of2.1  1.0mlintotheleftmassetermuscle.Thepainlevelwasmeasured every15sbyacomputerversionofamanual0to100VAS,withthelower and upper bound of the scale marked with numbers 0 and 100, repre- senting the range from no pain  to the highest pain intensity imagin- able.  Based on the VAS pain reports, the individual infusion requirements were modeled continuously and updated with the aim of keeping the present pain intensity scores at a target of 40 VAS units. The actualaverageVASratingintheexperimentoverthewholesubjectgroup
+
+J.Neurosci.,July8,2015¥35(27):9957—9965**¥ 9959**
+
+was32  11units.ThepotentialbiasesthatmightbeinducedbytheVAS measurements during PET imaging were taken into account by placing the computer screen and pointing the device in a way that minimized movement during pain reporting and by having an identical rating task during the control condition.
+
+The control condition was an otherwise identical infusion with non- painful 0.9% isotonic saline administered 5 25 min after the start of the scan. The isotonic saline was infused at the same rate as the average hypertonic infusion and was applied in the right masseter muscle. The volunteers were informed of the experimental conditions, but not of theirorderorlaterality.Thefirstconditionoftheexperimentwasalways the control condition, which was[ followed by the ](#_page8_x36.00_y447.00)[pain challenge condi- ](#_page8_x36.00_y485.00)tiontoavoidcarryovereffects(Scottetal.,2006;Scottetal.,2007).Inthe data analysis, the magnitude of D2/D3R and MOR system activations during pain (reflecting processes associated with neurotransmitter re- lease, such as competition between radiotracer and endogenous neu- rotransmitter and potentially neurotransmitter-induced receptor internalization) were defined as the change (reductions) in *BP*ND (  *BP*ND)[duringthehypertonic](#_page8_x36.00_y447.00)[infusioncompared](#_page8_x36.00_y513.00)withtheirrespective baselines (Scott et al., 2006;Scott et al., 2008).
+
+Before the scan and after the experimental conditions, [subjects com- pleted the Positive](#_page8_x291.00_y417.00) and Negative Affect Schedule (PANAS) (Watson and [Clark, 1999) and the ](#_page8_x36.00_y118.00)Profile of Mood States (POMS) questionnaires (McNair et al., 1992). Also before the scan and after the pain challenge, the CNBP patients rated their back pain using a 0 100 VAS of the pain [intensityandunpleasantnessandthe](#_page8_x36.00_y137.00)McGillPainQuestionnaire(MPQ) (Melzack and Torgerson, 1971), which uses weighted word descriptors ofpain.SeparateMPQandVASestimatesofpainwerecollectedafterthe pain challenge, rating the experience of experimental (masseter muscle) pain. These measures, together with the momentary pain intensity rat- ingsacquiredevery15sforthe20minchallenge,providedthemeasures of the individual pain experience during the experimental muscle pain. Individual sustained pain tolerance was measured as the total volume of hypertonic saline (in milliliters) infused to maintain the pain intensity duringtheexperimentalperiodandpainsensitivitywasmeasuredasthe ratio of average VAS ratings acquired every 15 s divided by the total volume of hypertonic saline infused to maintain pain at the target level. To complement these measures of affective state and sensory and affective-motivationaldimensionsofpain,informationonpainduration was used along with the measures of clinical pain to estimate the total burden of pain at the individual level. Together, these measures, albeit overlapping in some cases, provide profiles of effects on clinical and experimental pain and affective state. These measures were included in the analyses without correction for multiple comparisons to ensure the consistency of the findings and for completeness.
+
+We studied the function of brain DA D2/D3R and MOR systems, not only at baseline (in absence of painful stimulation), but also during ex- perimental pain to gain insight into the functional responses of these neurotransmitter systems during increases in pain signal, mimicking acuteexacerbationinclinicalpain.Consideringthe[evidencethatCNBP ](#_page7_x291.00_y367.00)is[ associated with ](#_page8_x36.00_y250.00)[alterations in pain control](#_page8_x36.00_y81.00) (Giesecke et al., 2004; O Neill et al., 2007;Martikainen et al., 2013), painful stimulation might have a differential effect on neurotransmitter activation in HCs and CNBPpatientsandthereforebiasthePETmeasurements.Topreventthe potentialimpactofalteredfunctionofpainsystemsintheCNBPsample, experimental pain was delivered to an area that was free of spontaneous pain and sensory alterations in all subjects, both in HCs and CNBP patients (the masseter muscle). Further, the individual pain level was standardizedacrossindividualsandsubjectsamples,whichensuredthat all subjects had a similar pain experience during the painful stimulation regardless of individual pain sensitivity.
+
+In the CNBP sample, however, the experimental painful stimulation could theoretically interact with clinical pain by [heterosegmental pain- ](#_page8_x291.00_y81.00)[inhibitory mechanisms or](#_page7_x291.00_y681.00) attentional modulation (Sowman et al., 2011; Ladouceur et al., 2012). The possible differential impact of painful stim- ulation in the subject samples could therefore be reflected in the DA responses of the ventral striatum, which is involved in the valuation of emotionallyvalenced[stimuliinrelationtoexpected](#_page7_x36.00_y615.00)outcomesalsointhe setting of chronic pain (Baliki et al., 2010). Nevertheless, in our sample,
+
+**9960¥**J.Neurosci.,July8,2015¥35(27):9957—9965 Martikainenetal.￿StriatalDopamineandBackPain
+
+<a name="_page3_x36.00_y53.00"></a>**Table1.Summaryof** **11C** **raclopridePETneuroimagingfindingsandtheirrelationshiptobehavioralmeasuresandMORfunction**
+
+Correlations
+
+Region;x,y,zcoordinates;Zscore; ![](d3d5br1i.002.png) Maineffects clustersize;BPNDchange Measure CNBP HC Allsubjects![](d3d5br1i.003.png)
+
+ReductionsinbaselineD2/D3RRightventralstriatum,(4,16,0), Positiveaffectatbaseline(PANAS)r   0.59;p  0.02\* r   0.17;p  0.54 r   0.25;p  0.16 BPNDintheCNBPsample Z  3.7,400mm3,21% Totalvolumeofhypertonicsaliner   0.66;p  0.007\*\*r   0.10;p  0.71 r   0.20;p  0.28
+
+infused(mL)
+
+Painsensitivity(VAS/totalvolume)r  0.54;p  0.048\* r  0.32;p  0.25 r  0.39;p  0.04\* BaselineMORBPNDintheright r  0.65;p  0.009\*\*
+
+amygdala,(24,  2,  24),
+
+Z  2.6,1472mm3
+
+BaselineMORBPNDintheleft r  0.55;p  0.03\*
+
+amygdala,(  22,  6,  24),
+
+Z  2.6,592mm3
+
+Pain-inducedMORactivationinther   0.57;p  0.03\*
+
+leftamygdala,(  20,  6,  20),
+
+Z  3.4,912mm3
+
+Pain-inducedD2/D3RactivationLeftcaudatenucleus,(  18,20,2), Painunpleasantness(VAS) r   0.35;p  0.25 r  0.65;p  0.02\* r   0.04;p  0.87
+
+acrossallsubjects(HC,CNBP)Z  4.8,1600mm3,6%
+
+Leftputamen,(  30,4,4),Z  4.7,
+
+648mm3,6% Rightnucleusaccumbens,(16,12,  4),
+
+Z  4.1,2072mm3,5% Reductionsinpain-inducedRightventralstriatum,(6,14,2),
+
+D2/D3Ractivationinthe Z  3.4,328mm3,130% CNBPsample![](d3d5br1i.004.png)
+
+\*p  0.05;\*\*p  0.01.
+
+**9960¥**J.Neurosci.,July8,2015¥35(27):9957—9965 Martikainenetal.￿StriatalDopamineandBackPain
+
+there was no evidence of any significant improvements in back pain or positiveandnegativeaffectratingsduringthepainchallenge(VASinten- sity and unpleasantness scores, *p*  0.3; MPQ total scores, *p*  0.1; PANAS negative affect scores,*p*  0.7). On the contrary, positive affect ratings, as measured with the PANAS, showed significant reductions during painful stimulation in the CNBP sample ( *t*15  3.3, *p*  0.005) and in HCs (*t*15  4.5,*p*  0.0004).
+
+Anadditionalpotentialsourceofbiasrelatedtotheinfusionparadigm is that the isotonic infusion always preceded the hypertonic infusion. This was modeled in a manner similar to that described for pharmaco- logicalchallengeswith[\[11C\]racloprideusing](#_page7_x291.00_y90.00)fullequilibriumconditions for this radiotracer (Carson et al., 1997). The order of the infusions was fixed to prevent carryover effects of pain-induced neurotransmitter re- lease and receptor activation on the baseline receptor *[BP*ND, as shown ](#_page8_x36.00_y485.00)*previouslyforintervals  60minbetweenconditions(Scottetal.,2007). Although the nonrandomized sequence of experimental conditions might still theoretically create a small systematic error in the analysis of neurotransmitter release measures, it is highly unlikely that such error would have a significant impact on the main objective of this study, group effects in striatal DA function.
+
+*Data analysis*. We examined the effects of CNBP on receptor*BP*ND by applying a general linear model (GLM) on a voxel-by-voxel basis using SPM8 and MATLAB (The MathWorks). Baseline D2/D3R*BP*ND was compared between patients with CNBP and age- and sex-matched HC subjects using an independent-samples *t* test. Paired *t* test was used to assess the sustained pain-induced effects on striatal D2/D3R *BP*ND, whichweredefinedasthechangeintheD2/D3R*BP*ND measurefromthe control condition (baseline) to painful hypertonic saline condition. Group  condition interactions in pain-induced D2/D3R activation were determined using a mixed-model ANOVA, with the diagnostic group (HC/CNBP) as the between-subject factor and the change in D2/ D3R*BP*ND asthewithin-subjectdependentvariable.Forallanalyses,age was included as a covariate of no interest, whereas for mixed-model ANOVA, we also included the average VAS pain ratings during the hy- pertonic saline infusion as a covariate. Significant effects were detected using a statistical threshold that controls a type I error rate at *p*  0.05 (false discovery rate corrected for multiple comparisons); for regions withspecifichypotheses,statisticalsignificancewassetat*p*  0.005.The numerical values for D2/D3R*BP*ND were extracted from the image data
+
+by averaging the values of voxels contained in the area in which signifi- cant effects were obtained. Statistical analyses of associations between D2/D3R*BP*ND andclinicalmeasureswereperformedusingSPSSversion 19at*p*  0.05.Nocorrectionformultiplecomparisonswasusedforthese correlations.
+
+To determine whether alterations in D2/D3R functional measures in CNBP would be associated with endogenous opioid-MOR function, a whole-brainvoxel-by-voxelregressionanalysiswasperformedinSPM8. Inthisanalysis,valuesforbaselineD2/D3R*BP*ND andchangeinD2/D3R *BP*ND duringpaininregionsshowingsignificantalterationsintheCNBP sample were used as regressors and images of baseline MOR*BP*ND and pain-inducedMORactivation(subtractionimagesrepresenting  *BP*ND, i.e.,baselineMOR*BP*ND  MOR*BP*ND duringpainfulstimulation)were used as dependent variables. Age and sex were included as covariates of no interest. Our hypothesis was that D2/D3R *BP*ND would be associated with MOR functional measures in the[ thalamus and amygdala ](#_page8_x36.00_y81.00)based on the findings of our previous study (Martikainen et al., 2013).
+
+**Results**
+
+A summary of significant [11C]raclopride PET neuroimaging findingsandtheir[relationshipto](#_page3_x36.00_y53.00)behavioralmeasuresandMOR function is shown in Table[ 1.](#_page3_x36.00_y53.00)
+
+**BaselinestriatalD2/D3R*BP*ND inchronicback pain**
+
+CNBP patients displayed significant reductions in baseline D2/ D3R*BP*ND intherightventralstriatumcomparedwiththeircon - trol sample, with a peak effect localized in the area of ventromedial caudate nucleus/nucleus accumbens [peak MNI coordinates(*x*,*y*,*z*)at(4,16,0),[cluster](#_page4_x36.00_y346.00)size  400mm3,*Z*  3.7, mean *BP*ND reduction  21%;Fig.[1\].](#_page4_x36.00_y346.00)Nosignificanteffectswere found in the opposite contrast (HC  CNBP). We did not find any associations between the D2/D3R*BP*ND in the right ventral striatum and clinical pain duration ( *r*  0.12,*p*  0.65) or back painintensityatthetimeofPETimagingasmeasuredwithMPQ or VAS (*p*  0.3). A significant negative correlation was found betweenD2/D3R*BP*ND intheventralstriatumandpositiveaffect ratingsasmeasuredbyPANASbothatbaselineandafterthepain
+
+Martikainenetal.￿StriatalDopamineandBackPain J.Neurosci.,July8,2015¥35(27):9957—9965**¥ 9963****
+
+0\.98; PANAS negative:*F*(1,21)  0.78,*p* 0.39;POMS-vigor:![](d3d5br1i.005.jpeg)*F*(1,21)  3.9,*p*  0.06; POMS-TMD:*F*(1,21)  3.2,*p*  0.09), af- terthenonpainfulisotonicsalineinfusion (PANASpositive:*F*(1,21)  0.21,*p*  0.65; PANAS negative:*F*(1,21)  1.2, *p*  0.28; POMS-vigor: *F*(1,21) 0.51, *p*  0.48; POMS-TMD:*F*(1,21)  0.79,*p*  0.38), or after the pain challenge (PANAS positive: *F*(1,21)  0.10,*p*  0.75; PANAS negative: *F*(1,21)  1.5,*p*  0.24;POMS-vigor:*F*(1,21)
+
+`  `0.32,*p*  0.58; POMS-TMD:*F*(1,21) 0.84,*p*  0.37).
+
+Significant pain-induced activation of DA D2/D3R neurotransmission (  *BP*ND frombaselinetopain)wasobservedbilat- erally in the striatum across the two vol- unteer groups, with significant peaks in theheadoftheleftcaudatenucleus[(  18, 20, 2), 1600 mm3, *Z*  4.8, mean *BP*ND reduction6%],leftputamen[(  30,4,4), 648 mm3, *Z*  4.7, mean reduction 6%], and right nucleus accumbens [(16, 12,   4),[2072mm](#_page5_x203.00_y352.00)3,*Z*  4.1,meanreduction 5%] (Fig.[ 2*A*](#_page5_x203.00_y352.00)). The peak in right caudate nucleus (14, 18, 6) showed a trend to sta- <a name="_page4_x36.00_y346.00"></a>tistical significance after correction for
+
+**Figure1.** LevelsofstriatalD2/D3RBP inCNBPpatientsandHCs.SignificantreductionsinD2/D3RBP ,comparedwithHCmultiplecomparisons(*Z*  4.0;*p*  0.06). sample, were observed at baseline in theND right ventral striatum.***A***, Top, Significant region in the ventralND striatum and plots ofIn the HC group, pain-induced D2/
+
+averageD2/D3RBPNDvaluesforHCsubjects(emptycircles)andCNBPpatients(filledcircles).TheD2/D3RBPNDinthisregionwasD3Ractivationintheleftcaudatenucleus negativelycorrelatedwithpositiveaffectandpaintolerancemeasuresinCNBPpatients(***B***,bottom). was positively correlated with the ratings
+
+of experimental pain unpleasantness (*r* challenge (baseline:*r*   0.59,*p*  0.02; pain:*r*   0.55,*p*  0.65,*p*  0.02), but not pain intensity or MPQ scores ( *p*  0.1). 0.03).TheratingsofnegativeaffectwerenotassociatedwithD2/ No significant associations were found between PANAS scores D3R*BP*ND (PANAS;*p*  0.3).Consistentwiththosefindings,the and striatal D2/D3R activation in these regions (*p*  0.2). In the vigor (positive valence) score of POMS (POMS-vigor) was neg- CNBP sample, no associations were found between striatal D2/ atively correlated with D2/D3R*BP*ND (baseline:*r*   0.50,*p*  D3R activation and ratings of clinical and experimental pain or 0.049; pain:*r*   0.52,*p*  0.04); however, the total mood dis- affective state (*p*  0.2).
+
+turbance score of POMS (POMS-TMD) (negative valence) was A mixed-model ANOVA was used to examine significant notcorrelatedwithD2/D3R *BP*ND (*p*  0.3).TheD2/D3R*BP*ND group  condition interactions in experimental pain-induced in the ventral striatum was also negatively correlated with the D2/D3R activation, with the hypothesis that they would be colo- totalvolumeofhypertonicsalineinfusionrequiredtoachievethe calized with the baseline D2/D3R*BP*ND changes in the ventral target pain intensity (*r*   0.66,*p*  0.007) and positively with striatum. This analysis found a significant region in the right the ratio of VAS intensity ratings acquired every 15 s over the ventral striatum in which CNBP patients demonstrated less DA infusion volume (*r*  0.54, *p*  0.048), measures of sustained release(  *BP*ND)thanHCsubjects[(6,14,2),[328mm](#_page5_x203.00_y352.00) 3,*Z*  3.4, pain tolerance and sensitivity, respectively. 130% differential between activation levels;Fig.[ 2*B*\].](#_page5_x203.00_y352.00) No signifi-
+
+canteffectswereobtainedinanyotherregionorfortheopposite **ActivationofstriatalD2/D3R-mediatedneurotransmission** contrast (HC  CNBP).
+
+**duringsustainedexperimental pain** No associations were observed between theexperimental Consistent with the adaptive pain maintenance system used, no pain-induced D2/D3R system activation in this region and re- significantdifferenceswereobservedbetweentheHCandCNBP ductions in baseline D2/D3R *BP*ND in the same region in the samples in their average 0 100 VAS ratings acquired every 15 s CNBPsample(*p*  0.5).Inaddition,noassociationswerefound duringtheexperimentalpainchallenge(HC:33  9,CNBP:32  between pain-induced ventral striatal D2/D3R system activation 12; t30  0.26,*p*  0.80) or experimental pain total MPQ scores and measures of back pain (MPQ: *p*  0.2), affect ratings (HC:26  9,CNBP:22  13;t30  1.0,*p*  0.32).Nostatistically (PANAS positive, negative; POMS-vigor, POMS-TMD:*p*  0.2) significant (*p*  0.05) differences were found between the HC or measures of pain sensitivity and tolerance (*p*  0.6).
+
+and CNBP samples in the indices of pain tolerance and sensitiv-
+
+ity, the total volume of hypertonic saline infused (HC: 2.4  1.1 **AssociationsbetweenventralstriatalD2/D3Rfunctionand** ml,CNBP:1.9  0.9ml;*t*29  1.3,*p*  0.24),andtheaverageVAS **endogenousopioidsystemfunctional measures**
+
+over the total volume of hypertonic saline infused (HC: 21  21, In a previous study, we found that CNBP was associated with CNBP: 23  20; t29  0.28,*p*  0.95). There were no significant increases in baseline MOR*BP*ND in the thalamus bilaterally and differencesintheaffectivestatemeasuresbetweenHCandCNBP reductions in endogenous opioid-MOR activation during pain- samples before scanning (PANAS positive:*F*(1,21)  0.001,*p*  ful stimulation in the thalamus bilaterally and the left amygdala
+
+([Martikainen et al., 2013).](#_page8_x36.00_y81.00) Given the ![](d3d5br1i.006.jpeg)known interactions between the [DA and the ](#_page7_x291.00_y167.00)[endogenous opioid systems (](#_page8_x291.00_y110.00)[Chen et al.,1993;SteinerandGerfen,1998](#_page8_x291.00_y52.00)[;](#_page8_x291.00_y110.00)Soder-[ ](#_page8_x291.00_y52.00)man[ and Unterwald, 2009), ](#_page8_x291.00_y52.00)we investi- gated whether reductions in ventral striatal D2/D3R *BP*ND in CNBP would be associated with alterations in MOR *BP*ND at baseline and MOR system activation during pain. 
+
+Using the baseline D2/D3R*BP*ND val- ues in CNBP as regressors, a whole-brain voxel-by-voxel analysis found a signifi- cant positive correlation between ventral striatal D2/D3R *BP*ND and baseline MOR *BP* in the amygdala bilaterally [right: 
+
+(24,ND  2,  24), 1472 mm3, *Z*  2.6; [left: ](#_page6_x36.00_y517.00)( [ 22,](#_page6_x36.00_y517.00)  6,  24), 592 mm3, *Z*  2.6;Fig.[ ](#_page6_x36.00_y517.00)
+
+3*A[,](#_page6_x36.00_y517.00)B*]. Baseline D2/D3R *BP*ND in the ventral striatum was in turn negatively correlated with the activation of MOR- mediated neurotransmission during the painchallengeintheleftamygdala[\[(  20,](#_page6_x36.00_y517.00)   6,  20), 912 mm3, *Z*  3.4; Fig.[ 3*C*](#_page6_x36.00_y517.00)]. No significant associations were found among pain-induced D2/D3R system ac- tivation, baseline MOR *BP*ND, or MOR<a name="_page5_x203.00_y352.00"></a> system activation during pain.
+
+The baseline MOR *BP* in the right **Figure**andCNBP**2.** patients.SustainedIntheexperimentalentiresample,musclesignificantpain-inducedD2/D3RchangesactivationinD2/D3RwasobservedBPND(DA bilaterallyactivation) inthein ventralthestriatum, anddorsalinHC striatum,subjects amygdala was negatively correlatedND with withpeakeffectslocalizedintheleftcaudate,leftputamen,andrightnucleusaccumbens(***A***).Asignificantgroup  condition
+
+positive affect as measured by PANAS interactioninD2/D3Ractivationwasobservedintherightventralstriatum,withpeakintherightventralcaudate(***B***).Illustrated
+
+(*r*   0.52, *p*  0.049) and the baseline ontherightareplotsofaverageregionalD2/D3RactivationintheareasshowingsignificantD2/D3Ractivationintheentiresample MOR *BP*ND in the amygdala bilaterally (***A***)andintheareathatshowedasignificantgroup  conditioninteraction(***B***).
+
+was negatively correlated with POMS-
+
+vigorscore(right:*r*   0.57,*p*  0.03;left:*r*   0.56,*p*  0.03) SignificantalterationsinD2/D3Rneurochemicalmeasuresin andwiththevolumeofhypertonicsalineinfusedduringthepain the CNBP group were localized in the ventral striatum, a region
+
+challenge(right:*r*   0.66,*p*  0.01;left:*r*   0.67,*p*  0.008), where DA coordinates incentive motivational[ behavior and re-](#_page7_x36.00_y558.00)
+
+but not with average VAS over the volume infused, a measure of [sponse ](#_page7_x36.00_y558.00)[to salient stimuli,](#_page7_x291.00_y557.00) including pain (Altier[ and Stewart,](#_page7_x36.00_y558.00)
+
+pain sensitivity (*p*  0.4). The MOR activation in the left 1999[; ](#_page7_x36.00_y558.00)Horvitz,[ 2000](#_page7_x291.00_y557.00)[). Pain activates the ](#_page7_x36.00_y520.00)[dopaminergic system in](#_page8_x36.00_y306.00)
+
+amygdala was negatively correlated with back pain MPQ pain [animal ](#_page8_x36.00_y306.00)[models (Abercrombie](#_page8_x36.00_y372.00)[ et al., 1989; Rouge·](#_page7_x36.00_y729.00)[-Pont et al.,](#_page8_x36.00_y306.00)
+
+affect subscale scores (*r*   0.68,*p*  0.006), whereas negative 1993[;](#_page8_x36.00_y306.00)Schmidt[ et al., 2002;](#_page8_x36.00_y372.00)Brischoux[ et al., 2009) ](#_page7_x36.00_y729.00)and these data
+
+correlations with other measures of back pain (VAS and MPQ) have been corroborated in healthy humans by the observation
+
+were short of significance (*p*  0.07). that experimentally induced increases in pain signal lead to acti-
+
+vation of striatal DA D2/D3R [neurotransmission as](#_page8_x36.00_y447.00)[ measured](#_page8_x291.00_y436.00)
+
+**Discussion** [using \[](#_page8_x291.00_y436.00)11C]raclopride and PET (Scott[ et al., 2006; ](#_page8_x36.00_y447.00)Wood[ et al.,](#_page8_x291.00_y436.00)
+
+We found reductions in baseline D2/D3R *BP*ND in the right ven- 2007[). ](#_page8_x291.00_y436.00)The D2/D3R system activation during experimental pain tralstriatuminCNBPpatientscomparedwithHCs.Thesereduc- was associated with enhanced ratings of sensory and affective
+
+tions were positively associated with measures of positive affect qualities of pain in the dorsal striatum and with emotional re-
+
+and pain tolerance and negatively with pain sensitivity. During sponses in the nucleus accumbens, indicating that striatal D2/
+
+experimental pain, both subject groups showed striatal D2/D3R D3Rresponsestopainreflectboththesomatosensoryaspectsand activation,althoughthisresponsewasmorevariableintheCNBP [emotional saliency ](#_page8_x36.00_y447.00)of the stimulus depending on their location
+
+sample. A group effect for experimental pain-induced D2/D3R (Scott[ et al., 2006).](#_page8_x36.00_y447.00)
+
+system activation was also found in the right ventral striatum, Consistent with the above evidence showing that the striatal
+
+where significant reductions in activation were found in CNBP D2/D3Rsareinvolvedinbothsensoryandaffectiveaspectsofthe
+
+patients compared with HCs. We further determined the associ- individual pain experience, we found significant relationships
+
+ations between the ventral striatal D2/D3R system measures and between the reductions in baseline D2/D3R *BP*ND and the main- brainMORsystemfunctioninCNBP.Intheseanalyses,wefound tenance of positive affect, as well as greater pain tolerance and
+
+that ventral striatal D2/D3R *BP*ND was positively correlated with lesser pain sensitivity in the CNBP group. Regarding positive
+
+baselineMOR*BP*ND inthebilateralamygdalaandnegativelywith affect, our results are consistent with earlier research [showing](#_page7_x291.00_y71.00)
+
+MOR activation during experimental pain in the left amygdala. [that positive affect is ](#_page7_x291.00_y71.00)[associated with DA system function](#_page8_x36.00_y353.00) (Burg-
+
+MOR system function in the amygdala was also associated with dorf[andPanksepp,2006;](#_page7_x291.00_y71.00)Salamone[andCorrea,2012);](#_page8_x36.00_y353.00)however,
+
+measures of positive affect, the affective quality of the clinical as for pain sensitivity and DA, the evidence from experimental
+
+pain, and experimental pain tolerance. studies in humans has been ambiguous: in healthy subjects, pain
+
+Martikainenetal.￿StriatalDopamineandBackPain J.Neurosci.,July8,2015¥35(27):9957—9965**¥ 9965****
+
+abilityinbaselinestriatalD2/D3Rfunctionmaybeanimportant ![](d3d5br1i.007.jpeg)factor in the development and persistence of generalized hyper- algesiainchronicmusculoskeletalpain,whichisa[frequentfind- ingnot](#_page7_x291.00_y367.00)[onlyinFM,butalso](#_page8_x36.00_y250.00)inchronicbackpain( Giesecke[etal., ](#_page7_x291.00_y367.00)2004[; ](#_page7_x291.00_y367.00)O [Neill et al., 2007). ](#_page8_x36.00_y250.00)Considering that both high positive affect and low pain sensitivity have been shown to be associated [with increased ](#_page7_x291.00_y214.00)[resilience to pain and ](#_page8_x291.00_y474.00)[negative affective](#_page8_x291.00_y167.00)[ states ](#_page8_x291.00_y206.00)([Clauwetal.,](#_page8_x291.00_y206.00)[1999;](#_page7_x291.00_y214.00)Zautra[etal.,2005;](#_page8_x291.00_y474.00)Strand[etal.,](#_page8_x291.00_y167.00)[2006;Tanget al., 2008](#_page7_x291.00_y281.00)[) and improved long-term outcomes](#_page8_x291.00_y359.00) (Edwards[ et al., ](#_page7_x291.00_y281.00)2003[;](#_page7_x291.00_y281.00)Von[ Korff and Miglioretti, 2005) i](#_page8_x291.00_y359.00)n chronic pain patients, the observed reductions in striatal D2/D3R *BP*ND may represent an adaptive process that increases the individual ability to cope withpersistentpainanditsassociatedphysicalandpsychological stress, thereby influencing clinical outcomes.
+
+Earlierstudiesinchronicpainpatientshavefound[reductions ](#_page8_x291.00_y436.00)in[ baseline ](#_page8_x291.00_y436.00)striatal D2/D3R*BP*ND in patients with FM (Wood[ et ](#_page8_x291.00_y436.00)al.,[ 2007), ](#_page8_x291.00_y436.00)whereas patients with orofacial pain presented [with increases in baseline](#_page7_x291.00_y491.00)[ D2/D3R*BP*ND compared](#_page7_x291.00_y529.00) with HCs (Hagel[- ](#_page7_x291.00_y491.00)berg[etal.,2003a;](#_page7_x291.00_y491.00)Hagelberg[etal.,2003b).](#_page7_x291.00_y529.00)Theexistingdatathus suggest that, whereas the dopaminergic system may display dif- ferential alterations across chronic pain conditions, similar changes in baseline striatal D2/D3R measures exist in patients withCNBPandFM.Experimentalstudiesinanimalshavefound evidence for increases in striatal DA and [reductions in striatal ](#_page7_x36.00_y577.00)[D2R expression in ](#_page7_x291.00_y129.00)persistent pain states (Austin[ et al., 2010; ](#_page7_x36.00_y577.00)Chang[etal.,2014);](#_page7_x291.00_y129.00)however,itispresentlyunknownwhetherthe presenceofchronicpaininCNBPandFMisalsoassociatedwith tonicincreasesinstriatalDAwherebyreductionsinbaselineD2/ D3R availability and [experimental pain-induced](#_page7_x291.00_y167.00) DA release would serve an adaptive role (Chen[ et al., 1993).](#_page7_x291.00_y167.00)
+
+During sustained experimental pain, we found significant striatal D2/D3R activation in both subject groups, although the
+
+CNBP group displayed more variable and generally lower re- [sponses than HCs, which](#_page8_x291.00_y436.00) is consistent with data in FM patients
+
+(Wood[etal.,2007).](#_page8_x291.00_y436.00)Asignificantgroupeffectinthemagnitudeof DAD2/D3Ractivationwasobservedintherightventralstriatum, wheresignificantreductionsinD2/D3Ractivationwerefoundin the CNBP sample compared with HCs, whereas more[ regionally](#_page8_x291.00_y436.00)
+
+[widespread](#_page8_x291.00_y436.00) reductions had been observed in FM (Wood[ et al., ](#_page8_x291.00_y436.00)2007[). ](#_page8_x291.00_y436.00)In the HC sample, pain-induced D2/D3R system activa- tionwascorrelatedwiththe[perceived](#_page8_x36.00_y447.00)[unpleasantnessofthepain,](#_page8_x291.00_y436.00)
+
+<a name="_page6_x36.00_y517.00"></a>as described previously (Scott[ et al., 2006; ](#_page8_x36.00_y447.00)Wood[ et al., 2007), ](#_page8_x291.00_y436.00)whereas in the CNBP sample, no such [association was detected,](#_page8_x291.00_y436.00)
+
+**Figure3.** AssociationsbetweenbaselineD2/D3RBPNDintherightventralstriatumandMORagain as also observed in FM patients (Wood[ et al., 2007). ](#_page8_x291.00_y436.00)To- functionalciationsweremeasuresfoundbetweenintheamygdalabaselineinD2/D3RCNBPpatients.BP in Inthe patientsrightventral withCNBP,striatum significantandbaseline asso-gether, these data appear to reflect a dysregulated dopaminergic
+
+MORBP intheright(***A***)andleft(***B***)amygdalaandND MORactivationduringexperimentalpainresponse to increases in pain signal in CNBP in a manner that
+
+in the leftND amygdala (***C***). Therandp-values were calculated using data extracted from theparallels, but is more regionally localized than, data previously significantregionsinthevoxel-by-voxelregressionanalyses. reported for FM.
+
+Our previous work compared MOR measures in CNBP pa- tients with matched HCs and found increases in baseline MOR
+
+sensitivity and tolerance have been associated[ with genetic poly- ](#_page8_x291.00_y292.00)*BP*ND in the thalamus bilaterally and reductions in endogenous [morphisms related to DA ](#_page7_x291.00_y586.00)system function (Treister[ et al., 2009;](#_page8_x291.00_y292.00) opioid-MOR system activation during [sustained experimental ](#_page8_x36.00_y81.00)Ja¤[a¤skela¤inen et al., 2014), ](#_page7_x291.00_y586.00)whereas no change was found [in these ](#_page7_x36.00_y691.00)paininthethalamusandleftamygdala([Martikainenetal.,2013). ](#_page8_x36.00_y81.00)[measures ](#_page7_x36.00_y691.00)[after experimental reductions](#_page8_x291.00_y263.00) in brain DA (Becker[ et](#_page7_x36.00_y691.00) Becauseofthereciprocalinfluencesbetweentheopioidergicand al.,[ 2013;](#_page7_x36.00_y691.00)Tiemann[ et al., 2014). ](#_page8_x291.00_y263.00)Nonetheless, specifically regard- dopaminergic systems, in particular, the effects of chronic DA ing striatal DA D2/D3R function, [11C]raclopride PET studies D2R stimulation on enkephalinergic [neurotransmission and ](#_page8_x291.00_y110.00)havefoundsignificantpositivecorrelationsbetween[baselinestri- ](#_page7_x291.00_y453.00)[MORs ](#_page8_x291.00_y110.00)[in the indirect mesolimbic pathway](#_page8_x291.00_y52.00) (Steiner[ and Gerfen, ](#_page8_x291.00_y110.00)[atal ](#_page7_x291.00_y453.00)[D2/D3R*BP*ND and pain](#_page8_x36.00_y447.00) sensitivity in HCs (Hagelberg[ et al.,](#_page7_x291.00_y453.00) 1998[; ](#_page8_x291.00_y110.00)Soderman[ and Unterwald, 2009), ](#_page8_x291.00_y52.00)we hypothesized that 2002[; ](#_page7_x291.00_y453.00)Scott[ et al., 2006) ](#_page8_x36.00_y447.00)and in patients with FM, who showed associations between D2/D3R and MOR function would also be significant positive correlations between striatal D2/D3R *BP*ND observed in CNBP. Consistent with this hypothesis, we found and measures of both[ experimental pain](#_page8_x291.00_y436.00) sensitivity and wide- thatbaselineD2/D3R*BP*ND intheventralstriatumwasassociated spread tenderness (Wood[ et al., 2007). ](#_page8_x291.00_y436.00)Together, these previous withMORmeasuresintheamygdalathatwerefurtherrelatedto studiesandthepresentdatasuggestthattheinterindividualvari- pain tolerance, positive affect, and back pain. These results sug-
+
+
+**9964¥**J.Neurosci.,July8,2015¥35(27):9957—9965
+
+gest that deficits in ventral striatal DA induce compensatory changes in MOR neurotransmission in the amygdala, the activa- tion of which has been shown to suppress sensory and affective [dimensionsofpain,thereby](#_page8_x291.00_y531.00)[influencingCNBPclinical](#_page8_x36.00_y81.00)presenta- tions(Zubieta[etal.,2001;](#_page8_x291.00_y531.00)[Martikainenetal.,2013).](#_page8_x36.00_y81.00)Inagreement with this, and in persistent back pain samples, neural activity in theventralstriatumhasbeenshowntobesignificantly[correlated withamygdala](#_page7_x36.00_y615.00)andmedialprefrontalcortexactivity(Baliki[etal., ](#_page7_x36.00_y615.00)2010[).](#_page7_x36.00_y615.00)Projectionsfromtheventralstriatumreachbothmidbrain and ventral pallidum and the latter, through the mediodorsal thalamus,projectsfurthertoanumberofbrainareasinvolvedin pain representation and affective regulation, including the amygdala, but also the insular and cingulate cortices, which are knowntocontribute[significantlytothe](#_page7_x291.00_y253.00)[integrationandresponse ](#_page8_x291.00_y531.00)to[theexperience](#_page7_x291.00_y424.00)ofpain(Coghill[etal.,1999;](#_page7_x291.00_y253.00)Zubieta[etal.,2001; ](#_page8_x291.00_y531.00)Haber,[ 2011). ](#_page7_x291.00_y424.00)Functional interactions between the ventral stria- tum and amygdala may also engage direct amygdalostriatal pro- jectionsandpotentiallyalsoprojections[fromtheamygdalato](#_page7_x291.00_y653.00)[the dopaminergic](#_page7_x291.00_y319.00)[neuronsinthemidbrain( ](#_page8_x36.00_y278.00)Kelley[etal.,1982;](#_page7_x291.00_y653.00)Fudge and[ Haber, 2000;](#_page7_x291.00_y319.00)Phillips[ et al., 2003).](#_page8_x36.00_y278.00)
+
+Insummary,ourdatasuggestthatpainsensitivityandpositive affect in the context of CNBP are regulated by D2/D3R function in the ventral striatum and MOR function in the amygdala. The results help to explain interindividual variability in the presenta- tionofCNBPinbothsensoryandaffective-motivationaldimen- sions and point to DA opioid interactions as an important CNS mechanisminvolvedinpersistentpainpathophysiologyand,po- tentially, risk for the development of persistent pain syndromes. These are also neurotransmitter systems implicated in the action ofopioidmedications,withreductionsinbaselineD2/D3R *BP*ND and DA function in the striatum having been [described in asso- ciation ](#_page8_x291.00_y330.00)with opioid and other drug dependence (Volkow[ et al., ](#_page8_x291.00_y330.00)2007[), ](#_page8_x291.00_y330.00)raising the possibility that DA opioid mechanisms and their interactions may also be implicated in the risk for opioid medication misuse and eventual addiction. Future research ap- pearswarrantedtodeterminetherelationshipofDAdysfunction and DA endogenous opioid interactions with treatment out- comesinpersistentpainconditions,aswellastheinvolvementof these mechanisms in risk for opioid dependence in chronic pain samples.
+
+<a name="_page7_x36.00_y520.00"></a>**References**
+
+<a name="_page7_x291.00_y529.00"></a>Abercrombie ED, Keefe KA, DiFrischia DS, Zigmond MJ (1989) Differen-
+
+tial effect of stress on in vivo dopamine release in striatum, nucleus ac- <a name="_page7_x36.00_y558.00"></a>[cumbens, ](http://dx.doi.org/10.1111/j.1471-4159.1989.tb09224.x)[and medial](http://www.ncbi.nlm.nih.gov/pubmed/2709017) frontal cortex. J Neurochem 52:1655 1658.<a name="_page7_x291.00_y557.00"></a>CrossRef Medline
+
+<a name="_page7_x36.00_y577.00"></a>AltierN,StewartJ (1999) Theroleof[dopamine](http://dx.doi.org/10.1016/S0024-3205\(99\)00298-2)[inthenucleus](http://www.ncbi.nlm.nih.gov/pubmed/10597883)accumbensin
+
+analgesia. Life Sci 65:2269 2287.CrossRef Medline
+
+<a name="_page7_x291.00_y586.00"></a>Austin PJ, Beyer K, Bembrick AL, Keay KA (2010) Peripheral nerve injury
+
+differentiallyregulatesdopaminergicpathwaysinthenucleusaccumbens <a name="_page7_x36.00_y615.00"></a>of rats with [either ](http://dx.doi.org/10.1016/j.neuroscience.2010.08.040)[pain alone  or](http://www.ncbi.nlm.nih.gov/pubmed/20800659) pain and disability . Neuroscience 171: 329 343. CrossRef Medline
+
+Baliki MN, Geha PY, Fields HL, Apkarian AV (2010) Predicting value of
+
+<a name="_page7_x291.00_y634.00"></a>pain and analgesia: nucleus accumbens response to noxious [stimuli ](http://dx.doi.org/10.1016/j.neuron.2010.03.002)<a name="_page7_x36.00_y653.00"></a>[changes in ](http://www.ncbi.nlm.nih.gov/pubmed/20399736)the presence of chronic pain. Neuron 66:149 160. CrossRef<a name="_page7_x291.00_y653.00"></a>Medline
+
+Baliki MN, Petre B, Torbey S, Herrmann KM, Huang L, Schnitzer TJ, Fields
+
+HL, Apkarian AV (2012) Corticostriatal functional connectivity pre-<a name="_page7_x291.00_y681.00"></a><a name="_page7_x36.00_y691.00"></a>[dicts ](http://dx.doi.org/10.1038/nn.3153)[transition to ](http://www.ncbi.nlm.nih.gov/pubmed/22751038)chronic back pain. Nat Neurosci 15:1117 1119. CrossRef Medline
+
+Becker S, Ceko M, Louis-Foster M, Elfassy NM, Leyton M, Shir Y, Schwein-
+
+<a name="_page7_x291.00_y710.00"></a>hardt P (2013) Dopamine and pain sensitivity: neither sulpiride nor
+
+<a name="_page7_x36.00_y729.00"></a>acute phenylalanine and tyrosine depletion have effects [on thermal](http://dx.doi.org/10.1371/journal.pone.0080766)[ pain](http://www.ncbi.nlm.nih.gov/pubmed/24236199)
+
+sensations in healthy volunteers. PLoS One 8:e80766.CrossRef Medline Brischoux F, Chakraborty S, Brierley DI, Ungless MA (2009) Phasic excita-
+
+Martikainenetal.￿StriatalDopamineandBackPain
+
+tion of dopamine neurons in ventral[ VTA by](http://dx.doi.org/10.1073/pnas.0811507106)[ noxious ](http://www.ncbi.nlm.nih.gov/pubmed/19261850)stimuli. Proc Natl <a name="_page7_x291.00_y71.00"></a>Acad Sci U S A 106:4894 4899.CrossRef Medline
+
+BurgdorfJ,PankseppJ (2006) The[neurobiology](http://dx.doi.org/10.1016/j.neubiorev.2005.06.001)[ofpositive](http://www.ncbi.nlm.nih.gov/pubmed/16099508)emotions.Neu-
+
+<a name="_page7_x291.00_y90.00"></a>rosci Biobehav Rev 30:173 187.CrossRef Medline
+
+Carson RE, Breier A, de Bartolomeis A, Saunders RC, Su TP, Schmall B, Der
+
+MG, Pickar D, Eckelman WC (1997) Quantification of amphetamine- induced changes in [11C]raclopride [binding with ](http://www.ncbi.nlm.nih.gov/pubmed/9143226)continuous infusion.
+
+<a name="_page7_x291.00_y129.00"></a>J Cereb Blood Flow Metab 17:437 447.Medline ChangPC,Pollema-MaysSL,CentenoMV,ProcissiD,ContiniM,BariaAT,
+
+Martina M, Apkarian AV (2014) Role of nucleus accumbens in neuro-
+
+pathicpain:linkedmulti-scale[evidenceinthe](http://dx.doi.org/10.1016/j.pain.2014.02.019)[rattransitioning](http://www.ncbi.nlm.nih.gov/pubmed/24607959)toneuro-
+
+<a name="_page7_x291.00_y167.00"></a>pathic pain. Pain 155:1128 1139. CrossRef Medline
+
+Chen JF, Aloyo VJ, Weiss B (1993) Continuous treatment with the D2 do-
+
+paminereceptoragonistquinpiroledecreasesD2dopaminereceptors,D2
+
+dopamine receptor messenger RNA and proenkephalin messenger RNA,
+
+and increases[ mu ](http://dx.doi.org/10.1016/0306-4522\(93\)90238-B)[opioid receptors](http://www.ncbi.nlm.nih.gov/pubmed/8101360) in mouse striatum. Neuroscience 54:
+
+<a name="_page7_x291.00_y214.00"></a>669 680. CrossRef Medline ClauwDJ,WilliamsD,LauermanW,DahlmanM,AslamiA,NachemsonAL,
+
+Kobrine AI, Wiesel SW (1999) Pain sensitivity as a correlate of clinical
+
+[status in ](http://dx.doi.org/10.1097/00007632-199910010-00013)[individuals ](http://www.ncbi.nlm.nih.gov/pubmed/10528381)with chronic low back pain. Spine 24:2035 2041.
+
+<a name="_page7_x291.00_y253.00"></a>CrossRef Medline
+
+Coghill RC, Sang CN, Maisog JM, Iadarola MJ (1999) Pain intensity pro-
+
+cessing within the human brain:[ a bilateral,](http://www.ncbi.nlm.nih.gov/pubmed/10515983) distributed mechanism.
+
+<a name="_page7_x291.00_y281.00"></a>J Neurophysiol 82:1934 1943. Medline EdwardsRR,DoleysDM,LoweryD,FillingimRB (2003) Paintoleranceasa
+
+predictor of outcome following multidisciplinary treatment for [chronic](http://dx.doi.org/10.1016/j.pain.2003.09.004)
+
+<a name="_page7_x291.00_y319.00"></a>[pain:differential](http://www.ncbi.nlm.nih.gov/pubmed/14659525)effectsasafunctionofsex.Pain106:419 426.CrossRef
+
+Medline
+
+Fudge JL, Haber SN (2000) The central nucleus of the amygdala projection
+
+<a name="_page7_x291.00_y348.00"></a>to[ dopamine](http://dx.doi.org/10.1016/S0306-4522\(00\)00092-0)[ subpopulations](http://www.ncbi.nlm.nih.gov/pubmed/10828531) in primates. Neuroscience 97:479 494. CrossRef Medline
+
+<a name="_page7_x291.00_y367.00"></a>Gear RW, Aley KO, Levine JD (1999) Pain-induced [analgesia mediated](http://www.ncbi.nlm.nih.gov/pubmed/10436070) by
+
+mesolimbic reward circuits. J Neurosci 19:7175 7181.Medline
+
+Giesecke T, Gracely RH, Grant MA, Nachemson A, Petzke F, Williams DA,
+
+Clauw DJ (2004) Evidence of augmented central pain processing[ in id- ](http://dx.doi.org/10.1002/art.20063)<a name="_page7_x291.00_y405.00"></a>[iopathic chronic](http://www.ncbi.nlm.nih.gov/pubmed/14872506) low back pain. Arthritis Rheum 50:613 623. CrossRef Medline
+
+<a name="_page7_x291.00_y424.00"></a>Haber SN (2003) The primate basal ganglia:[ parallel](http://dx.doi.org/10.1016/j.jchemneu.2003.10.003)[ and integrative](http://www.ncbi.nlm.nih.gov/pubmed/14729134) net-
+
+works. J Chem Neuroanat 26:317 330. CrossRef Medline
+
+Haber SN (2011) Neuroanatomy of reward: a view from the ventral stria-
+
+<a name="_page7_x291.00_y453.00"></a>tum. In: Neurobiology of sensation and reward (Gottfried JA, ed). Boca Raton, FL: CRC.
+
+Hagelberg N, Martikainen IK, Mansikka H, Hinkka S, N gren K, Hietala J,
+
+Scheinin H, Pertovaara A (2002) Dopamine D2 receptor binding in the <a name="_page7_x291.00_y491.00"></a>human brain is associated with the response to[ painful ](http://dx.doi.org/10.1016/S0304-3959\(02\)00121-5)[stimulation](http://www.ncbi.nlm.nih.gov/pubmed/12237205) and pain modulatory capacity. Pain 99:273 279. CrossRef Medline
+
+Hagelberg N, Forssell H, Rinne JO, Scheinin H, Taiminen T, Aalto S, Luu-
+
+tonenS,N grenK,Ja¤a¤skela¤inenS (2003a) StriataldopamineD1[andD2](http://dx.doi.org/10.1016/S0304-3959\(02\)00323-8)
+
+[receptors in](http://www.ncbi.nlm.nih.gov/pubmed/12507709) burning mouth syndrome. Pain 101:149 154. CrossRef
+
+Medline HagelbergN,ForssellH,AaltoS,RinneJO,ScheininH,TaiminenT,N gren
+
+K, Eskola O, Ja¤a¤skela¤inen SK (2003b) Altered [dopamine](http://dx.doi.org/10.1016/S0304-3959\(03\)00275-6)[ D2 receptor](http://www.ncbi.nlm.nih.gov/pubmed/14581109)
+
+binding in atypical facial pain. Pain 106:43 48. CrossRef Medline          HorvitzJC (2000) Mesolimbocorticalandnigrostriataldopamine[responses](http://dx.doi.org/10.1016/S0306-4522\(00\)00019-1)
+
+to[ salient ](http://www.ncbi.nlm.nih.gov/pubmed/10727783)non-reward events. Neuroscience 96:651 656. CrossRef
+
+Medline Ja¤a¤skela¤inenSK,LindholmP,ValmunenT,PesonenU,TaiminenT,Virtanen
+
+A, Lamusuo S, Forssell H, Hagelberg N, Hietala J, Pertovaara A (2014)
+
+Variation in the dopamine D2 receptor gene plays a key role in human
+
+pain and its [modulation ](http://dx.doi.org/10.1016/j.pain.2014.08.029)[by transcranial](http://www.ncbi.nlm.nih.gov/pubmed/25180011) magnetic stimulation. Pain 155:
+
+2180 2187. CrossRef Medline
+
+Jewett DM (2001) A simple synthesis of [11C]carfentanil [using an ](http://dx.doi.org/10.1016/S0969-8051\(01\)00226-8)[extrac-](http://www.ncbi.nlm.nih.gov/pubmed/11518656)
+
+tiondiskinsteadofHPLC.NuclMedBiol28:733 734.CrossRefMedline KelleyAE,DomesickVB,NautaWJ (1982) Theamygdalostriatalprojection
+
+in the rat an anatomical study by [anterograde ](http://dx.doi.org/10.1016/0306-4522\(82\)90067-7)[and retrograde](http://www.ncbi.nlm.nih.gov/pubmed/7070669) tracing
+
+methods. Neuroscience 7:615 630. CrossRef Medline
+
+Ladouceur A, Tessier J, Provencher B, Rainville P, Piche· M (2012) Top-
+
+down attentional modulation of analgesia induced[ by ](http://dx.doi.org/10.1016/j.pain.2012.05.019)[heterotopic nox-](http://www.ncbi.nlm.nih.gov/pubmed/22717100)
+
+ious counterstimulation. Pain 153:1755 1762. CrossRef Medline LoganJ,FowlerJS,VolkowND,WangGJ,DingYS,AlexoffDL (1996) Dis-
+
+tribution volume ratios without blood sampling from [graphical ](http://www.ncbi.nlm.nih.gov/pubmed/8784228)analysis
+
+of PET data. J Cereb Blood Flow Metab 16:834 840.Medline
+
+
+Martikainenetal.￿StriatalDopamineandBackPain
+
+<a name="_page8_x36.00_y52.00"></a>Magnusson JE, Fisher K (2000) The involvement of dopamine in nocicep-
+
+<a name="_page8_x291.00_y52.00"></a>tion: the role of D(1) and[ D(2) ](http://dx.doi.org/10.1016/S0006-8993\(99\)02396-3)[receptors in ](http://www.ncbi.nlm.nih.gov/pubmed/10677598)the dorsolateral striatum. <a name="_page8_x36.00_y81.00"></a>Brain Res 855:260 266.CrossRef Medline
+
+<a name="_page8_x291.00_y81.00"></a>Martikainen IK, Pecina M, Love TM, Nuechterlein EB, Cummiford CM,
+
+Green CR, Harris RE, Stohler CS, Zubieta JK (2013) Alterations in en- dogenous opioid [functional ](http://dx.doi.org/10.1523/JNEUROSCI.1400-13.2013)[measures ](http://www.ncbi.nlm.nih.gov/pubmed/24027273)in chronic back pain. J Neurosci<a name="_page8_x291.00_y110.00"></a><a name="_page8_x36.00_y118.00"></a>33:14729 14737.CrossRef Medline
+
+McNair D, Lorr M, Droppleman L (1992) EdITS manual for the profile of
+
+<a name="_page8_x36.00_y137.00"></a>mood states. San Diego: Educational and Industrial Testing Service.<a name="_page8_x291.00_y139.00"></a>        Melzack R, [Torgerson WS](http://dx.doi.org/10.1097/00000542-197101000-00017)[ (1971) ](http://www.ncbi.nlm.nih.gov/pubmed/4924784)On the language of pain. Anesthesiology
+
+<a name="_page8_x36.00_y156.00"></a>34:50 59. CrossRef Medline MinoshimaS,KoeppeRA,MintunMA,BergerKL,TaylorSF,FreyKA,Kuhl
+
+<a name="_page8_x291.00_y167.00"></a>DE (1993) Automateddetectionoftheintercommissurallineforstereo-
+
+[tactic localization](http://www.ncbi.nlm.nih.gov/pubmed/8429356) of functional brain images. J Nucl Med 34:322 329.
+
+<a name="_page8_x36.00_y193.00"></a>Medline
+
+MorganMJ,FranklinKB (1990) 6-Hydroxydopaminelesionsoftheventral
+
+<a name="_page8_x291.00_y206.00"></a>tegmentum abolish D-amphetamine and morphine analgesia in [the for- ](http://dx.doi.org/10.1016/0006-8993\(90\)90072-J)[malin test but](http://www.ncbi.nlm.nih.gov/pubmed/2118819) not in the tail flick test. Brain Res 519:144 149. CrossRef <a name="_page8_x36.00_y231.00"></a>Medline
+
+<a name="_page8_x291.00_y234.00"></a>MorganMJ,FranklinKB (1991) Dopaminereceptor[subtypesand](http://dx.doi.org/10.1016/0091-3057\(91\)90560-O)[formalin](http://www.ncbi.nlm.nih.gov/pubmed/1687167)
+
+<a name="_page8_x36.00_y250.00"></a>test analgesia. Pharmacol Biochem Behav 40:317 322.CrossRef Medline O NeillS,MannicheC,Graven-NielsenT,Arendt-NielsenL (2007) Gener-
+
+<a name="_page8_x291.00_y263.00"></a><a name="_page8_x36.00_y278.00"></a>alized deep-tissue [hyperalgesia in ](http://dx.doi.org/10.1016/j.ejpain.2006.05.009)[patients with](http://www.ncbi.nlm.nih.gov/pubmed/16815054) chronic low-back pain.
+
+Eur J Pain 11:415 420. CrossRef Medline PhillipsAG,AhnS,HowlandJG (2003) Amygdalarcontrolofthemesocor-
+
+<a name="_page8_x291.00_y292.00"></a><a name="_page8_x36.00_y306.00"></a>ticolimbic dopamine system: parallel [pathways](http://dx.doi.org/10.1016/j.neubiorev.2003.09.002)[ to motivated](http://www.ncbi.nlm.nih.gov/pubmed/14599435) behavior.
+
+Neurosci Biobehav Rev 27:543 554.CrossRef Medline Rouge·-PontF,PiazzaPV,KharoubyM,LeMoalM,SimonH (1993) Higher
+
+and longer stress-induced increase in dopamine concentrations in the
+
+<a name="_page8_x291.00_y330.00"></a>nucleus accumbens of animals predisposed to amphetamine[ self-](http://dx.doi.org/10.1016/0006-8993\(93\)90260-T)
+
+<a name="_page8_x36.00_y353.00"></a>[administration.](http://www.ncbi.nlm.nih.gov/pubmed/8448654) A microdialysis study. Brain Res 602:169 174.CrossRef
+
+Medline
+
+<a name="_page8_x291.00_y359.00"></a><a name="_page8_x36.00_y372.00"></a>Salamone JD, Correa M (2012) The mysterious [motivational](http://dx.doi.org/10.1016/j.neuron.2012.10.021)[ functions](http://www.ncbi.nlm.nih.gov/pubmed/23141060) of
+
+mesolimbic dopamine. Neuron 76:470 485. CrossRef Medline
+
+<a name="_page8_x291.00_y378.00"></a>Schmidt BL, Tambeli CH, Barletta J, Luo L, Green P, Levine JD, Gear RW
+
+(2002) Altered nucleus accumbens circuitry mediates pain-induced an- <a name="_page8_x36.00_y410.00"></a>[tinociception](http://www.ncbi.nlm.nih.gov/pubmed/12151557) in morphine-tolerant rats. J Neurosci 22:6773 6780. Medline
+
+<a name="_page8_x291.00_y417.00"></a>Schwartz N, Temkin P, Jurado S, Lim BK, Heifets BD, Polepalli JS, Malenka
+
+RC (2014) Chronicpain.Decreasedmotivationduringchronicpainre-<a name="_page8_x291.00_y436.00"></a><a name="_page8_x36.00_y447.00"></a>quires[long-term](http://dx.doi.org/10.1126/science.1253994)[depression](http://www.ncbi.nlm.nih.gov/pubmed/25082697)inthenucleusaccumbens.Science345:535 542.CrossRef Medline
+
+Scott DJ, Heitzeg MM, Koeppe RA, Stohler CS, Zubieta JK (2006) Varia-
+
+tionsinthehumanpainstressexperiencemediatedbyventraland[dorsal](http://dx.doi.org/10.1523/JNEUROSCI.2577-06.2006)<a name="_page8_x291.00_y474.00"></a><a name="_page8_x36.00_y485.00"></a>[basal ganglia](http://www.ncbi.nlm.nih.gov/pubmed/17050717) dopamine activity. J Neurosci 26:10789 10795.CrossRef Medline
+
+ScottDJ,StohlerCS,KoeppeRA,ZubietaJK (2007) Time-courseofchange
+
+<a name="_page8_x291.00_y503.00"></a><a name="_page8_x36.00_y513.00"></a>in [11C]carfentanil and [11C]raclopride binding [potential ](http://dx.doi.org/10.1002/syn.20404)[after a non- ](http://www.ncbi.nlm.nih.gov/pubmed/17559096)pharmacological challenge. Synapse 61:707 714.CrossRef Medline
+
+Scott DJ, Stohler CS, Egnatuk CM, Wang H, Koeppe RA, Zubieta JK (2008)
+
+<a name="_page8_x291.00_y531.00"></a><a name="_page8_x36.00_y541.00"></a>Placebo and nocebo effects are defined by opposite [opioid and ](http://dx.doi.org/10.1001/archgenpsychiatry.2007.34)[dopami-](http://www.ncbi.nlm.nih.gov/pubmed/18250260)
+
+nergic responses. Arch Gen Psychiatry 65:220 231.CrossRef Medline Seeman P, Wilson A, Gmeiner P, Kapur S (2006) Dopamine D2 and D3
+
+receptorsinhuman[putamen,](http://dx.doi.org/10.1002/syn.20298)[caudate](http://www.ncbi.nlm.nih.gov/pubmed/16739118)nucleus,andglobuspallidus.Syn-
+
+apse 60:205 211. CrossRef Medline
+
+J.Neurosci.,July8,2015¥35(27):9957—9965**¥ 9965**
+
+SodermanAR,UnterwaldEM (2009) Cocaine-inducedmuopioidreceptor
+
+occupancy within the [striatum is ](http://dx.doi.org/10.1016/j.brainres.2009.08.035)[mediated ](http://www.ncbi.nlm.nih.gov/pubmed/19699185)by dopamine D2 receptors.
+
+Brain Res 1296:63 71.CrossRef Medline SowmanPF,WangK,SvenssonP,Arendt-NielsenL (2011) Diffusenoxious
+
+inhibitory[controlevoked](http://dx.doi.org/10.1016/j.ejpain.2010.06.009)[bytonic](http://www.ncbi.nlm.nih.gov/pubmed/20615731)craniofacialpaininhumans.EurJPain
+
+15:139 145. CrossRef Medline
+
+Steiner H, Gerfen CR (1998) Role of dynorphin and enkephalin in the
+
+regulation[ of striatal](http://dx.doi.org/10.1007/s002210050545)[ output ](http://www.ncbi.nlm.nih.gov/pubmed/9835393)pathways and behavior. Exp Brain Res 123: 60 76. CrossRef Medline
+
+StohlerCS,KowalskiCJ (1999) Spatialandtemporalsummationof[sensory](http://dx.doi.org/10.1016/S0304-3959\(98\)00171-7)
+
+[andaffective](http://www.ncbi.nlm.nih.gov/pubmed/10068162)dimensionsofdeepsomaticpain.Pain79:165 173. CrossRef Medline
+
+Strand EB, Zautra AJ, Thoresen M, deg rd S, Uhlig T, Finset A (2006)
+
+Positiveaffectasafactorofresilienceinthepain-negativeaffectrelation- [ship in ](http://dx.doi.org/10.1016/j.jpsychores.2005.08.010)[patients with ](http://www.ncbi.nlm.nih.gov/pubmed/16650588)rheumatoid arthritis. J Psychosom Res 60:477 484. CrossRef Medline
+
+Tang NK, Salkovskis PM, Hodges A, Wright KJ, Hanna M, Hester J (2008)
+
+Effects of mood on pain responses and pain tolerance: [an ](http://dx.doi.org/10.1016/j.pain.2008.01.018)[experimental](http://www.ncbi.nlm.nih.gov/pubmed/18325674)
+
+studyinchronicbackpainpatients.Pain138:392 401. CrossRefMedline Taylor BK, Joshi C, Uppal H (2003) Stimulation of dopamine D2 receptors
+
+inthe[nucleus](http://dx.doi.org/10.1016/S0006-8993\(03\)03318-3)[accumbens](http://www.ncbi.nlm.nih.gov/pubmed/14499957)inhibitsinflammatorypain.BrainRes987:135 
+
+143\.CrossRef Medline
+
+Tiemann L, Heitmann H, Schulz E, Baumko¤tter J, Ploner M (2014) Dopa-
+
+mine precursor depletion [influences ](http://dx.doi.org/10.1371/journal.pone.0096167)[pain affect](http://www.ncbi.nlm.nih.gov/pubmed/24760082) rather than pain sensa- tion. PLoS One 9:e96167.CrossRef Medline
+
+Treister R, Pud D, Ebstein RP, Laiba E, Gershon E, Haddad M, Eisenberg E
+
+(2009) Associations between polymorphisms in dopamine neurotrans- mitter [pathway genes](http://dx.doi.org/10.1016/j.pain.2009.09.001)[ and pain](http://www.ncbi.nlm.nih.gov/pubmed/19796878) response in healthy humans. Pain 147: 187 193. CrossRef Medline
+
+Volkow ND, Fowler JS, Wang GJ, Swanson JM, Telang F (2007) Dopamine
+
+in drug abuse and addiction: results of [imaging ](http://dx.doi.org/10.1001/archneur.64.11.1575)[studies and ](http://www.ncbi.nlm.nih.gov/pubmed/17998440)treatment implications. Arch Neurol 64:1575 1579. CrossRef Medline
+
+Von Korff M, Miglioretti DL (2005)[ A ](http://dx.doi.org/10.1016/j.pain.2005.06.017)[prognostic approach](http://www.ncbi.nlm.nih.gov/pubmed/16153772) to defining
+
+chronic pain. Pain 117:304 313. CrossRef Medline WatabeH,EndresCJ,BreierA,SchmallB,EckelmanWC,CarsonRE (2000)
+
+Measurement of dopamine release with continuous infusion of [11C]ra-
+
+clopride: [optimization and](http://www.ncbi.nlm.nih.gov/pubmed/10716328) signal-to-noise considerations. J Nucl Med
+
+41:522 530. Medline
+
+Watson D, Clark LA (1999) Manual for the positive and negative affect
+
+schedule expanded form. Iowa City, IA: The University of Iowa.
+
+Wood PB, Schweinhardt P, Jaeger E, Dagher A, Hakyemez H, Rabiner EA,
+
+Bushnell MC, Chizh BA (2007) Fibromyalgia patients show an[ abnor- ](http://dx.doi.org/10.1111/j.1460-9568.2007.05623.x)[mal dopamine](http://www.ncbi.nlm.nih.gov/pubmed/17610577) response to pain. Eur J Neurosci 25:3576 3582. CrossRef Medline
+
+Zautra AJ, Johnson LM, Davis MC (2005) Positive affect as a source of re-
+
+[silience for ](http://dx.doi.org/10.1037/0022-006X.73.2.212)[women in](http://www.ncbi.nlm.nih.gov/pubmed/15796628) chronic pain. J Consult Clin Psychol 73:212 220. CrossRef Medline
+
+Zhang X, Ashton-Miller JA, Stohler CS (1993) A closed-loop system for
+
+maintaining constant [experimental ](http://dx.doi.org/10.1109/10.222327)[muscle pain](http://www.ncbi.nlm.nih.gov/pubmed/8375871) in man. IEEE Trans
+
+Biomed Eng 40:344 352.CrossRef Medline ZubietaJK,SmithYR,BuellerJA,XuY,KilbournMR,JewettDM,MeyerCR,
+
+Koeppe RA, Stohler CS (2001) Regional mu opioid receptor regulation
+
+of[ sensory](http://dx.doi.org/10.1126/science.1060952)[ and affective](http://www.ncbi.nlm.nih.gov/pubmed/11452128) dimensions of pain. Science 293:311 315.
+
+CrossRef Medline
